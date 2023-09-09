@@ -1,0 +1,65 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLACEMENT LOG                                                    )
+(                                                                     )
+(    Drawing          : GPS_INTERFACE_BOARDv9.brd                     )
+(    Software Version : 17.2S064                                      )
+(    Date/Time        : Tue May 05 21:19:30 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Autoplace C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/GPS_INTERFACE_BOARDv9.brd 
+ Save as C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/GPS_INTERFACE_BOARDv9.brd 
+
+ Will search while getting acceptable improvement
+ Will not scale complete graph edges
+ Start time Tue May 05 21:19:30 2020
+
+
+ 
+ 	 	 Placement Task Version 1.00 
+ 
+ 
+ Algorithm  : IC
+ Place within: room
+ Room name: SFP_5
+ Map grid points to: library origin
+ Place leftovers on bottom: YES
+ Allow component overlap: NO
+ Soft boundary: NO
+ Cluster: NO
+ No Rat: NO
+ Remove TAG: NO
+ Components at rotation of 0 degrees are weighted 50
+
+ Components at rotation of 90 degrees are weighted 0
+
+ Components at rotation of 180 degrees are weighted 0
+
+ Components at rotation of 270 degrees are weighted 0
+
+ Board direction of north is weighted 50
+
+ Board direction of east is weighted 50
+
+ Board direction of south is weighted 50
+
+ Board direction of west is weighted 50
+
+ Component mirroring weight is 50
+
+ Component straightness weight is 50
+
+ Warning : Positive Plane may result in a poor placement
+
+ Error: No Package Keepin was found
+
+ Error: See message(s) above
+
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Tue May 05 21:19:30 2020
+

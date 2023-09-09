@@ -1,0 +1,37 @@
+\t (00:00:09) allegro 17.4 S033 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Fri Sep  8 16:45:55 2023
+\t (00:00:09)         Host=IT088130 User=phdgc Pid=27352 CPUs=16
+\t (00:00:09) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession phdgc -proj d:\gib_v6\gps_interface_board\gps_interface_board.opj d:\gib_v6\gps_interface_board\allegro\gps_interface_boardv35a.brd
+\t (00:00:09) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv35a"
+\d (00:00:12) Design opened: d:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35a.brd
+\i (00:00:12) trapsize 6740
+\i (00:00:12) trapsize 6854
+\i (00:00:12) trapsize 6888
+\i (00:00:12) trapsize 9053
+\i (00:00:12) trapsize 14257
+\t (00:00:12) > Sending response DoneOpenBoard
+\t (00:00:12) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:13) trapsize 10614
+\i (00:00:13) trapsize 10795
+\i (00:00:13) trapsize 10848
+\i (00:00:13) trapsize 14257
+\i (00:00:13) generaledit 
+\i (00:00:27) enved 
+\i (00:00:27) setwindow form.prfedit
+\i (00:00:27) FORM prfedit treelist  My_favorites 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) generaledit 
+\i (00:00:30) setwindow form.prfedit
+\i (00:00:30) FORM prfedit treelist  Paths 
+\i (00:00:31) FORM prfedit treelist  Library Paths 
+\i (00:00:33) FORM prfedit psmpath  
+\i (00:00:44) setwindow pcb
+\i (00:00:44) exit 
+\e (00:00:44) Do you want to save the changes you made to gps_interface_boardv35a.brd?
+\i (00:00:45) fillin no 
+\i (00:00:45) setwindow form.prfedit
+\i (00:00:45) FORM prfedit cancel  
+\t (00:00:46)     Journal end - Fri Sep  8 16:46:32 2023

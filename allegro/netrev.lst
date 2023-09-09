@@ -1,0 +1,98 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : GPS_INTERFACE_BOARDv34.brd                    )
+(    Software Version : 17.2S064                                      )
+(    Date/Time        : Mon Jul 06 11:34:48 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Never
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\SPB_DATA\GPS_INTERFACE_BOARD\allegro'
+Design Directory:            'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro'
+Old design name:             'C:/SPB_Data/GPS_Interface_Board/allegro/GPS_INTERFACE_BOARDv34.brd'
+New design name:             'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/GPS_INTERFACE_BOARDv35.brd'
+
+CmdLine: netrev.exe -y 3 -i C:\SPB_DATA\GPS_INTERFACE_BOARD\allegro C:\SPB_Data\GPS_Interface_Board\allegro\GPS_INTERFACE_BOARDv34.brd C:\SPB_DATA\GPS_INTERFACE_BOARD\allegro\GPS_INTERFACE_BOARDv35.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstchip.dat 
+   Finished reading C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstchip.dat (00:00:00.05)
+Starting to read C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxprt.dat 
+   Finished reading C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxprt.dat (00:00:00.03)
+Starting to read C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxnet.dat 
+   Finished reading C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxnet.dat (00:00:00.03)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/symbols/ 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/FMC_TLU/ 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/VCU128_PARTS/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/FMC_TLU 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/pads 
+           C:/Users/HEP/Documents/cdr_2/ 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/symbols/ 
+           C:/SPB_Data/cis_hep_partslib/Allegro_Library/VCU128_PARTS/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 6 11:34:48 2020
+   DESIGN NAME : 'GPS_INTERFACE_BOARD'
+   PACKAGING ON Jan 30 2020 04:44:30
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:00
+elapsed time  0:00:00
+

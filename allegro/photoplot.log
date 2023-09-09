@@ -1,0 +1,1049 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : GPS_INTERFACE_BOARDv35.brd                    )
+(    Software Version : 17.2S064                                      )
+(    Date/Time        : Mon Jul 06 13:38:39 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.00669                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.15700                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05709                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  SQUARE     0.12795                     0.000 NO     DARK 
+  SQUARE     0.20866                     0.000 NO     DARK 
+  RECTANGLE  0.01476     x 0.01476      90.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.02047     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.01378       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01500      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.313 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.04429     x 0.05236      90.000 NO     DARK 
+  RECTANGLE  0.04429     x 0.05335      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.01772       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.01600       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.06102     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.06700     x 0.13000      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.06299      90.000 NO     DARK 
+  RECTANGLE  0.14567     x 0.09528      90.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00  90.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD            90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 270.000 NO     DARK 
+  PAD SHAPE  PS_R209_139_D2500         270.000 NO     DARK 
+  PAD SHAPE  PS_4_IRREG                270.000 NO     DARK 
+  PAD SHAPE  PS_2_IRREG                270.000 NO     DARK 
+  PAD SHAPE  PS_1_IRREG                270.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD           270.000 NO     DARK 
+  PAD SHAPE  PS_3_IRREG                270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.00669                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.02520                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.15700                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < Gnd1 >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Gnd1 created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pwr1 >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Pwr1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Pwr1 created with warnings
+
+
+================================================================
+     PROCESSING FILM < Gnd2 >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Gnd2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < Sig >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Sig.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Sig created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pwr2 >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Pwr2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Pwr2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < Gnd3 >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd3.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Gnd3 created with warnings
+
+
+================================================================
+     PROCESSING FILM < DesignOutline >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/DesignOutline.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     DesignOutline created with warnings
+
+
+================================================================
+     PROCESSING FILM < Paste_Top >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Paste_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  SQUARE     0.05709                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.12795                     0.000 NO     DARK 
+  SQUARE     0.20866                     0.000 NO     DARK 
+  RECTANGLE  0.01476     x 0.01476      90.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01500      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03126     x 0.03701      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.313 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.01772       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.01600       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.06102     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.06693     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.06700     x 0.13000      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.14567     x 0.09528      90.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00  90.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD            90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 180.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD           270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 270.000 NO     DARK 
+  PAD SHAPE  PS_R209_139_D2500         270.000 NO     DARK 
+
+     Paste_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Paste_Bottom >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Paste_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02520                                  DARK 
+  RECTANGLE  0.02165     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+
+     Paste_Bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Sold_Top >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Sold_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.05120                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.16300                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05709                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  SQUARE     0.12795                     0.000 NO     DARK 
+  SQUARE     0.20866                     0.000 NO     DARK 
+  RECTANGLE  0.01476     x 0.01476      90.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.02047     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01500      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.01600      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.02165       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.313 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.04823     x 0.05866      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.06102     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.01900       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.10300       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.10300      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.06890     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.06890     x 0.02756      90.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.13300      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.09449     x 0.07480      90.000 NO     DARK 
+  RECTANGLE  0.15039     x 0.10000      90.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00   0.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD            90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 180.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD           270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 270.000 NO     DARK 
+  PAD SHAPE  PS_R209_139_D2500         270.000 NO     DARK 
+
+     Sold_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Sold_Bottom >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Sold_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.03504                                  DARK 
+  CIRCLE     0.05120                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.16300                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252       0.000 NO     DARK 
+  RECTANGLE  0.04134     x 0.04252      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
+  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Sold_Bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silk_Top >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Silk_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (107.00 4320.00) in MIL
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: 0 width line found at (656.00 3585.00) in MIL
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.02362                                  DARK 
+
+     Silk_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silk_Bottom >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Silk_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+
+     Silk_Bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Assemb_Top >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Assemb_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00315                                  DARK 
+  CIRCLE     0.00354                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00492                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+
+     Assemb_Top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Assemb_Bottom >
+     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Assemb_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00315                                  DARK 
+  CIRCLE     0.00354                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00492                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+
+     Assemb_Bottom created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        Gnd1 created with warnings
+        Pwr1 created with warnings
+        Gnd2 created with warnings
+        Sig created with warnings
+        Pwr2 created with warnings
+        Gnd3 created with warnings
+        DesignOutline created with warnings
+        Paste_Top created with warnings
+        Paste_Bottom created with warnings
+        Sold_Top created with warnings
+        Sold_Bottom created with warnings
+        Silk_Top created with warnings
+        Silk_Bottom created with warnings
+        Assemb_Top created with warnings
+        Assemb_Bottom created with warnings
+
+ ARTWORK had warnings
