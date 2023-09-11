@@ -1,37 +1,93 @@
-\t (00:00:09) allegro 17.4 S033 Windows SPB 64-bit Edition
-\t (00:00:09)     Journal start - Fri Sep  8 16:45:55 2023
-\t (00:00:09)         Host=IT088130 User=phdgc Pid=27352 CPUs=16
-\t (00:00:09) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession phdgc -proj d:\gib_v6\gps_interface_board\gps_interface_board.opj d:\gib_v6\gps_interface_board\allegro\gps_interface_boardv35a.brd
-\t (00:00:09) 
-   (00:00:09) Loading axlcore.cxt 
-\t (00:00:12) Opening existing design...
-\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv35a"
-\d (00:00:12) Design opened: d:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35a.brd
-\i (00:00:12) trapsize 6740
-\i (00:00:12) trapsize 6854
-\i (00:00:12) trapsize 6888
-\i (00:00:12) trapsize 9053
-\i (00:00:12) trapsize 14257
-\t (00:00:12) > Sending response DoneOpenBoard
-\t (00:00:12) Loaded GPU Plugin from: plugins/gpu
-\i (00:00:13) trapsize 10614
-\i (00:00:13) trapsize 10795
-\i (00:00:13) trapsize 10848
-\i (00:00:13) trapsize 14257
-\i (00:00:13) generaledit 
-\i (00:00:27) enved 
-\i (00:00:27) setwindow form.prfedit
-\i (00:00:27) FORM prfedit treelist  My_favorites 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) generaledit 
-\i (00:00:30) setwindow form.prfedit
-\i (00:00:30) FORM prfedit treelist  Paths 
-\i (00:00:31) FORM prfedit treelist  Library Paths 
-\i (00:00:33) FORM prfedit psmpath  
-\i (00:00:44) setwindow pcb
-\i (00:00:44) exit 
-\e (00:00:44) Do you want to save the changes you made to gps_interface_boardv35a.brd?
-\i (00:00:45) fillin no 
-\i (00:00:45) setwindow form.prfedit
-\i (00:00:45) FORM prfedit cancel  
-\t (00:00:46)     Journal end - Fri Sep  8 16:46:32 2023
+\t (00:00:04) allegro 17.4 S033 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Sep 11 11:43:04 2023
+\t (00:00:04)         Host=IT088130 User=phdgc Pid=13856 CPUs=16
+\t (00:00:04) CmdLine= allegro.exe -proj d:/gib_v6/gps_interface_board/gps_interface_board.opj d:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv35"
+\d (00:00:08) Design opened: d:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35.brd
+\i (00:00:08) trapsize 13895
+\i (00:00:08) trapsize 14478
+\i (00:00:08) trapsize 14654
+\i (00:00:08) trapsize 36110
+\i (00:00:08) trapsize 37547
+\t (00:00:08) > Sending response DoneOpenBoard
+\t (00:00:08) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:08) trapsize 14448
+\i (00:00:08) trapsize 15055
+\i (00:00:08) trapsize 15238
+\i (00:00:08) trapsize 37548
+\i (00:00:09) generaledit 
+\t (00:00:10) > DoPullSchematic message received
+\t (00:00:10) > Pulling schematic...
+\t (00:00:10) Starting Cadence Logic Import...
+\t (00:00:13) Opening existing design...
+\i (00:00:14) trapsize 37548
+\t (00:00:14) > Sending response DonePullSchematic
+\t (00:00:14) > Schematic pulled successfully
+\i (00:00:14) generaledit 
+\t (00:00:19) > DoPhysicalNetlistGenerate message received
+\t (00:00:19) > Generating physical netlist...
+\t (00:00:19) Starting genfeedformat...
+\t (00:00:23) > Sending response DonePhysicalNetlistGeneration
+\t (00:00:23) > Physical Netlist Generated
+\t (00:00:29) > DoPullSchematic message received
+\t (00:00:29) > Pulling schematic...
+\t (00:00:29) Starting Cadence Logic Import...
+\t (00:00:32) Opening existing design...
+\i (00:00:32) trapsize 37548
+\t (00:00:33) > Sending response DonePullSchematic
+\t (00:00:33) > Schematic pulled successfully
+\i (00:00:33) generaledit 
+\t (00:00:40) > DoPhysicalNetlistGenerate message received
+\t (00:00:40) > Generating physical netlist...
+\t (00:00:40) Starting genfeedformat...
+\t (00:00:45) > Sending response DonePhysicalNetlistGeneration
+\t (00:00:45) > Physical Netlist Generated
+\t (00:01:47) > DoPhysicalNetlistGenerate message received
+\t (00:01:47) > Generating physical netlist...
+\t (00:01:47) Starting genfeedformat...
+\t (00:01:51) > Sending response DonePhysicalNetlistGeneration
+\t (00:01:51) > Physical Netlist Generated
+\i (00:01:55) save 
+\i (00:01:57) fillin yes 
+\t (00:01:58) > Sending response DoneOpenBoard
+\i (00:01:58) generaledit 
+\t (00:02:06) > DoPullSchematic message received
+\t (00:02:06) > Pulling schematic...
+\t (00:02:06) Starting Cadence Logic Import...
+\t (00:02:09) Opening existing design...
+\i (00:02:10) trapsize 37548
+\t (00:02:10) > Sending response DonePullSchematic
+\t (00:02:10) > Schematic pulled successfully
+\i (00:02:10) generaledit 
+\t (00:02:17) > DoPhysicalNetlistGenerate message received
+\t (00:02:17) > Generating physical netlist...
+\t (00:02:17) Starting genfeedformat...
+\t (00:02:22) > Sending response DonePhysicalNetlistGeneration
+\t (00:02:22) > Physical Netlist Generated
+\t (00:03:57) > DoPullSchematic message received
+\t (00:03:57) > Pulling schematic...
+\t (00:03:58) Starting Cadence Logic Import...
+\t (00:04:01) Opening existing design...
+\i (00:04:01) trapsize 37548
+\t (00:04:01) > Sending response DonePullSchematic
+\t (00:04:01) > Schematic pulled successfully
+\i (00:04:01) generaledit 
+\i (00:04:06) save 
+\i (00:04:07) fillin yes 
+\t (00:04:08) > Sending response DoneOpenBoard
+\i (00:04:08) generaledit 
+\i (02:38:08) xname_flush 
+\t (02:38:38) > DoPhysicalNetlistGenerate message received
+\t (02:38:38) > Generating physical netlist...
+\t (02:38:38) Starting genfeedformat...
+\t (02:38:43) > Sending response DonePhysicalNetlistGeneration
+\t (02:38:43) > Physical Netlist Generated
+\t (02:38:49) > DoPullSchematic message received
+\t (02:38:49) > Pulling schematic...
+\t (02:38:49) Starting Cadence Logic Import...
+\t (02:38:53) Opening existing design...
+\i (02:38:53) trapsize 37548
+\t (02:38:53) > Sending response DonePullSchemat

@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : GPS_INTERFACE_BOARDv34.brd                    )
-(    Software Version : 17.2S064                                      )
-(    Date/Time        : Mon Jul 06 11:34:48 2020                      )
+(    Drawing          : gps_interface_boardv35.brd                    )
+(    Software Version : 17.4S033                                      )
+(    Date/Time        : Mon Sep 11 14:23:13 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,60 +17,89 @@ Ripup retain bondwire:       No
 Ripup symbols:               Never
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:\SPB_DATA\GPS_INTERFACE_BOARD\allegro'
-Design Directory:            'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro'
-Old design name:             'C:/SPB_Data/GPS_Interface_Board/allegro/GPS_INTERFACE_BOARDv34.brd'
-New design name:             'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/GPS_INTERFACE_BOARDv35.brd'
+Schematic directory:         'd:\gib_v6\gps_interface_board\allegro'
+Design Directory:            'd:/gib_v6/gps_interface_board/allegro'
+Old design name:             'd:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35.brd'
+New design name:             'd:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35.brd'
 
-CmdLine: netrev.exe -y 3 -i C:\SPB_DATA\GPS_INTERFACE_BOARD\allegro C:\SPB_Data\GPS_Interface_Board\allegro\GPS_INTERFACE_BOARDv34.brd C:\SPB_DATA\GPS_INTERFACE_BOARD\allegro\GPS_INTERFACE_BOARDv35.brd
+CmdLine: netrev -y 3 -i d:\gib_v6\gps_interface_board\allegro -q netrev_constraint_report.xml d:/gib_v6/gps_interface_board/allegro/#Taaaaem13856.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstchip.dat 
-   Finished reading C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstchip.dat (00:00:00.05)
-Starting to read C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxprt.dat 
-   Finished reading C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxprt.dat (00:00:00.03)
-Starting to read C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxnet.dat 
-   Finished reading C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/pstxnet.dat (00:00:00.03)
+Starting to read d:/gib_v6/gps_interface_board/allegro/pstchip.dat 
+   Finished reading d:/gib_v6/gps_interface_board/allegro/pstchip.dat (00:00:00.14)
+Starting to read d:/gib_v6/gps_interface_board/allegro/pstxprt.dat 
+   Finished reading d:/gib_v6/gps_interface_board/allegro/pstxprt.dat (00:00:00.01)
+Starting to read d:/gib_v6/gps_interface_board/allegro/pstxnet.dat 
+   Finished reading d:/gib_v6/gps_interface_board/allegro/pstxnet.dat (00:00:00.01)
 
 ------ Oversights/Warnings/Errors ------
 
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+           C:/Cadence/SPB_17.4/share/local/pcb/modules 
 
 PSMPATH =  . 
-           symbols 
-           .. 
-           ../symbols 
-           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
-           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/symbols/ 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/FMC_TLU/ 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/VCU128_PARTS/ 
+           /projects/HEP_Instrumentation/cad/bris_cdslib/lib_psd14.x/symbols 
+           /projects/HEP_Instrumentation/cad/bris_cdslib/lib_psd14.x/formats 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/soic 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/discrete 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/dip 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/so 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/bga 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/qfp 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/passif 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/cap 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/led 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/rel 
+           /projects/HEP_Instrumentation/cad/ral_cdslib/lib_psd15.x/symbols 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/sw 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/mec 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/pwr 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/res 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
+           Z:/cad/bris_cdslib/lib_psd14.x/symbols 
+           Z:/cad/bris_cdslib/lib_psd14.x/formats 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/soic 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/discrete 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/dip 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/so 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/bga 
+           Z:/cad/cern_cds 
+           D:/GIB_v6/cis_hep_partslib/Allegro_Library/symbols 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
-           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/FMC_TLU 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/pads 
-           C:/Users/HEP/Documents/cdr_2/ 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/symbols/ 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/VCU128_PARTS/ 
+           /software/CAD/Cadence/SPB17.40.034/share/local/pcb/padstacks 
+           /software/CAD/Cadence/SPB17.40.034/share/pcb/pcb_lib/symbols 
+           /software/CAD/Cadence/SPB17.40.034/share/pcb/allegrolib/symbols 
+           /projects/HEP_Instrumentation/cad/bris_cdslib/lib_psd14.x/pads 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
+           /projects/HEP_Instrumentation/cad/ral_cdslib/lib_psd15.x/pads 
+           ./symbols 
+           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
+           ../../../../cis_hep_partslib/cis_hep_partslib/Allegro_Library/pads/ 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
+            Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
+           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
+           Z:/cad/bris_cdslib/lib_psd14.x/pads 
+           D:/GIB_v6/cis_hep_partslib/Allegro_Library/pads 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Jul 6 11:34:48 2020
+netrev run on Sep 11 14:23:13 2023
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
-   PACKAGING ON Jan 30 2020 04:44:30
+   PACKAGING ON Oct  8 2022 21:42:22
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -93,6 +122,6 @@ netrev run on Jul 6 11:34:48 2020
  No oversight detected
  No warning detected
 
-cpu time      0:01:00
-elapsed time  0:00:00
+cpu time      0:03:57
+elapsed time  0:00:02
 

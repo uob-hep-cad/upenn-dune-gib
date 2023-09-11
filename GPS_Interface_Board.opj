@@ -392,6 +392,11 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("0.1 uFd 0402"
+      (FullPartName "0.1 uFd 0402.Normal")
+      (LibraryName
+         "D:\GIB_V6\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -502,9 +507,6 @@
       (FullPartName "TCA9548APWR.Normal")
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "phdgc")
   (GlobalState
@@ -537,11 +539,13 @@
       (Path "Design Resources"
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Fanout")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "Storage")
-      (Path "Design Resources"
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "d:\gib_v6\cis_hep_partslib\schematic_symbols\ocad_parts_lib.olb")
       (Path "Layout")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -551,7 +555,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
@@ -561,8 +565,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
-        (Scroll "0 -1")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "289 -1")
         (Zoom "58")
         (Occurrence "/"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -571,7 +575,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
         (Scroll "0 -1")
         (Zoom "58")
         (Occurrence "/Utilities"))
@@ -581,7 +585,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
         (Scroll "546 474")
         (Zoom "142")
         (Occurrence "/Power"))
@@ -591,7 +595,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
         (Scroll "0 -1")
         (Zoom "58")
         (Occurrence "/SFP Interface/Fanout"))
@@ -601,7 +605,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
         (Scroll "0 -1")
         (Zoom "58")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
@@ -611,8 +615,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
-        (Scroll "0 -1")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "199 -1")
         (Zoom "58")
         (Occurrence "/SFP Interface"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -621,13 +625,59 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
         (Scroll "1428 658")
         (Zoom "200")
         (Occurrence "/Clock Generation"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "02. Clock Generation")
-      (Page "04. Clock Generation")))
+      (Page "04. Clock Generation"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "517 0")
+        (Zoom "100"))
+      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "Storage")
+      (Page "SFP Interface_v1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "0 350")
+        (Zoom "100"))
+      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "Storage")
+      (Page "SFP_0_v1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "0 310")
+        (Zoom "100"))
+      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "Storage")
+      (Page "SFP Interface_v2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "0 290")
+        (Zoom "100"))
+      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "Storage")
+      (Page "SFP Interface_v3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Scroll "296 200")
+        (Zoom "100")
+        (Occurrence "/SFP Interface/SFP1"))
+      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "SFP Block")
+      (Page "SFP")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -637,4 +687,16 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (Folder "Logs"))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "d:\gib_v6\gps_interface_board\allegro\netlist.log"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "d:\gib_v6\gps_interface_board\allegro\genfeed.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "d:\gib_v6\gps_interface_board\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "d:\gib_v6\gps_interface_board\allegro\eco.txt"))))
