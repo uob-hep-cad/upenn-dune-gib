@@ -1,6 +1,6 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[07/06/20]")
+  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[09/11/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -524,18 +524,24 @@
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn"
          "03. SFP Interface")
       (Path "Design Resources"
+         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "04. Power")
+      (Path "Design Resources"
+         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn"
+         "05. FMC Connector")
+      (Path "Design Resources"
+         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "06. Utilities")
+      (Path "Design Resources"
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Block")
       (Path "Design Resources"
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Fan-in")
+      (Path "Design Resources"
+         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Fanout")
       (Path "Design Resources"
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "Storage")
       (Path "Design Resources"
          "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "Design Cache")
       (Path "Layout")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "GIB Top"
-         "02. Top Level"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -545,7 +551,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
@@ -555,9 +561,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "-183 0")
-        (Zoom "25")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "0 -1")
+        (Zoom "58")
         (Occurrence "/"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "GIB Top")
@@ -565,9 +571,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "-183 0")
-        (Zoom "25")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "0 -1")
+        (Zoom "58")
         (Occurrence "/Utilities"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "06. Utilities")
@@ -575,8 +581,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "1413 474")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "546 474")
         (Zoom "142")
         (Occurrence "/Power"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -585,9 +591,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "-77 2")
-        (Zoom "39")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "0 -1")
+        (Zoom "58")
         (Occurrence "/SFP Interface/Fanout"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "SFP Fanout")
@@ -595,9 +601,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "-1 0")
-        (Zoom "49")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "0 -1")
+        (Zoom "58")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "SFP Fan-in")
@@ -605,9 +611,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "0 0")
-        (Zoom "50")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "0 -1")
+        (Zoom "58")
         (Occurrence "/SFP Interface"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "03. SFP Interface")
@@ -615,8 +621,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 783 24 290")
-        (Scroll "1900 658")
+        (Placement "44 0 1 -1 -1 -1 -1 5 909 24 620")
+        (Scroll "1428 658")
         (Zoom "200")
         (Occurrence "/Clock Generation"))
       (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
