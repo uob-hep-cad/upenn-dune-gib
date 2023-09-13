@@ -1,6 +1,5 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[09/11/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -27,14 +26,14 @@
     (width_pages "100")
     (width_start "80")
     (width_End "80")
+    (Board_sim_option "VHDL_flow")
     (Netlist_TAB "0")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory" "allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
-    ("Allegro Netlist Output Board File"
-       ".\allegro\gps_interface_boardv35a.brd")
+    ("Allegro Netlist Output Board File" "allegro\GPS_INTERFACE_BOARDv35.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "NEVER_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -45,341 +44,7 @@
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
     ("Allegro Netlist Input Board File"
-       "C:\SPB_Data\GPS_Interface_Board\allegro\GPS_INTERFACE_BOARDv34.brd")
-    (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
-    (Board_sim_option "VHDL_flow"))
-  (Folder "Layout"
-    (File ".\allegro\gps_interface_boardv1.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv1.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv10.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv10.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv11.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv11.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv12.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv12.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv13.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv13.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv14.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv14.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv15.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv15.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv16.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv16.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv17.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv17.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv18.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv18.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv19.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv19.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv2.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv2.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv20.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv20.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv21.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv21.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv22.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv22.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv23.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv23.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv24.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv24.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv25.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv25.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv26.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv26.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv27.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv27.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv28.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv28.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv29.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv29.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv3.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv3.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv30.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv30.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv31.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv31.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv32.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv32.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv33.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv33.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv34.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv34.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv34_test.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv34_test.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv35.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv35.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv4.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv4.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv5.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv5.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv6.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv6.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv7.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv7.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv8.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv8.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv9.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv9.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_board_v24_test_sfp_.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_board_v24_test_sfp_.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\clock_gen_1_8v_pwrv1.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\clock_gen_1_8v_pwrv1.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\fpgaio_led.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\fpgaio_led.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\ldo_pwr_test.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\ldo_pwr_test.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\level_trans.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\level_trans.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\level_transv2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\level_transv2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\lt8645_3v5.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\lt8645_3v5.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\ltm8063_5v5.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\ltm8063_5v5.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\sfpv1.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\sfpv1.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\sfpv1_mapped1.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\sfpv1_mapped1.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\sfpv1_mapped2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\sfpv1_mapped2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\sfp_only_v1.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\sfp_only_v1.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\sfp_only_v2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\sfp_only_v2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395v2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395v2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395v3.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395v3.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395v4.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395v4.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395v5.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395v5.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395v6.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395v6.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395_test.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395_test.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395_test2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395_test2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\si5395_test3.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\si5395_test3.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\spare_lvcmos.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\spare_lvcmos.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\spare_rj45.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\spare_rj45.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\spare_rj45v2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\spare_rj45v2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\spare_rj45v3.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\spare_rj45v3.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\test.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\test.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\tps7a8500.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\tps7a8500.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\tps7a8500v2.mdd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\tps7a8500v2.mdd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "0"))
-    (File ".\allegro\gps_interface_boardv35a.brd"
-      (Type "Board File")
-      (OutputBoard ".\allegro\gps_interface_boardv35a.brd")
-      (NetListPath ".\allegro")
-      (ActiveBoard "1")))
+       "C:\SPB_Data\GPS_Interface_Board\allegro\GPS_INTERFACE_BOARDv34.brd"))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -392,11 +57,6 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    ("0.1 uFd 0402"
-      (FullPartName "0.1 uFd 0402.Normal")
-      (LibraryName
-         "D:\GIB_V6\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
-      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -507,196 +167,199 @@
       (FullPartName "TCA9548APWR.Normal")
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "phdgc")
+  (MPSSessionName "HEP")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "GIB Top")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "GIB Top")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
          "01. GPS Interface")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
          "02. Clock Generation")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
          "03. SFP Interface")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "04. Power")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "04. Power")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
          "05. FMC Connector")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "06. Utilities")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
+         "06. Utilities")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Block")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Block")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Fan-in")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Fan-in")
       (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "SFP Fanout")
-      (Path "Design Resources"
-         "d:\gib_v6\gps_interface_board\gps_interface_board.dsn" "Design Cache")
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Fanout")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "d:\gib_v6\cis_hep_partslib\schematic_symbols\ocad_parts_lib.olb")
-      (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Select "Design Resources"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 0 0 0 200 0 150"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1629 104 680")
         (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "GIB Top")
-      (Page "01. Address Table"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "289 -1")
-        (Zoom "58")
-        (Occurrence "/"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "GIB Top")
-      (Page "02. Top Level"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "0 -1")
-        (Zoom "58")
-        (Occurrence "/Utilities"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "06. Utilities")
-      (Page "11. Utilities"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "546 474")
-        (Zoom "142")
+        (Zoom "174")
         (Occurrence "/Power"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
       (Page "06. Power 12V Main"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "0 -1")
-        (Zoom "58")
-        (Occurrence "/SFP Interface/Fanout"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "SFP Fanout")
-      (Page "Signal Fanout"))
+        (Placement "44 0 1 -1 -1 -8 -31 130 1655 130 706")
+        (Scroll "0 108")
+        (Zoom "100")
+        (Occurrence "/Power"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "07. Power VCC5V"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "0 -1")
-        (Zoom "58")
-        (Occurrence "/SFP Interface/Fan-In and Monitor"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "SFP Fan-in")
-      (Page "Fan-In and I2C Extender"))
+        (Placement "44 0 1 -1 -1 -8 -31 156 1681 156 732")
+        (Scroll "0 227")
+        (Zoom "110")
+        (Occurrence "/Power"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "08. Power VCC3V3"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "199 -1")
-        (Zoom "58")
-        (Occurrence "/SFP Interface"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "03. SFP Interface")
-      (Page "05. SFP Interface"))
+        (Placement "44 0 1 -1 -1 -8 -31 182 1707 182 758")
+        (Scroll "0 227")
+        (Zoom "110")
+        (Occurrence "/Power"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "09. Power VCC2V5"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "1428 658")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1681 156 732")
+        (Scroll "-100 0")
+        (Zoom "84")
+        (Occurrence "/Utilities"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "13. Spare I/O BNC/LEMO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 1759 234 810")
+        (Scroll "2578 1481")
+        (Zoom "396")
         (Occurrence "/Clock Generation"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "02. Clock Generation")
       (Page "04. Clock Generation"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "517 0")
-        (Zoom "100"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "SFP Interface_v1"))
+        (Placement "44 0 1 -1 -1 -8 -31 208 1733 208 784")
+        (Scroll "-100 0")
+        (Zoom "84")
+        (Occurrence "/Utilities"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "14. Spare I/O RJ45"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "0 350")
-        (Zoom "100"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "SFP_0_v1"))
+        (Placement "44 0 1 -1 -1 -8 -31 286 1811 286 862")
+        (Scroll "61 402")
+        (Zoom "128")
+        (Occurrence "/Utilities"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "12. Level Translators"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "0 310")
-        (Zoom "100"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "SFP Interface_v2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "0 290")
-        (Zoom "100"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "SFP Interface_v3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 629 24 620")
-        (Scroll "296 200")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1525 0 576")
+        (Scroll "0 130")
         (Zoom "100")
-        (Occurrence "/SFP Interface/SFP1"))
-      (Path "D:\GIB_V6\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "SFP Block")
-      (Page "SFP")))
-  (ISPCBBASICLICENSE "false")
-  (Folder "PSpice Resources"
-    (Folder "Simulation Profiles")
-    (Folder "Model Libraries"
-      (Sort User))
-    (Folder "Stimulus Files"
-      (Sort User))
-    (Folder "Include Files"
-      (Sort User)))
-  (Folder "Logs"
-    (File ".\allegro\netlist.log"
-      (Type "Log File")
-      (LogFile "d:\gib_v6\gps_interface_board\allegro\netlist.log"))
-    (File ".\allegro\genfeed.log"
-      (Type "Log File")
-      (LogFile "d:\gib_v6\gps_interface_board\allegro\genfeed.log"))
-    (File ".\allegro\netrev.lst"
-      (Type "Log File")
-      (LogFile "d:\gib_v6\gps_interface_board\allegro\netrev.lst"))
-    (File ".\allegro\eco.txt"
-      (Type "Log File")
-      (LogFile "d:\gib_v6\gps_interface_board\allegro\eco.txt"))))
+        (Occurrence "/PM3_FMC"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "05. FMC Connector")
+      (Page "10. FMC Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1629 104 680")
+        (Scroll "70 0")
+        (Zoom "168")
+        (Occurrence "/GPS Interface"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "01. GPS Interface")
+      (Page "03. GPS Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1655 130 706")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/SFP Interface"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "03. SFP Interface")
+      (Page "05. SFP Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 674 78 654")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "GIB Top")
+      (Page "02. Top Level"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 700 104 680")
+        (Scroll "0 130")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "GIB Top")
+      (Page "01. Address Table"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1707 182 758")
+        (Scroll "400 1101")
+        (Zoom "200")
+        (Occurrence "/SFP Interface/Fan-In and Monitor"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "SFP Fan-in")
+      (Page "Fan-In and I2C Extender"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1785 260 836")
+        (Scroll "0 10")
+        (Zoom "100")
+        (Occurrence "/Utilities"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "11. Utilities")))
+  (ISPCBBASICLICENSE "false"))

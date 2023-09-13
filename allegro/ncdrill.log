@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : GPS_INTERFACE_BOARDv35.brd                    )
+(    Drawing          : GPS_INTERFACE_BOARDv38.brd                    )
 (    Software Version : 17.2S064                                      )
-(    Date/Time        : Mon Jul 06 13:38:55 2020                      )
+(    Date/Time        : Mon Jul 13 13:13:06 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -41,11 +41,11 @@
  WARNING(SPMHMF-366): They can be processed by NC routing instead.
 
 
- Drill files being output to directory 'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber' ...
+ Drill files being output to directory 'C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber' ...
 
 
 
-     'GPS_INTERFACE_BOARDv35-1-8.drl' created for holes connecting TOP and BOTTOM
+     'GPS_INTERFACE_BOARDv38-1-8.drl' created for holes connecting TOP and BOTTOM
      ----------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
@@ -71,12 +71,12 @@
 
      ---- Total holes:                                       2392
 
-     ---- Total head travel:              220.33 feet (67.16 meters)
+     ---- Total head travel:              220.87 feet (67.32 meters)
 
 
 
 
-     'GPS_INTERFACE_BOARDv35-1-1.drl' created for holes connecting TOP and TOP
+     'GPS_INTERFACE_BOARDv38-1-1.drl' created for holes connecting TOP and TOP
      -------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity

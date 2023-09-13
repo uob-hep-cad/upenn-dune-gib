@@ -2,16 +2,71 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  d:/gib_v6/gps_interface_board/allegro/gps_interface_boardv35.brd            |
-|                                                    Mon Sep 11 14:23:13 2023  |
+|  C:/SPB_Data/GPS_Interface_Board/allegro/GPS_INTERFACE_BOARDv34.brd          |
+|                                                    Mon Jul 06 11:34:48 2020  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- LK1                 1-HOLE/0-4_1-HOLE_0-4P_1-HOLE/0  937.00 -333.00
+  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
+                                 R264.2                         
+                                 R267.2                         
+                                 R268.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPS_IRIGB_IN pins ADDED TO this existing net (pins not previously on any net)
+                                 R264.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPS_PPS_IN   pins ADDED TO this existing net (pins not previously on any net)
+                                 R267.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPS_SYNC_IN  pins ADDED TO this existing net (pins not previously on any net)
+                                 R268.1                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Components deleted    :       1                                        |
+|  C:/SPB_Data/GPS_Interface_Board/allegro/GPS_INTERFACE_BOARDv34.brd          |
+|                                                    Mon Jul 06 11:34:48 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R_RES0402_49.9
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/SPB_Data/GPS_Interface_Board/allegro/GPS_INTERFACE_BOARDv34.brd          |
+|                                                    Mon Jul 06 11:34:48 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R264                R_RES0402_49.9        
+ R267                R_RES0402_49.9        
+ R268                R_RES0402_49.9        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/SPB_Data/GPS_Interface_Board/allegro/GPS_INTERFACE_BOARDv34.brd          |
+|                                                    Mon Jul 06 11:34:48 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R264.2                         PRIM_FILE      .\pstchip.dat
+ R267.2                         PRIM_FILE      .\pstchip.dat
+ R268.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :       6                                        |
+|       Comp definitions added:       1                                        |
+|       Components added      :       3                                        |
+|       Slot property added   :       3                                        |
 |                                                                              |
-|   Total ECO changes reported:       1                                        |
+|   Total ECO changes reported:      13                                        |
 |------------------------------------------------------------------------------|

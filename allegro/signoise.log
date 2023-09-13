@@ -1,3 +1,9 @@
 INFO: Loaded existing interconnect file 'C:\SPB_Data\GPS_INTERFACE_BOARD\allegro\interconn.iml'
 INFO: Loaded existing interconnect file 'C:\Cadence\SPB_17.2\share\pcb\signal\cds_interconn.iml'
 INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_2S_1R_68
+INFO: Executing command: bem2d 0 "C:/Users/HEP/AppData/Local/Temp/#Taaaacw07576.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_69
+INFO: Executing command: bem2d 0 "C:/Users/HEP/AppData/Local/Temp/#Taaaacx07576.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_70
+INFO: Executing command: bem2d 0 "C:/Users/HEP/AppData/Local/Temp/#Taaaacy07576.in" 0.00127
