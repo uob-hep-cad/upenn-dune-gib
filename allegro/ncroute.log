@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC ROUTE Log                                                     )
 (                                                                     )
-(    Drawing          : GPS_INTERFACE_BOARDv35.brd                    )
+(    Drawing          : GPS_INTERFACE_BOARDv38.brd                    )
 (    Software Version : 17.2S064                                      )
-(    Date/Time        : Mon Jul 06 13:39:06 2020                      )
+(    Date/Time        : Mon Jul 13 13:13:19 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -42,7 +42,7 @@
  Auto-generating tool file 'ncroutebits_auto.txt' ...
 
      0.0000  T01       
-     0.0900  T02       
+     0.0450  T02       
 
 -------------------------------------------------------------
 
@@ -83,12 +83,12 @@
 
  Processing slot hole data ... TOP to BOTTOM 
 
- OVAL      slots routed: 2
- RECTANGLE slots routed: 0
+ OVAL      slots routed: 0
+ RECTANGLE slots routed: 2
 
 -------------------------------------------------------------
 
- NC Route file 'GPS_INTERFACE_BOARDv35_1-8.rou' created ...
+ NC Route file 'GPS_INTERFACE_BOARDv38_1-8.rou' created ...
 
 -------------------------------------------------------------
 

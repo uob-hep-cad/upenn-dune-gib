@@ -2,9 +2,9 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : GPS_INTERFACE_BOARDv35.brd                    )
+(    Drawing          : GPS_INTERFACE_BOARDv38.brd                    )
 (    Software Version : 17.2S064                                      )
-(    Date/Time        : Mon Jul 06 13:38:39 2020                      )
+(    Date/Time        : Mon Jul 13 13:12:09 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -35,7 +35,7 @@
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/TOP.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -135,8 +135,8 @@
   RECTANGLE  0.06700     x 0.13000      90.000 NO     DARK 
   RECTANGLE  0.07874     x 0.01968      90.000 NO     DARK 
   RECTANGLE  0.08268     x 0.06299      90.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
   RECTANGLE  0.14567     x 0.09528      90.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,394.00   0.000 NO     DARK 
@@ -156,7 +156,7 @@
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/BOTTOM.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -221,7 +221,7 @@
   RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
   RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
   RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
 
@@ -230,7 +230,7 @@
 
 ================================================================
      PROCESSING FILM < Gnd1 >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd1.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd1.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -272,7 +272,7 @@
   SQUARE     0.05858                     0.000 NO     DARK 
   SQUARE     0.07874                     0.000 NO     DARK 
   SQUARE     0.09764                     0.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
 
@@ -280,59 +280,8 @@
 
 
 ================================================================
-     PROCESSING FILM < Pwr1 >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Pwr1.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.00
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.00
-  Offset y:                           0.00
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED (UNIT = IN):
-  ---------------------------------------------------------
-  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
-  ---------------------------------------------------------
-  CIRCLE     0.00650                                  DARK 
-  CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.02100                                  DARK 
-  CIRCLE     0.02205                                  DARK 
-  CIRCLE     0.03940                                  DARK 
-  CIRCLE     0.05346                                  DARK 
-  CIRCLE     0.05504                                  DARK 
-  CIRCLE     0.05740                                  DARK 
-  CIRCLE     0.05858                                  DARK 
-  CIRCLE     0.06000                                  DARK 
-  CIRCLE     0.06103                                  DARK 
-  CIRCLE     0.06496                                  DARK 
-  CIRCLE     0.07559                                  DARK 
-  CIRCLE     0.09764                                  DARK 
-  CIRCLE     0.09921                                  DARK 
-  CIRCLE     0.11870                                  DARK 
-  CIRCLE     0.13111                                  DARK 
-  CIRCLE     0.17500                                  DARK 
-  SQUARE     0.05504                     0.000 NO     DARK 
-  SQUARE     0.05858                     0.000 NO     DARK 
-  SQUARE     0.07874                     0.000 NO     DARK 
-  SQUARE     0.09764                     0.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
-  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
-  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
-
-     Pwr1 created with warnings
-
-
-================================================================
      PROCESSING FILM < Gnd2 >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd2.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd2.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -374,7 +323,7 @@
   SQUARE     0.05858                     0.000 NO     DARK 
   SQUARE     0.07874                     0.000 NO     DARK 
   SQUARE     0.09764                     0.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
 
@@ -382,61 +331,8 @@
 
 
 ================================================================
-     PROCESSING FILM < Sig >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Sig.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.00
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.00
-  Offset y:                           0.00
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED (UNIT = IN):
-  ---------------------------------------------------------
-  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
-  ---------------------------------------------------------
-  CIRCLE     0.00500                                  DARK 
-  CIRCLE     0.00800                                  DARK 
-  CIRCLE     0.01200                                  DARK 
-  CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.02100                                  DARK 
-  CIRCLE     0.02205                                  DARK 
-  CIRCLE     0.03940                                  DARK 
-  CIRCLE     0.05346                                  DARK 
-  CIRCLE     0.05504                                  DARK 
-  CIRCLE     0.05740                                  DARK 
-  CIRCLE     0.05858                                  DARK 
-  CIRCLE     0.06000                                  DARK 
-  CIRCLE     0.06103                                  DARK 
-  CIRCLE     0.06496                                  DARK 
-  CIRCLE     0.07559                                  DARK 
-  CIRCLE     0.09764                                  DARK 
-  CIRCLE     0.09921                                  DARK 
-  CIRCLE     0.11870                                  DARK 
-  CIRCLE     0.13111                                  DARK 
-  CIRCLE     0.17500                                  DARK 
-  SQUARE     0.05504                     0.000 NO     DARK 
-  SQUARE     0.05858                     0.000 NO     DARK 
-  SQUARE     0.07874                     0.000 NO     DARK 
-  SQUARE     0.09764                     0.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
-  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
-  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
-
-     Sig created with warnings
-
-
-================================================================
      PROCESSING FILM < Pwr2 >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Pwr2.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Pwr2.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -478,7 +374,7 @@
   SQUARE     0.05858                     0.000 NO     DARK 
   SQUARE     0.07874                     0.000 NO     DARK 
   SQUARE     0.09764                     0.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
 
@@ -487,7 +383,7 @@
 
 ================================================================
      PROCESSING FILM < Gnd3 >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd3.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Gnd3.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -529,7 +425,7 @@
   SQUARE     0.05858                     0.000 NO     DARK 
   SQUARE     0.07874                     0.000 NO     DARK 
   SQUARE     0.09764                     0.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
 
@@ -538,7 +434,7 @@
 
 ================================================================
      PROCESSING FILM < DesignOutline >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/DesignOutline.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/DesignOutline.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -565,7 +461,7 @@
 
 ================================================================
      PROCESSING FILM < Paste_Top >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Paste_Top.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Paste_Top.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -635,21 +531,20 @@
   RECTANGLE  0.06700     x 0.13000      90.000 NO     DARK 
   RECTANGLE  0.07874     x 0.01968      90.000 NO     DARK 
   RECTANGLE  0.14567     x 0.09528      90.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,394.00   0.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,394.00  90.000 NO     DARK 
   PAD SHAPE  SMA_180DIAL_PAD            90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00  90.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,394.00 180.000 NO     DARK 
-  PAD SHAPE  SMA_180DIAL_PAD           270.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 270.000 NO     DARK 
   PAD SHAPE  PS_R209_139_D2500         270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,394.00 270.000 NO     DARK 
+  PAD SHAPE  SMA_180DIAL_PAD           270.000 NO     DARK 
 
      Paste_Top created with warnings
 
 
 ================================================================
      PROCESSING FILM < Paste_Bottom >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Paste_Bottom.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Paste_Bottom.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -686,14 +581,13 @@
   RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
   RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
   RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
 
      Paste_Bottom created with warnings
 
 
 ================================================================
      PROCESSING FILM < Sold_Top >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Sold_Top.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Sold_Top.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -786,8 +680,8 @@
   RECTANGLE  0.07000     x 0.13300      90.000 NO     DARK 
   RECTANGLE  0.07874     x 0.01968      90.000 NO     DARK 
   RECTANGLE  0.09449     x 0.07480      90.000 NO     DARK 
+  RECTANGLE  0.11500     x 0.15000       0.000 NO     DARK 
   RECTANGLE  0.15039     x 0.10000      90.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,394.00   0.000 NO     DARK 
@@ -803,7 +697,7 @@
 
 ================================================================
      PROCESSING FILM < Sold_Bottom >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Sold_Bottom.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Sold_Bottom.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -862,7 +756,7 @@
   RECTANGLE  0.05118     x 0.05906      90.000 NO     DARK 
   RECTANGLE  0.05906     x 0.07874       0.000 NO     DARK 
   RECTANGLE  0.05906     x 0.07874      90.000 NO     DARK 
-  OBLONG     0.10000     x 0.14000       0.000 NO     DARK 
+  RECTANGLE  0.11500     x 0.15000       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
   OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
 
@@ -871,7 +765,7 @@
 
 ================================================================
      PROCESSING FILM < Silk_Top >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Silk_Top.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Silk_Top.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -922,7 +816,7 @@
 
 ================================================================
      PROCESSING FILM < Silk_Bottom >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Silk_Bottom.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Silk_Bottom.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -957,7 +851,7 @@
 
 ================================================================
      PROCESSING FILM < Assemb_Top >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Assemb_Top.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Assemb_Top.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -993,7 +887,7 @@
 
 ================================================================
      PROCESSING FILM < Assemb_Bottom >
-     TO FILE < C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/Gerber/Assemb_Bottom.art > ...
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Assemb_Bottom.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -1026,14 +920,115 @@
      Assemb_Bottom created with warnings
 
 
+================================================================
+     PROCESSING FILM < SIG >
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/SIG.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     SIG created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pwr1 >
+     TO FILE < C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/Gerber/Pwr1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02205                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05346                                  DARK 
+  CIRCLE     0.05504                                  DARK 
+  CIRCLE     0.05740                                  DARK 
+  CIRCLE     0.05858                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06103                                  DARK 
+  CIRCLE     0.06496                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  CIRCLE     0.09764                                  DARK 
+  CIRCLE     0.09921                                  DARK 
+  CIRCLE     0.11870                                  DARK 
+  CIRCLE     0.13111                                  DARK 
+  CIRCLE     0.17500                                  DARK 
+  SQUARE     0.05504                     0.000 NO     DARK 
+  SQUARE     0.05858                     0.000 NO     DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  SQUARE     0.09764                     0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.14500       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937       0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+
+     Pwr1 created with warnings
+
+
 ------------------------------------------------------
  SUMMARY:
         TOP created with warnings
         BOTTOM created with warnings
         Gnd1 created with warnings
-        Pwr1 created with warnings
         Gnd2 created with warnings
-        Sig created with warnings
         Pwr2 created with warnings
         Gnd3 created with warnings
         DesignOutline created with warnings
@@ -1045,5 +1040,7 @@
         Silk_Bottom created with warnings
         Assemb_Top created with warnings
         Assemb_Bottom created with warnings
+        SIG created with warnings
+        Pwr1 created with warnings
 
  ARTWORK had warnings
