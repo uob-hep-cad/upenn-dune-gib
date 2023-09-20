@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv37.brd                    )
 (    Software Version : 17.4S033                                      )
-(    Date/Time        : Tue Sep 19 18:29:11 2023                      )
+(    Date/Time        : Wed Sep 20 10:04:57 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,11 +18,11 @@ Ripup symbols:               Never
 Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'c:\spb_data\gps_interface_board\allegro'
-Design Directory:            'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro'
-Old design name:             'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd'
-New design name:             'C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd'
+Design Directory:            'c:/spb_data/gps_interface_board/allegro'
+Old design name:             'c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd'
+New design name:             'c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd'
 
-CmdLine: netrev -y 3 -i c:\spb_data\gps_interface_board\allegro -q netrev_constraint_report.xml C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/#Taaaaaf36200.tmp
+CmdLine: netrev -y 3 -i c:\spb_data\gps_interface_board\allegro -q netrev_constraint_report.xml c:/spb_data/gps_interface_board/allegro/#Taaaaax21156.tmp
 
 ------ Preparing to read pst files ------
 
@@ -97,7 +97,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Sep 19 18:29:11 2023
+netrev run on Sep 20 10:04:57 2023
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
    PACKAGING ON Oct  8 2022 21:42:22
 
@@ -122,6 +122,6 @@ netrev run on Sep 19 18:29:11 2023
  No oversight detected
  No warning detected
 
-cpu time      0:46:52
-elapsed time  0:00:28
+cpu time      0:01:12
+elapsed time  0:00:01
 

@@ -2,136 +2,530 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd          |
-|                                                    Tue Sep 19 18:29:11 2023  |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N334368      pins MOVED FROM this net (to net name listed on right)
-                                 U48.8           4340.83 3154.84
-                                                                        N755111
+  CDR_ADDR_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 R2688.1                        
+                                 U104.19                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N334392      pins DELETED FROM this net (all pins deleted)
-                                 U48.7           4340.83 3174.53
-                                 U48.10          4340.83 3115.47
+  CDR_LOL      pins ADDED TO this new net
+                                 U104.16                        
+                                 U106.1                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N639616      pins MOVED FROM this net (to net name listed on right)
-                                 U48.9           4340.83 3135.16
-                                                                        N755152
+  CDR_LOS      pins ADDED TO this new net
+                                 U104.22                        
+                                 U106.2                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755053      pins ADDED TO this new net
-                                 C276.1                         
-                                 Y1.3                           
+  CLK_N        pins ADDED TO this new net
+                                 U103.7                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755062      pins ADDED TO this new net
-                                 C277.1                         
-                                 Y1.2                           
+  CLK_P        pins ADDED TO this new net
+                                 U103.6                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755111      pins ADDED TO this new net
-                                 C276.2                         
-                                 R1540.1                        
+  CML_SFP_TD_N_SFP INTERFACE_ACLK pins ADDED TO this new net
+                                 C2721.1                        
+                                 R2672.2                        
+                                 U103.10                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755152      pins ADDED TO this new net
-                                 C277.2                         
-                                 R1540.2                        
+  CML_SFP_TD_P_SFP INTERFACE_ACLK pins ADDED TO this new net
+                                 C2720.1                        
+                                 R2671.2                        
+                                 U103.11                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755426      pins ADDED TO this new net
-                                 Y1.4                           
+  DATA_N       pins ADDED TO this new net
+                                 U103.3                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755804      pins ADDED TO this new net
-                                 R?.1                           
-                                 Y1.6                           
+  DATA_P       pins ADDED TO this new net
+                                 U103.2                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755834      pins ADDED TO this new net
-                                 R1550.2                        
-                                 Y1.5                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755912      pins ADDED TO this new net
-                                 L?.1                           
-                                 R1550.1                        
-                                 Y1.1                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC2V5       pins ADDED TO this existing net (pins not previously on any net)
+  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
+                                 C2712.2                        
+                                 C2713.2                        
+                                 C2714.1                        
+                                 C2715.2                        
+                                 C2716.2                        
+                                 C2717.1                        
+                                 C2718.1                        
+                                 C2719.1                        
+                                 C2722.1                        
+                                 C2723.1                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd          |
-|                                                    Tue Sep 19 18:29:11 2023  |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 L?.2                           
+                                 C2724.1                        
+                                 C2725.1                        
+                                 C2726.1                        
+                                 C2727.2                        
+                                 C2728.2                        
+                                 C2729.2                        
+                                 C2730.2                        
+                                 C2731.2                        
+                                 C2733.1                        
+                                 C2734.2                        
+                                 J30.1                          
+                                 J30.9                          
+                                 J30.10                         
+                                 J30.11                         
+                                 J30.14                         
+                                 J30.17                         
+                                 J30.20                         
+                                 J30.S1                         
+                                 J30.S2                         
+                                 J30.S3                         
+                                 J30.S4                         
+                                 J30.S5                         
+                                 J30.S6                         
+                                 J30.S7                         
+                                 J30.S8                         
+                                 J30.S9                         
+                                 J30.S10                        
+                                 J30.S11                        
+                                 J30.S12                        
+                                 J30.S13                        
+                                 J30.S14                        
+                                 J30.S15                        
+                                 J30.S16                        
+                                 J30.S17                        
+                                 J30.S18                        
+                                 J30.S19                        
+                                 J30.S20                        
+                                 R2675.2                        
+                                 R2678.2                        
+                                 R2680.1                        
+                                 R2684.2                        
+                                 R2685.2                        
+                                 R2686.1                        
+                                 R2687.2                        
+                                 R2688.2                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd          |
-|                                                    Tue Sep 19 18:29:11 2023  |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- SIT5021AI-2DE-25E-50_000000_QFN
+                                 R2690.2                        
+                                 R2691.2                        
+                                 TP766.1                        
+                                 U103.9                         
+                                 U103.17                        
+                                 U104.6                         
+                                 U104.7                         
+                                 U104.8                         
+                                 U104.11                        
+                                 U104.13                        
+                                 U104.17                        
+                                 U104.23                        
+                                 U104.30                        
+                                 U104.33                        
+                                 U105.3                         
+                                 U106.3                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOD_ABS_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 J30.6                          
+                                 R2679.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01450_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2732.1                        
+                                 U104.14                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01454_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2732.2                        
+                                 U104.15                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04910_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 U103.1                         
+                                 U103.4                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04977_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 U103.5                         
+                                 U103.8                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N136741_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 D41.1                          
+                                 R2684.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N141568_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 D41.2                          
+                                 R2683.2                        
+                                 U105.4                         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd          |
-|                                                    Tue Sep 19 18:29:11 2023  |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U14                 CX3225SB_0_SOIC254P1016X440-4N_ 3867.00 3109.00
+  N210584_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 D40.1                          
+                                 R2683.1                        
+                                 R2685.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N222361_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 D42.1                          
+                                 R2689.1                        
+                                 R2691.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N222457_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 D43.2                          
+                                 R2689.2                        
+                                 U106.4                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N222469_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 D43.1                          
+                                 R2690.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RECOV_CLK_N  pins ADDED TO this new net
+                                 U104.25                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RECOV_CLK_P  pins ADDED TO this new net
+                                 U104.26                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RECOV_DATA_N pins ADDED TO this new net
+                                 U104.28                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RECOV_DATA_P pins ADDED TO this new net
+                                 U104.29                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 J30.7                          
+                                 R2681.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_N_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 R2682.2                        
+                                 U103.15                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_P_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 R2680.2                        
+                                 U103.14                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCL          pins ADDED TO this new net
+                                 J30.5                          
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd          |
-|                                                    Tue Sep 19 18:29:11 2023  |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U104.20                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDA          pins ADDED TO this new net
+                                 J30.4                          
+                                 U104.21                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_LOS      pins ADDED TO this new net
+                                 J30.8                          
+                                 R2677.2                        
+                                 U105.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 J30.12                         
+                                 TP765.1                        
+                                 U104.4                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_P_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 J30.13                         
+                                 TP764.1                        
+                                 U104.5                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_TD_N_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2721.2                        
+                                 J30.19                         
+                                 R2674.2                        
+                                 R2678.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_TD_P_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2720.2                        
+                                 J30.18                         
+                                 R2673.2                        
+                                 R2675.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_TX_DIS   pins ADDED TO this new net
+                                 J30.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_TX_FAULT pins ADDED TO this new net
+                                 J30.2                          
+                                 R2676.2                        
+                                 U105.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SQUELCH_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 R2687.1                        
+                                 U104.27                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  THRADJ_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2733.2                        
+                                 R2686.2                        
+                                 U104.9                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC2V5       pins ADDED TO this existing net (pins not previously on any net)
+                                 C2715.1                        
+                                 C2716.1                        
+                                 R2671.1                        
+                                 R2672.1                        
+                                 R2682.1                        
+                                 U103.12                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins ADDED TO this existing net (pins not previously on any net)
+                                 C2712.1                        
+                                 C2713.1                        
+                                 C2722.2                        
+                                 C2723.2                        
+                                 C2724.2                        
+                                 C2725.2                        
+                                 C2726.2                        
+                                 C2727.1                        
+                                 C2728.1                        
+                                 C2729.1                        
+                                 C2730.1                        
+                                 C2731.1                        
+                                 D40.2                          
+                                 D42.2                          
+                                 L20.1                          
+                                 L21.1                          
+                                 R2673.1                        
+                                 R2674.1                        
+                                 R2676.1                        
+                                 R2677.1                        
+                                 R2679.1                        
+                                 R2681.1                        
+                                 U104.1                         
+                                 U104.2                         
+                                 U104.10                        
+                                 U104.12                        
+                                 U104.18                        
+                                 U104.24                        
+                                 U104.31                        
+                                 U104.32                        
+                                 U105.5                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U106.5                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCCR_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2714.2                        
+                                 C2717.2                        
+                                 J30.15                         
+                                 L20.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCCT_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2718.2                        
+                                 C2719.2                        
+                                 J30.16                         
+                                 L21.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VREF_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
+                                 C2734.1                        
+                                 U104.3                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C276                CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- C277                CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- L?                  IND_CAP0805_120 OHM@100MHZ 
- R1540               R_RES0402_100         
- R1550               R_RES0402_DNP         
- R?                  R_RES0402_1K          
- Y1                  SIT5021AI-2DE-25E-50_000000_QFN 
+ C2712               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2713               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2714               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2715               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2716               CAP_NP_CAP0603_DISCRETE_1000PF_ 
+ C2717               CAP_NP_CAP0805_DISCRETE_22UF_ 
+ C2718               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2719               CAP_NP_CAP0805_DISCRETE_22UF_ 
+ C2720               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
+ C2721               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
+ C2722               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2723               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2724               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2725               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2726               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
+ C2727               CAP_NP_CAP0603_DISCRETE_1000PF_ 
+ C2728               CAP_NP_CAP0603_DISCRETE_1000PF_ 
+ C2729               CAP_NP_CAP0603_DISCRETE_1000PF_ 
+ C2730               CAP_NP_CAP0603_DISCRETE_1000PF_ 
+ C2731               CAP_NP_CAP0603_DISCRETE_1000PF_ 
+ C2732               CAP_NP_CAP0402_DISCRETE_0.47UF_ 
+ C2733               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
+ C2734               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
+ D40                 LED_GREEN0603         
+ D41                 LED_LEDC1608X80N_RED  
+ D42                 LED_GREEN0603         
+ D43                 LED_LEDC1608X80N_RED  
+ J30                 CON20P_SFP-1367073-1_TE_2227023 
+ L20                 IND_CAP1210_4.7 UH    
+ L21                 IND_CAP1210_4.7 UH    
+ R2671               R_RES0603_49.9 OHM    
+ R2672               R_RES0603_49.9 OHM    
+ R2673               R_RES0402_6.81K       
+ R2674               R_RES0402_6.81K       
+ R2675               R_RES0402_3.83K       
+ R2676               R_RES0402_4.7K        
+ R2677               R_RES0402_4.7K        
+ R2678               R_RES0402_3.83K       
+ R2679               R_RES0402_4.7K        
+ R2680               R_RES0603_4.99K       
+ R2681               R_RES0402_4.7K        
+ R2682               R_RES0603_4.99K       
+ R2683               R_RES0402_499 OHM     
+ R2684               R_RES0603_75 OHM      
+ R2685               R_RES0603_75 OHM      
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
+|                                                                    Page   9  |
 |------------------------------------------------------------------------------|
-|  C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro/gps_interface_boardv37.brd          |
-|                                                    Tue Sep 19 18:29:11 2023  |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2686               R_RES0402_0           
+ R2687               R_RES0402_0           
+ R2688               R_RES0402_4.7K        
+ R2689               R_RES0402_499 OHM     
+ R2690               R_RES0603_75 OHM      
+ R2691               R_RES0603_75 OHM      
+ TP764               TESTPOINT_TP_KEYSTONE_5000A_500 
+ TP765               TESTPOINT_TP_KEYSTONE_5000A_500 
+ TP766               TESTPOINT_TP_KEYSTONE_5000A_500 
+ U103                NB7V52M_2_PQFN50P300X300X100-17 
+ U104                ADN2814ACPZ_1_QFN50P500X500X100 
+ U105                SN74LVC1G32_4_SOT23-5_SN74LVC1G 
+ U106                SN74LVC1G32_4_SOT23-5_SN74LVC1G 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C276.2                         PRIM_FILE      .\pstchip.dat
- C277.2                         PRIM_FILE      .\pstchip.dat
- L?.2                           PRIM_FILE      .\pstchip.dat
- R1540.2                        PRIM_FILE      .\pstchip.dat
- R1550.2                        PRIM_FILE      .\pstchip.dat
- R?.2                           PRIM_FILE      .\pstchip.dat
- Y1.1                           PRIM_FILE      .\pstchip.dat
+ C2712.2                        PRIM_FILE      .\pstchip.dat
+ C2713.2                        PRIM_FILE      .\pstchip.dat
+ C2714.2                        PRIM_FILE      .\pstchip.dat
+ C2715.2                        PRIM_FILE      .\pstchip.dat
+ C2716.2                        PRIM_FILE      .\pstchip.dat
+ C2717.2                        PRIM_FILE      .\pstchip.dat
+ C2718.2                        PRIM_FILE      .\pstchip.dat
+ C2719.2                        PRIM_FILE      .\pstchip.dat
+ C2720.2                        PRIM_FILE      .\pstchip.dat
+ C2721.2                        PRIM_FILE      .\pstchip.dat
+ C2722.2                        PRIM_FILE      .\pstchip.dat
+ C2723.2                        PRIM_FILE      .\pstchip.dat
+ C2724.2                        PRIM_FILE      .\pstchip.dat
+ C2725.2                        PRIM_FILE      .\pstchip.dat
+ C2726.2                        PRIM_FILE      .\pstchip.dat
+ C2727.2                        PRIM_FILE      .\pstchip.dat
+ C2728.2                        PRIM_FILE      .\pstchip.dat
+ C2729.2                        PRIM_FILE      .\pstchip.dat
+ C2730.2                        PRIM_FILE      .\pstchip.dat
+ C2731.2                        PRIM_FILE      .\pstchip.dat
+ C2732.2                        PRIM_FILE      .\pstchip.dat
+ C2733.2                        PRIM_FILE      .\pstchip.dat
+ C2734.2                        PRIM_FILE      .\pstchip.dat
+ D40.1                          PRIM_FILE      .\pstchip.dat
+ D41.1                          PRIM_FILE      .\pstchip.dat
+ D42.1                          PRIM_FILE      .\pstchip.dat
+ D43.1                          PRIM_FILE      .\pstchip.dat
+ J30.20                         PRIM_FILE      .\pstchip.dat
+ L20.2                          PRIM_FILE      .\pstchip.dat
+ L21.2                          PRIM_FILE      .\pstchip.dat
+ R2671.2                        PRIM_FILE      .\pstchip.dat
+ R2672.2                        PRIM_FILE      .\pstchip.dat
+ R2673.2                        PRIM_FILE      .\pstchip.dat
+ R2674.2                        PRIM_FILE      .\pstchip.dat
+ R2675.2                        PRIM_FILE      .\pstchip.dat
+ R2676.2                        PRIM_FILE      .\pstchip.dat
+ R2677.2                        PRIM_FILE      .\pstchip.dat
+ R2678.2                        PRIM_FILE      .\pstchip.dat
+ R2679.2                        PRIM_FILE      .\pstchip.dat
+ R2680.2                        PRIM_FILE      .\pstchip.dat
+ R2681.2                        PRIM_FILE      .\pstchip.dat
+ R2682.2                        PRIM_FILE      .\pstchip.dat
+ R2683.2                        PRIM_FILE      .\pstchip.dat
+ R2684.2                        PRIM_FILE      .\pstchip.dat
+ R2685.2                        PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :      21                                        |
-|       Comp definitions added:       1                                        |
-|       Components added      :       7                                        |
-|       Components deleted    :       1                                        |
-|       Slot property added   :       7                                        |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Wed Sep 20 10:04:57 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2686.2                        PRIM_FILE      .\pstchip.dat
+ R2687.2                        PRIM_FILE      .\pstchip.dat
+ R2688.2                        PRIM_FILE      .\pstchip.dat
+ R2689.2                        PRIM_FILE      .\pstchip.dat
+ R2690.2                        PRIM_FILE      .\pstchip.dat
+ R2691.2                        PRIM_FILE      .\pstchip.dat
+ TP764.1                        PRIM_FILE      .\pstchip.dat
+ TP765.1                        PRIM_FILE      .\pstchip.dat
+ TP766.1                        PRIM_FILE      .\pstchip.dat
+ U103.16                        PRIM_FILE      .\pstchip.dat
+ U104.3                         PRIM_FILE      .\pstchip.dat
+ U105.4                         PRIM_FILE      .\pstchip.dat
+ U106.4                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     201                                        |
+|       Components added      :      58                                        |
+|       Slot property added   :      58                                        |
 |                                                                              |
-|   Total ECO changes reported:      37                                        |
+|   Total ECO changes reported:     317                                        |
 |------------------------------------------------------------------------------|
