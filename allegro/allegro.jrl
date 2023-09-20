@@ -3271,4 +3271,487 @@
 \i (04:20:39) xname_flush 
 \i (04:20:39) trapsize 2658
 \i (04:20:49) xname_flush 
-\i (04:21:44) xname_flush
+\i (04:21:44) xname_flush '!' 
+\i (04:21:58) xname_flush 
+\i (04:22:04) xname_flush '!' 
+\i (04:22:04) xname_flush 
+\i (04:22:09) xname_flush '!' 
+\i (04:22:09) xname_flush 
+\i (04:22:11) xname_flush '!' 
+\i (04:22:11) xname_flush 
+\i (04:22:15) xname_flush '!' 
+\i (04:22:34) xname_flush 
+\i (04:22:39) xname_flush '!' 
+\i (04:22:39) xname_flush 
+\i (04:22:42) xname_flush '!' 
+\i (04:22:42) xname_flush 
+\i (04:22:47) xname_flush '!' 
+\i (04:22:47) xname_flush 
+\t (04:23:38) > DoPhysicalNetlistGenerate message received
+\t (04:23:38) > Generating physical netlist...
+\t (04:23:38) Starting genfeedformat...
+\t (04:23:51) > Sending response DonePhysicalNetlistGeneration
+\t (04:23:51) > Physical Netlist Generated
+\t (04:24:01) > DoPullSchematic message received
+\t (04:24:01) > Pulling schematic...
+\t (04:24:01) Starting Cadence Logic Import...
+\t (04:24:11) Opening existing design...
+\i (04:24:14) trapsize 2658
+\t (04:24:14) > Sending response DonePullSchematic
+\t (04:24:14) > Schematic pulled successfully
+\i (04:24:14) placementedit 
+\i (04:24:21) place manual 
+\i (04:24:21) setwindow form.plc_manual
+\i (04:24:21) FORM plc_manual tree  'Components by refdes' 
+\i (04:24:24) FORM plc_manual cancel  
+\i (04:24:24) setwindow pcb
+\i (04:24:24) placementedit 
+\i (04:24:26) zoom out 1 
+\i (04:24:26) setwindow pcb
+\i (04:24:26) zoom out 6461.62 2514.40
+\i (04:24:26) trapsize 5316
+\i (04:24:27) zoom out 1 
+\i (04:24:27) setwindow pcb
+\i (04:24:27) zoom out 6482.88 2578.19
+\i (04:24:27) trapsize 10633
+\i (04:24:29) trapsize 13812
+\i (04:24:30) trapsize 13680
+\i (04:24:33) zoom in 1 
+\i (04:24:33) setwindow pcb
+\i (04:24:33) zoom in 7460.42 3229.29
+\i (04:24:33) trapsize 6840
+\i (04:24:33) zoom in 1 
+\i (04:24:33) setwindow pcb
+\i (04:24:33) zoom in 7350.98 3297.70
+\i (04:24:33) trapsize 3420
+\i (04:24:34) zoom in 1 
+\i (04:24:34) setwindow pcb
+\i (04:24:34) zoom in 6961.09 3482.39
+\i (04:24:34) trapsize 1710
+\i (04:24:34) zoom in 1 
+\i (04:24:34) setwindow pcb
+\i (04:24:34) zoom in 6943.99 3506.33
+\i (04:24:34) trapsize 855
+\i (04:24:44) zoom in 1 
+\i (04:24:44) setwindow pcb
+\i (04:24:44) zoom in 6495.96 3685.88
+\i (04:24:44) trapsize 428
+\i (04:24:44) zoom out 1 
+\i (04:24:44) setwindow pcb
+\i (04:24:44) zoom out 6495.96 3685.88
+\i (04:24:44) trapsize 855
+\i (04:24:45) zoom out 1 
+\i (04:24:45) setwindow pcb
+\i (04:24:45) zoom out 6495.96 3685.89
+\i (04:24:45) trapsize 1710
+\i (04:24:47) zoom out 1 
+\i (04:24:47) setwindow pcb
+\i (04:24:47) zoom out 6495.97 3685.88
+\i (04:24:47) trapsize 3420
+\i (04:24:50) save 
+\i (04:24:52) fillin yes 
+\t (04:24:54) > Sending response DoneOpenBoard
+\i (04:24:54) placementedit 
+\i (04:33:10) zoom in 1 
+\i (04:33:10) setwindow pcb
+\i (04:33:10) zoom in 6687.49 3658.52
+\i (04:33:10) trapsize 1710
+\i (04:33:11) zoom in 1 
+\i (04:33:11) setwindow pcb
+\i (04:33:11) zoom in 6687.49 3658.52
+\i (04:33:11) trapsize 855
+\i (04:33:11) zoom in 1 
+\i (04:33:11) setwindow pcb
+\i (04:33:11) zoom in 6687.49 3658.53
+\i (04:33:11) trapsize 428
+\e (04:33:14) Stroke not recognized.
+\i (04:33:24) zoom out 1 
+\i (04:33:24) setwindow pcb
+\i (04:33:24) zoom out 6922.62 3539.69
+\i (04:33:24) trapsize 855
+\i (04:33:33) roam y -96 
+\i (04:33:33) roam y -96
+\i (04:33:33) roam y -96 
+\i (04:33:33) roam y -96
+\i (04:33:33) roam y -96 
+\i (04:33:33) roam y -96
+\i (04:33:35) roam y 96 
+\i (04:33:35) roam y 96
+\i (04:33:36) roam y 96 
+\i (04:33:36) roam y 96
+\i (04:33:36) roam y 96 
+\i (04:33:36) roam y 96
+\i (04:33:36) roam y 96 
+\i (04:33:36) roam y 96
+\i (04:33:38) roam x -96 
+\i (04:33:38) roam x -96
+\i (04:33:38) roam x -96 
+\i (04:33:38) roam x -96
+\i (04:33:38) roam x -96 
+\i (04:33:38) roam x -96
+\i (04:33:38) roam x -96 
+\i (04:33:39) roam x -96
+\i (04:33:39) roam y 96 
+\i (04:33:39) roam y 96
+\i (04:33:39) roam y 96 
+\i (04:33:39) roam y 96
+\i (04:33:40) roam y 96 
+\i (04:33:40) roam y 96
+\i (04:33:40) roam y 96 
+\i (04:33:40) roam y 96
+\i (04:33:41) roam x 96 
+\i (04:33:41) roam x 96
+\i (04:37:55) xname_flush '!' 
+\i (04:38:24) xNet 'R_P_Sfp Interface_Aclk Sfp' 
+\i (04:38:24) xNet Gnd_Power 
+\i (04:38:24) xNet 'R_N_Sfp Interface_Aclk Sfp' 
+\i (04:38:24) xNet Clk_P 
+\i (04:38:24) xNet 'N04977_Sfp Interface_Aclk Sfp' 
+\i (04:38:24) xrefdes R2680 
+\i (04:38:24) xNet Vcc2v5 
+\i (04:38:24) xrefdes U103 
+\i (04:38:24) xNet Clk_N 
+\i (04:38:24) xrefdes R2682 
+\i (04:38:24) xname_flush 
+\i (04:38:24) trapsize 9554
+\i (04:38:44) xNet Vcc3v3 
+\i (04:38:44) xrefdes R2671 
+\i (04:38:44) xrefdes R2673 
+\i (04:38:44) xrefdes R2674 
+\i (04:38:44) xrefdes C2716 
+\i (04:38:44) xNet 'Cml_Sfp_Td_N_Sfp Interface_Aclk' 
+\i (04:38:44) xrefdes C2715 
+\i (04:38:44) xrefdes R2672 
+\i (04:38:44) xNet 'Cml_Sfp_Td_P_Sfp Interface_Aclk' 
+\i (04:38:44) xname_flush 
+\i (04:38:44) trapsize 9554
+\i (04:38:47) xNet 'Sfp_Td_N_Sfp Interface_Aclk Sfp' 
+\i (04:38:47) xname_flush 
+\i (04:38:47) trapsize 1003
+\i (04:38:48) xNet 'Sfp_Td_P_Sfp Interface_Aclk Sfp' 
+\i (04:38:48) xname_flush 
+\i (04:38:48) trapsize 934
+\i (04:38:49) xrefdes C2720 
+\i (04:38:49) xname_flush 
+\i (04:38:49) trapsize 406
+\i (04:38:51) xrefdes C2721 
+\i (04:38:51) xname_flush 
+\i (04:38:51) trapsize 406
+\i (04:38:53) xrefdes R2678 
+\i (04:38:53) xrefdes R2675 
+\i (04:38:53) xname_flush 
+\i (04:38:53) trapsize 600
+\i (04:39:10) xNet 'N04910_Sfp Interface_Aclk Sfp' 
+\i (04:39:10) xname_flush 
+\i (04:39:10) trapsize 98
+\i (04:39:18) xNet Data_P 
+\i (04:39:18) xNet Data_N 
+\i (04:39:18) xname_flush 
+\i (04:39:18) trapsize 469
+\i (04:39:34) xNet '!' Data_P 
+\i (04:39:34) xNet '!' Data_N 
+\i (04:39:34) xname_flush '!' 
+\i (04:58:05) xNet Gnd_Power 
+\i (04:58:05) xNet Sfp_Tx_Fault 
+\i (04:58:05) xNet Vcc3v3 
+\i (04:58:05) xrefdes R2677 
+\i (04:58:05) xNet 'Vccr_Sfp Interface_Aclk Sfp' 
+\i (04:58:05) xNet 'Vcct_Sfp Interface_Aclk Sfp' 
+\i (04:58:05) xNet Sfp_Los 
+\i (04:58:05) xrefdes C2719 
+\i (04:58:05) xrefdes C2717 
+\i (04:58:05) xNet 'Rs_Sfp Interface_Aclk Sfp' 
+\i (04:58:05) xrefdes R2676 
+\i (04:58:05) xNet Sfp_Tx_Dis 
+\i (04:58:05) xrefdes C2712 
+\i (04:58:05) xNet Data_P 
+\i (04:58:05) xrefdes C2718 
+\i (04:58:05) xrefdes C2714 
+\i (04:58:05) xrefdes L20 
+\i (04:58:05) xrefdes R2681 
+\i (04:58:05) xNet Scl 
+\i (04:58:05) xrefdes C2713 
+\i (04:58:05) xrefdes R2679 
+\i (04:58:05) xNet Sda 
+\i (04:58:05) xNet Sfp_Rd_P 
+\i (04:58:05) xrefdes L21 
+\i (04:58:05) xNet 'Mod_Abs_Sfp Interface_Aclk Sfp' 
+\i (04:58:05) xNet Data_N 
+\i (04:58:05) xNet Sfp_Rd_N 
+\i (04:58:05) xrefdes J30 
+\i (04:58:05) xname_flush 
+\i (04:59:22) xNet '!' Gnd_Power 
+\i (04:59:22) xNet '!' Sfp_Tx_Fault 
+\i (04:59:22) xNet '!' Vcc3v3 
+\i (04:59:22) xrefdes '!' R2677 
+\i (04:59:22) xNet '!' 'Vccr_Sfp Interface_Aclk Sfp' 
+\i (04:59:22) xNet '!' 'Vcct_Sfp Interface_Aclk Sfp' 
+\i (04:59:22) xNet '!' Sfp_Los 
+\i (04:59:22) xrefdes '!' C2719 
+\i (04:59:22) xrefdes '!' C2717 
+\i (04:59:22) xNet '!' 'Rs_Sfp Interface_Aclk Sfp' 
+\i (04:59:22) xrefdes '!' R2676 
+\i (04:59:22) xNet '!' Sfp_Tx_Dis 
+\i (04:59:22) xrefdes '!' C2712 
+\i (04:59:22) xNet '!' Data_P 
+\i (04:59:22) xrefdes '!' C2718 
+\i (04:59:22) xrefdes '!' C2714 
+\i (04:59:22) xrefdes '!' L20 
+\i (04:59:22) xrefdes '!' R2681 
+\i (04:59:22) xNet '!' Scl 
+\i (04:59:22) xrefdes '!' C2713 
+\i (04:59:22) xrefdes '!' R2679 
+\i (04:59:22) xNet '!' Sda 
+\i (04:59:22) xNet '!' Sfp_Rd_P 
+\i (04:59:22) xrefdes '!' L21 
+\i (04:59:22) xNet '!' 'Mod_Abs_Sfp Interface_Aclk Sfp' 
+\i (04:59:22) xNet '!' Data_N 
+\i (04:59:22) xNet '!' Sfp_Rd_N 
+\i (04:59:22) xrefdes '!' J30 
+\i (04:59:22) xname_flush '!' 
+\i (05:02:24) xname_flush 
+\i (05:02:36) xname_flush '!' 
+\i (05:21:07) trapsize 474
+\i (05:25:04) xNet Vcc3v3 
+\i (05:25:04) xrefdes C2730 
+\i (05:25:04) xNet Gnd_Power 
+\i (05:25:04) xrefdes C2726 
+\i (05:25:04) xrefdes C2723 
+\i (05:25:04) xrefdes C2725 
+\i (05:25:04) xrefdes C2722 
+\i (05:25:04) xrefdes C2731 
+\i (05:25:04) xrefdes C2728 
+\i (05:25:04) xrefdes C2727 
+\i (05:25:04) xrefdes C2724 
+\i (05:25:04) xrefdes C2729 
+\i (05:25:04) xname_flush 
+\i (05:25:04) trapsize 9646
+\i (05:25:10) xNet '!' Vcc3v3 
+\i (05:25:10) xrefdes '!' C2730 
+\i (05:25:10) xNet '!' Gnd_Power 
+\i (05:25:10) xrefdes '!' C2726 
+\i (05:25:10) xrefdes '!' C2723 
+\i (05:25:10) xrefdes '!' C2725 
+\i (05:25:10) xrefdes '!' C2722 
+\i (05:25:10) xrefdes '!' C2731 
+\i (05:25:10) xrefdes '!' C2728 
+\i (05:25:10) xrefdes '!' C2727 
+\i (05:25:10) xrefdes '!' C2724 
+\i (05:25:10) xrefdes '!' C2729 
+\i (05:25:10) xname_flush '!' 
+\i (05:25:34) xNet '!' Vcc3v3 
+\i (05:25:34) xNet '!' Gnd_Power 
+\i (05:25:34) xname_flush '!' 
+\i (05:25:35) xname_flush 
+\i (05:25:43) xname_flush '!' 
+\i (05:25:43) xname_flush 
+\i (05:25:50) xNet '!' Vcc3v3 
+\i (05:25:50) xname_flush '!' 
+\i (05:25:50) xname_flush 
+\i (05:25:52) xname_flush 
+\i (05:26:01) xNet '!' Gnd_Power 
+\i (05:26:01) xname_flush '!' 
+\i (05:26:06) xNet '!' Gnd_Power 
+\i (05:26:06) xname_flush '!' 
+\i (05:26:12) xNet '!' Gnd_Power 
+\i (05:26:12) xname_flush '!' 
+\i (05:26:15) xNet '!' Gnd_Power 
+\i (05:26:15) xname_flush '!' 
+\i (05:26:24) xNet Gnd_Power 
+\i (05:26:24) xname_flush 
+\i (05:26:24) trapsize 9646
+\i (05:26:26) xNet '!' Gnd_Power 
+\i (05:26:26) xname_flush '!' 
+\i (05:26:34) xNet '!' Gnd_Power 
+\i (05:26:34) xname_flush '!' 
+\i (05:27:07) xname_flush 
+\i (05:27:10) xname_flush '!' 
+\i (05:27:12) xNet Gnd_Power 
+\i (05:27:12) xNet Vcc3v3 
+\i (05:27:12) xname_flush 
+\i (05:27:12) trapsize 9646
+\i (05:27:17) xNet '!' Gnd_Power 
+\i (05:27:17) xNet '!' Vcc3v3 
+\i (05:27:17) xname_flush '!' 
+\i (05:27:25) xname_flush 
+\i (05:27:25) xname_flush '!' 
+\i (05:27:26) xname_flush 
+\i (05:27:29) xname_flush '!' 
+\i (05:27:39) xNet '!' Gnd_Power 
+\i (05:27:39) xname_flush '!' 
+\i (05:27:40) xname_flush 
+\i (05:27:42) xNet '!' Gnd_Power 
+\i (05:27:42) xname_flush '!' 
+\i (05:27:44) xNet '!' Gnd_Power 
+\i (05:27:44) xname_flush '!' 
+\i (05:27:48) xNet '!' Gnd_Power 
+\i (05:27:48) xname_flush '!' 
+\i (05:27:55) xNet '!' Gnd_Power 
+\i (05:27:55) xname_flush '!' 
+\i (05:27:59) xNet '!' Gnd_Power 
+\i (05:27:59) xname_flush '!' 
+\i (05:28:09) xNet '!' Gnd_Power 
+\i (05:28:09) xname_flush '!' 
+\i (05:28:15) xname_flush 
+\i (05:28:17) xNet '!' Vcc3v3 
+\i (05:28:17) xname_flush '!' 
+\i (05:28:23) xNet '!' Vcc3v3 
+\i (05:28:23) xname_flush '!' 
+\i (05:28:27) xNet '!' Vcc3v3 
+\i (05:28:27) xname_flush '!' 
+\i (05:28:30) xNet '!' Vcc3v3 
+\i (05:28:30) xname_flush '!' 
+\i (05:28:37) xNet '!' Vcc3v3 
+\i (05:28:37) xname_flush '!' 
+\i (05:28:40) xname_flush 
+\i (05:28:42) xname_flush '!' 
+\i (05:28:42) xname_flush 
+\i (05:28:48) xname_flush '!' 
+\i (05:28:49) xname_flush 
+\i (05:29:06) xname_flush '!' 
+\i (05:29:07) xNet Gnd_Power 
+\i (05:29:07) xNet Vcc3v3 
+\i (05:29:07) xname_flush 
+\i (05:29:07) trapsize 9646
+\i (05:29:11) xNet '!' Gnd_Power 
+\i (05:29:11) xNet '!' Vcc3v3 
+\i (05:29:11) xname_flush '!' 
+\i (05:29:21) xNet Sfp_Tx_Fault 
+\i (05:29:21) xNet Vcc3v3 
+\i (05:29:21) xrefdes R2677 
+\i (05:29:21) xrefdes R2676 
+\i (05:29:21) xNet Sfp_Los 
+\i (05:29:21) xname_flush 
+\i (05:29:21) trapsize 9646
+\i (05:29:23) xNet '!' Sfp_Tx_Fault 
+\i (05:29:23) xNet '!' Vcc3v3 
+\i (05:29:23) xrefdes '!' R2677 
+\i (05:29:23) xrefdes '!' R2676 
+\i (05:29:23) xNet '!' Sfp_Los 
+\i (05:29:23) xname_flush '!' 
+\i (05:29:26) xNet Vcc3v3 
+\i (05:29:26) xrefdes R2677 
+\i (05:29:26) xrefdes R2676 
+\i (05:29:26) xname_flush 
+\i (05:29:26) trapsize 9646
+\i (05:29:36) xNet '!' Vcc3v3 
+\i (05:29:36) xrefdes '!' R2677 
+\i (05:29:36) xrefdes '!' R2676 
+\i (05:29:36) xname_flush '!' 
+\i (05:29:38) xname_flush 
+\i (05:29:42) xname_flush '!' 
+\i (05:29:42) xname_flush 
+\i (05:29:45) xname_flush '!' 
+\i (05:29:47) xname_flush 
+\i (05:29:51) xname_flush '!' 
+\i (05:29:51) xname_flush 
+\i (05:29:56) xname_flush '!' 
+\i (05:29:56) xname_flush 
+\i (05:31:54) xname_flush 
+\i (05:32:01) xname_flush '!' 
+\i (05:32:52) xname_flush 
+\i (05:32:56) xname_flush '!' 
+\i (05:33:10) xname_flush 
+\i (05:33:15) xname_flush '!' 
+\i (05:33:28) xname_flush 
+\i (05:33:30) xname_flush '!' 
+\i (05:33:30) xname_flush 
+\i (05:33:30) xname_flush '!' 
+\i (05:33:30) xname_flush 
+\i (05:33:31) xname_flush '!' 
+\i (05:33:48) xname_flush 
+\i (05:33:51) xname_flush '!' 
+\i (05:33:51) xname_flush 
+\i (05:33:54) xname_flush '!' 
+\i (05:33:54) xname_flush 
+\i (05:34:55) xname_flush 
+\i (05:34:58) xname_flush '!' 
+\i (05:35:00) xname_flush 
+\i (05:35:08) xname_flush '!' 
+\i (05:35:26) xname_flush '!' 
+\i (05:36:03) xname_flush 
+\i (05:36:07) xname_flush '!' 
+\i (05:36:10) xname_flush 
+\i (05:36:17) xname_flush '!' 
+\i (05:36:17) xname_flush 
+\i (05:36:18) xname_flush '!' 
+\i (05:36:19) xname_flush 
+\i (05:36:25) xname_flush '!' 
+\i (05:36:25) xname_flush 
+\i (05:36:26) xname_flush '!' 
+\i (05:36:26) xname_flush 
+\i (05:36:30) xname_flush '!' 
+\i (05:46:48) xrefdes C2731 
+\i (05:46:48) xname_flush 
+\i (05:46:48) trapsize 418
+\i (05:46:57) xrefdes '!' C2731 
+\i (05:46:57) xname_flush '!' 
+\i (05:46:57) xNet Sfp_Rd_N 
+\i (05:46:57) xname_flush 
+\i (05:46:57) trapsize 718
+\i (05:47:08) xNet '!' Sfp_Rd_N 
+\i (05:47:08) xname_flush '!' 
+\i (05:47:08) xname_flush 
+\i (05:47:15) xname_flush '!' 
+\i (05:47:17) xNet Gnd_Power 
+\i (05:47:17) xNet Vcc3v3 
+\i (05:47:17) xNet Sfp_Rd_N 
+\i (05:47:17) xname_flush 
+\i (05:47:17) trapsize 9646
+\i (05:47:28) xNet '!' Gnd_Power 
+\i (05:47:28) xNet '!' Vcc3v3 
+\i (05:47:28) xNet '!' Sfp_Rd_N 
+\i (05:47:28) xname_flush '!' 
+\i (05:47:28) xname_flush 
+\i (05:47:34) xname_flush '!' 
+\i (05:47:34) xNet Sfp_Rd_N 
+\i (05:47:34) xname_flush 
+\i (05:47:34) trapsize 718
+\i (05:47:45) xNet '!' Sfp_Rd_N 
+\i (05:47:45) xname_flush '!' 
+\i (05:47:45) xname_flush 
+\i (05:47:47) xname_flush '!' 
+\i (05:48:02) xname_flush '!' 
+\i (05:48:10) xname_flush '!' 
+\i (05:48:10) xname_flush 
+\i (05:48:15) xname_flush '!' 
+\i (05:49:06) xname_flush 
+\i (05:49:10) xname_flush '!' 
+\i (05:49:15) xname_flush 
+\i (05:49:16) xname_flush '!' 
+\i (05:49:17) xname_flush 
+\i (05:49:20) xname_flush '!' 
+\i (05:49:20) xname_flush 
+\i (05:49:26) xname_flush '!' 
+\i (05:49:28) xname_flush 
+\i (05:49:30) xname_flush '!' 
+\i (05:49:30) xname_flush 
+\i (05:49:33) xname_flush '!' 
+\i (05:49:36) xname_flush 
+\i (05:49:36) xname_flush '!' 
+\i (05:49:37) xname_flush 
+\i (05:49:38) xname_flush '!' 
+\i (05:49:38) xname_flush 
+\i (05:49:39) xname_flush '!' 
+\i (05:49:43) xname_flush 
+\i (05:49:44) xname_flush '!' 
+\i (05:49:51) xname_flush 
+\i (05:49:56) xname_flush '!' 
+\i (05:50:06) xname_flush 
+\i (05:50:09) xname_flush '!' 
+\i (05:50:11) xname_flush 
+\i (05:50:14) xname_flush '!' 
+\i (05:50:14) xname_flush 
+\i (05:50:17) xname_flush '!' 
+\i (05:50:34) xname_flush 
+\i (05:50:41) xname_flush '!' 
+\i (05:50:47) xname_flush 
+\i (05:50:48) xname_flush '!' 
+\i (05:51:01) xname_flush 
+\i (05:51:02) xname_flush '!' 
+\i (05:51:02) xname_flush 
+\i (05:51:16) xname_flush '!' 
+\t (05:55:59) > Response received OpenDesign is done by remote tool
+\t (05:55:59) Design C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.opj has been opened
+\i (05:56:49) exit 
+\t (05:57:09)     Journal end - Wed Sep 20 15:35:33 2023
