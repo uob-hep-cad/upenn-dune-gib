@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-20-2023 at 14:02:23}
+{ Using PSTWRITER 17.4.0 d001Sep-20-2023 at 18:19:27}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -605,24 +605,6 @@ primitive '6-2301994-2_TE_6-2301994-2_6-23';
     PART_NAME='6-2301994-2';
     JEDEC_TYPE='TE_6-2301994-2';
     VALUE='6-2301994-2';
-  end_body;
-end_primitive;
-primitive 'SMA_PCB_SMT_SMA_SMT_CONSMA001-S';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='SMA_PCB_SMT';
-    JEDEC_TYPE='SMA_SMT';
-    VALUE='CONSMA001-SMD-G';
   end_body;
 end_primitive;
 primitive '3PIN-22-23-2031_22-23-2031_0022';
@@ -2484,66 +2466,6 @@ primitive 'TPS74618PQWDRBRQ1_SON65P300X300';
     VALUE='TPS74618PQWDRBRQ1';
   end_body;
 end_primitive;
-primitive 'NB7V52M_2_PQFN50P300X300X100-17';
-  pin
-    'V\T\C\L\K\':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    'VTR':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-    'VEE2':
-      PIN_NUMBER='(17)';
-      PINUSE='POWER';
-    'VCC':
-      PIN_NUMBER='(12)';
-      PINUSE='POWER';
-    'VEE1':
-      PIN_NUMBER='(9)';
-      PINUSE='POWER';
-    'R\':
-      PIN_NUMBER='(15)';
-      INPUT_LOAD='(*)';
-    'VTD':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'D\':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-    'VTCLK':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'V\T\R\':
-      PIN_NUMBER='(16)';
-      PINUSE='UNSPEC';
-    'D':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-    'V\T\D\':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'CLK':
-      PIN_NUMBER='(6)';
-      INPUT_LOAD='(*)';
-    'R':
-      PIN_NUMBER='(14)';
-      INPUT_LOAD='(*)';
-    'C\L\K\':
-      PIN_NUMBER='(7)';
-      INPUT_LOAD='(*)';
-    'Q':
-      PIN_NUMBER='(11)';
-      OUTPUT_LOAD='(*)';
-    'Q\':
-      PIN_NUMBER='(10)';
-      OUTPUT_LOAD='(*)';
-  end_pin;
-  body
-    PART_NAME='NB7V52M_2';
-    JEDEC_TYPE='PQFN50P300X300X100-17N-S145';
-    VALUE='NB7V52MMNG';
-  end_body;
-end_primitive;
 primitive 'ADN2814ACPZ_1_QFN50P500X500X100';
   pin
     'NIN':
@@ -2674,6 +2596,66 @@ primitive 'SN74LVC1G32_4_SOT23-5_SN74LVC1G';
     PART_NAME='SN74LVC1G32_4';
     JEDEC_TYPE='SOT23-5';
     VALUE='SN74LVC1G32';
+  end_body;
+end_primitive;
+primitive 'SY58608UMG_QFN50P300X300X90-17N';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VREF-AC':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'I\N\':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'VCC_1':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'GND_1':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'GND_2':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'VCC_2':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'Q0':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    'Q\0\':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    'Q1':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'Q\1\':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'EP':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    'VCC_4':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    'GND_4':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    'GND_3':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    'VCC_3':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SY58608UMG';
+    JEDEC_TYPE='QFN50P300X300X90-17N';
+    VALUE='SY58608UMG';
   end_body;
 end_primitive;
 primitive 'TPS3895A_DRY6_TPS3895ADRYR';
@@ -2939,6 +2921,66 @@ primitive 'MAX9371_2_SOT-23-8_MAX9371EKA+';
     PART_NAME='MAX9371_2';
     JEDEC_TYPE='SOT-23-8';
     VALUE='MAX9371EKA+';
+  end_body;
+end_primitive;
+primitive 'NB7V52M_2_PQFN50P300X300X100-17';
+  pin
+    'V\T\C\L\K\':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'VTR':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    'VEE2':
+      PIN_NUMBER='(17)';
+      PINUSE='POWER';
+    'VCC':
+      PIN_NUMBER='(12)';
+      PINUSE='POWER';
+    'VEE1':
+      PIN_NUMBER='(9)';
+      PINUSE='POWER';
+    'R\':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(*)';
+    'VTD':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'D\':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    'VTCLK':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'V\T\R\':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    'D':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'V\T\D\':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'CLK':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'R':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+    'C\L\K\':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+    'Q':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(*)';
+    'Q\':
+      PIN_NUMBER='(10)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='NB7V52M_2';
+    JEDEC_TYPE='PQFN50P300X300X100-17N-S145';
+    VALUE='NB7V52MMNG';
   end_body;
 end_primitive;
 primitive 'LM75AIMX_0_SOIC8_LM75AIMX/NOPB';
