@@ -1,0 +1,20 @@
+
+
+
+
+C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD-DRCS-Report.csv
+
+
+
+
+
+Total number of: DRCS for: '*' [ in PAGE: , Mode: Occ, MatchCase: No, DESIGN: C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN ] : 2
+
+
+
+
+
+Severity,DRC Type,Description,Detail,Location,Page,Schematic,Waived
+
+Error,Physical,ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R264: 04. Power, 06. Power 12V Main (8.65, 6.12).,Power/R264,04. Power, 06. Power 12V Main  (8.65, 6.12),06. Power 12V Main,GIB Top\Power,No
+Error,Physical,ERROR(ORCAP-36032): Duplicate Reference Designator R264: 04. Power, 06. Power 12V Main (8.65, 6.12).,Power/R264,04. Power, 06. Power 12V Main  (8.65, 6.12),06. Power 12V Main,GIB Top\Power,No

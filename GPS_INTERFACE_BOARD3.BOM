@@ -1,0 +1,765 @@
+GPS Interface Board  Revised: Tuesday, June 30, 2020
+          Revision: 
+
+Jon Sensenig
+
+
+
+
+
+Bill Of Materials           July 9,2020      14:20:11	Page1
+
+Item	Quantity	Reference	Part	Description
+______________________________________________
+
+1	2	C1	0.01UF	CAP CER 10000PF 25V X7R 0402
+		C3	0.01UF	CAP CER 10000PF 25V X7R 0402
+2	93	C2	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C4	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C5	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C6	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C8	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C11	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C45	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C53	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C54	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C56	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C58	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C59	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C60	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C62	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C64	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C69	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C71	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C72	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C74	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C75	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C78	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C79	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C83	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C84	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C86	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C114	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C115	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C116	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C117	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C119	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C123	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C132	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C133	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C135	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C136	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C138	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C142	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C143	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C144	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C145	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C146	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C155	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C156	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C158	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C159	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C161	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C165	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C166	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C167	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C168	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C169	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C178	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C179	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C181	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C182	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C184	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C188	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C189	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C190	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C191	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C192	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C201	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C202	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C204	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C205	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C207	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C211	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C212	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C213	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C214	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C215	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C224	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C225	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C227	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C228	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C230	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C234	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C235	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C236	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C237	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C238	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C247	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C248	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C250	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C251	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C253	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C257	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C258	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C259	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C260	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C261	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C270	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+		C271	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0603 
+3	9	C7	10UF	CAP CER 10UF 10V X5R 0603
+		C9	10UF	CAP CER 10UF 10V X5R 0603
+		C10	10UF	CAP CER 10UF 10V X5R 0603
+		C12	10UF	CAP CER 10UF 10V X5R 0603
+		C13	10UF	CAP CER 10UF 10V X5R 0603
+		C16	10UF	CAP CER 10UF 10V X5R 0603
+		C21	10UF	CAP CER 10UF 10V X5R 0603
+		C22	10UF	CAP CER 10UF 10V X5R 0603
+		C29	10UF	CAP CER 10UF 10V X5R 0603
+4	54	C14	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C15	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C18	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C19	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C20	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C23	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C24	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C25	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C26	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C27	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C28	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C30	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C31	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C32	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C33	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C34	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C35	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C36	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C37	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C38	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C39	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C108	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C109	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C110	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C111	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C112	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C113	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C128	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C129	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C140	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C141	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C153	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C154	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C163	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C164	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C176	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C177	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C186	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C187	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C199	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C200	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C209	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C210	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C222	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C223	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C232	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C233	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C245	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C246	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C255	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C256	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C268	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C269	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+		C272	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0402 
+5	3	C17	1UF	CAP CER 1UF 25V X7R 0603
+		C41	1UF	CAP CER 1UF 25V X7R 0603
+		C42	1UF	CAP CER 1UF 25V X7R 0603
+6	1	C40	10UF	CAP 10µF ±10% 25V Ceramic Capacitor X5R 0805 
+7	2	C43	0.47UF	0.47µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)
+		C44	0.47UF	0.47µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)
+8	10	C49	47UF	CAP CER 47UF 10V X5R 0805
+		C50	47UF	CAP CER 47UF 10V X5R 0805
+		C52	47UF	CAP CER 47UF 10V X5R 0805
+		C55	47UF	CAP CER 47UF 10V X5R 0805
+		C61	47UF	CAP CER 47UF 10V X5R 0805
+		C63	47UF	CAP CER 47UF 10V X5R 0805
+		C70	47UF	CAP CER 47UF 10V X5R 0805
+		C73	47UF	CAP CER 47UF 10V X5R 0805
+		C77	47UF	CAP CER 47UF 10V X5R 0805
+		C80	47UF	CAP CER 47UF 10V X5R 0805
+9	1	C51	5.0PF	CAP 5.0PF 50V CERAMIC 0603 SMD
+10	4	C57	0.01UF	CAP CER 10000PF 25V C0G/NP0 0603
+		C65	0.01UF	CAP CER 10000PF 25V C0G/NP0 0603
+		C76	0.01UF	CAP CER 10000PF 25V C0G/NP0 0603
+		C85	0.01UF	CAP CER 10000PF 25V C0G/NP0 0603
+11	4	C66	100UF	CAP CER 100UF 6.3V X5R 1210
+		C67	100UF	CAP CER 100UF 6.3V X5R 1210
+		C81	100UF	CAP CER 100UF 6.3V X5R 1210
+		C82	100UF	CAP CER 100UF 6.3V X5R 1210
+12	4	C97	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0805 
+		C100	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0805 
+		C101	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0805 
+		C105	0.1UF	CAP 0.1µF ±10% 25V Ceramic Capacitor X7R 0805 
+13	7	C98	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+		C99	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+		C102	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+		C103	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+		C104	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+		C106	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+		C107	47UF	47µF ±20% 25V Ceramic Capacitor X5R 1206
+14	1	C127	4.7UF	CAP CER 4.7UF 6.3V X5R 0402
+15	12	C134	22UF	CAP CER 22UF 25V X5R 0805
+		C137	22UF	CAP CER 22UF 25V X5R 0805
+		C157	22UF	CAP CER 22UF 25V X5R 0805
+		C160	22UF	CAP CER 22UF 25V X5R 0805
+		C180	22UF	CAP CER 22UF 25V X5R 0805
+		C183	22UF	CAP CER 22UF 25V X5R 0805
+		C203	22UF	CAP CER 22UF 25V X5R 0805
+		C206	22UF	CAP CER 22UF 25V X5R 0805
+		C226	22UF	CAP CER 22UF 25V X5R 0805
+		C229	22UF	CAP CER 22UF 25V X5R 0805
+		C249	22UF	CAP CER 22UF 25V X5R 0805
+		C252	22UF	CAP CER 22UF 25V X5R 0805
+16	36	C139	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C147	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C148	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C149	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C150	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C151	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C162	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C170	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C171	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C172	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C173	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C174	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C185	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C193	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C194	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C195	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C196	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C197	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C208	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C216	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C217	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C218	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C219	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C220	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C231	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C239	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C240	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C241	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C242	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C243	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C254	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C262	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C263	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C264	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C265	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+		C266	1000PF	CAP 1000PF 50V CERAMIC 0603 SMD
+17	6	C152	0.47UF	CAP CER 0.47UF 6.3V X5R 0402
+		C175	0.47UF	CAP CER 0.47UF 6.3V X5R 0402
+		C198	0.47UF	CAP CER 0.47UF 6.3V X5R 0402
+		C221	0.47UF	CAP CER 0.47UF 6.3V X5R 0402
+		C244	0.47UF	CAP CER 0.47UF 6.3V X5R 0402
+		C267	0.47UF	CAP CER 0.47UF 6.3V X5R 0402
+18	2	C274	4.7UF	CAP CER 4.7UF 10V X5R 0603
+		C275	4.7UF	CAP CER 4.7UF 10V X5R 0603
+19	1	D1	RED	Red 630nm LED Indication - Discrete 2V 0603 (1608 Metric)
+20	20	D2	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D4	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D5	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D6	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D7	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D8	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D9	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D14	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D16	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D18	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D20	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D22	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D24	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D26	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D28	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D30	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D32	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D34	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D36	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+		D38	GREEN	Green 573nm LED Indication - Discrete 2V 0603
+21	3	D10	GREEN	LED GREEN CLEAR 1206 SMD
+		D11	GREEN	LED GREEN CLEAR 1206 SMD
+		D12	GREEN	LED GREEN CLEAR 1206 SMD
+22	13	D15	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D17	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D19	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D21	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D23	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D25	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D27	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D29	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D31	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D33	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D35	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D37	RED	Red 633nm LED Indication - Discrete 2V 0603
+		D39	RED	Red 633nm LED Indication - Discrete 2V 0603
+23	1	FL1	120 Ohm@100MHz	100MHz 4A DCR 27mOhm
+24	1	F1	4A	4A 32V AC 32V DC Fuse Board Mount (Cartridge Style Excluded) Surface Mount 1206 (3216 Metric)
+25	4	J1	BNC/R	CONN BNC JACK R/A 50 OHM PCB
+		J4	BNC/R	CONN BNC JACK R/A 50 OHM PCB
+		J5	BNC/R	CONN BNC JACK R/A 50 OHM PCB
+		J6	BNC/R	CONN BNC JACK R/A 50 OHM PCB
+26	2	J2	CONSMA001-SMD-G	CONN SMA RCPT STR 50 OHM SMD
+		J3	CONSMA001-SMD-G	CONN SMA RCPT STR 50 OHM SMD
+27	1	J7	PJ-102AH	Power Barrel Connector Jack 2.00mm ID (0.079"), 5.50mm OD (0.217") Through Hole, Right Angle
+28	1	J8	ASP-134606-01	160 Position Connector Array, Male Pins Surface Mount Gold 
+29	8	J9	HDR1x2	CONN2, Header,TH
+		J10	HDR1x2	CONN2, Header,TH
+		J11	HDR1x2	CONN2, Header,TH
+		J12	HDR1x2	CONN2, Header,TH
+		J15	HDR1x2	CONN2, Header,TH
+		J16	HDR1x2	CONN2, Header,TH
+		J24	HDR1x2	CONN2, Header,TH
+		J25	HDR1x2	CONN2, Header,TH
+30	6	J13	0744410010	CONN SFP+ RCPT 20POS SLD R/A SMD
+		J14	0744410010	CONN SFP+ RCPT 20POS SLD R/A SMD
+		J18	0744410010	CONN SFP+ RCPT 20POS SLD R/A SMD
+		J19	0744410010	CONN SFP+ RCPT 20POS SLD R/A SMD
+		J20	0744410010	CONN SFP+ RCPT 20POS SLD R/A SMD
+		J21	0744410010	CONN SFP+ RCPT 20POS SLD R/A SMD
+31	1	J17	6-2301994-2	1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T, AutoMDIX
+32	3	J27	0022232031	Connector Header Through Hole 3 position 0.100" (2.54mm)
+		J28	0022232031	Connector Header Through Hole 3 position 0.100" (2.54mm)
+		J29	0022232031	Connector Header Through Hole 3 position 0.100" (2.54mm)
+33	4	L1	120 Ohm@100MHz	120 Ohms @ 100MHz 1 Power, Signal Line Ferrite Bead 0805 (2012 Metric) 800mA 150mOhm
+		L2	120 Ohm@100MHz	120 Ohms @ 100MHz 1 Power, Signal Line Ferrite Bead 0805 (2012 Metric) 800mA 150mOhm
+		L3	120 Ohm@100MHz	120 Ohms @ 100MHz 1 Power, Signal Line Ferrite Bead 0805 (2012 Metric) 800mA 150mOhm
+		L5	120 Ohm@100MHz	120 Ohms @ 100MHz 1 Power, Signal Line Ferrite Bead 0805 (2012 Metric) 800mA 150mOhm
+34	1	L6	3.3 uH	3.3µH Shielded Molded Inductor 8.25A 14.9mOhm Max Nonstandard
+35	12	L7	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L8	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L9	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L10	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L11	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L12	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L13	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L14	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L15	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L16	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L17	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+		L18	4.7 uH	4.7µH Unshielded Wirewound Inductor 450mA 260mOhm Max Nonstandard
+36	1	P1	RECP6X2	CONN12, Header,TH
+37	12	Q1	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q3	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q4	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q5	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q6	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q7	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q8	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q9	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q10	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q11	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q12	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+		Q14	BSS138K	MOSFET N-CH 50V 220MA SOT-23-3
+38	2	Q2	NDS332P	MOSFET P-CH 20V 1A SOT-23
+		Q13	NDS332P	MOSFET P-CH 20V 1A SOT-23
+39	17	R1	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R10	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R19	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R20	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R21	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R22	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R23	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R24	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R25	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R26	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R81	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R82	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R106	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R107	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R110	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R111	1k	RES SMD 1K OHM 1% 1/10W 0402
+		R254	1k	RES SMD 1K OHM 1% 1/10W 0402
+40	2	R2	24.9 Ohm	RES, Thick Film, 24.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R4	24.9 Ohm	RES, Thick Film, 24.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+41	16	R3	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R6	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R27	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R28	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R131	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R137	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R152	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R158	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R173	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R179	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R194	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R200	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R215	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R221	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R236	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+		R242	499 Ohm	RES SMD 499 OHM 1% 1/10W 0402
+42	3	R5	100	RES SMD 100 OHM 1% 1/10W 0402
+		R31	100	RES SMD 100 OHM 1% 1/10W 0402
+		R35	100	RES SMD 100 OHM 1% 1/10W 0402
+43	20	R7	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R8	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R29	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R30	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R104	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R105	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R108	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R109	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R119	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R120	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R140	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R141	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R161	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R162	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R182	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R183	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R203	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R204	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R224	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+		R225	49.9 Ohm	RES, Thick Film, 49.9 Ohm, 1.0 %, 1/10 W, SMD, 0603
+44	5	R9	0 Ohm	RES SMD 0 OHM JUMPER 1/10W 0603
+		R71	0 Ohm	RES SMD 0 OHM JUMPER 1/10W 0603
+		R72	0 Ohm	RES SMD 0 OHM JUMPER 1/10W 0603
+		R73	0 Ohm	RES SMD 0 OHM JUMPER 1/10W 0603
+		R253	0 Ohm	RES SMD 0 OHM JUMPER 1/10W 0603
+45	4	R11	133	133 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film
+		R12	133	133 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film
+		R15	133	133 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film
+		R16	133	133 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film
+46	4	R13	68	68 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+		R14	68	68 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+		R17	68	68 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+		R18	68	68 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+47	27	R32	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R33	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R34	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R132	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R133	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R138	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R139	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R153	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R154	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R159	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R160	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R174	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R175	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R180	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R181	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R195	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R196	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R201	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R202	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R216	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R217	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R222	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R223	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R237	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R238	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R243	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+		R244	75 Ohm	RES, Thick Film, 75 Ohm, 5.0 %, 1/10 W, SMD, 0603
+48	1	R36	215K	RES, Thick Film, 215K, 1%, 1/10W, SMD, 0603
+49	11	R37	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R39	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R43	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R44	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R51	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R57	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R62	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R66	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R67	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R74	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+		R80	75 Ohm	RES, Thick Film, 75 Ohm, 1.0 %, 1/10 W, SMD, 0805
+50	5	R38	4.99K	RES, Thick Film, 4.99K, 1%, 1/10W, SMD, 0603
+		R40	4.99K	RES, Thick Film, 4.99K, 1%, 1/10W, SMD, 0603
+		R50	4.99K	RES, Thick Film, 4.99K, 1%, 1/10W, SMD, 0603
+		R56	4.99K	RES, Thick Film, 4.99K, 1%, 1/10W, SMD, 0603
+		R61	4.99K	RES, Thick Film, 4.99K, 1%, 1/10W, SMD, 0603
+51	1	R41	1M	RES, Thick Film, 1M, 1%, 1/10W, SMD, 0603
+52	1	R42	17.8k	17.8 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film
+53	1	R45	0.005	RES 0.005 OHM 1% 1/2W 0805
+54	1	R46	12.1K	RES, Thick Film, 12.1K, 1%, 1/10W, SMD, 0603
+55	1	R47	2.32k	2.32 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+56	39	R48	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R49	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R55	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R59	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R60	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R63	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R64	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R65	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R70	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R112	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R113	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R114	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R115	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R118	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R134	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R135	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R155	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R156	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R176	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R177	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R197	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R198	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R218	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R219	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R239	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R240	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R247	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R248	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R249	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R250	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R255	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R256	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R257	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R258	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R259	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R260	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R261	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R262	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+		R263	0	RES, Thick Film, 0, Jumper, 1/10W, SMD, 0402
+57	2	R52	0.0055	Thick Film Resistors - SMD 5.6M ohm 1% 1/8W AEC-Q200
+		R54	0.0055	Thick Film Resistors - SMD 5.6M ohm 1% 1/8W AEC-Q200
+58	2	R53	0.02	CSR0805FK20L0
+		R58	0.02	CSR0805FK20L0
+59	1	R68	300	RES SMD 300 OHM 1% 1/10W 0603
+60	2	R69	200	200 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+		R117	200	200 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+61	3	R75	DNP	RES NS 1/10W 0603
+		R76	DNP	RES NS 1/10W 0603
+		R77	DNP	RES NS 1/10W 0603
+62	1	R78	97.6k	RES SMD 97.6K OHM 1% 1/10W 0402
+63	1	R79	20k	RES SMD 20K OHM 1% 1/5W 0402
+64	22	R83	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R84	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R85	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R86	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R87	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R88	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R89	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R90	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R91	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R92	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R96	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R97	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R98	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R99	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R100	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R101	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R102	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R103	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R245	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R246	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R251	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+		R252	4.7K	RES, Thick Film, 4.7K, 1%, 1/10W, SMD, 0603
+65	3	R93	4.99k	RES SMD 4.99K OHM 1% 1/10W 0402
+		R94	4.99k	RES SMD 4.99K OHM 1% 1/10W 0402
+		R95	4.99k	RES SMD 4.99K OHM 1% 1/10W 0402
+66	1	R116	100	RES, Thick Film, 100, 1%, 1/10W, SMD, 0603
+67	12	R121	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R122	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R142	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R143	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R163	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R164	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R184	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R185	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R205	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R206	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R226	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+		R227	6.81k	RES SMD 6.81K OHM 1% 1/10W 0402
+68	12	R123	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R126	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R144	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R147	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R165	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R168	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R186	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R189	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R207	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R210	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R228	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+		R231	3.83K	RES SMD 3.83K OHM 1% 1/10W 0402
+69	30	R124	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R125	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R127	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R129	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R136	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R145	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R146	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R148	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R150	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R157	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R166	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R167	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R169	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R171	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R178	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R187	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R188	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R190	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R192	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R199	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R208	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R209	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R211	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R213	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R220	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R229	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R230	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R232	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R234	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+		R241	4.7k	RES SMD 4.7K OHM 1% 1/10W 0402
+70	12	R128	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R130	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R149	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R151	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R170	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R172	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R191	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R193	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R212	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R214	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R233	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+		R235	4.99K	RES SMD 4.99K OHM 1% 1/10W 0603
+71	3	R264	49.9	RES SMD 49.9 OHM 1% 1/16W 0402
+		R267	49.9	RES SMD 49.9 OHM 1% 1/16W 0402
+		R268	49.9	RES SMD 49.9 OHM 1% 1/16W 0402
+72	2	R265	ZERO	Carbon Film Resistor ZERO OHM 1/16W 5% 0402 SMD
+		R266	ZERO	Carbon Film Resistor ZERO OHM 1/16W 5% 0402 SMD
+73	1	S1	L101011MS02Q	SLIDE SWITCH 4A @ 28VDC
+74	73	TP1	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP2	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP3	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP4	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP5	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP6	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP7	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP8	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP9	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP10	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP11	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP12	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP13	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP14	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP15	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP16	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP17	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP18	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP19	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP20	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP21	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP23	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP25	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP26	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP27	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP28	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP30	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP31	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP32	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP33	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP34	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP35	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP38	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP39	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP40	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP41	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP42	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP43	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP44	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP45	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP50	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP51	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP52	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP53	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP54	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP55	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP56	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP57	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP58	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP59	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP60	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP61	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP62	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP64	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP66	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP68	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP70	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP72	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP75	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP76	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP77	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP78	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP79	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP80	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP81	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP82	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP83	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP84	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP85	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP86	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP87	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP88	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+		TP89	5002 White	MISC, Testpoint, 5002 White, TH, 2.5x2.5x4.6 mm
+75	1	U1	LTC6957IDD-2#PBF	Clock Fanout Buffer (Distribution) IC 1:2 300MHz 12-WFDFN Exposed Pad
+76	2	U2	MAX9371EKA+	Mixed Signal Translator Unidirectional 1 Circuit 1 Channel  SOT-23-8
+		U3	MAX9371EKA+	Mixed Signal Translator Unidirectional 1 Circuit 1 Channel  SOT-23-8
+77	1	U4	TPS74618PQWDRVRQ1	Linear Voltage Regulator IC  1 Output  1A 6-WSON (2x2)
+78	1	U5	DRTR5V0U4S-7	Clamp  Ipp Tvs Diode Surface Mount SOT-363
+79	1	U6	LT8645SJV-2	Switching Voltage Regulators 65V, 8A Sync Buck Silent Switcher 2 w/ 2
+80	4	U7	TPS7A8500RGRT	IC REG LINEAR POS ADJ 4A 20VQFN
+		U9	TPS7A8500RGRT	IC REG LINEAR POS ADJ 4A 20VQFN
+		U11	TPS7A8500RGRT	IC REG LINEAR POS ADJ 4A 20VQFN
+		U12	TPS7A8500RGRT	IC REG LINEAR POS ADJ 4A 20VQFN
+81	3	U8	LTC2945CUD	IC POWER MONITOR I2C 12-QFN 
+		U10	LTC2945CUD	IC POWER MONITOR I2C 12-QFN 
+		U13	LTC2945CUD	IC POWER MONITOR I2C 12-QFN 
+82	1	U14	50.0MHz	50MHz ±10ppm Crystal 4pF 60 Ohms 4-SMD, No Lead
+83	1	U15	TPS3895ADRYR	Supervisor Push-Pull, Totem Pole 1 Channel 6-SON (1.45x1)
+84	11	U16	GIB_mount_holes	Mounting hole for the GIB
+		U20	GIB_mount_holes	Mounting hole for the GIB
+		U21	GIB_mount_holes	Mounting hole for the GIB
+		U54	GIB_mount_holes	Mounting hole for the GIB
+		U55	GIB_mount_holes	Mounting hole for the GIB
+		U56	GIB_mount_holes	Mounting hole for the GIB
+		U57	GIB_mount_holes	Mounting hole for the GIB
+		U58	GIB_mount_holes	Mounting hole for the GIB
+		U59	GIB_mount_holes	Mounting hole for the GIB
+		U60	GIB_mount_holes	Mounting hole for the GIB
+		U61	GIB_mount_holes	Mounting hole for the GIB
+85	1	U17	TXB0104QPWRQ1	Voltage Level Translator Bidirectional 1 Circuit 4 Channel 100Mbps 14-TSSOP
+86	1	U18	TXB0106IPWRQ1	Voltage Level Translator Bidirectional 1 Circuit 6 Channel 100Mbps 16-TSSOP
+87	1	U19	TCA9548APWR	IC I2C SW 8CH W/RESET 24TSSOP
+88	6	U22	NB7V52MMNG	Flip Flop 1 Element D-Type 1 Bit Negative Edge 16-VFQFN Exposed Pad
+		U26	NB7V52MMNG	Flip Flop 1 Element D-Type 1 Bit Negative Edge 16-VFQFN Exposed Pad
+		U30	NB7V52MMNG	Flip Flop 1 Element D-Type 1 Bit Negative Edge 16-VFQFN Exposed Pad
+		U34	NB7V52MMNG	Flip Flop 1 Element D-Type 1 Bit Negative Edge 16-VFQFN Exposed Pad
+		U38	NB7V52MMNG	Flip Flop 1 Element D-Type 1 Bit Negative Edge 16-VFQFN Exposed Pad
+		U42	NB7V52MMNG	Flip Flop 1 Element D-Type 1 Bit Negative Edge 16-VFQFN Exposed Pad
+89	6	U23	ADN2814ACPZ 	SONET/SDH Clock and Data Recovery (CDR), Multiplexer IC 675MHz 1 Output 32-LFCSP-WQ (5x5) 
+		U27	ADN2814ACPZ 	SONET/SDH Clock and Data Recovery (CDR), Multiplexer IC 675MHz 1 Output 32-LFCSP-WQ (5x5) 
+		U31	ADN2814ACPZ 	SONET/SDH Clock and Data Recovery (CDR), Multiplexer IC 675MHz 1 Output 32-LFCSP-WQ (5x5) 
+		U35	ADN2814ACPZ 	SONET/SDH Clock and Data Recovery (CDR), Multiplexer IC 675MHz 1 Output 32-LFCSP-WQ (5x5) 
+		U39	ADN2814ACPZ 	SONET/SDH Clock and Data Recovery (CDR), Multiplexer IC 675MHz 1 Output 32-LFCSP-WQ (5x5) 
+		U43	ADN2814ACPZ 	SONET/SDH Clock and Data Recovery (CDR), Multiplexer IC 675MHz 1 Output 32-LFCSP-WQ (5x5) 
+90	12	U24	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U25	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U28	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U29	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U32	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U33	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U36	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U37	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U40	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U41	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U44	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+		U45	SN74LVC1G32	OR Gate IC 1 Channel  SOT-23-5
+91	1	U46	LM75AIMX/NOPB	Temperature Sensor Digital, Local -55°C ~ 125°C 8 b 8-SOIC
+92	3	U47	SN74AVC2T45DCTR	Voltage Level Translator Bidirectional 1 Circuit 2 Channel 500Mbps SM8 (SSOP)
+		U50	SN74AVC2T45DCTR	Voltage Level Translator Bidirectional 1 Circuit 2 Channel 500Mbps SM8 (SSOP)
+		U51	SN74AVC2T45DCTR	Voltage Level Translator Bidirectional 1 Circuit 2 Channel 500Mbps SM8 (SSOP)
+93	1	U48	SI5395A-A-GM	IC SNGL PLL JITTER ATTEN 64QFN
+94	1	U49	 24AA025E48T-I/SN	EEPROM Memory IC 2Kb (256 x 8) I²C 400kHz 900ns SOT-23-6 
+95	2	U52	TCA9539PWR	I/O Expander 16 I²C, SMBus 400kHz 24-TSSOP
+		U53	TCA9539PWR	I/O Expander 16 I²C, SMBus 400kHz 24-TSSOP

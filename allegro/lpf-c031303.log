@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LPF-C031303.dra                               )
+(    Software Version : 17.2S064                                      )
+(    Date/Time        : Tue Jun 30 14:39:30 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/SPB_DATA/GPS_INTERFACE_BOARD/allegro
+    Name      = lpf-c031303.bsm
+    User      = HEP
+    Machine   = DESKTOP-9AOKCU1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

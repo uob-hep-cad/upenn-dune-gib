@@ -1,0 +1,26 @@
+Drill Customization Report
+C:/SPB_Data/GPS_INTERFACE_BOARD/allegro/GPS_INTERFACE_BOARDv34.brd
+Wed Jul 01 11:41:11 2020
+
+#,,Type,Size X,Size Y,ToolSize,+ Tolerance,- Tolerance,Symbol Figure,Symbol Characters,Symbol Size X,Symbol Size Y,Plating,Non-standard Drill,Quantity
+1,,Circle Drill,10.00,,,5.00,5.00,Cross,,10.00,10.00,Plated,,2
+2,,Circle Drill,10.00,,,2.00,2.00,Square,,10.00,10.00,Plated,,30
+3,,Circle Drill,10.00,,,0.00,0.00,Hexagon X,,10.00,10.00,Plated,,1768
+4,,Circle Drill,11.81,,,0.00,0.00,Hexagon Y,,11.81,11.81,Plated,,297
+5,,Circle Drill,33.46,,,0.00,0.00,Octagon,,33.46,33.46,Plated,,6
+6,,Circle Drill,35.04,,,0.00,0.00,Diamond,,35.04,35.04,Plated,,8
+7,,Circle Drill,37.40,,,0.00,0.00,Triangle,,37.40,37.40,Plated,,54
+8,,Circle Drill,38.58,,,0.00,0.00,Oblong X,,38.58,28.93,Plated,,10
+9,,Circle Drill,39.37,,,0.00,0.00,Oblong Y,,29.53,39.37,Plated,,12
+10,,Circle Drill,39.37,,,0.00,0.00,Rectangle,,39.37,29.53,Plated,,73
+11,,Circle Drill,40.00,,,3.00,3.00,Circle,,40.00,40.00,Plated,,28
+12,,Circle Drill,41.34,,,0.00,0.00,Null,A,41.34,41.34,Plated,,60
+13,,Circle Drill,50.39,,,0.00,0.00,Null,B,50.39,50.39,Plated,,4
+14,,Circle Drill,64.96,,,0.00,0.00,Null,C,64.96,64.96,Plated,,2
+15,,Circle Drill,66.14,,,0.00,0.00,Null,D,66.14,66.14,Plated,,2
+16,,Circle Drill,79.13,,,0.00,0.00,Null,E,79.13,79.13,Plated,,8
+17,,Circle Drill,106.00,,,0.00,0.00,Null,F,106.00,106.00,Plated,,11
+18,,Circle Drill,51.20,,,0.00,0.00,Null,G,51.20,51.20,Non-Plated,,2
+19,,Circle Drill,61.02,,,0.00,0.00,Null,H,61.02,61.02,Non-Plated,,12
+20,,Circle Drill,131.10,,,0.00,0.00,Null,I,131.10,131.10,Non-Plated,,2
+21,,Oval Slot,90.00,130.00,,10.00,0.00,Oblong Y,OA,90.00,130.00,Non-Plated,,2
