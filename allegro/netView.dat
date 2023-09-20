@@ -1,5 +1,46 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Wed Sep 20 10:04:52 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Wed Sep 20 14:02:12 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!UP TO DATE!
+S!RECOV_DATA_P!@gps_interface_board.\gib top\(sch_1):recov_data_p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01454_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n01454_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CDR_LOS!@gps_interface_board.\gib top\(sch_1):cdr_los!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SQUELCH_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\squelch_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_LOS!@gps_interface_board.\gib top\(sch_1):sfp_los!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CLK_P!@gps_interface_board.\gib top\(sch_1):clk_p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!MOD_ABS_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\mod_abs_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DATA_P!@gps_interface_board.\gib top\(sch_1):data_p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!VCCR_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\vccr_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_RD_N_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\sfp_rd_n_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CLK_N!@gps_interface_board.\gib top\(sch_1):clk_n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!RECOV_CLK_P!@gps_interface_board.\gib top\(sch_1):recov_clk_p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!VREF_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\vref_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N04977_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n04977_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!R_N_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\r_n_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!RECOV_DATA_N!@gps_interface_board.\gib top\(sch_1):recov_data_n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_TD_P_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\sfp_td_p_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!THRADJ_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\thradj_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N136741_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n136741_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_TX_FAULT!@gps_interface_board.\gib top\(sch_1):sfp_tx_fault!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N222361_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n222361_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N04910_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n04910_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_TD_N_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\sfp_td_n_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CDR_ADDR_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\cdr_addr_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!R_P_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\r_p_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N222469_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n222469_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!VCCT_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\vcct_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CDR_LOL!@gps_interface_board.\gib top\(sch_1):cdr_lol!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N141568_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n141568_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_RD_P_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\sfp_rd_p_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SCL!@gps_interface_board.\gib top\(sch_1):scl!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N210584_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n210584_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SDA!@gps_interface_board.\gib top\(sch_1):sda!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CML_SFP_TD_P_SFP INTERFACE_ACLK!@gps_interface_board.\gib top\(sch_1):\cml_sfp_td_p_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!RECOV_CLK_N!@gps_interface_board.\gib top\(sch_1):recov_clk_n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N222457_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n222457_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!CML_SFP_TD_N_SFP INTERFACE_ACLK!@gps_interface_board.\gib top\(sch_1):\cml_sfp_td_n_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01450_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\n01450_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!RS_SFP INTERFACE_ACLK SFP!@gps_interface_board.\gib top\(sch_1):\rs_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!SFP_TX_DIS!@gps_interface_board.\gib top\(sch_1):sfp_tx_dis!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DATA_N!@gps_interface_board.\gib top\(sch_1):data_n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N755912!@gps_interface_board.\gib top\(sch_1):n755912!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N755834!@gps_interface_board.\gib top\(sch_1):n755834!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N755804!@gps_interface_board.\gib top\(sch_1):n755804!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

@@ -2385,4 +2385,890 @@
 \i (00:48:57) setwindow form.plc_rep_unmatched
 \i (00:48:57) FORM plc_rep_unmatched ok  
 \t (00:48:57) Pick new location for the element(s).
-\i (00:48:
+\i (00:48:59) setwindow pcb
+\i (00:48:59) pick grid -85.11 -4667.87
+\t (00:48:59) last pick:  -85.00 -4668.00
+\i (00:48:59) placementedit 
+\i (00:49:17) prepopup 5518.89 -5545.02
+\i (00:49:18) pick grid 3472.21 -4740.96
+\t (00:49:18) last pick:  3472.00 -4741.00
+\i (00:49:21) save 
+\i (00:49:22) fillin yes 
+\t (00:49:22) > Sending response DoneOpenBoard
+\i (00:49:23) placementedit 
+\i (01:00:37) prepopup 2887.45 -5520.65
+\i (01:00:38) pick grid 1973.75 -7433.32
+\t (01:00:38) last pick:  1974.00 -7433.00
+\i (01:02:57) xrefdes U23 
+\i (01:02:57) xNet Gnd_Power 
+\i (01:02:57) xNet Vcc3v3 
+\i (01:02:57) xNet 'Thradj_Sfp Interface_Sfp1' 
+\i (01:02:57) xNet 'Cdr_Addr_Sfp Interface_Sfp1' 
+\i (01:02:57) xNet Fmc.Recov_Clk_P0 
+\i (01:02:57) xNet 'Sfp_Rd_N_Sfp Interface_Sfp1' 
+\i (01:02:57) xrefdes C144 
+\i (01:02:57) xrefdes C145 
+\i (01:02:57) xrefdes Tp50 
+\i (01:02:57) xNet 'Vref_Sfp Interface_Sfp1' 
+\i (01:02:57) xrefdes C149 
+\i (01:02:57) xrefdes C147 
+\i (01:02:57) xrefdes C148 
+\i (01:02:57) xNet Fmc.Recov_Clk_N0 
+\i (01:02:57) xrefdes R134 
+\i (01:02:57) xrefdes C153 
+\i (01:02:57) xNet Fmc.Scl1 
+\i (01:02:57) xNet N224328 
+\i (01:02:57) xNet 'Sfp_Rd_P_Sfp Interface_Sfp1' 
+\i (01:02:57) xNet 'N01454_Sfp Interface_Sfp1' 
+\i (01:02:57) xNet Fmc.Recov_Data_P0 
+\i (01:02:57) xrefdes C152 
+\i (01:02:57) xrefdes Tp56 
+\i (01:02:57) xNet Fmc.Sda1 
+\i (01:02:57) xrefdes C150 
+\i (01:02:57) xrefdes C142 
+\i (01:02:57) xrefdes C143 
+\i (01:02:57) xrefdes C151 
+\i (01:02:57) xNet 'Squelch_Sfp Interface_Sfp1' 
+\i (01:02:57) xrefdes R135 
+\i (01:02:57) xNet 'N01450_Sfp Interface_Sfp1' 
+\i (01:02:57) xNet N224332 
+\i (01:02:57) xrefdes C146 
+\i (01:02:57) xNet Fmc.Recov_Data_N0 
+\i (01:02:57) xrefdes R136 
+\i (01:02:57) xrefdes C154 
+\i (01:02:57) xname_flush 
+\i (01:03:18) xrefdes '!' U23 
+\i (01:03:18) xNet '!' Gnd_Power 
+\i (01:03:18) xNet '!' Vcc3v3 
+\i (01:03:18) xNet '!' 'Thradj_Sfp Interface_Sfp1' 
+\i (01:03:18) xNet '!' 'Cdr_Addr_Sfp Interface_Sfp1' 
+\i (01:03:18) xNet '!' Fmc.Recov_Clk_P0 
+\i (01:03:18) xNet '!' 'Sfp_Rd_N_Sfp Interface_Sfp1' 
+\i (01:03:18) xrefdes '!' C144 
+\i (01:03:18) xrefdes '!' C145 
+\i (01:03:18) xrefdes '!' Tp50 
+\i (01:03:18) xNet '!' 'Vref_Sfp Interface_Sfp1' 
+\i (01:03:18) xrefdes '!' C149 
+\i (01:03:18) xrefdes '!' C147 
+\i (01:03:18) xrefdes '!' C148 
+\i (01:03:18) xNet '!' Fmc.Recov_Clk_N0 
+\i (01:03:18) xrefdes '!' R134 
+\i (01:03:18) xrefdes '!' C153 
+\i (01:03:18) xNet '!' Fmc.Scl1 
+\i (01:03:18) xNet '!' N224328 
+\i (01:03:18) xNet '!' 'Sfp_Rd_P_Sfp Interface_Sfp1' 
+\i (01:03:18) xNet '!' 'N01454_Sfp Interface_Sfp1' 
+\i (01:03:18) xNet '!' Fmc.Recov_Data_P0 
+\i (01:03:18) xrefdes '!' C152 
+\i (01:03:18) xrefdes '!' Tp56 
+\i (01:03:18) xNet '!' Fmc.Sda1 
+\i (01:03:18) xrefdes '!' C150 
+\i (01:03:18) xrefdes '!' C142 
+\i (01:03:18) xrefdes '!' C143 
+\i (01:03:18) xrefdes '!' C151 
+\i (01:03:18) xNet '!' 'Squelch_Sfp Interface_Sfp1' 
+\i (01:03:18) xrefdes '!' R135 
+\i (01:03:18) xNet '!' 'N01450_Sfp Interface_Sfp1' 
+\i (01:03:18) xNet '!' N224332 
+\i (01:03:18) xrefdes '!' C146 
+\i (01:03:18) xNet '!' Fmc.Recov_Data_N0 
+\i (01:03:18) xrefdes '!' R136 
+\i (01:03:18) xrefdes '!' C154 
+\i (01:03:18) xname_flush '!' 
+\i (01:03:21) xNet 'Sfp_Rd_P_Sfp Interface_Sfp1' 
+\i (01:03:21) xname_flush 
+\i (01:03:21) trapsize 567
+\i (01:03:24) xNet 'Sfp_Rd_N_Sfp Interface_Sfp1' 
+\i (01:03:24) xname_flush 
+\i (01:03:24) trapsize 573
+\i (01:03:27) xrefdes Tp50 
+\i (01:03:27) xrefdes Tp56 
+\i (01:03:27) xname_flush 
+\i (01:03:27) trapsize 330
+\i (01:03:33) xrefdes '!' Tp50 
+\i (01:03:33) xrefdes '!' Tp56 
+\i (01:03:33) xname_flush '!' 
+\i (01:03:34) xNet N224336 
+\i (01:03:34) xNet Vcc3v3 
+\i (01:03:34) xrefdes R125 
+\i (01:03:34) xNet N224340 
+\i (01:03:34) xrefdes R124 
+\i (01:03:34) xname_flush 
+\i (01:03:34) trapsize 7426
+\i (01:03:53) xNet '!' N224336 
+\i (01:03:53) xNet '!' Vcc3v3 
+\i (01:03:53) xrefdes '!' R125 
+\i (01:03:53) xNet '!' N224340 
+\i (01:03:53) xrefdes '!' R124 
+\i (01:03:53) xname_flush '!' 
+\i (01:03:55) xNet Vcc3v3 
+\i (01:03:55) xNet Gnd_Power 
+\i (01:03:55) xrefdes C147 
+\i (01:03:55) xrefdes Tp62 
+\i (01:03:55) xrefdes C142 
+\i (01:03:55) xname_flush 
+\i (01:03:55) trapsize 7426
+\i (01:03:56) xNet '!' Vcc3v3 
+\i (01:03:56) xNet '!' Gnd_Power 
+\i (01:03:56) xrefdes '!' C147 
+\i (01:03:56) xrefdes '!' Tp62 
+\i (01:03:56) xrefdes '!' C142 
+\i (01:03:56) xname_flush '!' 
+\i (01:04:01) xrefdes U23 
+\i (01:04:01) xNet Gnd_Power 
+\i (01:04:01) xNet Vcc3v3 
+\i (01:04:01) xNet 'Thradj_Sfp Interface_Sfp1' 
+\i (01:04:01) xNet 'Cdr_Addr_Sfp Interface_Sfp1' 
+\i (01:04:01) xNet Fmc.Recov_Clk_P0 
+\i (01:04:01) xNet 'Sfp_Rd_N_Sfp Interface_Sfp1' 
+\i (01:04:01) xrefdes C144 
+\i (01:04:01) xrefdes C145 
+\i (01:04:01) xNet 'Vref_Sfp Interface_Sfp1' 
+\i (01:04:01) xrefdes C149 
+\i (01:04:01) xrefdes C147 
+\i (01:04:01) xrefdes C148 
+\i (01:04:01) xNet Fmc.Recov_Clk_N0 
+\i (01:04:01) xrefdes R134 
+\i (01:04:01) xrefdes C153 
+\i (01:04:01) xNet Fmc.Scl1 
+\i (01:04:01) xNet N224328 
+\i (01:04:01) xNet 'Sfp_Rd_P_Sfp Interface_Sfp1' 
+\i (01:04:01) xNet 'N01454_Sfp Interface_Sfp1' 
+\i (01:04:01) xNet Fmc.Recov_Data_P0 
+\i (01:04:01) xrefdes C152 
+\i (01:04:01) xNet Fmc.Sda1 
+\i (01:04:01) xrefdes Tp62 
+\i (01:04:01) xrefdes C150 
+\i (01:04:01) xrefdes C142 
+\i (01:04:01) xrefdes C143 
+\i (01:04:01) xrefdes C151 
+\i (01:04:01) xNet 'Squelch_Sfp Interface_Sfp1' 
+\i (01:04:01) xrefdes R135 
+\i (01:04:01) xNet 'N01450_Sfp Interface_Sfp1' 
+\i (01:04:01) xNet N224332 
+\i (01:04:01) xrefdes C146 
+\i (01:04:01) xNet Fmc.Recov_Data_N0 
+\i (01:04:01) xrefdes R136 
+\i (01:04:01) xrefdes C154 
+\i (01:04:01) xname_flush 
+\i (01:04:02) xrefdes '!' U23 
+\i (01:04:02) xNet '!' Gnd_Power 
+\i (01:04:02) xNet '!' Vcc3v3 
+\i (01:04:02) xNet '!' 'Thradj_Sfp Interface_Sfp1' 
+\i (01:04:02) xNet '!' 'Cdr_Addr_Sfp Interface_Sfp1' 
+\i (01:04:02) xNet '!' Fmc.Recov_Clk_P0 
+\i (01:04:02) xNet '!' 'Sfp_Rd_N_Sfp Interface_Sfp1' 
+\i (01:04:02) xrefdes '!' C144 
+\i (01:04:02) xrefdes '!' C145 
+\i (01:04:02) xNet '!' 'Vref_Sfp Interface_Sfp1' 
+\i (01:04:02) xrefdes '!' C149 
+\i (01:04:02) xrefdes '!' C147 
+\i (01:04:02) xrefdes '!' C148 
+\i (01:04:02) xNet '!' Fmc.Recov_Clk_N0 
+\i (01:04:02) xrefdes '!' R134 
+\i (01:04:02) xrefdes '!' C153 
+\i (01:04:02) xNet '!' Fmc.Scl1 
+\i (01:04:02) xNet '!' N224328 
+\i (01:04:02) xNet '!' 'Sfp_Rd_P_Sfp Interface_Sfp1' 
+\i (01:04:02) xNet '!' 'N01454_Sfp Interface_Sfp1' 
+\i (01:04:02) xNet '!' Fmc.Recov_Data_P0 
+\i (01:04:02) xrefdes '!' C152 
+\i (01:04:02) xNet '!' Fmc.Sda1 
+\i (01:04:02) xrefdes '!' Tp62 
+\i (01:04:02) xrefdes '!' C150 
+\i (01:04:02) xrefdes '!' C142 
+\i (01:04:02) xrefdes '!' C143 
+\i (01:04:02) xrefdes '!' C151 
+\i (01:04:02) xNet '!' 'Squelch_Sfp Interface_Sfp1' 
+\i (01:04:02) xrefdes '!' R135 
+\i (01:04:02) xNet '!' 'N01450_Sfp Interface_Sfp1' 
+\i (01:04:02) xNet '!' N224332 
+\i (01:04:02) xrefdes '!' C146 
+\i (01:04:02) xNet '!' Fmc.Recov_Data_N0 
+\i (01:04:02) xrefdes '!' R136 
+\i (01:04:02) xrefdes '!' C154 
+\i (01:04:02) xname_flush '!' 
+\i (01:04:07) xrefdes U23 
+\i (01:04:07) xNet Gnd_Power 
+\i (01:04:07) xNet Vcc3v3 
+\i (01:04:07) xNet 'Thradj_Sfp Interface_Sfp1' 
+\i (01:04:07) xNet 'Cdr_Addr_Sfp Interface_Sfp1' 
+\i (01:04:07) xNet Fmc.Recov_Clk_P0 
+\i (01:04:07) xNet 'Sfp_Rd_N_Sfp Interface_Sfp1' 
+\i (01:04:07) xrefdes C144 
+\i (01:04:07) xrefdes C145 
+\i (01:04:07) xNet 'Vref_Sfp Interface_Sfp1' 
+\i (01:04:07) xrefdes C149 
+\i (01:04:07) xrefdes C147 
+\i (01:04:07) xrefdes C148 
+\i (01:04:07) xNet Fmc.Recov_Clk_N0 
+\i (01:04:07) xrefdes R134 
+\i (01:04:07) xrefdes C153 
+\i (01:04:07) xNet Fmc.Scl1 
+\i (01:04:07) xNet N224328 
+\i (01:04:07) xNet 'Sfp_Rd_P_Sfp Interface_Sfp1' 
+\i (01:04:07) xNet 'N01454_Sfp Interface_Sfp1' 
+\i (01:04:07) xNet Fmc.Recov_Data_P0 
+\i (01:04:07) xrefdes C152 
+\i (01:04:07) xNet Fmc.Sda1 
+\i (01:04:07) xrefdes C150 
+\i (01:04:07) xrefdes C142 
+\i (01:04:07) xrefdes C143 
+\i (01:04:07) xrefdes C151 
+\i (01:04:07) xNet 'Squelch_Sfp Interface_Sfp1' 
+\i (01:04:07) xrefdes R135 
+\i (01:04:07) xNet 'N01450_Sfp Interface_Sfp1' 
+\i (01:04:07) xNet N224332 
+\i (01:04:07) xrefdes C146 
+\i (01:04:07) xNet Fmc.Recov_Data_N0 
+\i (01:04:07) xrefdes R136 
+\i (01:04:07) xrefdes C154 
+\i (01:04:07) xname_flush 
+\i (01:04:46) xrefdes Tp50 
+\i (01:04:46) xrefdes Tp56 
+\i (01:04:46) xname_flush 
+\i (01:04:46) trapsize 330
+\i (01:04:52) xrefdes '!' Tp50 
+\i (01:04:52) xrefdes '!' Tp56 
+\i (01:04:52) xname_flush '!' 
+\i (01:05:11) xNet Fmc.Recov_Data_P0 
+\i (01:05:11) xname_flush 
+\i (01:05:11) trapsize 3775
+\i (01:05:13) xNet '!' Fmc.Recov_Data_P0 
+\i (01:05:13) xname_flush '!' 
+\i (01:05:14) xNet Fmc.Recov_Data_N0 
+\i (01:05:14) xname_flush 
+\i (01:05:14) trapsize 3793
+\i (01:05:18) xNet '!' Fmc.Recov_Data_N0 
+\i (01:05:18) xname_flush '!' 
+\i (01:05:47) xname_flush 
+\i (01:05:48) xname_flush '!' 
+\i (01:05:56) xNet Fmc.Recov_Data_P0 
+\i (01:05:56) xname_flush 
+\i (01:05:56) trapsize 3775
+\i (01:05:57) xNet '!' Fmc.Recov_Data_P0 
+\i (01:05:57) xname_flush '!' 
+\i (01:06:00) xname_flush 
+\i (01:06:00) xname_flush '!' 
+\i (01:06:00) xname_flush 
+\i (01:06:01) xname_flush '!' 
+\i (01:06:08) xNet Fmc.Recov_Data_N0 
+\i (01:06:08) xname_flush 
+\i (01:06:08) trapsize 3793
+\i (01:06:12) xNet '!' Fmc.Recov_Data_N0 
+\i (01:06:12) xname_flush '!' 
+\i (01:06:12) xrefdes Tp50 
+\i (01:06:12) xname_flush 
+\i (01:06:12) trapsize 163
+\i (01:06:37) xrefdes '!' Tp50 
+\i (01:06:37) xname_flush '!' 
+\i (01:06:39) xNet Vcc3v3 
+\i (01:06:39) xrefdes R137 
+\i (01:06:39) xNet 'N222361_Sfp Interface_Sfp1' 
+\i (01:06:39) xrefdes R139 
+\i (01:06:39) xrefdes D19 
+\i (01:06:39) xNet Gnd_Power 
+\i (01:06:39) xrefdes U25 
+\i (01:06:39) xNet 'N222457_Sfp Interface_Sfp1' 
+\i (01:06:39) xrefdes D18 
+\i (01:06:39) xrefdes R138 
+\i (01:06:39) xNet 'N222469_Sfp Interface_Sfp1' 
+\i (01:06:39) xname_flush 
+\i (01:06:39) trapsize 7426
+\i (01:06:53) xNet 'N141568_Sfp Interface_Sfp1' 
+\i (01:06:53) xrefdes R133 
+\i (01:06:53) xrefdes R131 
+\i (01:06:53) xNet 'N210584_Sfp Interface_Sfp1' 
+\i (01:06:53) xrefdes R132 
+\i (01:06:53) xrefdes U24 
+\i (01:06:53) xrefdes D17 
+\i (01:06:53) xrefdes D16 
+\i (01:06:53) xNet N224336 
+\i (01:06:53) xNet N224340 
+\i (01:06:53) xNet 'N136741_Sfp Interface_Sfp1' 
+\i (01:06:53) xname_flush 
+\i (01:06:53) trapsize 2879
+\i (01:07:00) xNet '!' 'N141568_Sfp Interface_Sfp1' 
+\i (01:07:00) xrefdes '!' R133 
+\i (01:07:00) xrefdes '!' R131 
+\i (01:07:00) xNet '!' 'N210584_Sfp Interface_Sfp1' 
+\i (01:07:00) xrefdes '!' R132 
+\i (01:07:00) xNet '!' Gnd_Power 
+\i (01:07:00) xrefdes '!' U24 
+\i (01:07:00) xNet '!' Vcc3v3 
+\i (01:07:00) xrefdes '!' D17 
+\i (01:07:00) xrefdes '!' D16 
+\i (01:07:00) xNet '!' N224336 
+\i (01:07:00) xNet '!' N224340 
+\i (01:07:00) xNet '!' 'N136741_Sfp Interface_Sfp1' 
+\i (01:07:00) xname_flush '!' 
+\i (01:07:02) xNet Gnd_Power 
+\i (01:07:02) xNet N224336 
+\i (01:07:02) xNet Fmc.Recov_Data_P0 
+\i (01:07:02) xNet Vcc3v3 
+\i (01:07:02) xrefdes R128 
+\i (01:07:02) xNet 'R_P_Sfp Interface_Sfp1' 
+\i (01:07:02) xrefdes C137 
+\i (01:07:02) xrefdes R120 
+\i (01:07:02) xrefdes R125 
+\i (01:07:02) xNet Fmc.Recov_Data_N0 
+\i (01:07:02) xrefdes C134 
+\i (01:07:02) xNet Vcc2v5 
+\i (01:07:02) xNet 'Cml_Sfp_Td_P_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet 'Vccr_Sfp Interface_Sfp1' 
+\i (01:07:02) xrefdes C140 
+\i (01:07:02) xrefdes U22 
+\i (01:07:02) xrefdes R129 
+\i (01:07:02) xNet 'Cml_Sfp_Td_N_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet 'Vcct_Sfp Interface_Sfp1' 
+\i (01:07:02) xrefdes Tp50 
+\i (01:07:02) xNet N224340 
+\i (01:07:02) xNet Fmc.Sda1 
+\i (01:07:02) xNet 'R_N_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet 'Sfp_Td_N_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet 'Sfp_Td_P_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet Clk_To_Sfp.Clk_To_Sfp_P0 
+\i (01:07:02) xrefdes R127 
+\i (01:07:02) xrefdes R130 
+\i (01:07:02) xNet 'Rs_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet Fmc.Scl1 
+\i (01:07:02) xrefdes C132 
+\i (01:07:02) xNet 'N04977_Sfp Interface_Sfp1' 
+\i (01:07:02) xNet Fmc.Sfp_Tx_Disable0 
+\i (01:07:02) xNet 'N04910_Sfp Interface_Sfp1' 
+\i (01:07:02) xrefdes R121 
+\i (01:07:02) xrefdes C139 
+\i (01:07:02) xrefdes L7 
+\i (01:07:02) xrefdes C136 
+\i (01:07:02) xrefdes R123 
+\i (01:07:02) xrefdes C138 
+\i (01:07:02) xrefdes Tp56 
+\i (01:07:02) xNet Fmc.Data_To_Ff_P0 
+\i (01:07:02) xrefdes C133 
+\i (01:07:02) xrefdes R119 
+\i (01:07:02) xrefdes J13 
+\i (01:07:02) xrefdes R126 
+\i (01:07:02) xrefdes L8 
+\i (01:07:02) xNet Clk_To_Sfp.Clk_To_Sfp_N0 
+\i (01:07:02) xrefdes R124 
+\i (01:07:02) xNet 'Mod_Abs_Sfp Interface_Sfp1' 
+\i (01:07:02) xrefdes C141 
+\i (01:07:02) xNet Fmc.Data_To_Ff_N0 
+\i (01:07:02) xrefdes R122 
+\i (01:07:02) xrefdes C135 
+\i (01:07:02) xname_flush 
+\i (01:07:07) xNet '!' Gnd_Power 
+\i (01:07:07) xNet '!' N224336 
+\i (01:07:07) xNet '!' Fmc.Recov_Data_P0 
+\i (01:07:07) xNet '!' Vcc3v3 
+\i (01:07:07) xrefdes '!' R128 
+\i (01:07:07) xNet '!' 'R_P_Sfp Interface_Sfp1' 
+\i (01:07:07) xrefdes '!' C137 
+\i (01:07:07) xrefdes '!' R120 
+\i (01:07:07) xrefdes '!' R125 
+\i (01:07:07) xNet '!' Fmc.Recov_Data_N0 
+\i (01:07:07) xrefdes '!' C134 
+\i (01:07:07) xNet '!' Vcc2v5 
+\i (01:07:07) xNet '!' 'Cml_Sfp_Td_P_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' 'Vccr_Sfp Interface_Sfp1' 
+\i (01:07:07) xrefdes '!' C140 
+\i (01:07:07) xrefdes '!' U22 
+\i (01:07:07) xrefdes '!' R129 
+\i (01:07:07) xNet '!' 'Cml_Sfp_Td_N_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' 'Vcct_Sfp Interface_Sfp1' 
+\i (01:07:07) xrefdes '!' Tp50 
+\i (01:07:07) xNet '!' N224340 
+\i (01:07:07) xNet '!' Fmc.Sda1 
+\i (01:07:07) xNet '!' 'R_N_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' 'Sfp_Td_N_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' 'Sfp_Td_P_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' Clk_To_Sfp.Clk_To_Sfp_P0 
+\i (01:07:07) xrefdes '!' R127 
+\i (01:07:07) xrefdes '!' R130 
+\i (01:07:07) xNet '!' 'Rs_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' Fmc.Scl1 
+\i (01:07:07) xrefdes '!' C132 
+\i (01:07:07) xNet '!' 'N04977_Sfp Interface_Sfp1' 
+\i (01:07:07) xNet '!' Fmc.Sfp_Tx_Disable0 
+\i (01:07:07) xNet '!' 'N04910_Sfp Interface_Sfp1' 
+\i (01:07:07) xrefdes '!' R121 
+\i (01:07:07) xrefdes '!' C139 
+\i (01:07:07) xrefdes '!' L7 
+\i (01:07:07) xrefdes '!' C136 
+\i (01:07:07) xrefdes '!' R123 
+\i (01:07:07) xrefdes '!' C138 
+\i (01:07:07) xrefdes '!' Tp56 
+\i (01:07:07) xNet '!' Fmc.Data_To_Ff_P0 
+\i (01:07:07) xrefdes '!' C133 
+\i (01:07:07) xrefdes '!' R119 
+\i (01:07:07) xrefdes '!' J13 
+\i (01:07:07) xrefdes '!' R126 
+\i (01:07:07) xrefdes '!' L8 
+\i (01:07:07) xNet '!' Clk_To_Sfp.Clk_To_Sfp_N0 
+\i (01:07:07) xrefdes '!' R124 
+\i (01:07:07) xNet '!' 'Mod_Abs_Sfp Interface_Sfp1' 
+\i (01:07:07) xrefdes '!' C141 
+\i (01:07:07) xNet '!' Fmc.Data_To_Ff_N0 
+\i (01:07:07) xrefdes '!' R122 
+\i (01:07:07) xrefdes '!' C135 
+\i (01:07:07) xname_flush '!' 
+\i (01:07:12) xNet 'N141568_Sfp Interface_Sfp1' 
+\i (01:07:12) xrefdes R133 
+\i (01:07:12) xrefdes R131 
+\i (01:07:12) xNet 'N210584_Sfp Interface_Sfp1' 
+\i (01:07:12) xrefdes R132 
+\i (01:07:12) xNet Gnd_Power 
+\i (01:07:12) xrefdes U24 
+\i (01:07:12) xNet Vcc3v3 
+\i (01:07:12) xrefdes D17 
+\i (01:07:12) xrefdes D16 
+\i (01:07:12) xNet N224336 
+\i (01:07:12) xNet N224340 
+\i (01:07:12) xNet 'N136741_Sfp Interface_Sfp1' 
+\i (01:07:12) xname_flush 
+\i (01:07:12) trapsize 7426
+\i (01:07:17) xNet '!' 'N141568_Sfp Interface_Sfp1' 
+\i (01:07:17) xrefdes '!' R133 
+\i (01:07:17) xrefdes '!' R131 
+\i (01:07:17) xNet '!' 'N210584_Sfp Interface_Sfp1' 
+\i (01:07:17) xrefdes '!' R132 
+\i (01:07:17) xNet '!' Gnd_Power 
+\i (01:07:17) xrefdes '!' U24 
+\i (01:07:17) xNet '!' Vcc3v3 
+\i (01:07:17) xrefdes '!' D17 
+\i (01:07:17) xrefdes '!' D16 
+\i (01:07:17) xNet '!' N224336 
+\i (01:07:17) xNet '!' N224340 
+\i (01:07:17) xNet '!' 'N136741_Sfp Interface_Sfp1' 
+\i (01:07:17) xname_flush '!' 
+\i (01:07:18) xNet Gnd_Power 
+\i (01:07:18) xrefdes Tp62 
+\i (01:07:18) xname_flush 
+\i (01:07:18) trapsize 7426
+\i (01:07:19) xNet '!' Gnd_Power 
+\i (01:07:19) xrefdes '!' Tp62 
+\i (01:07:19) xname_flush '!' 
+\i (01:07:19) xrefdes Tp62.1 
+\i (01:07:19) xname_flush 
+\i (01:07:19) trapsize 117
+\i (01:07:21) xrefdes '!' Tp62.1 
+\i (01:07:21) xname_flush '!' 
+\i (01:07:21) xNet Gnd_Power 
+\i (01:07:21) xrefdes Tp62 
+\i (01:07:21) xname_flush 
+\i (01:07:21) trapsize 7426
+\i (01:07:32) xNet '!' Gnd_Power 
+\i (01:07:32) xrefdes '!' Tp62 
+\i (01:07:32) xname_flush '!' 
+\i (01:07:57) xNet N224336 
+\i (01:07:57) xNet Vcc3v3 
+\i (01:07:57) xrefdes R125 
+\i (01:07:57) xNet N224340 
+\i (01:07:57) xrefdes R124 
+\i (01:07:57) xname_flush 
+\i (01:07:57) trapsize 7426
+\i (01:08:03) xNet '!' N224336 
+\i (01:08:03) xNet '!' Vcc3v3 
+\i (01:08:03) xrefdes '!' R125 
+\i (01:08:03) xNet '!' N224340 
+\i (01:08:03) xrefdes '!' R124 
+\i (01:08:03) xname_flush '!' 
+\i (01:10:09) xNet Fmc.Recov_Clk_P0 
+\i (01:10:09) xname_flush 
+\i (01:10:09) trapsize 3198
+\i (01:10:12) xNet Fmc.Recov_Clk_N0 
+\i (01:10:12) xname_flush 
+\i (01:10:12) trapsize 3210
+\i (01:10:13) xNet Fmc.Recov_Data_P0 
+\i (01:10:13) xname_flush 
+\i (01:10:13) trapsize 3775
+\i (01:10:14) xNet Fmc.Recov_Data_N0 
+\i (01:10:14) xname_flush 
+\i (01:10:14) trapsize 3793
+\i (01:10:15) xNet N224328 
+\i (01:10:15) xname_flush 
+\i (01:10:15) trapsize 2228
+\i (01:10:16) xNet N224332 
+\i (01:10:16) xname_flush 
+\i (01:10:16) trapsize 2092
+\i (01:10:17) xNet N224336 
+\i (01:10:17) xname_flush 
+\i (01:10:17) trapsize 2861
+\i (01:10:20) xNet '!' N224336 
+\i (01:10:20) xname_flush '!' 
+\i (01:10:20) xname_flush 
+\i (01:10:33) xname_flush '!' 
+\i (01:10:33) xNet N224340 
+\i (01:10:33) xname_flush 
+\i (01:10:33) trapsize 2879
+\i (01:10:38) xNet '!' N224340 
+\i (01:10:38) xname_flush '!' 
+\i (01:10:38) xname_flush 
+\i (01:10:42) xname_flush '!' 
+\i (01:10:42) xNet N224336 
+\i (01:10:42) xname_flush 
+\i (01:10:42) trapsize 2861
+\i (01:10:46) xNet N224340 
+\i (01:10:46) xname_flush 
+\i (01:10:46) trapsize 2879
+\i (01:15:22) xname_flush 
+\i (01:15:25) xname_flush '!' 
+\i (01:15:25) xname_flush 
+\i (01:15:31) xname_flush '!' 
+\i (01:15:31) xname_flush 
+\i (01:15:32) xname_flush '!' 
+\i (01:15:32) xname_flush 
+\i (01:15:34) xname_flush '!' 
+\i (01:15:34) xname_flush 
+\i (01:15:36) xname_flush '!' 
+\i (01:15:36) xname_flush 
+\i (01:15:38) xname_flush '!' 
+\i (01:15:38) xname_flush 
+\i (01:15:42) xname_flush '!' 
+\i (01:15:42) xname_flush 
+\i (01:15:45) xname_flush '!' 
+\i (01:15:45) xname_flush 
+\i (01:15:48) xname_flush '!' 
+\i (01:15:48) xname_flush 
+\i (01:15:50) xname_flush '!' 
+\i (03:29:15) xname_flush 
+\i (03:29:29) xname_flush '!' 
+\i (03:29:29) xname_flush 
+\i (03:29:41) xname_flush '!' 
+\i (03:29:41) xname_flush 
+\i (03:29:47) xname_flush '!' 
+\i (03:29:47) xname_flush 
+\i (03:30:05) xname_flush '!' 
+\i (03:30:05) xname_flush 
+\i (03:30:13) xname_flush '!' 
+\i (03:30:13) xname_flush 
+\i (03:30:20) xname_flush '!' 
+\i (03:30:20) xname_flush 
+\i (03:30:26) xname_flush '!' 
+\i (03:30:26) xname_flush 
+\i (03:30:32) xname_flush '!' 
+\i (03:30:38) xname_flush 
+\i (03:30:45) xname_flush '!' 
+\i (03:30:52) xname_flush 
+\i (03:31:04) xname_flush '!' 
+\i (03:31:04) xname_flush 
+\i (03:31:07) xname_flush '!' 
+\i (03:31:07) xname_flush 
+\i (03:31:11) xname_flush '!' 
+\i (03:32:14) xname_flush 
+\i (03:32:21) xname_flush '!' 
+\i (03:32:21) xNet Fmc.Recov_Clk_P1 
+\i (03:32:21) xname_flush 
+\i (03:32:21) trapsize 2719
+\i (03:32:24) xNet '!' Fmc.Recov_Clk_P1 
+\i (03:32:24) xname_flush '!' 
+\i (03:32:25) xNet Fmc.Recov_Clk_P1 
+\i (03:32:25) xname_flush 
+\i (03:32:25) trapsize 2719
+\i (03:57:39) xname_flush 
+\i (03:57:42) xname_flush 
+\i (03:57:48) xname_flush 
+\i (03:58:09) xname_flush 
+\i (03:58:21) xNet N224460 
+\i (03:58:21) xname_flush 
+\i (03:58:21) trapsize 2651
+\i (04:05:22) xname_flush 
+\i (04:05:22) xname_flush '!' 
+\i (04:05:25) xname_flush 
+\i (04:05:35) xname_flush '!' 
+\i (04:05:35) xname_flush 
+\i (04:05:36) xname_flush '!' 
+\i (04:05:37) xname_flush 
+\i (04:05:39) xname_flush 
+\i (04:05:41) xname_flush 
+\i (04:05:42) xname_flush 
+\i (04:05:44) xname_flush 
+\i (04:05:46) xname_flush 
+\i (04:05:47) xname_flush 
+\i (04:05:48) xname_flush 
+\i (04:05:51) xname_flush 
+\i (04:05:52) xname_flush 
+\i (04:05:53) xname_flush 
+\i (04:05:55) xname_flush 
+\i (04:08:17) xname_flush 
+\i (04:08:20) xname_flush 
+\i (04:08:24) xname_flush 
+\i (04:08:24) xname_flush '!' 
+\i (04:08:25) xname_flush 
+\i (04:08:29) xname_flush 
+\i (04:08:32) xNet Fmc.Recov_Data_P1 
+\i (04:08:32) xname_flush 
+\i (04:08:32) trapsize 3281
+\i (04:08:35) xNet Fmc.Recov_Data_N1 
+\i (04:08:35) xname_flush 
+\i (04:08:35) trapsize 3299
+\i (04:08:36) xNet N267255 
+\i (04:08:36) xname_flush 
+\i (04:08:37) trapsize 2662
+\i (04:08:39) xname_flush 
+\i (04:08:44) xname_flush '!' 
+\i (04:08:49) xNet N267259 
+\i (04:08:49) xname_flush 
+\i (04:08:49) trapsize 2491
+\i (04:08:50) xname_flush 
+\i (04:08:55) xname_flush 
+\i (04:08:59) xNet Fmc.Recov_Data_P2 
+\i (04:08:59) xname_flush 
+\i (04:08:59) trapsize 2779
+\i (04:09:01) xNet Fmc.Recov_Data_N2 
+\i (04:09:01) xname_flush 
+\i (04:09:01) trapsize 2798
+\i (04:09:04) xNet N224392 
+\i (04:09:04) xname_flush 
+\i (04:09:04) trapsize 2577
+\i (04:09:06) xNet N224396 
+\i (04:09:06) xname_flush 
+\i (04:09:06) trapsize 2450
+\i (04:09:08) xname_flush 
+\i (04:09:10) xname_flush 
+\i (04:09:12) xNet Fmc.Recov_Data_P3 
+\i (04:09:12) xname_flush 
+\i (04:09:12) trapsize 2561
+\i (04:09:15) xNet Fmc.Recov_Data_N3 
+\i (04:09:15) xname_flush 
+\i (04:09:15) trapsize 2561
+\i (04:09:22) xNet N224424 
+\i (04:09:22) xname_flush 
+\i (04:09:22) trapsize 2661
+\i (04:09:23) xNet N224428 
+\i (04:09:23) xname_flush 
+\i (04:09:23) trapsize 2535
+\i (04:09:25) xname_flush 
+\i (04:09:27) xname_flush 
+\i (04:09:31) xNet Fmc.Recov_Data_N4 
+\i (04:09:31) xname_flush 
+\i (04:09:31) trapsize 2561
+\i (04:09:33) xNet Fmc.Recov_Data_P4 
+\i (04:09:33) xname_flush 
+\i (04:09:33) trapsize 2561
+\i (04:09:34) xNet N224456 
+\i (04:09:34) xname_flush 
+\i (04:09:34) trapsize 2755
+\i (04:09:36) xNet N224460 
+\i (04:09:36) xname_flush 
+\i (04:09:36) trapsize 2651
+\i (04:09:38) xname_flush 
+\i (04:09:39) xname_flush 
+\i (04:09:41) xNet Fmc.Recov_Data_N5 
+\i (04:09:41) xname_flush 
+\i (04:09:41) trapsize 2658
+\i (04:09:43) xNet Fmc.Recov_Data_P5 
+\i (04:09:43) xname_flush 
+\i (04:09:43) trapsize 2658
+\i (04:09:44) xNet N224484 
+\i (04:09:44) xname_flush 
+\i (04:09:44) trapsize 2662
+\i (04:09:45) xNet N224488 
+\i (04:09:45) xname_flush 
+\i (04:09:45) trapsize 2495
+\i (04:11:33) xname_flush 
+\i (04:11:37) xname_flush '!' 
+\i (04:12:01) xname_flush 
+\i (04:12:12) xname_flush 
+\i (04:12:17) xname_flush '!' 
+\i (04:12:17) xname_flush 
+\i (04:12:20) xname_flush 
+\i (04:12:21) xname_flush 
+\i (04:12:23) xname_flush 
+\i (04:12:36) xname_flush 
+\i (04:12:40) xNet '!' Fmc.Recov_Data_P0 
+\i (04:12:40) xname_flush '!' 
+\i (04:12:41) xNet Fmc.Recov_Data_P0 
+\i (04:12:41) xname_flush 
+\i (04:12:41) trapsize 3775
+\i (04:12:42) xNet '!' Fmc.Recov_Data_P0 
+\i (04:12:42) xname_flush '!' 
+\i (04:12:42) xname_flush 
+\i (04:12:44) xname_flush '!' 
+\i (04:12:44) xname_flush 
+\i (04:12:46) xname_flush '!' 
+\i (04:12:46) xname_flush 
+\i (04:12:49) xname_flush '!' 
+\i (04:12:51) xname_flush 
+\i (04:12:54) xname_flush '!' 
+\i (04:12:54) xname_flush 
+\i (04:12:58) xname_flush '!' 
+\i (04:12:58) xname_flush 
+\i (04:13:03) xname_flush '!' 
+\i (04:13:03) xname_flush 
+\i (04:13:03) xname_flush '!' 
+\i (04:13:03) xname_flush 
+\i (04:13:04) xname_flush '!' 
+\i (04:13:14) xname_flush 
+\i (04:13:17) xname_flush '!' 
+\i (04:13:17) xname_flush 
+\i (04:13:18) xname_flush '!' 
+\i (04:13:19) xname_flush 
+\i (04:13:21) xname_flush '!' 
+\i (04:13:21) xname_flush 
+\i (04:13:24) xname_flush '!' 
+\i (04:13:28) xname_flush 
+\i (04:13:30) xname_flush '!' 
+\i (04:13:31) xname_flush 
+\i (04:13:33) xname_flush '!' 
+\i (04:13:33) xname_flush 
+\i (04:13:38) xname_flush '!' 
+\i (04:13:38) xname_flush 
+\i (04:13:38) xname_flush '!' 
+\i (04:13:38) xname_flush 
+\i (04:13:40) xname_flush '!' 
+\i (04:13:43) xname_flush 
+\i (04:13:45) xname_flush '!' 
+\i (04:13:45) xname_flush 
+\i (04:13:48) xname_flush '!' 
+\i (04:13:48) xname_flush 
+\i (04:13:51) xname_flush '!' 
+\i (04:13:54) xname_flush 
+\i (04:13:56) xname_flush '!' 
+\i (04:13:57) xname_flush 
+\i (04:14:03) xname_flush '!' 
+\i (04:14:05) xname_flush 
+\i (04:14:07) xname_flush '!' 
+\i (04:14:07) xname_flush 
+\i (04:14:09) xname_flush '!' 
+\i (04:14:12) xname_flush 
+\i (04:14:14) xname_flush '!' 
+\i (04:14:14) xname_flush 
+\i (04:14:19) xname_flush '!' 
+\i (04:14:19) xname_flush 
+\i (04:14:22) xNet '!' Fmc.Recov_Data_N2 
+\i (04:14:22) xname_flush '!' 
+\i (04:14:23) xNet Fmc.Recov_Data_N2 
+\i (04:14:23) xname_flush 
+\i (04:14:23) trapsize 2798
+\i (04:14:23) xNet '!' Fmc.Recov_Data_N2 
+\i (04:14:23) xname_flush '!' 
+\i (04:14:23) xNet Fmc.Recov_Data_N2 
+\i (04:14:23) xname_flush 
+\i (04:14:23) trapsize 2798
+\i (04:14:24) xNet '!' Fmc.Recov_Data_N2 
+\i (04:14:24) xname_flush '!' 
+\i (04:14:31) xname_flush 
+\i (04:14:32) xname_flush '!' 
+\i (04:14:32) xname_flush 
+\i (04:14:36) xname_flush '!' 
+\i (04:14:38) xname_flush 
+\i (04:14:44) xNet '!' Fmc.Recov_Data_N3 
+\i (04:14:44) xname_flush '!' 
+\i (04:14:45) xNet Fmc.Recov_Data_N3 
+\i (04:14:45) xname_flush 
+\i (04:14:45) trapsize 2561
+\i (04:14:50) xNet '!' Fmc.Recov_Data_N3 
+\i (04:14:50) xname_flush '!' 
+\i (04:14:52) xname_flush 
+\i (04:14:59) xNet '!' Fmc.Recov_Data_P4 
+\i (04:14:59) xname_flush '!' 
+\i (04:14:59) xNet Fmc.Recov_Data_P4 
+\i (04:14:59) xname_flush 
+\i (04:14:59) trapsize 2561
+\i (04:15:01) xNet '!' Fmc.Recov_Data_P4 
+\i (04:15:01) xname_flush '!' 
+\i (04:15:03) xname_flush 
+\i (04:15:05) xNet '!' Fmc.Recov_Data_N4 
+\i (04:15:05) xname_flush '!' 
+\i (04:15:05) xNet Fmc.Recov_Data_N4 
+\i (04:15:05) xname_flush 
+\i (04:15:05) trapsize 2561
+\i (04:15:10) xNet '!' Fmc.Recov_Data_N4 
+\i (04:15:10) xname_flush '!' 
+\i (04:15:10) xNet Fmc.Recov_Data_N4 
+\i (04:15:10) xname_flush 
+\i (04:15:10) trapsize 2561
+\i (04:15:13) xNet '!' Fmc.Recov_Data_N4 
+\i (04:15:13) xname_flush '!' 
+\i (04:15:13) xNet Fmc.Recov_Data_N4 
+\i (04:15:13) xname_flush 
+\i (04:15:13) trapsize 2561
+\i (04:15:14) xNet '!' Fmc.Recov_Data_N4 
+\i (04:15:14) xname_flush '!' 
+\i (04:15:14) xNet Fmc.Recov_Data_N4 
+\i (04:15:14) xname_flush 
+\i (04:15:14) trapsize 2561
+\i (04:15:14) xNet '!' Fmc.Recov_Data_N4 
+\i (04:15:14) xname_flush '!' 
+\i (04:15:23) xname_flush 
+\i (04:15:24) xname_flush '!' 
+\i (04:15:24) xname_flush 
+\i (04:15:25) xname_flush '!' 
+\i (04:15:28) xname_flush 
+\i (04:15:30) xname_flush '!' 
+\i (04:15:30) xname_flush 
+\i (04:15:32) xname_flush '!' 
+\i (04:15:32) xname_flush 
+\i (04:15:36) xname_flush '!' 
+\i (04:15:36) xname_flush 
+\i (04:15:40) xNet '!' Fmc.Recov_Data_P5 
+\i (04:15:40) xname_flush '!' 
+\i (04:15:41) xNet Fmc.Recov_Data_P5 
+\i (04:15:41) xname_flush 
+\i (04:15:41) trapsize 2658
+\i (04:15:41) xNet '!' Fmc.Recov_Data_P5 
+\i (04:15:41) xname_flush '!' 
+\i (04:15:41) xNet Fmc.Recov_Data_P5 
+\i (04:15:41) xname_flush 
+\i (04:15:41) trapsize 2658
+\i (04:15:42) xNet '!' Fmc.Recov_Data_P5 
+\i (04:15:42) xname_flush '!' 
+\i (04:15:47) xname_flush 
+\i (04:15:51) xname_flush '!' 
+\i (04:15:51) xname_flush 
+\i (04:16:21) xname_flush '!' 
+\i (04:16:31) xname_flush 
+\i (04:16:36) xname_flush '!' 
+\i (04:16:55) xNet Fmc.Recov_Data_N0 
+\i (04:16:55) xname_flush 
+\i (04:16:55) trapsize 3793
+\i (04:17:00) xNet '!' Fmc.Recov_Data_N0 
+\i (04:17:00) xname_flush '!' 
+\i (04:17:00) xNet Fmc.Recov_Data_N0 
+\i (04:17:00) xname_flush 
+\i (04:17:00) trapsize 3793
+\i (04:17:13) xNet '!' Fmc.Recov_Data_N0 
+\i (04:17:13) xname_flush '!' 
+\i (04:17:16) xname_flush 
+\i (04:17:16) xname_flush '!' 
+\i (04:17:16) xname_flush 
+\i (04:17:18) xname_flush '!' 
+\i (04:18:12) xNet Fmc.Recov_Data_N1 
+\i (04:18:12) xname_flush 
+\i (04:18:12) trapsize 3299
+\i (04:18:23) xNet '!' Fmc.Recov_Data_N1 
+\i (04:18:23) xname_flush '!' 
+\i (04:18:36) xNet Fmc.Recov_Data_P2 
+\i (04:18:36) xname_flush 
+\i (04:18:36) trapsize 2779
+\i (04:18:43) xNet '!' Fmc.Recov_Data_P2 
+\i (04:18:43) xname_flush '!' 
+\i (04:19:08) xNet Fmc.Recov_Data_P3 
+\i (04:19:08) xname_flush 
+\i (04:19:08) trapsize 2561
+\i (04:19:14) xNet '!' Fmc.Recov_Data_P3 
+\i (04:19:14) xname_flush '!' 
+\i (04:19:37) xNet Fmc.Recov_Data_N4 
+\i (04:19:37) xname_flush 
+\i (04:19:37) trapsize 2561
+\i (04:19:42) xNet '!' Fmc.Recov_Data_N4 
+\i (04:19:42) xname_flush '!' 
+\i (04:19:42) xNet Fmc.Recov_Data_N4 
+\i (04:19:42) xname_flush 
+\i (04:19:42) trapsize 2561
+\i (04:19:42) xNet '!' Fmc.Recov_Data_N4 
+\i (04:19:42) xname_flush '!' 
+\i (04:19:42) xNet Fmc.Recov_Data_N4 
+\i (04:19:42) xname_flush 
+\i (04:19:42) trapsize 2561
+\i (04:19:45) xNet '!' Fmc.Recov_Data_N4 
+\i (04:19:45) xname_flush '!' 
+\i (04:20:19) xname_flush 
+\i (04:20:31) xname_flush 
+\i (04:20:39) xname_flush '!' 
+\i (04:20:39) xNet Fmc.Recov_Data_P5 
+\i (04:20:39) xname_flush 
+\i (04:20:39) trapsize 2658
+\i (04:20:49) xname_flush 
+\i (04:21:44) xname_flush

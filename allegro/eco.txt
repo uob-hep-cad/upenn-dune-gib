@@ -3,529 +3,384 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  CDR_ADDR_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 R2688.1                        
-                                 U104.19                        
+  CDR_ADDR_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           CDR_ADDR     
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  CDR_LOL      pins ADDED TO this new net
-                                 U104.16                        
-                                 U106.1                         
+  FMC.RECOV_DATA_N5 pins MOVED FROM this net (to net name listed on right)
+                                 J8.G37          5175.00  475.00
+                                                                        N351531
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  CDR_LOS      pins ADDED TO this new net
-                                 U104.22                        
-                                 U106.2                         
+  FMC.RECOV_DATA_P5 pins MOVED FROM this net (to net name listed on right)
+                                 J8.G36          5225.00  475.00
+                                                                        N351462
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  CLK_N        pins ADDED TO this new net
-                                 U103.7                         
+  N01450_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           N01450       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  CLK_P        pins ADDED TO this new net
-                                 U103.6                         
+  N01454_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           N01454       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  CML_SFP_TD_N_SFP INTERFACE_ACLK pins ADDED TO this new net
-                                 C2721.1                        
-                                 R2672.2                        
-                                 U103.10                        
+  N222361_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           N222361      
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  CML_SFP_TD_P_SFP INTERFACE_ACLK pins ADDED TO this new net
-                                 C2720.1                        
-                                 R2671.2                        
-                                 U103.11                        
+  N222457_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           N222457      
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  DATA_N       pins ADDED TO this new net
-                                 U103.3                         
+  N222469_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           N222469      
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  DATA_P       pins ADDED TO this new net
-                                 U103.2                         
+  N224328      pins DELETED FROM this net (all pins deleted)
+                                 U53.4           8733.14  547.02
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
-                                 C2712.2                        
-                                 C2713.2                        
-                                 C2714.1                        
-                                 C2715.2                        
-                                 C2716.2                        
-                                 C2717.1                        
-                                 C2718.1                        
-                                 C2719.1                        
-                                 C2722.1                        
-                                 C2723.1                        
+  N224332      pins DELETED FROM this net (all pins deleted)
+                                 U53.5           8733.14  572.61
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224336      net RENAMED (to net name listed on right)           N351209      
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224340      net RENAMED (to net name listed on right)           N351234      
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224392      pins DELETED FROM this net (all pins deleted)
+                                 U53.13          8500.86  751.75
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224396      pins DELETED FROM this net (all pins deleted)
+                                 U53.14          8500.86  726.16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224424      pins DELETED FROM this net (all pins deleted)
+                                 U53.17          8500.86  649.39
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224428      pins DELETED FROM this net (all pins deleted)
+                                 U53.18          8500.86  623.80
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224456      pins DELETED FROM this net (all pins deleted)
+                                 U52.4           8094.14  542.02
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 C2724.1                        
-                                 C2725.1                        
-                                 C2726.1                        
-                                 C2727.2                        
-                                 C2728.2                        
-                                 C2729.2                        
-                                 C2730.2                        
-                                 C2731.2                        
-                                 C2733.1                        
-                                 C2734.2                        
-                                 J30.1                          
-                                 J30.9                          
-                                 J30.10                         
-                                 J30.11                         
-                                 J30.14                         
-                                 J30.17                         
-                                 J30.20                         
-                                 J30.S1                         
-                                 J30.S2                         
-                                 J30.S3                         
-                                 J30.S4                         
-                                 J30.S5                         
-                                 J30.S6                         
-                                 J30.S7                         
-                                 J30.S8                         
-                                 J30.S9                         
-                                 J30.S10                        
-                                 J30.S11                        
-                                 J30.S12                        
-                                 J30.S13                        
-                                 J30.S14                        
-                                 J30.S15                        
-                                 J30.S16                        
-                                 J30.S17                        
-                                 J30.S18                        
-                                 J30.S19                        
-                                 J30.S20                        
-                                 R2675.2                        
-                                 R2678.2                        
-                                 R2680.1                        
-                                 R2684.2                        
-                                 R2685.2                        
-                                 R2686.1                        
-                                 R2687.2                        
-                                 R2688.2                        
+  N224460      pins DELETED FROM this net (all pins deleted)
+                                 U52.5           8094.14  567.61
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224484      pins DELETED FROM this net (all pins deleted)
+                                 U52.8           8094.14  644.39
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N224488      pins DELETED FROM this net (all pins deleted)
+                                 U52.9           8094.14  669.98
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N267255      pins DELETED FROM this net (all pins deleted)
+                                 U53.8           8733.14  649.39
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N267259      pins DELETED FROM this net (all pins deleted)
+                                 U53.9           8733.14  674.98
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           SFP_RD_N     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_SFP1 pins MOVED FROM this net (to net name listed on right)
+                                 J13.12          11105.6 4414.58
+                                                              FMC.RECOV_DATA_N0
+                                 TP56.1          11712.0 3735.00
+                                                              FMC.RECOV_DATA_N0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_SFP2 pins MOVED FROM this net (to net name listed on right)
+                                 J14.12          10236.6 4412.58
+                                                              FMC.RECOV_DATA_N1
+                                 TP57.1          10771.0 3735.00
+                                                              FMC.RECOV_DATA_N1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_SFP3 pins MOVED FROM this net (to net name listed on right)
+                                 J18.12          9358.64 4412.58
+                                                              FMC.RECOV_DATA_N2
+                                 TP58.1          9890.00 3735.00
+                                                              FMC.RECOV_DATA_N2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_SFP4 pins MOVED FROM this net (to net name listed on right)
+                                 J19.12          8207.64 4412.58
+                                                              FMC.RECOV_DATA_N3
+                                 TP59.1          8813.00 3735.00
+                                                              FMC.RECOV_DATA_N3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_N_SFP INTERFACE_SFP5 pins MOVED FROM this net (to net name listed on right)
+                                 J20.12          7329.64 4412.58
+                                                              FMC.RECOV_DATA_N4
+                                 TP60.1          7865.00 3735.00
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 R2690.2                        
-                                 R2691.2                        
-                                 TP766.1                        
-                                 U103.9                         
-                                 U103.17                        
-                                 U104.6                         
-                                 U104.7                         
-                                 U104.8                         
-                                 U104.11                        
-                                 U104.13                        
-                                 U104.17                        
-                                 U104.23                        
-                                 U104.30                        
-                                 U104.33                        
-                                 U105.3                         
-                                 U106.3                         
+                                                              FMC.RECOV_DATA_N4
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  MOD_ABS_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 J30.6                          
-                                 R2679.2                        
+  SFP_RD_N_SFP INTERFACE_SFP6 pins MOVED FROM this net (to net name listed on right)
+                                 J21.12          6458.64 4412.58
+                                                                        N351531
+                                 TP61.1          6991.00 3735.00
+                                                                        N351531
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01450_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2732.1                        
-                                 U104.14                        
+  SFP_RD_P_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           SFP_RD_P     
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01454_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2732.2                        
-                                 U104.15                        
+  SFP_RD_P_SFP INTERFACE_SFP1 pins MOVED FROM this net (to net name listed on right)
+                                 J13.13          11137.1 4414.58
+                                                              FMC.RECOV_DATA_P0
+                                 TP50.1          11713.0 3860.00
+                                                              FMC.RECOV_DATA_P0
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N04910_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 U103.1                         
-                                 U103.4                         
+  SFP_RD_P_SFP INTERFACE_SFP2 pins MOVED FROM this net (to net name listed on right)
+                                 J14.13          10268.1 4412.58
+                                                              FMC.RECOV_DATA_P1
+                                 TP51.1          10771.0 3860.00
+                                                              FMC.RECOV_DATA_P1
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N04977_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 U103.5                         
-                                 U103.8                         
+  SFP_RD_P_SFP INTERFACE_SFP3 pins MOVED FROM this net (to net name listed on right)
+                                 J18.13          9390.13 4412.58
+                                                              FMC.RECOV_DATA_P2
+                                 TP52.1          9890.00 3860.00
+                                                              FMC.RECOV_DATA_P2
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N136741_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 D41.1                          
-                                 R2684.1                        
+  SFP_RD_P_SFP INTERFACE_SFP4 pins MOVED FROM this net (to net name listed on right)
+                                 J19.13          8239.13 4412.58
+                                                              FMC.RECOV_DATA_P3
+                                 TP53.1          8813.00 3860.00
+                                                              FMC.RECOV_DATA_P3
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N141568_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 D41.2                          
-                                 R2683.2                        
-                                 U105.4                         
+  SFP_RD_P_SFP INTERFACE_SFP5 pins MOVED FROM this net (to net name listed on right)
+                                 J20.13          7361.13 4412.58
+                                                              FMC.RECOV_DATA_P4
+                                 TP54.1          7866.00 3860.00
+                                                              FMC.RECOV_DATA_P4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_RD_P_SFP INTERFACE_SFP6 pins MOVED FROM this net (to net name listed on right)
+                                 J21.13          6490.13 4412.58
+                                                                        N351462
+                                 TP55.1          6991.00 3860.00
+                                                                        N351462
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N210584_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 D40.1                          
-                                 R2683.1                        
-                                 R2685.1                        
+  SQUELCH_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           SQUELCH      
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N222361_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 D42.1                          
-                                 R2689.1                        
-                                 R2691.1                        
+  THRADJ_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           THRADJ       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N222457_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 D43.2                          
-                                 R2689.2                        
-                                 U106.4                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N222469_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 D43.1                          
-                                 R2690.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RECOV_CLK_N  pins ADDED TO this new net
-                                 U104.25                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RECOV_CLK_P  pins ADDED TO this new net
-                                 U104.26                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RECOV_DATA_N pins ADDED TO this new net
-                                 U104.28                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RECOV_DATA_P pins ADDED TO this new net
-                                 U104.29                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RS_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 J30.7                          
-                                 R2681.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  R_N_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 R2682.2                        
-                                 U103.15                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  R_P_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 R2680.2                        
-                                 U103.14                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SCL          pins ADDED TO this new net
-                                 J30.5                          
+  VREF_SFP INTERFACE_ACLK SFP net RENAMED (to net name listed on right)           VREF         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| NET PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|     net  name   |   property   |                    value                    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 U104.20                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SDA          pins ADDED TO this new net
-                                 J30.4                          
-                                 U104.21                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_LOS      pins ADDED TO this new net
-                                 J30.8                          
-                                 R2677.2                        
-                                 U105.2                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_RD_N_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 J30.12                         
-                                 TP765.1                        
-                                 U104.4                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_RD_P_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 J30.13                         
-                                 TP764.1                        
-                                 U104.5                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_N_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2721.2                        
-                                 J30.19                         
-                                 R2674.2                        
-                                 R2678.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2720.2                        
-                                 J30.18                         
-                                 R2673.2                        
-                                 R2675.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TX_DIS   pins ADDED TO this new net
-                                 J30.3                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TX_FAULT pins ADDED TO this new net
-                                 J30.2                          
-                                 R2676.2                        
-                                 U105.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SQUELCH_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 R2687.1                        
-                                 U104.27                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+ N351462           DIFFERENTIAL_P FMC.RECOV_DATA5
+ N351531           DIFFERENTIAL_P FMC.RECOV_DATA5
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  THRADJ_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2733.2                        
-                                 R2686.2                        
-                                 U104.9                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC2V5       pins ADDED TO this existing net (pins not previously on any net)
-                                 C2715.1                        
-                                 C2716.1                        
-                                 R2671.1                        
-                                 R2672.1                        
-                                 R2682.1                        
-                                 U103.12                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC3V3       pins ADDED TO this existing net (pins not previously on any net)
-                                 C2712.1                        
-                                 C2713.1                        
-                                 C2722.2                        
-                                 C2723.2                        
-                                 C2724.2                        
-                                 C2725.2                        
-                                 C2726.2                        
-                                 C2727.1                        
-                                 C2728.1                        
-                                 C2729.1                        
-                                 C2730.1                        
-                                 C2731.1                        
-                                 D40.2                          
-                                 D42.2                          
-                                 L20.1                          
-                                 L21.1                          
-                                 R2673.1                        
-                                 R2674.1                        
-                                 R2676.1                        
-                                 R2677.1                        
-                                 R2679.1                        
-                                 R2681.1                        
-                                 U104.1                         
-                                 U104.2                         
-                                 U104.10                        
-                                 U104.12                        
-                                 U104.18                        
-                                 U104.24                        
-                                 U104.31                        
-                                 U104.32                        
-                                 U105.5                         
+ C142                CAP_NP_CAP0603_DISCRETE_0.1UF_ 11261.0 3461.00
+ C143                CAP_NP_CAP0603_DISCRETE_0.1UF_ 11471.0 3574.00
+ C144                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10997.0 3784.00
+ C145                CAP_NP_CAP0603_DISCRETE_0.1UF_ 11278.0 3908.00
+ C146                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10997.0 3659.00
+ C147                CAP_NP_CAP0603_DISCRETE_1000PF_ 10997.0 3722.00
+ C148                CAP_NP_CAP0603_DISCRETE_1000PF_ 11327.0 3461.00
+ C149                CAP_NP_CAP0603_DISCRETE_1000PF_ 11215.0 3908.00
+ C150                CAP_NP_CAP0603_DISCRETE_1000PF_ 10997.0 3596.00
+ C151                CAP_NP_CAP0603_DISCRETE_1000PF_ 11471.0 3639.00
+ C152                CAP_NP_CAP0402_DISCRETE_0.47UF_ 11170.0 3869.00
+ C153                CAP_NP_CAP0402_DISCRETE_0.1UF_ 11268.0 3934.00
+ C154                CAP_NP_CAP0402_DISCRETE_0.1UF_ 11433.0 3617.00
+ C165                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10392.0 3465.00
+ C166                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10409.0 3912.00
+ C167                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10602.0 3578.00
+ C168                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10128.0 3663.00
+ C169                CAP_NP_CAP0603_DISCRETE_0.1UF_ 10128.0 3788.00
+ C170                CAP_NP_CAP0603_DISCRETE_1000PF_ 10346.0 3912.00
+ C171                CAP_NP_CAP0603_DISCRETE_1000PF_ 10128.0 3600.00
+ C172                CAP_NP_CAP0603_DISCRETE_1000PF_ 10602.0 3643.00
+ C173                CAP_NP_CAP0603_DISCRETE_1000PF_ 10458.0 3465.00
+ C174                CAP_NP_CAP0603_DISCRETE_1000PF_ 10128.0 3726.00
+ C175                CAP_NP_CAP0402_DISCRETE_0.47UF_ 10299.0 3869.00
+ C176                CAP_NP_CAP0402_DISCRETE_0.1UF_ 10407.0 3934.00
+ C177                CAP_NP_CAP0402_DISCRETE_0.1UF_ 10564.0 3621.00
+ C188                CAP_NP_CAP0603_DISCRETE_0.1UF_ 9531.00 3912.00
+ C189                CAP_NP_CAP0603_DISCRETE_0.1UF_ 9250.00 3788.00
+ C190                CAP_NP_CAP0603_DISCRETE_0.1UF_ 9250.00 3663.00
+ C191                CAP_NP_CAP0603_DISCRETE_0.1UF_ 9514.00 3465.00
+ C192                CAP_NP_CAP0603_DISCRETE_0.1UF_ 9724.00 3578.00
+ C193                CAP_NP_CAP0603_DISCRETE_1000PF_ 9468.00 3912.00
+ C194                CAP_NP_CAP0603_DISCRETE_1000PF_ 9250.00 3726.00
+ C195                CAP_NP_CAP0603_DISCRETE_1000PF_ 9250.00 3600.00
+ C196                CAP_NP_CAP0603_DISCRETE_1000PF_ 9580.00 3465.00
+ C197                CAP_NP_CAP0603_DISCRETE_1000PF_ 9724.00 3643.00
+ C198                CAP_NP_CAP0402_DISCRETE_0.47UF_ 9416.00 3872.00
+ C199                CAP_NP_CAP0402_DISCRETE_0.1UF_ 9518.00 3934.00
+ C200                CAP_NP_CAP0402_DISCRETE_0.1UF_ 9686.00 3621.00
+ C211                CAP_NP_CAP0603_DISCRETE_0.1UF_ 8364.00 3465.00
+ C212                CAP_NP_CAP0603_DISCRETE_0.1UF_ 8100.00 3663.00
+ C213                CAP_NP_CAP0603_DISCRETE_0.1UF_ 8100.00 3788.00
+ C214                CAP_NP_CAP0603_DISCRETE_0.1UF_ 8381.00 3912.00
+ C215                CAP_NP_CAP0603_DISCRETE_0.1UF_ 8574.00 3578.00
+ C216                CAP_NP_CAP0603_DISCRETE_1000PF_ 8100.00 3600.00
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 U106.5                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCCR_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2714.2                        
-                                 C2717.2                        
-                                 J30.15                         
-                                 L20.2                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCCT_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2718.2                        
-                                 C2719.2                        
-                                 J30.16                         
-                                 L21.2                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VREF_SFP INTERFACE_ACLK SFP pins ADDED TO this new net
-                                 C2734.1                        
-                                 U104.3                         
+ C217                CAP_NP_CAP0603_DISCRETE_1000PF_ 8430.00 3465.00
+ C218                CAP_NP_CAP0603_DISCRETE_1000PF_ 8318.00 3912.00
+ C219                CAP_NP_CAP0603_DISCRETE_1000PF_ 8100.00 3726.00
+ C220                CAP_NP_CAP0603_DISCRETE_1000PF_ 8574.00 3643.00
+ C221                CAP_NP_CAP0402_DISCRETE_0.47UF_ 8266.00 3872.00
+ C222                CAP_NP_CAP0402_DISCRETE_0.1UF_ 8369.00 3934.00
+ C223                CAP_NP_CAP0402_DISCRETE_0.1UF_ 8536.00 3621.00
+ C234                CAP_NP_CAP0603_DISCRETE_0.1UF_ 7222.00 3788.00
+ C235                CAP_NP_CAP0603_DISCRETE_0.1UF_ 7503.00 3912.00
+ C236                CAP_NP_CAP0603_DISCRETE_0.1UF_ 7696.00 3578.00
+ C237                CAP_NP_CAP0603_DISCRETE_0.1UF_ 7486.00 3465.00
+ C238                CAP_NP_CAP0603_DISCRETE_0.1UF_ 7222.00 3663.00
+ C239                CAP_NP_CAP0603_DISCRETE_1000PF_ 7222.00 3600.00
+ C240                CAP_NP_CAP0603_DISCRETE_1000PF_ 7552.00 3465.00
+ C241                CAP_NP_CAP0603_DISCRETE_1000PF_ 7696.00 3643.00
+ C242                CAP_NP_CAP0603_DISCRETE_1000PF_ 7440.00 3912.00
+ C243                CAP_NP_CAP0603_DISCRETE_1000PF_ 7222.00 3726.00
+ C244                CAP_NP_CAP0402_DISCRETE_0.47UF_ 7388.00 3872.00
+ C245                CAP_NP_CAP0402_DISCRETE_0.1UF_ 7490.00 3934.00
+ C246                CAP_NP_CAP0402_DISCRETE_0.1UF_ 7658.00 3621.00
+ C257                CAP_NP_CAP0603_DISCRETE_0.1UF_ 6351.00 3788.00
+ C258                CAP_NP_CAP0603_DISCRETE_0.1UF_ 6615.00 3465.00
+ C259                CAP_NP_CAP0603_DISCRETE_0.1UF_ 6825.00 3578.00
+ C260                CAP_NP_CAP0603_DISCRETE_0.1UF_ 6351.00 3663.00
+ C261                CAP_NP_CAP0603_DISCRETE_0.1UF_ 6632.00 3912.00
+ C262                CAP_NP_CAP0603_DISCRETE_1000PF_ 6351.00 3726.00
+ C263                CAP_NP_CAP0603_DISCRETE_1000PF_ 6825.00 3643.00
+ C264                CAP_NP_CAP0603_DISCRETE_1000PF_ 6681.00 3465.00
+ C265                CAP_NP_CAP0603_DISCRETE_1000PF_ 6351.00 3600.00
+ C266                CAP_NP_CAP0603_DISCRETE_1000PF_ 6569.00 3912.00
+ C267                CAP_NP_CAP0402_DISCRETE_0.47UF_ 6514.00 3872.00
+ C268                CAP_NP_CAP0402_DISCRETE_0.1UF_ 6618.00 3936.00
+ C269                CAP_NP_CAP0402_DISCRETE_0.1UF_ 6787.00 3621.00
+ D18                 LED_GREEN0603         11301.0 2998.00
+ D19                 LED_LEDC1608X80N_RED  11397.0 4215.00
+ D22                 LED_GREEN0603         10432.0 3002.00
+ D23                 LED_LEDC1608X80N_RED  10528.0 4215.00
+ D26                 LED_GREEN0603         9554.00 3002.00
+ D27                 LED_LEDC1608X80N_RED  9650.00 4215.00
+ D30                 LED_GREEN0603         8404.00 3002.00
+ D31                 LED_LEDC1608X80N_RED  8499.00 4215.00
+ D34                 LED_GREEN0603         7526.00 3002.00
+ D35                 LED_LEDC1608X80N_RED  7621.00 4215.00
+ D38                 LED_GREEN0603         6655.00 3002.00
+ D39                 LED_LEDC1608X80N_RED  6750.00 4215.00
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   8  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
+| COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C2712               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2713               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2714               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2715               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2716               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C2717               CAP_NP_CAP0805_DISCRETE_22UF_ 
- C2718               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2719               CAP_NP_CAP0805_DISCRETE_22UF_ 
- C2720               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- C2721               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- C2722               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2723               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2724               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2725               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2726               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C2727               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C2728               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C2729               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C2730               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C2731               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C2732               CAP_NP_CAP0402_DISCRETE_0.47UF_ 
- C2733               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- C2734               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- D40                 LED_GREEN0603         
- D41                 LED_LEDC1608X80N_RED  
- D42                 LED_GREEN0603         
- D43                 LED_LEDC1608X80N_RED  
- J30                 CON20P_SFP-1367073-1_TE_2227023 
- L20                 IND_CAP1210_4.7 UH    
- L21                 IND_CAP1210_4.7 UH    
- R2671               R_RES0603_49.9 OHM    
- R2672               R_RES0603_49.9 OHM    
- R2673               R_RES0402_6.81K       
- R2674               R_RES0402_6.81K       
- R2675               R_RES0402_3.83K       
- R2676               R_RES0402_4.7K        
- R2677               R_RES0402_4.7K        
- R2678               R_RES0402_3.83K       
- R2679               R_RES0402_4.7K        
- R2680               R_RES0603_4.99K       
- R2681               R_RES0402_4.7K        
- R2682               R_RES0603_4.99K       
- R2683               R_RES0402_499 OHM     
- R2684               R_RES0603_75 OHM      
- R2685               R_RES0603_75 OHM      
+ R134                R_RES0402_0           11215.0 3932.00
+ R135                R_RES0402_0           10992.0 3541.00
+ R136                R_RES0402_4.7K        11025.0 3702.00
+ R137                R_RES0402_499 OHM     11318.0 3060.00
+ R138                R_RES0603_75 OHM      11504.0 4248.00
+ R139                R_RES0603_75 OHM      11271.0 3000.00
+ R155                R_RES0402_0           10355.0 3932.00
+ R156                R_RES0402_0           10123.0 3545.00
+ R157                R_RES0402_4.7K        10156.0 3707.00
+ R158                R_RES0402_499 OHM     10449.0 3064.00
+ R159                R_RES0603_75 OHM      10635.0 4248.00
+ R160                R_RES0603_75 OHM      10402.0 3004.00
+ R176                R_RES0402_0           9470.00 3932.00
+ R177                R_RES0402_0           9245.00 3545.00
+ R178                R_RES0402_4.7K        9278.00 3706.00
+ R179                R_RES0402_499 OHM     9571.00 3064.00
+ R180                R_RES0603_75 OHM      9757.00 4248.00
+ R181                R_RES0603_75 OHM      9524.00 3004.00
+ R197                R_RES0402_0           8320.00 3932.00
+ R198                R_RES0402_0           8095.00 3545.00
+ R199                R_RES0402_4.7K        8128.00 3706.00
+ R200                R_RES0402_499 OHM     8421.00 3064.00
+ R201                R_RES0603_75 OHM      8605.00 4248.00
+ R202                R_RES0603_75 OHM      8374.00 3004.00
+ R218                R_RES0402_0           7444.00 3933.00
+ R219                R_RES0402_0           7217.00 3545.00
+ R220                R_RES0402_4.7K        7249.00 3776.00
+ R221                R_RES0402_499 OHM     7543.00 3064.00
+ R222                R_RES0603_75 OHM      7728.00 4248.00
+ R223                R_RES0603_75 OHM      7496.00 3004.00
+ R239                R_RES0402_0           6572.00 3934.00
+ R240                R_RES0402_0           6346.00 3545.00
+ R241                R_RES0402_4.7K        6381.00 3707.00
+ R242                R_RES0402_499 OHM     6672.00 3064.00
+ R243                R_RES0603_75 OHM      6856.00 4248.00
+ R244                R_RES0603_75 OHM      6625.00 3004.00
+ U23                 ADN2814ACPZ_1_QFN50P500X500X100 11228.0 3673.00
+ U25                 SN74LVC1G32_4_SOT23-5_SN74LVC1G 11529.0 3160.00
+ U27                 ADN2814ACPZ_1_QFN50P500X500X100 10359.0 3677.00
+ U29                 SN74LVC1G32_4_SOT23-5_SN74LVC1G 10660.0 3164.00
+ U31                 ADN2814ACPZ_1_QFN50P500X500X100 9481.00 3677.00
+ U33                 SN74LVC1G32_4_SOT23-5_SN74LVC1G 9782.00 3164.00
+ U35                 ADN2814ACPZ_1_QFN50P500X500X100 8331.00 3677.00
+ U37                 SN74LVC1G32_4_SOT23-5_SN74LVC1G 8632.00 3164.00
+ U39                 ADN2814ACPZ_1_QFN50P500X500X100 7453.00 3677.00
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   9  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
+|                                                    Wed Sep 20 14:02:27 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
+| COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2686               R_RES0402_0           
- R2687               R_RES0402_0           
- R2688               R_RES0402_4.7K        
- R2689               R_RES0402_499 OHM     
- R2690               R_RES0603_75 OHM      
- R2691               R_RES0603_75 OHM      
- TP764               TESTPOINT_TP_KEYSTONE_5000A_500 
- TP765               TESTPOINT_TP_KEYSTONE_5000A_500 
- TP766               TESTPOINT_TP_KEYSTONE_5000A_500 
- U103                NB7V52M_2_PQFN50P300X300X100-17 
- U104                ADN2814ACPZ_1_QFN50P500X500X100 
- U105                SN74LVC1G32_4_SOT23-5_SN74LVC1G 
- U106                SN74LVC1G32_4_SOT23-5_SN74LVC1G 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  10  |
+ U41                 SN74LVC1G32_4_SOT23-5_SN74LVC1G 7754.00 3164.00
+ U43                 ADN2814ACPZ_1_QFN50P500X500X100 6582.00 3677.00
+ U45                 SN74LVC1G32_4_SOT23-5_SN74LVC1G 6883.00 3164.00
 |------------------------------------------------------------------------------|
-|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C2712.2                        PRIM_FILE      .\pstchip.dat
- C2713.2                        PRIM_FILE      .\pstchip.dat
- C2714.2                        PRIM_FILE      .\pstchip.dat
- C2715.2                        PRIM_FILE      .\pstchip.dat
- C2716.2                        PRIM_FILE      .\pstchip.dat
- C2717.2                        PRIM_FILE      .\pstchip.dat
- C2718.2                        PRIM_FILE      .\pstchip.dat
- C2719.2                        PRIM_FILE      .\pstchip.dat
- C2720.2                        PRIM_FILE      .\pstchip.dat
- C2721.2                        PRIM_FILE      .\pstchip.dat
- C2722.2                        PRIM_FILE      .\pstchip.dat
- C2723.2                        PRIM_FILE      .\pstchip.dat
- C2724.2                        PRIM_FILE      .\pstchip.dat
- C2725.2                        PRIM_FILE      .\pstchip.dat
- C2726.2                        PRIM_FILE      .\pstchip.dat
- C2727.2                        PRIM_FILE      .\pstchip.dat
- C2728.2                        PRIM_FILE      .\pstchip.dat
- C2729.2                        PRIM_FILE      .\pstchip.dat
- C2730.2                        PRIM_FILE      .\pstchip.dat
- C2731.2                        PRIM_FILE      .\pstchip.dat
- C2732.2                        PRIM_FILE      .\pstchip.dat
- C2733.2                        PRIM_FILE      .\pstchip.dat
- C2734.2                        PRIM_FILE      .\pstchip.dat
- D40.1                          PRIM_FILE      .\pstchip.dat
- D41.1                          PRIM_FILE      .\pstchip.dat
- D42.1                          PRIM_FILE      .\pstchip.dat
- D43.1                          PRIM_FILE      .\pstchip.dat
- J30.20                         PRIM_FILE      .\pstchip.dat
- L20.2                          PRIM_FILE      .\pstchip.dat
- L21.2                          PRIM_FILE      .\pstchip.dat
- R2671.2                        PRIM_FILE      .\pstchip.dat
- R2672.2                        PRIM_FILE      .\pstchip.dat
- R2673.2                        PRIM_FILE      .\pstchip.dat
- R2674.2                        PRIM_FILE      .\pstchip.dat
- R2675.2                        PRIM_FILE      .\pstchip.dat
- R2676.2                        PRIM_FILE      .\pstchip.dat
- R2677.2                        PRIM_FILE      .\pstchip.dat
- R2678.2                        PRIM_FILE      .\pstchip.dat
- R2679.2                        PRIM_FILE      .\pstchip.dat
- R2680.2                        PRIM_FILE      .\pstchip.dat
- R2681.2                        PRIM_FILE      .\pstchip.dat
- R2682.2                        PRIM_FILE      .\pstchip.dat
- R2683.2                        PRIM_FILE      .\pstchip.dat
- R2684.2                        PRIM_FILE      .\pstchip.dat
- R2685.2                        PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  11  |
-|------------------------------------------------------------------------------|
-|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Wed Sep 20 10:04:57 2023  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2686.2                        PRIM_FILE      .\pstchip.dat
- R2687.2                        PRIM_FILE      .\pstchip.dat
- R2688.2                        PRIM_FILE      .\pstchip.dat
- R2689.2                        PRIM_FILE      .\pstchip.dat
- R2690.2                        PRIM_FILE      .\pstchip.dat
- R2691.2                        PRIM_FILE      .\pstchip.dat
- TP764.1                        PRIM_FILE      .\pstchip.dat
- TP765.1                        PRIM_FILE      .\pstchip.dat
- TP766.1                        PRIM_FILE      .\pstchip.dat
- U103.16                        PRIM_FILE      .\pstchip.dat
- U104.3                         PRIM_FILE      .\pstchip.dat
- U105.4                         PRIM_FILE      .\pstchip.dat
- U106.4                         PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Nets changed          :     201                                        |
-|       Components added      :      58                                        |
-|       Slot property added   :      58                                        |
+|       Nets changed          :      51                                        |
+|       Net property added    :       2                                        |
+|       Components deleted    :     138                                        |
 |                                                                              |
-|   Total ECO changes reported:     317                                        |
+|   Total ECO changes reported:     191                                        |
 |------------------------------------------------------------------------------|
