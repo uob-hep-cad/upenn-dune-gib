@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 14:51:06}
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:03:10}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -1559,24 +1559,6 @@ primitive 'BSS138_SOT95P230X110-3N_BSS138K';
     PART_NAME='BSS138';
     JEDEC_TYPE='SOT95P230X110-3N';
     VALUE='BSS138K';
-  end_body;
-end_primitive;
-primitive 'BS250FTA_0_SOT95P230X110-3N_NDS';
-  pin
-    'D':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'G':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'S':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='BS250FTA_0';
-    JEDEC_TYPE='SOT95P230X110-3N';
-    VALUE='NDS332P';
   end_body;
 end_primitive;
 primitive 'OSC_6P_EN_DIFFOUT_3_OSCSC254P50';

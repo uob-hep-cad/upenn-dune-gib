@@ -290,3 +290,7 @@
 2023-09-21T14:51:07 ===> "c:/spb_data/gps_interface_board/allegro/pstxnet.dat"
 2023-09-21T14:51:07 ===> "c:/spb_data/gps_interface_board/allegro/pstxprt.dat"
 2023-09-21T14:51:07 ===> "c:/spb_data/gps_interface_board/allegro/pstdmlmodels.dat"
+2023-09-21T15:03:11 ===> "c:/spb_data/gps_interface_board/allegro/pstchip.dat"
+2023-09-21T15:03:11 ===> "c:/spb_data/gps_interface_board/allegro/pstxnet.dat"
+2023-09-21T15:03:11 ===> "c:/spb_data/gps_interface_board/allegro/pstxprt.dat"
+2023-09-21T15:03:11 ===> "c:/spb_data/gps_interface_board/allegro/pstdmlmodels.dat"

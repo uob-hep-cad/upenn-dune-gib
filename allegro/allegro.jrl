@@ -109,4 +109,115 @@
 \i (00:21:44) setwindow form.find
 \i (00:21:44) FORM find find_name r2683 
 \t (00:21:44) Can not select unplaced component R2683.
-\t (00:21:44) Can not select unplaced c
+\t (00:21:44) Can not select unplaced component R2683.
+\i (00:21:51) setwindow pcb
+\i (00:21:51) place manual 
+\i (00:21:51) setwindow form.plc_manual
+\i (00:21:51) FORM plc_manual tree  'Components by refdes' 
+\i (00:22:03) FORM plc_manual tree  R2683 'Components by refdes' 
+\i (00:22:03) FORM plc_manual tree 'MULTISEL YES' R2683 'Components by refdes' 
+\t (00:22:03) Placing R2683 / R_RES0402_100 / RES0402 on Top.
+\i (00:22:07) setwindow pcb
+\i (00:22:07) pick grid -486.73 -6140.14
+\t (00:22:07) last pick:  -487.00 -6140.00
+\i (00:22:15) setwindow form.plc_manual
+\i (00:22:15) FORM plc_manual tree  R2684 'Components by refdes' 
+\i (00:22:15) FORM plc_manual tree 'MULTISEL YES' R2684 'Components by refdes' 
+\t (00:22:15) Placing R2684 / R_RES0603_200 / RES0603 on Top.
+\i (00:22:17) setwindow pcb
+\i (00:22:17) pick grid -512.00 -6210.64
+\t (00:22:17) last pick:  -512.00 -6211.00
+\i (00:22:18) setwindow form.plc_manual
+\i (00:22:18) FORM plc_manual tree  R2685 'Components by refdes' 
+\i (00:22:18) FORM plc_manual tree 'MULTISEL YES' R2685 'Components by refdes' 
+\t (00:22:18) Placing R2685 / R_RES0603_200 / RES0603 on Top.
+\i (00:22:20) setwindow pcb
+\i (00:22:20) pick grid -512.00 -6283.79
+\t (00:22:20) last pick:  -512.00 -6284.00
+\i (00:22:27) setwindow form.plc_manual
+\i (00:22:27) FORM plc_manual done  
+\i (00:22:27) setwindow form.mini
+\i (00:22:27) FORM mini tree  'Components by refdes' 
+\i (00:22:27) setwindow pcb
+\i (00:22:27) placementedit 
+\i (00:22:30) save 
+\i (00:22:31) fillin yes 
+\t (00:22:32) > Sending response DoneOpenBoard
+\i (00:22:32) placementedit 
+\i (00:24:48) xrefdes R131 
+\i (00:24:48) xname_flush 
+\i (00:24:48) trapsize 139
+\i (00:25:28) xrefdes R132 
+\i (00:25:28) xname_flush 
+\i (00:25:28) trapsize 181
+\i (00:25:57) xrefdes R133 
+\i (00:25:57) xname_flush 
+\i (00:25:57) trapsize 200
+\t (00:26:49) > DoPhysicalNetlistGenerate message received
+\t (00:26:49) > Generating physical netlist...
+\t (00:26:49) Starting genfeedformat...
+\t (00:26:50) > Sending response DonePhysicalNetlistGeneration
+\t (00:26:50) > Physical Netlist Generated
+\t (00:26:56) > DoPullSchematic message received
+\t (00:26:56) > Pulling schematic...
+\t (00:26:57) Starting Cadence Logic Import...
+\t (00:26:58) Opening existing design...
+\i (00:26:59) setwindow form.mini
+\i (00:26:59) FORM mini tree  'Components by refdes' 
+\i (00:26:59) setwindow pcb
+\i (00:26:59) trapsize 200
+\t (00:26:59) > Sending response DonePullSchematic
+\t (00:26:59) > Schematic pulled successfully
+\i (00:26:59) placementedit 
+\i (00:27:05) place manual 
+\i (00:27:05) setwindow form.plc_manual
+\i (00:27:05) FORM plc_manual tree  'Components by refdes' 
+\i (00:27:15) FORM plc_manual done  
+\i (00:27:15) setwindow form.mini
+\i (00:27:15) FORM mini tree  'Components by refdes' 
+\i (00:27:15) setwindow pcb
+\i (00:27:15) placementedit 
+\i (00:27:20) save 
+\i (00:27:22) fillin yes 
+\t (00:27:22) > Sending response DoneOpenBoard
+\i (00:27:22) placementedit 
+\i (00:29:15) reports 'Netlist Report' 
+\i (00:29:16) placementedit 
+\e (00:30:09) Command not found: u52
+\i (00:30:13) setwindow form.find
+\i (00:30:13) FORM find find_name u52 
+\i (00:30:13) setwindow pcb
+\i (00:30:13) trapsize 787
+\i (00:32:06) setwindow form.find
+\i (00:32:06) FORM find find_name u50 
+\i (00:32:06) setwindow pcb
+\i (00:32:06) trapsize 343
+\i (00:34:32) xrefdes '!' U50 
+\i (00:34:32) xname_flush '!' 
+\i (00:34:35) xNet Lemo_Vcca 
+\i (00:34:35) xrefdes Q2 
+\i (00:34:35) xrefdes J10 
+\i (00:34:35) xrefdes J9 
+\i (00:34:35) xNet N716142 
+\i (00:34:35) xrefdes C114 
+\i (00:34:35) xname_flush 
+\i (00:34:35) trapsize 805
+\i (00:35:24) xname_flush 
+\i (00:35:32) xNet Bnc_Vcca 
+\i (00:35:32) xrefdes J24 
+\i (00:35:32) xrefdes J25 
+\i (00:35:32) xrefdes Q13 
+\i (00:35:32) xrefdes C45 
+\i (00:35:32) xNet N716972 
+\i (00:35:32) xname_flush 
+\i (00:35:32) trapsize 815
+\i (00:35:40) xname_flush 
+\i (00:36:32) xNet Lemo_Vcca 
+\i (00:36:32) xname_flush 
+\i (00:36:32) trapsize 669
+\i (00:36:37) show element 
+\i (00:36:37) placementedit 
+\i (00:36:40) setwindow form.find
+\i (00:36:40) FORM find all_off  
+\i (00:36:41) FORM find nets YES 
+\i (00:3

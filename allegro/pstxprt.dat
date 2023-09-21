@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 14:51:06 }
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:03:10 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -174,16 +174,6 @@ SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS574556@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins574556@ocad_parts_lib.\cap_np.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins574556@ocad_parts_lib.\cap_np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C114 'CAP_NP_CAP0603_DISCRETE_0.1UF_':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS351966@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins351966@ocad_parts_lib.\cap_np.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins351966@ocad_parts_lib.\cap_np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1778,16 +1768,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C45 'CAP_NP_CAP0603_DISCRETE_0.1UF_':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS717018@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins717018@ocad_parts_lib.\cap_np.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins717018@ocad_parts_lib.\cap_np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C49 'CAP_NP_CAP0805_DISCRETE_47UF_':;
 
 SECTION_NUMBER 1
@@ -2602,16 +2582,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J10 'HDR1X2_HDR1X2_HDR1X2':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS716204@OCAD_PARTS_LIB.HDR1X2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins716204@ocad_parts_lib.\hdr1x2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins716204@ocad_parts_lib.\hdr1x2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  J11 'HDR1X2_HDR1X2_HDR1X2':;
 
 SECTION_NUMBER 1
@@ -2722,26 +2692,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J24 'HDR1X2_HDR1X2_HDR1X2':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS716916@OCAD_PARTS_LIB.HDR1X2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins716916@ocad_parts_lib.\hdr1x2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins716916@ocad_parts_lib.\hdr1x2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J25 'HDR1X2_HDR1X2_HDR1X2':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS716938@OCAD_PARTS_LIB.HDR1X2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins716938@ocad_parts_lib.\hdr1x2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins716938@ocad_parts_lib.\hdr1x2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  J27 '3PIN-22-23-2031_22-23-2031_0022':;
 
 SECTION_NUMBER 1
@@ -2837,16 +2787,6 @@ SECTION_NUMBER 2
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_pm3_fmc@gps_interface_board.\05. fmc connector\(sch_1):page10_ins205983@gps_interface_board.\con160p_11b.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='B';
-
-PART_NAME
- J9 'HDR1X2_HDR1X2_HDR1X2':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS351872@OCAD_PARTS_LIB.HDR1X2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins351872@ocad_parts_lib.\hdr1x2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins351872@ocad_parts_lib.\hdr1x2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
 
 PART_NAME
  L1 'IND_CAP0805_120 OHM@100MHZ':;
@@ -3133,32 +3073,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Q13 'BS250FTA_0_SOT95P230X110-3N_NDS':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS716974@GPS_INTERFACE_BOARD.BS250FTA_0.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins716974@gps_interface_board.\bs250fta_0.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins716974@gps_interface_board.\bs250fta_0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  Q14 'BSS138_SOT95P230X110-3N_BSS138K':;
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS732725@OCAD_PARTS_LIB.BSS138.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins732725@ocad_parts_lib.\bss138.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page14_ins732725@ocad_parts_lib.\bss138.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- Q2 'BS250FTA_0_SOT95P230X110-3N_NDS':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS713877@GPS_INTERFACE_BOARD.BS250FTA_0.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins713877@gps_interface_board.\bs250fta_0.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins713877@gps_interface_board.\bs250fta_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
