@@ -3,45 +3,41 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Thu Sep 21 15:03:11 2023  |
+|                                                    Thu Sep 21 15:15:49 2023  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  BNC_VCCA     pins MOVED FROM this net (to net name listed on right)
-                                 R111.2          11866.0  994.72
-                                                                         VCC3V3
-                                 U51.1           11391.4  894.98
-                                                                         VCC3V3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LEMO_VCCA    pins MOVED FROM this net (to net name listed on right)
-                                 R107.2          10676.0  994.72
-                                                                         VCC3V3
-                                 U50.1           11115.4  895.98
-                                                                         VCC3V3
+ 74AVC2T45_DCT_SOP50P310X90-8N_S
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Thu Sep 21 15:03:11 2023  |
+|                                                    Thu Sep 21 15:15:49 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
+| COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C45                 CAP_NP_CAP0603_DISCRETE_0.1UF_ 11422.0  840.00
- C114                CAP_NP_CAP0603_DISCRETE_0.1UF_ 11145.0  842.00
- J9                  HDR1X2_HDR1X2_HDR1X2  10868.0 1223.00
- J10                 HDR1X2_HDR1X2_HDR1X2  10869.0 1466.00
- J24                 HDR1X2_HDR1X2_HDR1X2  11784.0 1466.00
- J25                 HDR1X2_HDR1X2_HDR1X2  11785.0 1223.00
- Q2                  BS250FTA_0_SOT95P230X110-3N_NDS 10600.0 1260.00
- Q13                 BS250FTA_0_SOT95P230X110-3N_NDS 11510.0 1258.00
+ U47                 74AVC2T45_DCT_SOP50P310X90-8N_S 3468.00 5229.00 74AVC2T45_DCT_2_SOP50P310X90-8N
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       4                                        |
-|       Components deleted    :       8                                        |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Thu Sep 21 15:15:49 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U47.8                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       1                                        |
+|       Components changed    :       1                                        |
+|       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:      12                                        |
+|   Total ECO changes reported:       3                                        |
 |------------------------------------------------------------------------------|
