@@ -3,40 +3,91 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Thu Sep 21 14:45:23 2023  |
+|                                                    Thu Sep 21 14:51:07 2023  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R55                 R_RES0402_DNP         2522.00 2557.00 R_RES0402_0
- R2683               R_RES0402_100          -90.00 -6209.0 R_RES0402_499 OHM
- R2684               R_RES0603_200         -312.00 -5024.0 R_RES0603_75 OHM
- R2685               R_RES0603_200         -102.00 -6271.0 R_RES0603_75 OHM
- R2689               R_RES0402_100           94.00 -6212.0 R_RES0402_499 OHM
- R2690               R_RES0603_200          280.00 -5024.0 R_RES0603_75 OHM
- R2691               R_RES0603_200           47.00 -6272.0 R_RES0603_75 OHM
+ R131                R_RES0402_100         11134.0 3063.00 R_RES0402_499 OHM
+ R132                R_RES0603_200         10912.0 4248.00 R_RES0603_75 OHM
+ R133                R_RES0603_200         11122.0 3001.00 R_RES0603_75 OHM
+ R152                R_RES0402_100         10265.0 3067.00 R_RES0402_499 OHM
+ R153                R_RES0603_200         10043.0 4248.00 R_RES0603_75 OHM
+ R154                R_RES0603_200         10253.0 3005.00 R_RES0603_75 OHM
+ R173                R_RES0402_100         9387.00 3067.00 R_RES0402_499 OHM
+ R174                R_RES0603_200         9165.00 4248.00 R_RES0603_75 OHM
+ R175                R_RES0603_200         9375.00 3005.00 R_RES0603_75 OHM
+ R194                R_RES0402_100         8237.00 3067.00 R_RES0402_499 OHM
+ R195                R_RES0603_200         8014.00 4248.00 R_RES0603_75 OHM
+ R196                R_RES0603_200         8225.00 3005.00 R_RES0603_75 OHM
+ R215                R_RES0402_100         7359.00 3067.00 R_RES0402_499 OHM
+ R216                R_RES0603_200         7136.00 4248.00 R_RES0603_75 OHM
+ R217                R_RES0603_200         7347.00 3005.00 R_RES0603_75 OHM
+ R236                R_RES0402_100         6488.00 3067.00 R_RES0402_499 OHM
+ R237                R_RES0603_200         6265.00 4248.00 R_RES0603_75 OHM
+ R238                R_RES0603_200         6476.00 3005.00 R_RES0603_75 OHM
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Thu Sep 21 14:45:23 2023  |
+|                                                    Thu Sep 21 14:51:07 2023  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R55.2                          PRIM_FILE      .\pstchip.dat
- R2683.2                        PRIM_FILE      .\pstchip.dat
- R2684.2                        PRIM_FILE      .\pstchip.dat
- R2685.2                        PRIM_FILE      .\pstchip.dat
- R2689.2                        PRIM_FILE      .\pstchip.dat
- R2690.2                        PRIM_FILE      .\pstchip.dat
- R2691.2                        PRIM_FILE      .\pstchip.dat
+ R131.2                         PRIM_FILE      .\pstchip.dat
+ R131.2                         ROOM           SFP1
+ R132.2                         PRIM_FILE      .\pstchip.dat
+ R132.2                         ROOM           SFP1
+ R133.2                         PRIM_FILE      .\pstchip.dat
+ R133.2                         ROOM           SFP1
+ R152.2                         PRIM_FILE      .\pstchip.dat
+ R152.2                         ROOM           SFP2
+ R153.2                         PRIM_FILE      .\pstchip.dat
+ R153.2                         ROOM           SFP2
+ R154.2                         PRIM_FILE      .\pstchip.dat
+ R154.2                         ROOM           SFP2
+ R173.2                         PRIM_FILE      .\pstchip.dat
+ R173.2                         ROOM           SFP3
+ R174.2                         PRIM_FILE      .\pstchip.dat
+ R174.2                         ROOM           SFP3
+ R175.2                         PRIM_FILE      .\pstchip.dat
+ R175.2                         ROOM           SFP3
+ R194.2                         PRIM_FILE      .\pstchip.dat
+ R194.2                         ROOM           SFP4
+ R195.2                         PRIM_FILE      .\pstchip.dat
+ R195.2                         ROOM           SFP4
+ R196.2                         PRIM_FILE      .\pstchip.dat
+ R196.2                         ROOM           SFP4
+ R215.2                         PRIM_FILE      .\pstchip.dat
+ R215.2                         ROOM           SFP5
+ R216.2                         PRIM_FILE      .\pstchip.dat
+ R216.2                         ROOM           SFP5
+ R217.2                         PRIM_FILE      .\pstchip.dat
+ R217.2                         ROOM           SFP5
+ R236.2                         PRIM_FILE      .\pstchip.dat
+ R236.2                         ROOM           SFP6
+ R237.2                         PRIM_FILE      .\pstchip.dat
+ R237.2                         ROOM           SFP6
+ R238.2                         PRIM_FILE      .\pstchip.dat
+ R238.2                         ROOM           SFP6
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|       Components changed    :       7                                        |
-|       Slot property added   :       7                                        |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Thu Sep 21 14:51:07 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Components changed    :      18                                        |
+|       Slot property added   :      36                                        |
 |                                                                              |
-|   Total ECO changes reported:      14                                        |
+|   Total ECO changes reported:      54                                        |
 |------------------------------------------------------------------------------|
