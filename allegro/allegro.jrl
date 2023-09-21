@@ -1,397 +1,515 @@
-\t (00:00:07) allegro 17.4 S033 Windows SPB 64-bit Edition
-\t (00:00:07)     Journal start - Thu Sep 21 14:24:16 2023
-\t (00:00:07)         Host=IT088130 User=phdgc Pid=12588 CPUs=16
-\t (00:00:07) CmdLine= allegro.exe -proj c:/spb_data/gps_interface_board/gps_interface_board.opj c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd
-\t (00:00:07) 
-   (00:00:07) Loading axlcore.cxt 
-\t (00:00:13) Opening existing design...
-\i (00:00:13) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv37"
+\t (00:00:06) allegro 17.4 S033 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Thu Sep 21 15:52:24 2023
+\t (00:00:06)         Host=IT088130 User=phdgc Pid=652 CPUs=16
+\t (00:00:06) CmdLine= allegro.exe -proj c:/spb_data/gps_interface_board/gps_interface_board.opj c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv37"
 \d (00:00:13) Design opened: c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd
-\i (00:00:14) trapsize 171
-\i (00:00:14) trapsize 177
-\i (00:00:14) trapsize 178
-\i (00:00:14) trapsize 202
-\i (00:00:14) setwindow form.mini
-\i (00:00:14) FORM mini tree  'Components by refdes' 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) trapsize 211
-\t (00:00:14) > Sending response DoneOpenBoard
-\t (00:00:14) Loaded GPU Plugin from: plugins/gpu
-\i (00:00:14) trapsize 179
-\i (00:00:14) trapsize 185
-\i (00:00:14) trapsize 187
-\i (00:00:14) trapsize 211
+\i (00:00:13) trapsize 416
+\i (00:00:13) trapsize 430
+\i (00:00:13) trapsize 434
+\i (00:00:13) trapsize 491
+\i (00:00:13) setwindow form.mini
+\i (00:00:13) FORM mini tree  'Components by refdes' 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) trapsize 515
+\t (00:00:13) > Sending response DoneOpenBoard
+\t (00:00:13) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:13) trapsize 436
+\i (00:00:13) trapsize 451
+\i (00:00:13) trapsize 455
+\i (00:00:13) trapsize 515
 \i (00:00:14) placementedit 
-\t (00:00:15) > DoPullSchematic message received
-\t (00:00:15) > Pulling schematic...
-\t (00:00:15) Starting Cadence Logic Import...
-\t (00:00:16) Opening existing design...
-\i (00:00:17) setwindow form.mini
-\i (00:00:17) FORM mini tree  'Components by refdes' 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) trapsize 211
-\t (00:00:17) > Sending response DonePullSchematic
-\t (00:00:17) > Schematic pulled successfully
-\i (00:00:17) placementedit 
-\i (00:00:47) setwindow form.find
-\i (00:00:47) FORM find find_name u49 
+\t (00:00:14) > DoPullSchematic message received
+\t (00:00:14) > Pulling schematic...
+\t (00:00:14) Starting Cadence Logic Import...
+\t (00:00:15) Opening existing design...
+\i (00:00:15) setwindow form.mini
+\i (00:00:15) FORM mini tree  'Components by refdes' 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) trapsize 515
+\t (00:00:15) > Sending response DonePullSchematic
+\t (00:00:15) > Schematic pulled successfully
+\i (00:00:15) placementedit 
+\i (00:00:29) pick grid 3248.53 5371.94
+\t (00:00:29) last pick:  3249.00 5372.00
+\i (00:00:34) setwindow form.find
+\i (00:00:34) FORM find find_name u49 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) trapsize 646
+\i (00:00:39) show element 
+\i (00:00:39) placementedit 
+\i (00:00:42) setwindow form.find
+\i (00:00:42) FORM find nets YES 
 \i (00:00:47) setwindow pcb
-\i (00:00:47) trapsize 646
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 4239.01 337.36
+\i (00:00:47) trapsize 323
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 4239.66 338.01
+\i (00:00:47) trapsize 161
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 4239.66 338.01
+\i (00:00:48) trapsize 323
 \i (00:00:49) zoom in 1 
 \i (00:00:49) setwindow pcb
-\i (00:00:49) zoom in 4321.65 249.55
-\i (00:00:49) trapsize 323
-\i (00:00:51) pick grid 4510.19 261.18
-\t (00:00:51) last pick:  4510.00 261.00
-\i (00:06:05) xrefdes R55 
-\i (00:06:05) xname_flush 
-\i (00:06:05) trapsize 149
-\i (00:06:10) xrefdes '!' R55 
-\i (00:06:10) xname_flush '!' 
-\i (00:06:11) xrefdes R55 
-\i (00:06:11) xname_flush 
-\i (00:06:11) trapsize 149
-\i (00:06:51) xNet A0_3V3 
-\i (00:06:51) xname_flush 
-\i (00:06:51) trapsize 108
-\i (00:06:52) xNet '!' A0_3V3 
-\i (00:06:52) xname_flush '!' 
-\i (00:15:11) xrefdes R2690 
-\i (00:15:11) xname_flush 
-\i (00:15:11) trapsize 185
-\i (00:17:29) xrefdes R2691 
-\i (00:17:29) xname_flush 
-\i (00:17:29) trapsize 218
-\i (00:18:02) xrefdes R2684 
+\i (00:00:49) zoom in 4347.48 277.97
+\i (00:00:49) trapsize 161
+\i (00:00:50) pick grid 4350.71 289.27
+\t (00:00:50) last pick:  4351.00 289.00
+\i (00:00:56) show element 
+\i (00:00:56) placementedit 
+\i (00:03:25) setwindow text
+\i (00:03:25) close
+\i (00:08:57) setwindow pcb
+\i (00:08:57) xNet '!' Fmc.Scl_Fpga 
+\i (00:08:57) xname_flush '!' 
+\i (00:14:29) xrefdes J8.G15 
+\i (00:14:29) xname_flush 
+\i (00:14:29) trapsize 69
+\i (00:14:41) xrefdes '!' J8.G15 
+\i (00:14:41) xname_flush '!' 
+\i (00:14:41) xrefdes J8.G16 
+\i (00:14:41) xname_flush 
+\i (00:14:41) trapsize 69
+\i (00:14:50) xrefdes '!' J8.G16 
+\i (00:14:50) xname_flush '!' 
+\i (00:14:50) xrefdes J8.G18 
+\i (00:14:50) xname_flush 
+\i (00:14:50) trapsize 69
+\i (00:14:59) xrefdes '!' J8.G18 
+\i (00:14:59) xname_flush '!' 
+\i (00:14:59) xrefdes J8.G19 
+\i (00:14:59) xname_flush 
+\i (00:14:59) trapsize 69
+\i (00:15:09) xrefdes '!' J8.G19 
+\i (00:15:09) xname_flush '!' 
+\i (00:15:09) xrefdes J8.G21 
+\i (00:15:09) xname_flush 
+\i (00:15:09) trapsize 69
+\i (00:15:19) xrefdes '!' J8.G21 
+\i (00:15:19) xname_flush '!' 
+\i (00:15:19) xrefdes J8.G22 
+\i (00:15:19) xname_flush 
+\i (00:15:19) trapsize 69
+\i (00:15:26) xrefdes '!' J8.G22 
+\i (00:15:26) xname_flush '!' 
+\i (00:15:26) xrefdes J8.G24 
+\i (00:15:26) xname_flush 
+\i (00:15:26) trapsize 69
+\i (00:15:35) xrefdes '!' J8.G24 
+\i (00:15:35) xname_flush '!' 
+\i (00:15:35) xrefdes J8.G25 
+\i (00:15:35) xname_flush 
+\i (00:15:35) trapsize 69
+\i (00:15:54) xrefdes '!' J8.G25 
+\i (00:15:54) xname_flush '!' 
+\i (00:15:56) xname_flush 
+\i (00:15:57) xname_flush '!' 
+\i (00:15:59) xname_flush 
+\i (00:16:00) xname_flush '!' 
+\i (00:16:01) xname_flush 
+\i (00:16:03) xname_flush '!' 
+\i (00:16:04) xname_flush 
+\i (00:16:06) xname_flush '!' 
+\i (00:16:07) xname_flush 
+\i (00:16:08) xname_flush '!' 
+\i (00:16:09) xname_flush 
+\i (00:16:11) xname_flush '!' 
+\i (00:16:12) xname_flush 
+\i (00:16:14) xname_flush '!' 
+\i (00:16:15) xname_flush 
+\i (00:16:35) xNet '!' Fmc.Scl_Fpga 
+\i (00:16:35) xname_flush '!' 
+\i (00:16:45) xNet Fmc.Scl_Fpga 
+\i (00:16:45) xNet Fmc.Fpga_Io_Voltage 
+\i (00:16:45) xNet Fmc.Scl0 
+\i (00:16:45) xNet Fmc.Sda0 
+\i (00:16:45) xNet Fmc.Temp_Intr* 
+\i (00:16:45) xNet Fmc.Pwr_Good 
+\i (00:16:45) xNet Fmc.Sda_Fpga 
+\i (00:16:45) xname_flush 
+\i (00:16:45) trapsize 4892
+\i (00:16:48) xNet '!' Fmc.Scl_Fpga 
+\i (00:16:48) xNet '!' Fmc.Fpga_Io_Voltage 
+\i (00:16:48) xNet '!' Fmc.Scl0 
+\i (00:16:48) xNet '!' Fmc.Sda0 
+\i (00:16:48) xNet '!' Fmc.Temp_Intr* 
+\i (00:16:48) xNet '!' Fmc.Pwr_Good 
+\i (00:16:48) xNet '!' Fmc.Sda_Fpga 
+\i (00:16:48) xname_flush '!' 
+\i (00:17:37) xname_flush 
+\i (00:17:38) xname_flush '!' 
+\i (00:17:39) xname_flush 
+\i (00:17:40) xname_flush '!' 
+\i (00:17:40) xname_flush 
+\i (00:17:43) xname_flush '!' 
+\i (00:17:46) xname_flush 
+\i (00:17:49) xname_flush '!' 
+\i (00:17:58) xname_flush 
 \i (00:18:02) xname_flush 
-\i (00:18:02) trapsize 185
-\i (00:18:25) xrefdes R2685 
-\i (00:18:25) xname_flush 
-\i (00:18:25) trapsize 232
-\i (00:18:46) xrefdes R2689 
-\i (00:18:46) xname_flush 
-\i (00:18:46) trapsize 133
-\i (00:19:42) xrefdes R2683 
-\i (00:19:42) xname_flush 
-\i (00:19:42) trapsize 166
-\t (00:21:03) > DoPhysicalNetlistGenerate message received
-\t (00:21:03) > Generating physical netlist...
-\t (00:21:03) Starting genfeedformat...
-\t (00:21:05) > Sending response DonePhysicalNetlistGeneration
-\t (00:21:05) > Physical Netlist Generated
-\t (00:21:12) > DoPullSchematic message received
-\t (00:21:12) > Pulling schematic...
-\t (00:21:12) Starting Cadence Logic Import...
-\t (00:21:14) Opening existing design...
-\i (00:21:14) setwindow form.mini
-\i (00:21:14) FORM mini tree  'Components by refdes' 
-\i (00:21:14) setwindow pcb
-\i (00:21:14) trapsize 166
-\t (00:21:14) > Sending response DonePullSchematic
-\t (00:21:14) > Schematic pulled successfully
-\i (00:21:15) placementedit 
-\i (00:21:27) zoom out 1 
-\i (00:21:27) setwindow pcb
-\i (00:21:27) zoom out -180.82 -6225.28
-\i (00:21:27) trapsize 333
-\i (00:21:27) zoom out 1 
-\i (00:21:27) setwindow pcb
-\i (00:21:27) zoom out -180.82 -6225.28
-\i (00:21:27) trapsize 665
-\i (00:21:28) zoom out 1 
-\i (00:21:28) setwindow pcb
-\i (00:21:28) zoom out -180.82 -6225.28
-\i (00:21:28) trapsize 1330
-\i (00:21:28) zoom in 1 
-\i (00:21:28) setwindow pcb
-\i (00:21:28) zoom in -180.83 -6225.27
-\i (00:21:28) trapsize 665
-\i (00:21:44) setwindow form.find
-\i (00:21:44) FORM find find_name r2683 
-\t (00:21:44) Can not select unplaced component R2683.
-\t (00:21:44) Can not select unplaced component R2683.
-\i (00:21:51) setwindow pcb
-\i (00:21:51) place manual 
-\i (00:21:51) setwindow form.plc_manual
-\i (00:21:51) FORM plc_manual tree  'Components by refdes' 
-\i (00:22:03) FORM plc_manual tree  R2683 'Components by refdes' 
-\i (00:22:03) FORM plc_manual tree 'MULTISEL YES' R2683 'Components by refdes' 
-\t (00:22:03) Placing R2683 / R_RES0402_100 / RES0402 on Top.
-\i (00:22:07) setwindow pcb
-\i (00:22:07) pick grid -486.73 -6140.14
-\t (00:22:07) last pick:  -487.00 -6140.00
-\i (00:22:15) setwindow form.plc_manual
-\i (00:22:15) FORM plc_manual tree  R2684 'Components by refdes' 
-\i (00:22:15) FORM plc_manual tree 'MULTISEL YES' R2684 'Components by refdes' 
-\t (00:22:15) Placing R2684 / R_RES0603_200 / RES0603 on Top.
-\i (00:22:17) setwindow pcb
-\i (00:22:17) pick grid -512.00 -6210.64
-\t (00:22:17) last pick:  -512.00 -6211.00
-\i (00:22:18) setwindow form.plc_manual
-\i (00:22:18) FORM plc_manual tree  R2685 'Components by refdes' 
-\i (00:22:18) FORM plc_manual tree 'MULTISEL YES' R2685 'Components by refdes' 
-\t (00:22:18) Placing R2685 / R_RES0603_200 / RES0603 on Top.
-\i (00:22:20) setwindow pcb
-\i (00:22:20) pick grid -512.00 -6283.79
-\t (00:22:20) last pick:  -512.00 -6284.00
-\i (00:22:27) setwindow form.plc_manual
-\i (00:22:27) FORM plc_manual done  
-\i (00:22:27) setwindow form.mini
-\i (00:22:27) FORM mini tree  'Components by refdes' 
-\i (00:22:27) setwindow pcb
-\i (00:22:27) placementedit 
-\i (00:22:30) save 
-\i (00:22:31) fillin yes 
-\t (00:22:32) > Sending response DoneOpenBoard
-\i (00:22:32) placementedit 
-\i (00:24:48) xrefdes R131 
-\i (00:24:48) xname_flush 
-\i (00:24:48) trapsize 139
-\i (00:25:28) xrefdes R132 
-\i (00:25:28) xname_flush 
-\i (00:25:28) trapsize 181
-\i (00:25:57) xrefdes R133 
-\i (00:25:57) xname_flush 
-\i (00:25:57) trapsize 200
-\t (00:26:49) > DoPhysicalNetlistGenerate message received
-\t (00:26:49) > Generating physical netlist...
-\t (00:26:49) Starting genfeedformat...
-\t (00:26:50) > Sending response DonePhysicalNetlistGeneration
-\t (00:26:50) > Physical Netlist Generated
-\t (00:26:56) > DoPullSchematic message received
-\t (00:26:56) > Pulling schematic...
-\t (00:26:57) Starting Cadence Logic Import...
-\t (00:26:58) Opening existing design...
-\i (00:26:59) setwindow form.mini
-\i (00:26:59) FORM mini tree  'Components by refdes' 
-\i (00:26:59) setwindow pcb
-\i (00:26:59) trapsize 200
-\t (00:26:59) > Sending response DonePullSchematic
-\t (00:26:59) > Schematic pulled successfully
-\i (00:26:59) placementedit 
-\i (00:27:05) place manual 
-\i (00:27:05) setwindow form.plc_manual
-\i (00:27:05) FORM plc_manual tree  'Components by refdes' 
-\i (00:27:15) FORM plc_manual done  
-\i (00:27:15) setwindow form.mini
-\i (00:27:15) FORM mini tree  'Components by refdes' 
-\i (00:27:15) setwindow pcb
-\i (00:27:15) placementedit 
-\i (00:27:20) save 
-\i (00:27:22) fillin yes 
-\t (00:27:22) > Sending response DoneOpenBoard
-\i (00:27:22) placementedit 
-\i (00:29:15) reports 'Netlist Report' 
-\i (00:29:16) placementedit 
-\e (00:30:09) Command not found: u52
-\i (00:30:13) setwindow form.find
-\i (00:30:13) FORM find find_name u52 
-\i (00:30:13) setwindow pcb
-\i (00:30:13) trapsize 787
-\i (00:32:06) setwindow form.find
-\i (00:32:06) FORM find find_name u50 
-\i (00:32:06) setwindow pcb
-\i (00:32:06) trapsize 343
-\i (00:34:32) xrefdes '!' U50 
-\i (00:34:32) xname_flush '!' 
-\i (00:34:35) xNet Lemo_Vcca 
-\i (00:34:35) xrefdes Q2 
-\i (00:34:35) xrefdes J10 
-\i (00:34:35) xrefdes J9 
-\i (00:34:35) xNet N716142 
-\i (00:34:35) xrefdes C114 
-\i (00:34:35) xname_flush 
-\i (00:34:35) trapsize 805
-\i (00:35:24) xname_flush 
-\i (00:35:32) xNet Bnc_Vcca 
-\i (00:35:32) xrefdes J24 
-\i (00:35:32) xrefdes J25 
-\i (00:35:32) xrefdes Q13 
-\i (00:35:32) xrefdes C45 
-\i (00:35:32) xNet N716972 
-\i (00:35:32) xname_flush 
-\i (00:35:32) trapsize 815
-\i (00:35:40) xname_flush 
-\i (00:36:32) xNet Lemo_Vcca 
-\i (00:36:32) xname_flush 
-\i (00:36:32) trapsize 669
-\i (00:36:37) show element 
-\i (00:36:37) placementedit 
-\i (00:36:40) setwindow form.find
-\i (00:36:40) FORM find all_off  
-\i (00:36:41) FORM find nets YES 
-\i (00:36:42) setwindow text
-\i (00:36:42) close
-\i (00:37:01) setwindow pcb
-\i (00:37:01) xNet '!' Lemo_Vcca 
-\i (00:37:01) xNet '!' Bnc_Vcca 
-\i (00:37:01) xname_flush '!' 
-\t (00:38:56) > DoPhysicalNetlistGenerate message received
-\t (00:38:56) > Generating physical netlist...
-\t (00:38:56) Starting genfeedformat...
-\t (00:38:58) > Sending response DonePhysicalNetlistGeneration
-\t (00:38:58) > Physical Netlist Generated
-\t (00:39:01) > DoPullSchematic message received
-\t (00:39:01) > Pulling schematic...
-\t (00:39:01) Starting Cadence Logic Import...
-\t (00:39:02) Opening existing design...
-\i (00:39:03) setwindow form.mini
-\i (00:39:03) FORM mini tree  'Components by refdes' 
-\i (00:39:03) setwindow pcb
-\i (00:39:03) trapsize 669
-\t (00:39:03) > Sending response DonePullSchematic
-\t (00:39:03) > Schematic pulled successfully
-\i (00:39:03) placementedit 
-\i (00:39:10) setwindow form.find
-\i (00:39:10) FORM find find_name u51 
-\i (00:39:10) setwindow pcb
-\i (00:39:10) trapsize 343
-\i (00:39:12) zoom in 1 
-\i (00:39:12) setwindow pcb
-\i (00:39:12) zoom in 11483.30 896.02
-\i (00:39:12) trapsize 171
-\i (00:39:13) zoom in 1 
-\i (00:39:13) setwindow pcb
-\i (00:39:13) zoom in 11478.84 897.39
-\i (00:39:13) trapsize 86
-\i (00:39:14) pick grid 11475.41 953.95
-\t (00:39:14) last pick:  11475.00 954.00
-\i (00:39:15) zoom out 1 
-\i (00:39:15) setwindow pcb
-\i (00:39:15) zoom out 11474.04 952.41
-\i (00:39:15) trapsize 171
-\i (00:39:17) roam y -96 
-\i (00:39:17) roam y -96
-\i (00:39:17) roam y -96 
-\i (00:39:17) roam y -96
-\i (00:39:17) roam y -96 
-\i (00:39:17) roam y -96
-\i (00:39:17) roam y -96 
-\i (00:39:17) roam y -96
-\i (00:39:18) roam y 96 
-\i (00:39:18) roam y 96
-\i (00:39:18) roam y 96 
-\i (00:39:18) roam y 96
-\i (00:39:18) roam y 96 
-\i (00:39:18) roam y 96
-\i (00:40:33) xrefdes U47 
-\i (00:40:33) xname_flush 
-\i (00:40:33) trapsize 491
-\i (00:48:40) xrefdes '!' U47 
-\i (00:48:40) xname_flush '!' 
-\i (00:48:41) xrefdes U47 
-\i (00:48:41) xname_flush 
-\i (00:48:41) trapsize 491
-\i (00:49:44) xrefdes U47 
-\i (00:49:44) xname_flush 
-\i (00:49:44) trapsize 491
-\t (00:50:26) > DoPhysicalNetlistGenerate message received
-\t (00:50:26) > Generating physical netlist...
-\t (00:50:26) Starting genfeedformat...
-\t (00:50:28) > Sending response DonePhysicalNetlistGeneration
-\t (00:50:28) > Physical Netlist Generated
-\t (00:50:52) > DoPhysicalNetlistGenerate message received
-\t (00:50:52) > Generating physical netlist...
-\t (00:50:52) Starting genfeedformat...
-\t (00:50:53) > Sending response DonePhysicalNetlistGeneration
-\t (00:50:53) > Physical Netlist Generated
-\t (00:51:39) > DoPullSchematic message received
-\t (00:51:39) > Pulling schematic...
-\t (00:51:39) Starting Cadence Logic Import...
-\t (00:51:40) Opening existing design...
-\i (00:51:41) setwindow form.mini
-\i (00:51:41) FORM mini tree  'Components by refdes' 
-\i (00:51:41) setwindow pcb
-\i (00:51:41) trapsize 491
-\t (00:51:41) > Sending response DonePullSchematic
-\t (00:51:41) > Schematic pulled successfully
-\i (00:51:41) placementedit 
-\i (00:51:51) setwindow form.find
-\i (00:51:51) FORM find find_name u47 
-\t (00:51:51) Can not select unplaced component U47.
-\t (00:51:51) Can not select unplaced component U47.
-\i (00:51:57) setwindow pcb
-\i (00:51:57) place manual 
-\i (00:51:57) setwindow form.plc_manual
-\i (00:51:57) FORM plc_manual tree  'Components by refdes' 
-\i (00:52:00) FORM plc_manual tree  U47 'Components by refdes' 
-\i (00:52:00) FORM plc_manual tree 'MULTISEL YES' U47 'Components by refdes' 
-\t (00:52:00) Placing U47 / 74AVC2T45_DCT_SOP50P310X90-8N_S / SOP50P310X90-8N on Top.
-\i (00:52:05) setwindow pcb
-\i (00:52:05) prepopup 3171.52 5408.32
-\i (00:52:06) oops 
-\i (00:52:08) setwindow form.plc_manual
-\i (00:52:08) FORM plc_manual done  
-\i (00:52:08) setwindow form.mini
-\i (00:52:08) FORM mini tree  'Components by refdes' 
-\i (00:52:08) setwindow pcb
-\i (00:52:08) placementedit 
-\i (00:52:53) save 
-\i (00:52:54) fillin yes 
-\t (00:52:55) > Sending response DoneOpenBoard
-\i (00:52:55) placementedit 
-\i (00:59:32) xNet Scl_Fpga 
-\i (00:59:32) xname_flush 
-\i (00:59:32) trapsize 37
-\i (00:59:32) xNet '!' Scl_Fpga 
-\i (00:59:32) xname_flush '!' 
-\i (00:59:32) xNet Scl_Fpga 
-\i (00:59:32) xname_flush 
-\i (00:59:32) trapsize 37
-\i (01:16:06) xNet '!' Scl_Fpga 
-\i (01:16:06) xname_flush '!' 
-\i (01:16:06) xNet Fmc.Scl0 
-\i (01:16:06) xname_flush 
-\i (01:16:06) trapsize 4830
-\i (01:16:30) xNet '!' Fmc.Scl0 
-\i (01:16:30) xname_flush '!' 
-\i (01:16:30) xNet Scl_Fpga 
-\i (01:16:30) xname_flush 
-\i (01:16:30) trapsize 37
-\i (01:16:37) xNet '!' Scl_Fpga 
-\i (01:16:37) xname_flush '!' 
-\i (01:16:37) xNet Fmc.Scl0 
-\i (01:16:37) xname_flush 
-\i (01:16:37) trapsize 4830
-\i (01:17:26) xNet '!' Fmc.Scl0 
-\i (01:17:26) xname_flush '!' 
-\i (01:18:02) xname_flush 
-\i (01:18:09) xname_flush '!' 
-\i (01:18:09) xname_flush 
-\i (01:18:15) xname_flush '!' 
-\i (01:18:19) xname_flush 
-\i (01:18:23) xname_flush '!' 
-\i (01:18:23) xname_flush 
-\i (01:18:24) xname_flush '!' 
-\i (01:18:31) xNet Scl_Fpga 
-\i (01:18:31) xname_flush 
-\i (01:18:31) trapsize 37
-\i (01:18:31) xNet Scl_Fpga 
-\i (01:18:31) xname_flush 
-\i (01:18:31) trapsize 37
-\i (01:18:37) xNet '!' Scl_Fpga 
-\i (01:18:37) xname_flush '!' 
-\i (01:18:47) xNet '!' Scl_Fpga 
-\i (01:18:47) xname_flush '!' 
-\i (01:18:47) xNet Scl_Fpga 
-\i (01:18:47) xname_flush 
-\i (01:18:47) trapsize 37
-\i (01:18:58) xNet '!' Fmc.Scl_Fpga 
-\i (01:18:58) xname_flush '!' 
-\i (01:18:58) xNet Fmc.Scl_Fpga 
-\i (01:18:58) xname_flush 
-\i (01:18:58) trapsize 4450
-\i (01:18:59) xNet '!' Fmc.Scl_Fpga 
-\i (01:18:59) xname_flush '!' 
-\i (01:19:03) xNet Fmc.Scl_Fpga 
-\i (01:19:03) xname_flush 
-\i (01:19:03) trapsize 4450
-\i (01:19:05) xNet '!' Fmc.Scl_Fpga 
-\i (01:19:05) xname_flush '!' 
-\i (01:19:35) xNet Fmc.Scl_Fpga 
-\i (01:19:35) xname_flush 
-\i (01:19:35) trapsize 4450
-\i (01:19:37) xNet '!' Fmc.Scl_Fpga 
-\i (01:19:37) xname_flush '!' 
-\i (01:24:41) exit 
-\t (01:25:01)     Journal end - Thu Sep 21 15:49:10 2023
+\i (00:18:05) xname_flush '!' 
+\i (00:18:05) xname_flush 
+\i (00:18:06) xname_flush '!' 
+\i (00:18:31) xname_flush 
+\i (00:19:09) xname_flush 
+\i (00:19:13) xname_flush '!' 
+\i (00:19:15) xname_flush 
+\i (00:19:18) xname_flush '!' 
+\i (00:19:20) xname_flush 
+\i (00:19:22) xname_flush '!' 
+\i (00:19:24) xname_flush 
+\i (00:19:26) xname_flush '!' 
+\i (00:19:27) xname_flush 
+\i (00:19:31) xname_flush '!' 
+\i (00:19:34) xname_flush 
+\i (00:19:36) xname_flush '!' 
+\i (00:19:36) xname_flush 
+\i (00:19:36) xname_flush '!' 
+\i (00:19:36) xname_flush 
+\i (00:19:37) xname_flush '!' 
+\i (00:19:41) xname_flush 
+\i (00:19:43) xname_flush '!' 
+\i (00:19:46) xname_flush 
+\i (00:19:48) xname_flush '!' 
+\i (00:19:50) xname_flush 
+\i (00:19:51) xname_flush '!' 
+\i (00:19:54) xname_flush 
+\i (00:30:13) xname_flush 
+\i (00:42:55) xname_flush '!' 
+\i (00:42:56) xname_flush 
+\i (00:42:58) xname_flush '!' 
+\i (00:43:04) xname_flush '!' 
+\i (00:43:13) xname_flush 
+\i (00:43:18) xname_flush '!' 
+\i (00:43:44) xname_flush 
+\i (00:44:44) xname_flush 
+\i (00:44:48) xname_flush '!' 
+\i (00:44:49) xname_flush 
+\i (00:44:50) xname_flush '!' 
+\i (00:45:14) xname_flush 
+\i (00:45:19) xname_flush '!' 
+\i (00:45:19) xname_flush 
+\i (00:45:32) xname_flush '!' 
+\i (00:45:33) xname_flush 
+\i (00:45:34) xname_flush '!' 
+\i (00:45:37) xname_flush 
+\i (00:45:43) xname_flush '!' 
+\i (00:45:43) xname_flush 
+\i (00:45:49) xname_flush '!' 
+\i (00:45:49) xname_flush 
+\i (00:45:50) xname_flush '!' 
+\i (00:45:51) xname_flush 
+\i (00:45:55) xname_flush '!' 
+\i (00:45:58) xname_flush 
+\i (00:46:02) xname_flush '!' 
+\i (00:46:02) xname_flush 
+\i (00:46:04) xname_flush '!' 
+\i (00:46:04) xname_flush 
+\i (00:46:10) xname_flush '!' 
+\i (00:46:12) xname_flush 
+\i (00:46:17) xname_flush '!' 
+\i (00:46:18) xname_flush 
+\i (00:46:21) xname_flush 
+\i (00:46:29) xname_flush '!' 
+\i (00:46:32) xname_flush 
+\i (00:46:49) xname_flush '!' 
+\i (00:46:51) xname_flush 
+\i (00:46:53) xname_flush '!' 
+\i (00:46:53) xname_flush 
+\i (00:46:56) xname_flush '!' 
+\i (00:46:56) xname_flush 
+\i (00:47:05) xname_flush '!' 
+\i (00:47:08) xname_flush 
+\i (00:47:18) xname_flush '!' 
+\i (00:50:17) xname_flush 
+\i (00:50:18) xname_flush '!' 
+\i (00:50:18) xname_flush 
+\i (00:50:20) xname_flush '!' 
+\i (00:50:20) xname_flush 
+\i (00:50:22) xname_flush '!' 
+\i (00:50:22) xname_flush 
+\i (00:50:25) xname_flush '!' 
+\i (00:50:25) xname_flush 
+\i (00:50:27) xname_flush '!' 
+\i (00:50:28) xname_flush 
+\i (00:50:29) xname_flush '!' 
+\i (00:50:30) xname_flush 
+\i (00:50:31) xname_flush '!' 
+\i (00:50:32) xname_flush 
+\i (00:50:39) xname_flush '!' 
+\i (00:50:43) xNet '!' Vcc2v5 
+\i (00:50:43) xname_flush '!' 
+\i (00:50:49) xNet '!' Vcc5v 
+\i (00:50:49) xname_flush '!' 
+\i (00:50:56) xNet '!' Vcc3v3 
+\i (00:50:56) xname_flush '!' 
+\i (00:50:58) xNet '!' Vcc3v3 
+\i (00:50:58) xname_flush '!' 
+\i (00:51:01) xNet '!' Vcc3v3 
+\i (00:51:01) xname_flush '!' 
+\i (00:51:50) xNet '!' Vcc3v3 
+\i (00:51:50) xname_flush '!' 
+\i (00:52:04) xNet '!' Vcc3v3 
+\i (00:52:04) xname_flush '!' 
+\i (00:52:08) xNet '!' Vcc3v3 
+\i (00:52:08) xname_flush '!' 
+\i (00:52:47) xNet '!' Gnd_Power 
+\i (00:52:47) xname_flush '!' 
+\i (00:53:01) xname_flush 
+\i (00:53:08) xname_flush '!' 
+\i (00:53:17) xname_flush 
+\i (00:53:19) xNet '!' Gnd_Power 
+\i (00:53:19) xname_flush '!' 
+\i (00:55:05) xname_flush 
+\i (00:55:07) xname_flush '!' 
+\i (00:55:07) xname_flush 
+\i (00:55:09) xname_flush '!' 
+\i (00:55:22) xname_flush 
+\i (00:55:27) xname_flush '!' 
+\i (00:55:31) xname_flush 
+\i (00:55:32) xname_flush '!' 
+\i (00:55:34) xname_flush 
+\i (00:55:40) xname_flush '!' 
+\i (00:55:42) xname_flush 
+\i (00:56:30) xname_flush '!' 
+\i (00:56:52) xNet Vdd_Pg 
+\i (00:56:52) xname_flush 
+\i (00:56:52) trapsize 5561
+\i (00:56:55) xNet '!' Vdd_Pg 
+\i (00:56:55) xname_flush '!' 
+\i (00:57:01) xname_flush 
+\i (00:57:08) xname_flush '!' 
+\i (00:57:25) xNet Recov_Aclk_Clk_P 
+\i (00:57:25) xname_flush 
+\i (00:57:25) trapsize 44
+\i (00:59:11) xname_flush '!' 
+\i (00:59:13) xNet Vcc2v5 
+\i (00:59:13) xNet N634677 
+\i (00:59:13) xNet N634717 
+\i (00:59:13) xrefdes D11 
+\i (00:59:13) xNet Gnd_Power 
+\i (00:59:13) xrefdes Q9 
+\i (00:59:13) xrefdes R67 
+\i (00:59:13) xNet Vcc3v3 
+\i (00:59:13) xname_flush 
+\i (00:59:13) trapsize 6557
+\i (00:59:20) xNet N169083 
+\i (00:59:20) xNet N169234 
+\i (00:59:20) xrefdes D10 
+\i (00:59:20) xNet Gnd_Power 
+\i (00:59:20) xrefdes D12 
+\i (00:59:20) xrefdes R68 
+\i (00:59:20) xNet Vcc3v3 
+\i (00:59:20) xrefdes R69 
+\i (00:59:20) xNet Vcc5v 
+\i (00:59:20) xname_flush 
+\i (00:59:20) trapsize 6557
+\i (01:01:44) xrefdes R66 
+\i (01:01:44) xNet N199881 
+\i (01:01:44) xNet N199921 
+\i (01:01:44) xNet Gnd_Power 
+\i (01:01:44) xrefdes Q8 
+\i (01:01:44) xNet Vcc3v3 
+\i (01:01:44) xrefdes D9 
+\i (01:01:44) xname_flush 
+\i (01:01:44) trapsize 6557
+\i (01:01:50) xNet Fmc.Pwr_Good 
+\i (01:01:50) xname_flush 
+\i (01:01:50) trapsize 2237
+\i (01:01:58) xNet '!' Fmc.Pwr_Good 
+\i (01:01:58) xname_flush '!' 
+\i (01:01:59) xNet Fmc.Pwr_Good 
+\i (01:01:59) xname_flush 
+\i (01:01:59) trapsize 2237
+\i (01:02:05) xNet '!' Fmc.Pwr_Good 
+\i (01:02:05) xname_flush '!' 
+\i (01:02:13) xNet Fmc.Pwr_Good 
+\i (01:02:13) xname_flush 
+\i (01:02:14) trapsize 2237
+\i (01:02:16) xNet '!' Fmc.Pwr_Good 
+\i (01:02:16) xname_flush '!' 
+\i (01:02:16) xNet Fmc.Pwr_Good 
+\i (01:02:16) xname_flush 
+\i (01:02:16) trapsize 2237
+\i (01:02:37) xNet Gnd_Power 
+\i (01:02:37) xNet Fmc.Pwr_Good 
+\i (01:02:37) xNet Vcc3v3 
+\i (01:02:37) xNet Vcc5v 
+\i (01:02:37) xNet Vcc2v5 
+\i (01:02:37) xname_flush 
+\i (01:02:37) trapsize 6557
+\i (01:02:45) xNet '!' Gnd_Power 
+\i (01:02:45) xNet '!' Fmc.Pwr_Good 
+\i (01:02:45) xNet '!' Vcc3v3 
+\i (01:02:45) xNet '!' Vcc5v 
+\i (01:02:45) xNet '!' Vcc2v5 
+\i (01:02:45) xname_flush '!' 
+\t (01:04:48) > DoPhysicalNetlistGenerate message received
+\t (01:04:48) > Generating physical netlist...
+\t (01:04:48) Starting genfeedformat...
+\t (01:04:50) > Sending response DonePhysicalNetlistGeneration
+\t (01:04:50) > Physical Netlist Generated
+\t (01:04:53) > DoPullSchematic message received
+\t (01:04:53) > Pulling schematic...
+\t (01:04:53) Starting Cadence Logic Import...
+\t (01:05:09) Opening existing design...
+\i (01:05:10) setwindow form.mini
+\i (01:05:10) FORM mini tree  'Components by refdes' 
+\i (01:05:10) setwindow pcb
+\i (01:05:10) trapsize 6557
+\t (01:05:10) > Sending response DonePullSchematic
+\t (01:05:10) > Schematic pulled successfully
+\i (01:05:10) placementedit 
+\i (01:05:38) place manual 
+\i (01:05:38) setwindow form.plc_manual
+\i (01:05:38) FORM plc_manual tree  'Components by refdes' 
+\i (01:05:45) FORM plc_manual tree  U47 'Components by refdes' 
+\i (01:05:45) FORM plc_manual tree 'MULTISEL YES' U47 'Components by refdes' 
+\t (01:05:45) Placing U47 / 74AVC2T45_DCT_SOP50P310X90-8N_S / SOP50P310X90-8N on Top.
+\i (01:06:17) setwindow pcb
+\i (01:06:17) pick grid 6191.33 -2637.87
+\t (01:06:17) last pick:  6191.00 -2638.00
+\i (01:06:18) zoom in 1 
+\i (01:06:18) setwindow pcb
+\i (01:06:18) zoom in 6427.40 -2755.90
+\i (01:06:18) trapsize 3279
+\i (01:06:18) zoom in 1 
+\i (01:06:18) setwindow pcb
+\i (01:06:18) zoom in 6427.40 -2755.90
+\i (01:06:18) trapsize 1639
+\i (01:06:18) zoom in 1 
+\i (01:06:18) setwindow pcb
+\i (01:06:18) zoom in 6424.12 -2752.61
+\i (01:06:18) trapsize 820
+\i (01:06:18) zoom in 1 
+\i (01:06:18) setwindow pcb
+\i (01:06:18) zoom in 6422.48 -2752.61
+\i (01:06:18) trapsize 410
+\i (01:06:20) pick grid 6374.94 -2601.79
+\t (01:06:20) last pick:  6375.00 -2602.00
+\i (01:06:21) prepopup 6374.12 -2582.12
+\i (01:06:21) done 
+\i (01:06:21) setwindow form.mini
+\i (01:06:21) FORM mini tree  'Components by refdes' 
+\i (01:06:21) setwindow pcb
+\i (01:06:21) placementedit 
+\i (01:06:25) zoom in 1 
+\i (01:06:25) setwindow pcb
+\i (01:06:25) zoom in 6336.42 -2579.66
+\i (01:06:25) trapsize 205
+\i (01:06:25) zoom in 1 
+\i (01:06:25) setwindow pcb
+\i (01:06:25) zoom in 6336.42 -2579.66
+\i (01:06:25) trapsize 102
+\i (01:06:26) roam y 96 
+\i (01:06:26) roam y 96
+\i (01:06:26) roam y 96 
+\i (01:06:26) roam y 96
+\i (01:06:26) roam y 96 
+\i (01:06:26) roam y 96
+\i (01:06:27) roam x -96 
+\i (01:06:27) roam x -96
+\i (01:06:27) roam x -96 
+\i (01:06:27) roam x -96
+\i (01:06:27) roam x -96 
+\i (01:06:27) roam x -96
+\i (01:06:27) roam x -96 
+\i (01:06:27) roam x -96
+\i (01:06:27) roam x -96 
+\i (01:06:27) roam x -96
+\i (01:06:27) roam x -96 
+\i (01:06:27) roam x -96
+\i (01:06:41) show measure 
+\i (01:06:44) setwindow form.find
+\i (01:06:44) FORM find pins YES 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) pick grid 6261.27 -2609.63
+\t (01:06:45) last pick:  6261.00 -2610.00
+\i (01:06:48) pick grid 6253.48 -2628.07
+\t (01:06:48) last pick:  6253.00 -2628.00
+\i (01:07:50) pick grid 6128.07 -2611.47
+\t (01:07:50) last pick:  6128.00 -2611.00
+\i (01:08:14) setwindow text
+\i (01:08:14) close
+\i (01:08:17) setwindow pcb
+\i (01:08:17) show element 
+\i (01:08:22) setwindow text
+\i (01:08:22) close
+\i (01:08:23) setwindow pcb
+\i (01:08:23) prepopup 6288.32 -2613.52
+\i (01:08:23) done 
+\i (01:08:23) setwindow form.mini
+\i (01:08:23) FORM mini tree  'Components by refdes' 
+\i (01:08:23) setwindow pcb
+\i (01:08:23) placementedit 
+\i (01:08:25) show element 
+\i (01:08:26) setwindow form.find
+\i (01:08:26) FORM find symbols YES 
+\i (01:08:28) setwindow pcb
+\i (01:08:28) pick grid 6234.43 -2609.63
+\t (01:08:28) last pick:  6234.00 -2610.00
+\i (01:10:15) setwindow text
+\i (01:10:15) close
+\i (01:10:16) setwindow pcb
+\i (01:10:16) zoom out 1 
+\i (01:10:21) setwindow pcb
+\i (01:10:21) zoom out 6205.33 -2642.00
+\i (01:10:21) trapsize 205
+\i (01:10:21) pick grid 6351.64 -2599.38
+\t (01:10:21) last pick:  6352.00 -2599.00
+\i (01:10:21) pick grid 6352.05 -2592.01
+\t (01:10:21) last pick:  6352.00 -2592.00
+\i (01:10:21) zoom out 1 
+\i (01:10:21) setwindow pcb
+\i (01:10:21) zoom out 6205.33 -2642.01
+\i (01:10:21) trapsize 410
+\i (01:10:21) zoom out 1 
+\i (01:10:21) setwindow pcb
+\i (01:10:21) zoom out 6205.33 -2642.00
+\i (01:10:21) trapsize 820
+\i (01:10:21) zoom out 1 
+\i (01:10:21) setwindow pcb
+\i (01:10:21) zoom out 6205.32 -2642.00
+\i (01:10:21) trapsize 1639
+\i (01:10:24) prepopup 6136.47 -2684.62
+\i (01:10:25) cancel 
+\i (01:10:25) placementedit 
+\i (01:10:26) zoom in 1 
+\i (01:10:26) setwindow pcb
+\i (01:10:26) zoom in 6126.63 -2622.33
+\i (01:10:26) trapsize 820
+\i (01:10:26) zoom in 1 
+\i (01:10:26) setwindow pcb
+\i (01:10:26) zoom in 6126.64 -2622.32
+\i (01:10:26) trapsize 410
+\i (01:10:27) zoom in 1 
+\i (01:10:27) setwindow pcb
+\i (01:10:27) zoom in 6126.64 -2622.32
+\i (01:10:27) trapsize 205
+\i (01:10:28) zoom in 1 
+\i (01:10:28) setwindow pcb
+\i (01:10:28) zoom in 6126.64 -2622.32
+\i (01:10:28) trapsize 102
+\i (01:10:29) zoom out 1 
+\i (01:10:29) setwindow pcb
+\i (01:10:29) zoom out 6127.25 -2621.29
+\i (01:10:29) trapsize 205
+\i (01:10:33) show measure 
+\i (01:10:34) pick grid 6264.96 -2610.22
+\t (01:10:34) last pick:  6265.00 -2610.00
+\i (01:10:36) pick grid 6253.08 -2626.21
+\t (01:10:36) last pick:  6253.00 -2626.00
+\i (01:19:08) xname_flush '!' 
+\i (01:19:09) refdes U47 
+\i (01:19:09) trapsize 291
+\i (01:19:09) xname_flush 
+\i (01:20:01) refdes U50 
+\i (01:20:01) trapsize 343
+\i (01:20:01) xname_flush 
+\i 

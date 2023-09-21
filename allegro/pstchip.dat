@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:46:00}
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 16:57:10}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -317,21 +317,6 @@ primitive 'LED_LEDC1608X80N_RED';
     PART_NAME='LED';
     JEDEC_TYPE='LEDC1608X80N';
     VALUE='RED';
-  end_body;
-end_primitive;
-primitive 'LED_GREEN1206_CAP1206_GREEN';
-  pin
-    'A':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'K':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='LED_GREEN1206';
-    JEDEC_TYPE='cap1206';
-    VALUE='GREEN';
   end_body;
 end_primitive;
 primitive 'LED_GREEN0603';
@@ -1543,6 +1528,75 @@ primitive '4X2_RECPT_100MIL';
     VALUE='RECP6X2';
   end_body;
 end_primitive;
+primitive 'RECEPT 10X2 100 MIL_RECEPT_10X2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RECEPT 10X2 100 MIL';
+    JEDEC_TYPE='RECEPT_10X2_100MIL';
+    VALUE='RECP10X2';
+  end_body;
+end_primitive;
 primitive 'BSS138_SOT95P230X110-3N_BSS138K';
   pin
     'D':
@@ -2064,21 +2118,6 @@ primitive 'R_RES0805_0.02';
     PART_NAME='R';
     JEDEC_TYPE='res0805';
     VALUE='0.02';
-  end_body;
-end_primitive;
-primitive 'R_RES0603_300';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0603';
-    VALUE='300';
   end_body;
 end_primitive;
 primitive 'R_RES0603_DNP';
