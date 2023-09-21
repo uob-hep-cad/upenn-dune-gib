@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-20-2023 at 18:39:54}
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 11:34:14}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -643,7 +643,7 @@ primitive 'PJ-102AH_CUI_PJ-102AH_PJ-102AH';
     VALUE='PJ-102AH';
   end_body;
 end_primitive;
-primitive 'CON160P_10_SAMTEC_ASP-134606-01';
+primitive 'CON160P_11_SAMTEC_ASP-134606-01';
   pin
     'FMC_LA06_P':
       PIN_NUMBER='(C10,0)';
@@ -655,12 +655,12 @@ primitive 'CON160P_10_SAMTEC_ASP-134606-01';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'NC1':
+    'DP0_C2M_P':
       PIN_NUMBER='(C2,0)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'NC2':
+    'DP0_C2M_N':
       PIN_NUMBER='(C3,0)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
@@ -675,7 +675,7 @@ primitive 'CON160P_10_SAMTEC_ASP-134606-01';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'NC3':
+    'DP0_M2C_P':
       PIN_NUMBER='(C6,0)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
@@ -690,7 +690,7 @@ primitive 'CON160P_10_SAMTEC_ASP-134606-01';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'NC5':
+    'DP0_M2C_N':
       PIN_NUMBER='(C7,0)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
@@ -860,12 +860,12 @@ primitive 'CON160P_10_SAMTEC_ASP-134606-01';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'NC6':
+    'GBTCLK0_M2C_P':
       PIN_NUMBER='(D4,0)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'NC7':
+    'GBTCLK0_M2C_N':
       PIN_NUMBER='(D5,0)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
@@ -1447,7 +1447,7 @@ primitive 'CON160P_10_SAMTEC_ASP-134606-01';
       BIDIRECTIONAL='TRUE';
   end_pin;
   body
-    PART_NAME='CON160P_10';
+    PART_NAME='CON160P_11';
     JEDEC_TYPE='samtec_asp-134606-01';
     VALUE='ASP-134606-01';
   end_body;
@@ -1577,6 +1577,31 @@ primitive 'BS250FTA_0_SOT95P230X110-3N_NDS';
     PART_NAME='BS250FTA_0';
     JEDEC_TYPE='SOT95P230X110-3N';
     VALUE='NDS332P';
+  end_body;
+end_primitive;
+primitive 'OSC_6P_EN_DIFFOUT_3_OSCSC254P50';
+  pin
+    'E/D':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'OUT+':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(*)';
+    'OUT-':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'VDD':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='OSC_6P_EN_DIFFOUT_3';
+    JEDEC_TYPE='oscsc254p500x700x150-6n_txc_bf';
+    VALUE='50.0MHz';
+    NC_PINS='(2)';
   end_body;
 end_primitive;
 primitive 'R_RES0402_1K';
