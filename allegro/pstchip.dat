@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:03:10}
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:15:02}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -3040,7 +3040,7 @@ primitive 'LM75AIMX_0_SOIC8_LM75AIMX/NOPB';
     VALUE='LM75AIMX/NOPB';
   end_body;
 end_primitive;
-primitive '74AVC2T45_DCT_2_SOP50P310X90-8N';
+primitive '74AVC2T45_DCT_SOP50P310X90-8N_S';
   pin
     'B1':
       PIN_NUMBER='(7)';
@@ -3076,9 +3076,9 @@ primitive '74AVC2T45_DCT_2_SOP50P310X90-8N';
       PINUSE='POWER';
   end_pin;
   body
-    PART_NAME='74AVC2T45_DCT_2';
+    PART_NAME='74AVC2T45_DCT';
     JEDEC_TYPE='SOP50P310X90-8N';
-    VALUE='SN74AVC2T45DCTR';
+    VALUE='SN74LVC2T45DCTR';
   end_body;
 end_primitive;
 primitive 'SI5395_QFN_1_QFN50P900X900X90-6';
@@ -3347,6 +3347,47 @@ primitive 'DRTR5V0U4S_SOT363_DRTR5V0U4S-7';
     PART_NAME='DRTR5V0U4S';
     JEDEC_TYPE='sot363';
     VALUE='DRTR5V0U4S-7';
+  end_body;
+end_primitive;
+primitive '74AVC2T45_DCT_2_SOP50P310X90-8N';
+  pin
+    'B1':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'DIR':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    'A2':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A1':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B2':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'VCCA':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VCCB':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='74AVC2T45_DCT_2';
+    JEDEC_TYPE='SOP50P310X90-8N';
+    VALUE='SN74AVC2T45DCTR';
   end_body;
 end_primitive;
 primitive 'PCA9539_TSSOP_2_SOP65P640X110-2';

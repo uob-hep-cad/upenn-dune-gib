@@ -1,5 +1,5 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Thu Sep 21 15:03:07 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Thu Sep 21 15:15:02 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
 S!SDA_FPGA!@gps_interface_board.\gib top\(sch_1):sda_fpga!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!SCL_FPGA!@gps_interface_board.\gib top\(sch_1):scl_fpga!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N727253!@gps_interface_board.\gib top\(sch_1):n727253!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -100,11 +100,9 @@ S!N323570!@gps_interface_board.\gib top\(sch_1):n323570!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N323582!@gps_interface_board.\gib top\(sch_1):n323582!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N323562!@gps_interface_board.\gib top\(sch_1):n323562!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N323566!@gps_interface_board.\gib top\(sch_1):n323566!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N716972!@gps_interface_board.\gib top\(sch_1):n716972!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N322373!@gps_interface_board.\gib top\(sch_1):n322373!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N322369!@gps_interface_board.\gib top\(sch_1):n322369!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N322365!@gps_interface_board.\gib top\(sch_1):n322365!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N716142!@gps_interface_board.\gib top\(sch_1):n716142!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N146332!@gps_interface_board.\gib top\(sch_1):n146332!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N146446!@gps_interface_board.\gib top\(sch_1):n146446!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N146320!@gps_interface_board.\gib top\(sch_1):n146320!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -165,7 +163,6 @@ S!VCC2V5!@gps_interface_board.\gib top\(sch_1):vcc2v5!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!SS_2V5!@gps_interface_board.\gib top\(sch_1):ss_2v5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N575080!@gps_interface_board.\gib top\(sch_1):n575080!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N339027!@gps_interface_board.\gib top\(sch_1):n339027!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!BNC_VCCA!@gps_interface_board.\gib top\(sch_1):bnc_vcca!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!PG_3V5!@gps_interface_board.\gib top\(sch_1):pg_3v5!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!PG_2V5!@gps_interface_board.\gib top\(sch_1):pg_2v5!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N280018!@gps_interface_board.\gib top\(sch_1):n280018!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
@@ -219,7 +216,6 @@ S!SPARE_LEMO_CONN_0!@gps_interface_board.\gib top\(sch_1):spare_lemo_conn_0!!!!!
 S!SPARE_BNC_CONN_1!@gps_interface_board.\gib top\(sch_1):spare_bnc_conn_1!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!SPARE_BNC_CONN_0!@gps_interface_board.\gib top\(sch_1):spare_bnc_conn_0!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!BNC_DIR!@gps_interface_board.\gib top\(sch_1):bnc_dir!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!LEMO_VCCA!@gps_interface_board.\gib top\(sch_1):lemo_vcca!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N352214!@gps_interface_board.\gib top\(sch_1):n352214!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N352210!@gps_interface_board.\gib top\(sch_1):n352210!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!SYNC_OUT_N!@gps_interface_board.\gib top\(sch_1):sync_out_n!!!!!!!!!!!!!!!!!!!!!!SYNC_OUT!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!

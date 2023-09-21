@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:03:10 }
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 15:15:02 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -7027,12 +7027,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U47 '74AVC2T45_DCT_2_SOP50P310X90-8N':;
+ U47 '74AVC2T45_DCT_SOP50P310X90-8N_S':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS70@GPS_INTERFACE_BOARD.74AVC2T45_DCT_2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins70@gps_interface_board.\74avc2t45_dct_2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins70@gps_interface_board.\74avc2t45_dct_2.normal\(chips)',
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS70@OCAD_PARTS_LIB.74AVC2T45_DCT.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins70@ocad_parts_lib.\74avc2t45_dct.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins70@ocad_parts_lib.\74avc2t45_dct.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

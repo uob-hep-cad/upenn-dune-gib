@@ -2306,43 +2306,6 @@ primitive 'BNC_TE_1-1634612-0_TE_1-1634612';
   end_body;
 end_primitive;
 
-primitive 'BS250FTA_0_SOT95P230X110-3N_NDS';
-  pin
-	 'S':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'G':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'D':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='BS250FTA_0';
-	 VALUE='NDS332P';
-	 BODY_NAME='BS250FTA_0_SOT95P230X110-3N_NDS';
-	 JEDEC_TYPE='SOT95P230X110-3N';
-	 PHYS_DES_PREFIX='Q';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'DRTR5V0U4S_SOT363_DRTR5V0U4S-7';
   pin
 	 'VDD':
