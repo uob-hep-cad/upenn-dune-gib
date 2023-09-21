@@ -5061,4 +5061,140 @@
 \i (00:44:01) xname_flush '!' 
 \i (00:44:51) xname_flush '!' 
 \i (00:44:51) xname_flush 
-\i 
+\i (00:44:53) xname_flush '!' 
+\i (00:45:40) xNet Fmc.Gps_Pps_N 
+\i (00:45:40) xname_flush 
+\i (00:45:40) trapsize 4417
+\i (00:45:50) show element 
+\i (00:45:50) placementedit 
+\i (00:46:10) xname_flush '!' 
+\i (00:46:42) xNet '!' Fmc.Gps_Pps_N 
+\i (00:46:42) xname_flush '!' 
+\i (00:46:43) xname_flush 
+\i (00:46:47) xname_flush '!' 
+\i (00:46:47) xNet Fmc.Gps_Pps_N 
+\i (00:46:47) xname_flush 
+\i (00:46:47) trapsize 4417
+\i (00:46:51) xNet '!' Fmc.Gps_Pps_N 
+\i (00:46:51) xname_flush '!' 
+\i (00:46:51) xNet Fmc.Gps_Pps_P 
+\i (00:46:51) xname_flush 
+\i (00:46:51) trapsize 4417
+\i (00:47:00) xNet '!' Fmc.Gps_Pps_P 
+\i (00:47:00) xname_flush '!' 
+\i (00:47:00) xname_flush 
+\i (00:47:06) xname_flush '!' 
+\i (00:47:07) xname_flush 
+\i (00:47:13) xname_flush '!' 
+\i (00:47:13) xname_flush 
+\i (00:47:16) xname_flush '!' 
+\i (00:47:20) xname_flush 
+\i (00:47:21) xname_flush '!' 
+\i (00:47:21) xname_flush 
+\i (00:47:21) xname_flush 
+\i (00:47:22) xname_flush 
+\i (00:47:23) xname_flush '!' 
+\i (00:47:27) xname_flush 
+\i (00:47:27) xname_flush 
+\i (00:47:44) xname_flush 
+\i (00:47:47) xname_flush '!' 
+\i (00:48:01) xname_flush 
+\i (00:48:02) xname_flush '!' 
+\i (00:48:02) xname_flush 
+\i (00:48:02) xname_flush 
+\i (00:48:07) xname_flush 
+\i (00:48:07) xname_flush '!' 
+\i (00:48:07) xname_flush 
+\i (00:48:09) xname_flush '!' 
+\i (00:48:09) xname_flush 
+\i (00:48:09) xname_flush 
+\i (00:48:09) xname_flush 
+\i (00:48:12) xname_flush '!' 
+\i (00:48:12) xname_flush 
+\i (00:48:12) xname_flush 
+\i (00:48:13) xname_flush 
+\i (00:48:30) xNet '!' Fmc.Gps_Pps_N 
+\i (00:48:30) xname_flush '!' 
+\i (00:48:30) xname_flush 
+\i (00:48:30) xname_flush 
+\i (00:48:30) xname_flush 
+\i (00:48:35) xname_flush '!' 
+\i (00:48:47) xname_flush 
+\i (00:51:04) xname_flush 
+\i (00:51:04) xname_flush 
+\i (00:51:04) xname_flush 
+\i (00:51:44) xname_flush '!' 
+\i (00:51:45) xname_flush 
+\i (00:51:50) xname_flush 
+\i (00:51:50) xname_flush 
+\i (00:51:51) xname_flush 
+\i (00:51:51) xname_flush 
+\i (00:52:11) xname_flush 
+\i (00:52:11) xname_flush 
+\i (00:52:12) xname_flush '!' 
+\i (00:52:14) xname_flush 
+\i (00:52:24) xname_flush 
+\i (00:52:25) xname_flush '!' 
+\i (00:52:25) xname_flush 
+\i (00:52:30) xname_flush '!' 
+\i (00:52:30) xname_flush 
+\i (00:52:35) xname_flush '!' 
+\i (00:52:35) xname_flush 
+\i (00:52:42) xname_flush '!' 
+\i (00:53:03) xname_flush 
+\i (00:53:04) xname_flush '!' 
+\i (00:53:04) xname_flush 
+\i (00:53:06) xname_flush '!' 
+\i (00:53:29) xname_flush 
+\i (00:53:34) xname_flush '!' 
+\i (00:53:34) xname_flush 
+\i (00:53:38) xname_flush 
+\i (00:54:12) xname_flush '!' 
+\i (00:54:27) xname_flush 
+\i (00:54:29) xname_flush 
+\i (00:54:29) xname_flush 
+\i (00:54:52) xname_flush 
+\i (00:54:54) xname_flush '!' 
+\i (00:54:54) xname_flush 
+\i (00:54:54) xname_flush '!' 
+\i (00:54:54) xname_flush 
+\i (00:55:23) xname_flush 
+\i (00:55:27) xname_flush '!' 
+\i (00:56:07) xname_flush 
+\i (00:58:58) xname_flush '!' 
+\i (01:02:57) xname_flush 
+\i (01:03:23) xname_flush 
+\i (01:03:23) xname_flush 
+\i (01:03:26) xname_flush '!' 
+\i (01:03:26) xname_flush 
+\i (01:03:26) xname_flush '!' 
+\i (01:03:26) xname_flush 
+\i (01:03:31) xname_flush 
+\i (01:07:50) xname_flush 
+\i (01:07:50) xname_flush 
+\i (01:07:50) xname_flush 
+\i (01:07:52) xname_flush '!' 
+\i (01:09:51) xname_flush 
+\i (01:09:55) xname_flush '!' 
+\i (01:09:58) xname_flush 
+\i (01:10:11) xname_flush 
+\i (01:10:12) xname_flush '!' 
+\i (01:10:12) xname_flush 
+\i (01:10:17) xname_flush '!' 
+\i (01:10:49) xname_flush 
+\i (01:11:47) xname_flush 
+\i (01:11:47) xname_flush 
+\i (01:11:47) xname_flush 
+\i (01:11:55) xname_flush '!' 
+\i (01:11:56) xname_flush 
+\i (01:12:14) xname_flush '!' 
+\i (01:12:14) xname_flush 
+\i (01:12:26) xname_flush '!' 
+\i (01:12:26) xname_flush 
+\i (01:12:30) xname_flush '!' 
+\i (01:13:34) reports 
+\i (01:13:34) QtSignal StdRep StdRepAvailableReports currentRowChanged 0
+\i (01:13:34) placementedit 
+\i (01:14:37) QtSignal StdRep StdRepAvailableReports currentRowChanged 38
+\i (01:14:37) QtSignal StdRep StdRepAvailableReports itemSelectionChanged "Netlist Report"
+\i (01:14:37) QtSignal StdRep Std
