@@ -1,5 +1,6 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Thu Sep 21 18:16:42 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Thu Sep 21 18:53:39 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!UP TO DATE!
+S!12V_IN!@gps_interface_board.\gib top\(sch_1):\12v_in\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.PG_1V8!@gps_interface_board.\gib top\(sch_1):\fmc.pg_1v8\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..110]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT3_P!@gps_interface_board.\gib top\(sch_1):\fmc.auxout3_p\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..110]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT1_N!@gps_interface_board.\gib top\(sch_1):\fmc.auxout1_n\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..110]!!!!!!!!!!!!!!!!!!!!!!
@@ -281,7 +282,6 @@ S!VCC5V!@gps_interface_board.\gib top\(sch_1):vcc5v!!!!!!!!!!!!!!!!!!!!!!!!7 MIL
 S!N185241!@gps_interface_board.\gib top\(sch_1):n185241!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N146225!@gps_interface_board.\gib top\(sch_1):n146225!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!A0_BID!@gps_interface_board.\gib top\(sch_1):a0_bid!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!12V_CONN!@gps_interface_board.\gib top\(sch_1):\12v_conn\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!GND_IN!@gps_interface_board.\gib top\(sch_1):gnd_in!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!A1_BID!@gps_interface_board.\gib top\(sch_1):a1_bid!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!A2_BID!@gps_interface_board.\gib top\(sch_1):a2_bid!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!

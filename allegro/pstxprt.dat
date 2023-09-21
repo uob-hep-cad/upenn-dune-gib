@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:16:46 }
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:53:41 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -1698,6 +1698,46 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ C3712 'CAP_NP_CAP0603_DISCRETE_1UF_':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS871298@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins871298@ocad_parts_lib.\cap_np.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins871298@ocad_parts_lib.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3713 'CAP_NP_CAP0603_DISCRETE_1UF_':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS871318@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins871318@ocad_parts_lib.\cap_np.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins871318@ocad_parts_lib.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3714 'CAP_NP_CAP0603_DISCRETE_1UF_':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS871338@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins871338@ocad_parts_lib.\cap_np.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins871338@ocad_parts_lib.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3715 'CAP_NP_CAP0603_DISCRETE_1UF_':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS872954@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins872954@ocad_parts_lib.\cap_np.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins872954@ocad_parts_lib.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  C38 'CAP_NP_CAP0402_DISCRETE_0.1UF_':;
 
 SECTION_NUMBER 1
@@ -2518,6 +2558,16 @@ SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS136613@DISCRETE.FUSE.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins136613@discrete.\fuse.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins136613@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F2 'FUSE_CAP1206_0.75A':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS870907@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins870907@discrete.\fuse.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins870907@discrete.\fuse.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

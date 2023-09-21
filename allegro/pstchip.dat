@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:16:46}
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:53:41}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -347,6 +347,21 @@ primitive 'FUSE_CAP1206_4A';
     PART_NAME='FUSE';
     JEDEC_TYPE='cap1206';
     VALUE='4A';
+  end_body;
+end_primitive;
+primitive 'FUSE_CAP1206_0.75A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FUSE';
+    JEDEC_TYPE='cap1206';
+    VALUE='0.75A';
   end_body;
 end_primitive;
 primitive '490-11112-1-ND_FIL_DLW5BTM501SQ';

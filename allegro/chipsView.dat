@@ -1,4 +1,49 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive '172448-0004_172448-YY04_172448-';
+  pin
+	 '4':
+	   PIN_NUMBER='(4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '3':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='172448-0004';
+	 VALUE='172448-0004';
+	 BODY_NAME='172448-0004_172448-YY04_172448-';
+	 JEDEC_TYPE='172448-YY04';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive 'U.FL-R-SMT_10__UFLRSMT10_U.FL-R';
   pin
 	 'SIG':
@@ -4626,43 +4671,6 @@ primitive 'SI5395_QFN_1_QFN50P900X900X90-6';
   end_body;
 end_primitive;
 
-primitive 'PJ-102AH_CUI_PJ-102AH_PJ-102AH';
-  pin
-	 '3':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='PJ-102AH';
-	 VALUE='PJ-102AH';
-	 BODY_NAME='PJ-102AH_CUI_PJ-102AH_PJ-102AH';
-	 JEDEC_TYPE='CUI_PJ-102AH';
-	 PHYS_DES_PREFIX='J';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'IND_CAP0805_120 OHM@100MHZ';
   pin
 	 '2':
@@ -5326,35 +5334,6 @@ primitive 'R_RES0805_75 OHM';
 	 BODY_NAME='R_RES0805_75 OHM';
 	 JEDEC_TYPE='RES0805';
 	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'L101011MS02Q_SW_L101011MS02Q_L1';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='L101011MS02Q';
-	 VALUE='L101011MS02Q';
-	 BODY_NAME='L101011MS02Q_SW_L101011MS02Q_L1';
-	 JEDEC_TYPE='SW_L101011MS02Q';
-	 PHYS_DES_PREFIX='S';
 	 CLASS='IC';
   end_body;
 end_primitive;
