@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv37.brd                    )
 (    Software Version : 17.4S033                                      )
-(    Date/Time        : Thu Sep 21 11:38:34 2023                      )
+(    Date/Time        : Thu Sep 21 11:49:14 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,16 +22,16 @@ Design Directory:            'c:/spb_data/gps_interface_board/allegro'
 Old design name:             'c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd'
 New design name:             'c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd'
 
-CmdLine: netrev -y 3 -i c:\spb_data\gps_interface_board\allegro -q netrev_constraint_report.xml c:/spb_data/gps_interface_board/allegro/#Taaaaaf07124.tmp
+CmdLine: netrev -y 3 -i c:\spb_data\gps_interface_board\allegro -q netrev_constraint_report.xml c:/spb_data/gps_interface_board/allegro/#Taaaaam14728.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/spb_data/gps_interface_board/allegro/pstchip.dat 
-   Finished reading c:/spb_data/gps_interface_board/allegro/pstchip.dat (00:00:00.02)
+   Finished reading c:/spb_data/gps_interface_board/allegro/pstchip.dat (00:00:00.01)
 Starting to read c:/spb_data/gps_interface_board/allegro/pstxprt.dat 
    Finished reading c:/spb_data/gps_interface_board/allegro/pstxprt.dat (00:00:00.01)
 Starting to read c:/spb_data/gps_interface_board/allegro/pstxnet.dat 
-   Finished reading c:/spb_data/gps_interface_board/allegro/pstxnet.dat (00:00:00.01)
+   Finished reading c:/spb_data/gps_interface_board/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -97,7 +97,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Sep 21 11:38:34 2023
+netrev run on Sep 21 11:49:14 2023
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
    PACKAGING ON Oct  8 2022 21:42:22
 
@@ -122,6 +122,6 @@ netrev run on Sep 21 11:38:34 2023
  No oversight detected
  No warning detected
 
-cpu time      0:08:52
-elapsed time  0:00:05
+cpu time      0:09:16
+elapsed time  0:00:06
 
