@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 16:57:10}
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:12:57}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -370,6 +370,47 @@ primitive '490-11112-1-ND_FIL_DLW5BTM501SQ';
     VALUE='120 Ohm@100MHz';
   end_body;
 end_primitive;
+primitive '74AVC2T45_DCT_SOP50P310X90-8N_S';
+  pin
+    'B1':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'DIR':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    'A2':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'A1':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'B2':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'VCCA':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VCCB':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='74AVC2T45_DCT';
+    JEDEC_TYPE='SOP50P310X90-8N';
+    VALUE='SN74LVC2T45DCU';
+  end_body;
+end_primitive;
 primitive 'BNC_TE_1-1634612-0_TE_1-1634612';
   pin
     'SH1':
@@ -389,6 +430,24 @@ primitive 'BNC_TE_1-1634612-0_TE_1-1634612';
     PART_NAME='BNC_TE_1-1634612-0';
     JEDEC_TYPE='TE_1-1634612-0';
     VALUE='BNC/R';
+  end_body;
+end_primitive;
+primitive 'U.FL-R-SMT_10__UFLRSMT10_U.FL-R';
+  pin
+    'GND_1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND_2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'SIG':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='U.FL-R-SMT_10_';
+    JEDEC_TYPE='UFLRSMT10';
+    VALUE='U.FL-R-SMT_10_';
   end_body;
 end_primitive;
 primitive 'HDR1X2_HDR1X2_HDR1X2';
@@ -610,7 +669,7 @@ primitive '3PIN-22-23-2031_22-23-2031_0022';
     VALUE='0022232031';
   end_body;
 end_primitive;
-primitive 'PJ-102AH_CUI_PJ-102AH_PJ-102AH';
+primitive '172448-0004_172448-YY04_172448-';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -621,11 +680,14 @@ primitive 'PJ-102AH_CUI_PJ-102AH_PJ-102AH';
     '3':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='PJ-102AH';
-    JEDEC_TYPE='CUI_PJ-102AH';
-    VALUE='PJ-102AH';
+    PART_NAME='172448-0004';
+    JEDEC_TYPE='172448-YY04';
+    VALUE='172448-0004';
   end_body;
 end_primitive;
 primitive 'CON160P_11_SAMTEC_ASP-134606-01';
@@ -1955,21 +2017,6 @@ primitive 'R_RES0805_0.0055';
     VALUE='0.0055';
   end_body;
 end_primitive;
-primitive 'R_RES0402_499 OHM';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0402';
-    VALUE='499 Ohm';
-  end_body;
-end_primitive;
 primitive 'R_RES0603_75 OHM';
   pin
     '1':
@@ -2178,21 +2225,6 @@ primitive 'R_RES0402_4.99K';
     PART_NAME='R';
     JEDEC_TYPE='res0402';
     VALUE='4.99k';
-  end_body;
-end_primitive;
-primitive 'L101011MS02Q_SW_L101011MS02Q_L1';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='L101011MS02Q';
-    JEDEC_TYPE='SW_L101011MS02Q';
-    VALUE='L101011MS02Q';
   end_body;
 end_primitive;
 primitive 'TESTPOINT_TP_KEYSTONE_5000A_500';
@@ -3079,47 +3111,6 @@ primitive 'LM75AIMX_0_SOIC8_LM75AIMX/NOPB';
     VALUE='LM75AIMX/NOPB';
   end_body;
 end_primitive;
-primitive '74AVC2T45_DCT_SOP50P310X90-8N_S';
-  pin
-    'B1':
-      PIN_NUMBER='(7)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'GND':
-      PIN_NUMBER='(4)';
-      PINUSE='POWER';
-    'DIR':
-      PIN_NUMBER='(5)';
-      INPUT_LOAD='(*)';
-    'A2':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'A1':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B2':
-      PIN_NUMBER='(6)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'VCCA':
-      PIN_NUMBER='(1)';
-      PINUSE='POWER';
-    'VCCB':
-      PIN_NUMBER='(8)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='74AVC2T45_DCT';
-    JEDEC_TYPE='SOP50P310X90-8N';
-    VALUE='SN74LVC2T45DCTR';
-  end_body;
-end_primitive;
 primitive 'SI5395_QFN_1_QFN50P900X900X90-6';
   pin
     'A0/CS':
@@ -3386,47 +3377,6 @@ primitive 'DRTR5V0U4S_SOT363_DRTR5V0U4S-7';
     PART_NAME='DRTR5V0U4S';
     JEDEC_TYPE='sot363';
     VALUE='DRTR5V0U4S-7';
-  end_body;
-end_primitive;
-primitive '74AVC2T45_DCT_2_SOP50P310X90-8N';
-  pin
-    'B1':
-      PIN_NUMBER='(7)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'GND':
-      PIN_NUMBER='(4)';
-      PINUSE='POWER';
-    'DIR':
-      PIN_NUMBER='(5)';
-      INPUT_LOAD='(*)';
-    'A2':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'A1':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'B2':
-      PIN_NUMBER='(6)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'VCCA':
-      PIN_NUMBER='(1)';
-      PINUSE='POWER';
-    'VCCB':
-      PIN_NUMBER='(8)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='74AVC2T45_DCT_2';
-    JEDEC_TYPE='SOP50P310X90-8N';
-    VALUE='SN74AVC2T45DCTR';
   end_body;
 end_primitive;
 primitive 'PCA9539_TSSOP_2_SOP65P640X110-2';

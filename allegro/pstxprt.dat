@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 16:57:10 }
+{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:12:57 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -2532,12 +2532,52 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ IC1 '74AVC2T45_DCT_SOP50P310X90-8N_S':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS892305@OCAD_PARTS_LIB.74AVC2T45_DCT.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins892305@ocad_parts_lib.\74avc2t45_dct.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins892305@ocad_parts_lib.\74avc2t45_dct.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 '74AVC2T45_DCT_SOP50P310X90-8N_S':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS892699@OCAD_PARTS_LIB.74AVC2T45_DCT.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins892699@ocad_parts_lib.\74avc2t45_dct.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins892699@ocad_parts_lib.\74avc2t45_dct.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  J1 'BNC_TE_1-1634612-0_TE_1-1634612':;
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS463527@OCAD_PARTS_LIB.BNC_TE_1-1634612-0.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins463527@ocad_parts_lib.\bnc_te_1-1634612-0.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins463527@ocad_parts_lib.\bnc_te_1-1634612-0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J100 'U.FL-R-SMT_10__UFLRSMT10_U.FL-R':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS803326@OCAD_PARTS_LIB.U.FL-R-SMT_10_.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins803326@ocad_parts_lib.\u.fl-r-smt_10_.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins803326@ocad_parts_lib.\u.fl-r-smt_10_.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J101 'U.FL-R-SMT_10__UFLRSMT10_U.FL-R':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS803473@OCAD_PARTS_LIB.U.FL-R-SMT_10_.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins803473@ocad_parts_lib.\u.fl-r-smt_10_.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins803473@ocad_parts_lib.\u.fl-r-smt_10_.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2692,6 +2732,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ J300 '172448-0004_172448-YY04_172448-':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS867903@172448-0004.172448-0004.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins867903@\172448-0004\.\172448-0004.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins867903@\172448-0004\.\172448-0004.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  J4 'BNC_TE_1-1634612-0_TE_1-1634612':;
 
 SECTION_NUMBER 1
@@ -2718,16 +2768,6 @@ SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS465887@OCAD_PARTS_LIB.BNC_TE_1-1634612-0.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins465887@ocad_parts_lib.\bnc_te_1-1634612-0.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins465887@ocad_parts_lib.\bnc_te_1-1634612-0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J7 'PJ-102AH_CUI_PJ-102AH_PJ-102AH':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS135223@OCAD_PARTS_LIB.PJ-102AH.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins135223@ocad_parts_lib.\pj-102ah.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins135223@ocad_parts_lib.\pj-102ah.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -5113,46 +5153,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R27 'R_RES0402_499 OHM':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS182472@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins182472@discrete.\r.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins182472@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R28 'R_RES0402_499 OHM':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS182554@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins182554@discrete.\r.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins182554@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R29 'R_RES0603_49.9 OHM':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS182637@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins182637@discrete.\r.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins182637@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R30 'R_RES0603_49.9 OHM':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS182621@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins182621@discrete.\r.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins182621@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  R31 'R_RES0402_100':;
 
 SECTION_NUMBER 1
@@ -5823,16 +5823,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- S1 'L101011MS02Q_SW_L101011MS02Q_L1':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS195114@OCAD_PARTS_LIB.L101011MS02Q.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins195114@ocad_parts_lib.\l101011ms02q.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins195114@ocad_parts_lib.\l101011ms02q.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  TP10 'TESTPOINT_TP_KEYSTONE_5000A_500':;
 
 SECTION_NUMBER 1
@@ -6129,16 +6119,6 @@ SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS689505@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins689505@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins689505@testpoint.\testpoint.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP5 'TESTPOINT_TP_KEYSTONE_5000A_500':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS179416@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins179416@testpoint.\testpoint.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins179416@testpoint.\testpoint.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6449,16 +6429,6 @@ SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS736787@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins736787@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins736787@testpoint.\testpoint.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP8 'TESTPOINT_TP_KEYSTONE_5000A_500':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS179402@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins179402@testpoint.\testpoint.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins179402@testpoint.\testpoint.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6973,26 +6943,6 @@ SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS721109@OCAD_PARTS_LIB.DRTR5V0U4S.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins721109@ocad_parts_lib.\drtr5v0u4s.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page14_ins721109@ocad_parts_lib.\drtr5v0u4s.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U50 '74AVC2T45_DCT_2_SOP50P310X90-8N':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS352022@GPS_INTERFACE_BOARD.74AVC2T45_DCT_2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins352022@gps_interface_board.\74avc2t45_dct_2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins352022@gps_interface_board.\74avc2t45_dct_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U51 '74AVC2T45_DCT_2_SOP50P310X90-8N':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS349239@GPS_INTERFACE_BOARD.74AVC2T45_DCT_2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins349239@gps_interface_board.\74avc2t45_dct_2.normal\(chips)',
- P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page13_ins349239@gps_interface_board.\74avc2t45_dct_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

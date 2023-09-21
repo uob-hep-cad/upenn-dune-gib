@@ -411,6 +411,11 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (74AVC2T45_DCT
+      (FullPartName "74AVC2T45_DCT.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
+      (DeviceIndex "0"))
     ("RECEPT 10X2 100 MIL"
       (FullPartName "RECEPT 10X2 100 MIL.Normal")
       (LibraryName
@@ -523,11 +528,6 @@
       (FullPartName "LM75AIMX.Normal")
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
-      (DeviceIndex "0"))
-    (TXB0106IPWRQ1
-      (FullPartName "TXB0106IPWRQ1.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "phdgc")
   (GlobalState
@@ -562,24 +562,28 @@
          "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Fan-in")
       (Path "Design Resources"
          "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Fanout")
+      (Path "Design Resources"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\spb_data\cis_hep_partslib\schematic_symbols\ocad_parts_lib.olb")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources"
-         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
-         "Design Cache"))
+      (Select "Design Resources" "Library"
+         "c:\spb_data\cis_hep_partslib\schematic_symbols\ocad_parts_lib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 0 381 0 591"))
+        (Placement "44 0 1 -1 -1 0 0 0 464 0 568"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
-        (Scroll "0 347")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
+        (Scroll "643 243")
         (Zoom "112")
         (Occurrence "/Clock Generation"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -588,8 +592,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
-        (Scroll "-141 -5")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
+        (Scroll "-99 -5")
         (Zoom "56")
         (Occurrence "/Utilities"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -598,8 +602,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
-        (Scroll "2263 715")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
+        (Scroll "1876 715")
         (Zoom "224")
         (Occurrence "/PM3_FMC"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -608,7 +612,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "1118 797")
         (Zoom "224")
         (Occurrence "/GPS Interface"))
@@ -618,8 +622,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
-        (Scroll "-141 -5")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
+        (Scroll "-99 -5")
         (Zoom "56")
         (Occurrence "/"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -628,7 +632,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -8 -31 5 1087 24 609")
         (Scroll "0 212")
         (Zoom "100")
         (Occurrence "/"))
@@ -638,7 +642,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "114 184")
         (Zoom "224")
         (Occurrence "/Utilities"))
@@ -648,7 +652,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "0 1077")
         (Zoom "169")
         (Occurrence "/Power"))
@@ -658,27 +662,27 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "246 1429")
         (Zoom "224")
         (Occurrence "/SFP Interface/SFP1"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "0 43")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP2"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "0 43")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP3"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "0 270")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP5"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "0 300")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP6"))
@@ -688,11 +692,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "1511 1094")
         (Zoom "200"))
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "0 221")
         (Zoom "85")
         (Occurrence "/SFP Interface/ACLK SFP"))
@@ -702,7 +706,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "52 0")
         (Zoom "112")
         (Occurrence "/SFP Interface"))
@@ -712,8 +716,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
-        (Scroll "-72 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
+        (Scroll "-31 0")
         (Zoom "65")
         (Occurrence "/SFP Interface/Fanout"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -722,7 +726,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "1053 176")
         (Zoom "180")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
@@ -732,9 +736,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
-        (Scroll "34 16")
-        (Zoom "112")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
+        (Scroll "811 1371")
+        (Zoom "224")
         (Occurrence "/Utilities"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "06. Utilities")
@@ -742,7 +746,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "0 110")
         (Zoom "100")
         (Occurrence "/Power"))
@@ -752,7 +756,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
         (Scroll "0 160")
         (Zoom "100")
         (Occurrence "/Power"))
@@ -762,7 +766,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1170 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1087 24 609")
         (Scroll "0 220")
         (Zoom "100")
         (Occurrence "/Power"))
