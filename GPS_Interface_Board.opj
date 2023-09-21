@@ -411,6 +411,16 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (172448-0004
+      (FullPartName "172448-0004.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\172448-0004.OLB")
+      (DeviceIndex "0"))
+    (U.FL-R-SMT_10_
+      (FullPartName "U.FL-R-SMT_10_.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
+      (DeviceIndex "0"))
     (74AVC2T45_DCT
       (FullPartName "74AVC2T45_DCT.Normal")
       (LibraryName
@@ -518,16 +528,6 @@
       (FullPartName "ADM7171-1_8V.Normal")
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
-      (DeviceIndex "0"))
-    (PCA9539_TSSOP
-      (FullPartName "PCA9539_TSSOP.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
-      (DeviceIndex "0"))
-    (LM75AIMX
-      (FullPartName "LM75AIMX.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "phdgc")
   (GlobalState
@@ -562,17 +562,15 @@
          "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Fan-in")
       (Path "Design Resources"
          "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "SFP Fanout")
-      (Path "Design Resources"
-         "c:\spb_data\gps_interface_board\gps_interface_board.dsn"
-         "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library"
          "c:\spb_data\cis_hep_partslib\schematic_symbols\ocad_parts_lib.olb")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" "Library"
-         "c:\spb_data\cis_hep_partslib\schematic_symbols\ocad_parts_lib.olb"))
+      (Select "Design Resources"
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "04. Power"
+         "06. Power 12V Main"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -583,8 +581,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
-        (Scroll "643 243")
-        (Zoom "112")
+        (Scroll "2139 786")
+        (Zoom "224")
         (Occurrence "/Clock Generation"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "02. Clock Generation")
@@ -643,7 +641,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
-        (Scroll "114 184")
+        (Scroll "114 284")
         (Zoom "224")
         (Occurrence "/Utilities"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -653,8 +651,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1087 24 609")
-        (Scroll "0 1077")
-        (Zoom "169")
+        (Scroll "0 0")
+        (Zoom "112")
         (Occurrence "/Power"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -772,7 +770,14 @@
         (Occurrence "/Power"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
-      (Page "09. Power VCC2V5")))
+      (Page "09. Power VCC2V5"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1087 24 609"))
+      (Path "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
+      (Package "U.FL-R-SMT_10_")
+      (PartType "1")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")

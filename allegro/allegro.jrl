@@ -1,0 +1,201 @@
+\t (00:00:04) allegro 17.4 S033 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Sep 21 18:14:53 2023
+\t (00:00:04)         Host=IT088130 User=phdgc Pid=9196 CPUs=16
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession phdgc -proj c:\spb_data\gps_interface_board\gps_interface_board.opj c:\spb_data\gps_interface_board\allegro\gps_interface_boardv37.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv37"
+\d (00:00:11) Design opened: c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd
+\i (00:00:11) trapsize 514
+\i (00:00:11) trapsize 531
+\i (00:00:11) trapsize 536
+\i (00:00:11) trapsize 537
+\i (00:00:11) trapsize 605
+\i (00:00:11) setwindow form.mini
+\i (00:00:11) FORM mini tree  'Components by refdes' 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) trapsize 616
+\t (00:00:11) > Sending response DoneOpenBoard
+\t (00:00:11) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:11) trapsize 523
+\i (00:00:11) trapsize 540
+\i (00:00:11) trapsize 546
+\i (00:00:11) trapsize 616
+\i (00:00:12) placementedit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 4225.90 3824.82
+\i (00:00:13) trapsize 1231
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 4228.36 3812.51
+\i (00:00:13) trapsize 2462
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 4243.14 3768.18
+\i (00:00:13) trapsize 4925
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 4272.70 3659.84
+\i (00:00:13) trapsize 9850
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1738.46 3640.15
+\i (00:00:13) trapsize 19700
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -16208.12 3640.14
+\i (00:00:13) trapsize 9850
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -16208.12 3640.15
+\i (00:00:13) trapsize 4925
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -16208.12 3620.45
+\i (00:00:14) trapsize 9850
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -16208.12 3600.76
+\i (00:00:14) trapsize 19700
+\i (00:00:17) place manual 
+\i (00:00:17) setwindow form.plc_manual
+\i (00:00:17) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:22) FORM plc_manual tree  P2 'Components by refdes' 
+\i (00:00:23) FORM plc_manual tree 'MULTISEL YES' P2 'Components by refdes' 
+\t (00:00:30) Placing P2 / RECEPT 10X2 100 MIL_RECEPT_10X2 / RECEPT_10X2_100MIL on Top.
+\i (00:00:33) setwindow pcb
+\i (00:00:33) pick grid -6082.39 -4554.99
+\t (00:00:33) last pick:  -6082.00 -4555.00
+\i (00:00:43) setwindow form.plc_manual
+\i (00:00:43) FORM plc_manual done  
+\i (00:00:43) setwindow form.mini
+\i (00:00:43) FORM mini tree  'Components by refdes' 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) placementedit 
+\i (00:00:56) setwindow form.find
+\i (00:00:56) FORM find find_name j300 
+\e (00:00:56) Command not found: j300
+\t (00:01:52) > DoPhysicalNetlistGenerate message received
+\t (00:01:52) > Generating physical netlist...
+\t (00:01:52) Starting genfeedformat...
+\t (00:01:53) > Sending response DonePhysicalNetlistGeneration
+\t (00:01:53) > Physical Netlist Generated
+\t (00:01:58) > DoPullSchematic message received
+\t (00:01:58) > Pulling schematic...
+\t (00:01:58) Starting Cadence Logic Import...
+\t (00:02:20) Opening existing design...
+\i (00:02:21) setwindow form.mini
+\i (00:02:21) FORM mini tree  'Components by refdes' 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) trapsize 19700
+\t (00:02:21) > Sending response DonePullSchematic
+\t (00:02:21) > Schematic pulled successfully
+\i (00:02:21) placementedit 
+\i (00:02:25) place manual 
+\i (00:02:26) setwindow form.plc_manual
+\i (00:02:26) FORM plc_manual tree  'Components by refdes' 
+\i (00:02:28) FORM plc_manual tree  J300 'Components by refdes' 
+\i (00:02:28) FORM plc_manual tree 'MULTISEL YES' J300 'Components by refdes' 
+\w (00:02:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:35) Placing J300 / 172448-0004_172448-YY04_172448- / 172448-YY04 on Top.
+\i (00:02:39) setwindow pcb
+\i (00:02:39) pick grid -7737.18 -4673.19
+\t (00:02:39) last pick:  -7737.00 -4673.00
+\i (00:02:42) setwindow form.plc_manual
+\i (00:02:42) FORM plc_manual done  
+\i (00:02:42) setwindow form.mini
+\i (00:02:42) FORM mini tree  'Components by refdes' 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) placementedit 
+\i (00:02:43) zoom in 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom in -8052.38 -5539.99
+\i (00:02:43) trapsize 9850
+\i (00:02:43) zoom in 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom in -8052.38 -5539.98
+\i (00:02:43) trapsize 4925
+\i (00:02:43) zoom in 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom in -8052.37 -5539.98
+\i (00:02:43) trapsize 2462
+\i (00:02:45) roam y -96 
+\i (00:02:45) roam y -96
+\i (00:02:45) roam y -96 
+\i (00:02:45) roam y -96
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in -7614.05 -4432.43
+\i (00:02:47) trapsize 1231
+\i (00:02:59) spin 
+\t (00:02:59) Select element(s) to spin.
+\i (00:03:04) pick grid -7838.13 -5144.08
+\t (00:03:04) last pick:  -7838.00 -5144.00
+\i (00:03:05) pick grid -7818.43 -4956.93
+\t (00:03:05) last pick:  -7818.00 -4957.00
+\t (00:03:05) Moving J300 / 172448-0004_172448-YY04_172448- / 172448-YY04.
+\i (00:03:07) iangle 180.000
+\t (00:03:07) last angle:  180.000 Degrees
+\t (00:03:07) Select element(s) to spin.
+\i (00:03:10) pick grid -8076.99 -4432.42
+\t (00:03:10) last pick:  -8077.00 -4432.00
+\t (00:03:10) Select element(s) to spin.
+\i (00:03:44) pick grid -6966.41 -4759.93
+\t (00:03:44) last pick:  -6966.00 -4760.00
+\i (00:03:46) show element 
+\i (00:03:46) setwindow form.mini
+\i (00:03:46) FORM mini tree  'Components by refdes' 
+\i (00:03:48) setwindow form.find
+\i (00:03:48) FORM find all_off  
+\i (00:03:49) FORM find pins YES 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) pick grid -7744.56 -4678.67
+\t (00:03:52) last pick:  -7745.00 -4679.00
+\i (00:04:30) move 
+\t (00:04:30) Select element(s) to move.
+\i (00:04:31) pick grid -7562.33 -4907.68
+\t (00:04:31) last pick:  -7562.00 -4908.00
+\t (00:04:31) last pick:  -7737.00 -4673.00
+\t (00:04:31) Moving J300 / 172448-0004_172448-YY04_172448- / 172448-YY04.
+\t (00:04:31) Pick new location for the element(s).
+\i (00:04:32) prepopup -7636.21 -4491.52
+\i (00:04:33) rotate 
+\t (00:04:33) Spin the element(s).
+\i (00:04:35) iangle 180.000
+\t (00:04:35) last angle:  0.000 Degrees
+\i (00:04:35) mouse_pos -7737.00 -4673.00
+\i (00:04:36) pick grid -7328.40 -4506.30
+\t (00:04:36) last pick:  -7328.00 -4506.00
+\i (00:04:39) pick grid -6961.49 -5030.81
+\t (00:04:39) last pick:  -6961.00 -5031.00
+\i (00:05:09) pick grid -6762.03 -4503.84
+\t (00:05:09) last pick:  -6762.00 -4504.00
+\i (00:05:16) pick grid -7010.74 -4715.61
+\t (00:05:16) last pick:  -7011.00 -4716.00
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out -7264.37 -4304.38
+\i (00:05:20) trapsize 2462
+\i (00:05:21) zoom out 1 
+\i (00:05:21) setwindow pcb
+\i (00:05:21) zoom out -7121.55 -4269.90
+\i (00:05:21) trapsize 4925
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in -7092.00 -4240.34
+\i (00:05:22) trapsize 2462
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in -7092.00 -4240.34
+\i (00:05:22) trapsize 1231
+\i (00:05:30) save 
+\i (00:05:30) setwindow form.mini
+\i (00:05:30) FORM mini tree  'Components by refdes' 
+\i (00:05:31) fillin yes 
+\t (00:05:32) > Sending response DoneOpenBoard
+\i (00:05:32) setwindow pcb
+\i (00:05:32) placementedit 
+\i (00:05:49) exit 
+\t (00:05:50)     Journal end - Thu Sep 21 18:20:38 2023
