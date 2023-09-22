@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Sep-22-2023 at 11:11:09 }
+{ Using PSTWRITER 17.4.0 d001Sep-22-2023 at 12:08:04 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -2652,22 +2652,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J13 'CON20P_SFP-1367073-1_TE_2227023':;
+ J13 'CON20P_SFP-1367073-1_TE_2227023':
+ ROOM='SFP1';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP1@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS706658@OCAD_PARTS_LIB.CON20P_SFP-1367073-1.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp1@gps_interface_board.\sfp block\(sch_1):ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp1@gps_interface_board.\sfp block\(sch_1):page16_ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
+ ROOM='SFP1',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- J14 'CON20P_SFP-1367073-1_TE_2227023':;
+ J14 'CON20P_SFP-1367073-1_TE_2227023':
+ ROOM='SFP2';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP2@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS706658@OCAD_PARTS_LIB.CON20P_SFP-1367073-1.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp2@gps_interface_board.\sfp block\(sch_1):ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp2@gps_interface_board.\sfp block\(sch_1):page17_ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
+ ROOM='SFP2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2702,42 +2706,50 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J18 'CON20P_SFP-1367073-1_TE_2227023':;
+ J18 'CON20P_SFP-1367073-1_TE_2227023':
+ ROOM='SFP3';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP3@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS706658@OCAD_PARTS_LIB.CON20P_SFP-1367073-1.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp3@gps_interface_board.\sfp block\(sch_1):ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp3@gps_interface_board.\sfp block\(sch_1):page18_ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
+ ROOM='SFP3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- J19 'CON20P_SFP-1367073-1_TE_2227023':;
+ J19 'CON20P_SFP-1367073-1_TE_2227023':
+ ROOM='SFP4';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP4@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS706658@OCAD_PARTS_LIB.CON20P_SFP-1367073-1.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp4@gps_interface_board.\sfp block\(sch_1):ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp4@gps_interface_board.\sfp block\(sch_1):page19_ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
+ ROOM='SFP4',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- J20 'CON20P_SFP-1367073-1_TE_2227023':;
+ J20 'CON20P_SFP-1367073-1_TE_2227023':
+ ROOM='SFP5';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP5@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS706658@OCAD_PARTS_LIB.CON20P_SFP-1367073-1.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp5@gps_interface_board.\sfp block\(sch_1):ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp5@gps_interface_board.\sfp block\(sch_1):page20_ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
+ ROOM='SFP5',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- J21 'CON20P_SFP-1367073-1_TE_2227023':;
+ J21 'CON20P_SFP-1367073-1_TE_2227023':
+ ROOM='SFP6';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP6@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS706658@OCAD_PARTS_LIB.CON20P_SFP-1367073-1.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp6@gps_interface_board.\sfp block\(sch_1):ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp6@gps_interface_board.\sfp block\(sch_1):page21_ins706658@ocad_parts_lib.\con20p_sfp-1367073-1.normal\(chips)',
+ ROOM='SFP6',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6173,102 +6185,122 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP50 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP50 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP1';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP1@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694008@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp1@gps_interface_board.\sfp block\(sch_1):ins694008@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp1@gps_interface_board.\sfp block\(sch_1):page16_ins694008@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP1',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP51 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP51 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP2';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP2@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694008@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp2@gps_interface_board.\sfp block\(sch_1):ins694008@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp2@gps_interface_board.\sfp block\(sch_1):page17_ins694008@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP52 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP52 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP3';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP3@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694008@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp3@gps_interface_board.\sfp block\(sch_1):ins694008@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp3@gps_interface_board.\sfp block\(sch_1):page18_ins694008@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP53 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP53 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP4';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP4@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694008@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp4@gps_interface_board.\sfp block\(sch_1):ins694008@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp4@gps_interface_board.\sfp block\(sch_1):page19_ins694008@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP4',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP54 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP54 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP5';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP5@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694008@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp5@gps_interface_board.\sfp block\(sch_1):ins694008@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp5@gps_interface_board.\sfp block\(sch_1):page20_ins694008@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP5',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP55 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP55 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP6';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP6@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694008@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp6@gps_interface_board.\sfp block\(sch_1):ins694008@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp6@gps_interface_board.\sfp block\(sch_1):page21_ins694008@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP6',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP56 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP56 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP1';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP1@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694024@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp1@gps_interface_board.\sfp block\(sch_1):ins694024@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp1@gps_interface_board.\sfp block\(sch_1):page16_ins694024@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP1',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP57 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP57 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP2';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP2@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694024@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp2@gps_interface_board.\sfp block\(sch_1):ins694024@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp2@gps_interface_board.\sfp block\(sch_1):page17_ins694024@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP58 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP58 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP3';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP3@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694024@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp3@gps_interface_board.\sfp block\(sch_1):ins694024@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp3@gps_interface_board.\sfp block\(sch_1):page18_ins694024@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP59 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP59 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP4';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP4@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694024@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp4@gps_interface_board.\sfp block\(sch_1):ins694024@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp4@gps_interface_board.\sfp block\(sch_1):page19_ins694024@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP4',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6283,62 +6315,74 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP60 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP60 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP5';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP5@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694024@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp5@gps_interface_board.\sfp block\(sch_1):ins694024@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp5@gps_interface_board.\sfp block\(sch_1):page20_ins694024@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP5',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP61 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP61 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP6';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP6@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694024@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp6@gps_interface_board.\sfp block\(sch_1):ins694024@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp6@gps_interface_board.\sfp block\(sch_1):page21_ins694024@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP6',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP62 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP62 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP1';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP1@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694095@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp1@gps_interface_board.\sfp block\(sch_1):ins694095@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp1@gps_interface_board.\sfp block\(sch_1):page16_ins694095@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP1',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP64 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP64 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP2';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP2@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694095@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp2@gps_interface_board.\sfp block\(sch_1):ins694095@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp2@gps_interface_board.\sfp block\(sch_1):page17_ins694095@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP66 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP66 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP3';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP3@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694095@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp3@gps_interface_board.\sfp block\(sch_1):ins694095@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp3@gps_interface_board.\sfp block\(sch_1):page18_ins694095@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP3',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP68 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP68 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP4';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP4@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694095@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp4@gps_interface_board.\sfp block\(sch_1):ins694095@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp4@gps_interface_board.\sfp block\(sch_1):page19_ins694095@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP4',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -6353,22 +6397,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP70 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP70 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP5';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP5@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694095@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp5@gps_interface_board.\sfp block\(sch_1):ins694095@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp5@gps_interface_board.\sfp block\(sch_1):page20_ins694095@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP5',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- TP72 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+ TP72 'TESTPOINT_TP_KEYSTONE_5000A_500':
+ ROOM='SFP6';
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):SFP6@GPS_INTERFACE_BOARD.SFP BLOCK(SCH_1):INS694095@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):sfp6@gps_interface_board.\sfp block\(sch_1):ins694095@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):page5_sfp6@gps_interface_board.\sfp block\(sch_1):page21_ins694095@testpoint.\testpoint.normal\(chips)',
+ ROOM='SFP6',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

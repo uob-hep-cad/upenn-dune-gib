@@ -3,64 +3,85 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 11:11:10 2023  |
+|                                                    Fri Sep 22 12:08:04 2023  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENT PROPERTIES added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|   ref  des   |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  FMC.ACLK_SFP_SCL pins ADDED TO this existing net (pins not previously on any net)
-                                 TP890.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.ACLK_SFP_SDA pins ADDED TO this existing net (pins not previously on any net)
-                                 TP880.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755912      pins ADDED TO this existing net (pins not previously on any net)
-                                 R2670.2         4365.72 -1617.0
+ J13            11208.0 4576.00 ROOM           SFP1
+ J14            10339.0 4574.00 ROOM           SFP2
+ J18            9461.00 4574.00 ROOM           SFP3
+ J19            8310.00 4574.00 ROOM           SFP4
+ J20            7432.00 4574.00 ROOM           SFP5
+ J21            6561.00 4574.00 ROOM           SFP6
+ TP50           11713.0 3860.00 ROOM           SFP1
+ TP51           10771.0 3860.00 ROOM           SFP2
+ TP52           9890.00 3860.00 ROOM           SFP3
+ TP53           8813.00 3860.00 ROOM           SFP4
+ TP54           7866.00 3860.00 ROOM           SFP5
+ TP55           6991.00 3860.00 ROOM           SFP6
+ TP56           11712.0 3735.00 ROOM           SFP1
+ TP57           10771.0 3735.00 ROOM           SFP2
+ TP58           9890.00 3735.00 ROOM           SFP3
+ TP59           8813.00 3735.00 ROOM           SFP4
+ TP60           7865.00 3735.00 ROOM           SFP5
+ TP61           6991.00 3735.00 ROOM           SFP6
+ TP62           11712.0 3609.00 ROOM           SFP1
+ TP64           10771.0 3609.00 ROOM           SFP2
+ TP66           9890.00 3609.00 ROOM           SFP3
+ TP68           8813.00 3609.00 ROOM           SFP4
+ TP70           7866.00 3609.00 ROOM           SFP5
+ TP72           6991.00 3609.00 ROOM           SFP6
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 11:11:10 2023  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- TP880               TESTPOINT_TP_KEYSTONE_5000A_500 
- TP890               TESTPOINT_TP_KEYSTONE_5000A_500 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 11:11:10 2023  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R266                R_RES0402_DNP         3658.00 5253.00 R_RES0402_ZERO
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 11:11:10 2023  |
+|                                                    Fri Sep 22 12:08:04 2023  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R266.2                         PRIM_FILE      .\pstchip.dat
- TP880.1                        PRIM_FILE      .\pstchip.dat
- TP890.1                        PRIM_FILE      .\pstchip.dat
+ J13.20         11208.0 4576.00 ROOM           SFP1
+ J14.20         10339.0 4574.00 ROOM           SFP2
+ J18.20         9461.00 4574.00 ROOM           SFP3
+ J19.20         8310.00 4574.00 ROOM           SFP4
+ J20.20         7432.00 4574.00 ROOM           SFP5
+ J21.20         6561.00 4574.00 ROOM           SFP6
+ TP50.1         11713.0 3860.00 ROOM           SFP1
+ TP51.1         10771.0 3860.00 ROOM           SFP2
+ TP52.1         9890.00 3860.00 ROOM           SFP3
+ TP53.1         8813.00 3860.00 ROOM           SFP4
+ TP54.1         7866.00 3860.00 ROOM           SFP5
+ TP55.1         6991.00 3860.00 ROOM           SFP6
+ TP56.1         11712.0 3735.00 ROOM           SFP1
+ TP57.1         10771.0 3735.00 ROOM           SFP2
+ TP58.1         9890.00 3735.00 ROOM           SFP3
+ TP59.1         8813.00 3735.00 ROOM           SFP4
+ TP60.1         7865.00 3735.00 ROOM           SFP5
+ TP61.1         6991.00 3735.00 ROOM           SFP6
+ TP62.1         11712.0 3609.00 ROOM           SFP1
+ TP64.1         10771.0 3609.00 ROOM           SFP2
+ TP66.1         9890.00 3609.00 ROOM           SFP3
+ TP68.1         8813.00 3609.00 ROOM           SFP4
+ TP70.1         7866.00 3609.00 ROOM           SFP5
+ TP72.1         6991.00 3609.00 ROOM           SFP6
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       3                                        |
-|       Components added      :       2                                        |
-|       Components changed    :       1                                        |
-|       Slot property added   :       3                                        |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Fri Sep 22 12:08:04 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Comp property added   :      24                                        |
+|       Slot property added   :      24                                        |
 |                                                                              |
-|   Total ECO changes reported:       9                                        |
+|   Total ECO changes reported:      48                                        |
 |------------------------------------------------------------------------------|

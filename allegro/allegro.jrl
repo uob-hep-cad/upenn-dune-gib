@@ -1,0 +1,36 @@
+\t (00:00:05) allegro 17.4 S033 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Sep 22 12:07:56 2023
+\t (00:00:05)         Host=IT088130 User=phdgc Pid=37052 CPUs=16
+\t (00:00:05) CmdLine= allegro.exe -proj c:/spb_data/gps_interface_board/gps_interface_board.opj c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv37"
+\d (00:00:11) Design opened: c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd
+\i (00:00:12) trapsize 3722
+\i (00:00:12) trapsize 3829
+\i (00:00:12) trapsize 3861
+\i (00:00:12) trapsize 5386
+\i (00:00:12) setwindow form.mini
+\i (00:00:12) FORM mini tree  'Components by refdes' 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) trapsize 5386
+\t (00:00:12) > Sending response DoneOpenBoard
+\t (00:00:12) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:12) trapsize 3722
+\i (00:00:12) trapsize 3829
+\i (00:00:12) trapsize 3861
+\i (00:00:12) trapsize 5386
+\i (00:00:12) placementedit 
+\t (00:00:13) > DoPullSchematic message received
+\t (00:00:13) > Pulling schematic...
+\t (00:00:13) Starting Cadence Logic Import...
+\t (00:00:14) Opening existing design...
+\i (00:00:14) setwindow form.mini
+\i (00:00:14) FORM mini tree  'Components by refdes' 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) trapsize 5386
+\t (00:00:14) > Sending response DonePullSchematic
+\t (00:00:14) > Schematic pulled successfully
+\i (00:00:14) placementedit 
+\i (00:00:18) viewlog -last 

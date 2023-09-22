@@ -1,5 +1,5 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Fri Sep 22 11:10:51 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Fri Sep 22 12:07:48 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
 S!F2!!!!!!!!!!!
 S!J300!!!!!!!!!!!
 S!J100!!!!!!!!!!!
@@ -14,6 +14,7 @@ S!QZ1!!!!!!!!!!!
 S!U107!!!!!!!!!!!
 S!Y1!!!!!!!!!!!
 S!U102!!!!!!!!!!!
+S!R266!!!!!!!!!!!
 S!R55!!!!!!!!!!!
 S!R1550!!!!!!!!!!!
 S!R2669!!!!!!!!!!!
@@ -26,7 +27,6 @@ S!R264!!!!!!!!!!!
 S!R267!!!!!!!!!!!
 S!R268!!!!!!!!!!!
 S!R265!!!!!!!!!!!
-S!R266!!!!!!!!!!!
 S!J27!!!!!!!!!!!
 S!J28!!!!!!!!!!!
 S!J29!!!!!!!!!!!
@@ -585,6 +585,8 @@ S!R51!!!!!!!!!!!
 S!R57!!!!!!!!!!!
 S!R74!!!!!!!!4!!!
 S!R62!!!!!!!!!!!
+S!TP880!!!!!!!!!!!
+S!TP890!!!!!!!!!!!
 S!TP764!!!!!!!!!!!
 S!TP765!!!!!!!!!!!
 S!TP766!!!!!!!!!!!
