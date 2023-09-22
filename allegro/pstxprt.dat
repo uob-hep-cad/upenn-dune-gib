@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Sep-21-2023 at 18:53:41 }
+{ Using PSTWRITER 17.4.0 d001Sep-22-2023 at 11:11:09 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -4913,7 +4913,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R266 'R_RES0402_ZERO':;
+ R266 'R_RES0402_DNP':;
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS477058@DISCRETE.R.NORMAL(CHIPS)':
@@ -6573,12 +6573,32 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ TP880 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS896882@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins896882@testpoint.\testpoint.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins896882@testpoint.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  TP89 'TESTPOINT_TP_KEYSTONE_5000A_500':;
 
 SECTION_NUMBER 1
  '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS737731@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
  C_PATH='@gps_interface_board.\gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins737731@testpoint.\testpoint.normal\(chips)',
  P_PATH='@gps_interface_board.\gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins737731@testpoint.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP890 'TESTPOINT_TP_KEYSTONE_5000A_500':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS897137@TESTPOINT.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins897137@testpoint.\testpoint.normal\(chips)',
+ P_PATH='@gps_interface_board.\gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins897137@testpoint.\testpoint.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

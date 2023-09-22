@@ -1,5 +1,6 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Thu Sep 21 18:53:39 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!UP TO DATE!
+J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Fri Sep 22 11:10:51 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+S!12V_FANS!@gps_interface_board.\gib top\(sch_1):\12v_fans\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!12V_IN!@gps_interface_board.\gib top\(sch_1):\12v_in\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.PG_1V8!@gps_interface_board.\gib top\(sch_1):\fmc.pg_1v8\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..110]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT3_P!@gps_interface_board.\gib top\(sch_1):\fmc.auxout3_p\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..110]!!!!!!!!!!!!!!!!!!!!!!
@@ -367,7 +368,6 @@ S!CLK_TO_SFP.CLK_TO_SFP_N2!@gps_interface_board.\gib top\(sch_1):\clk_to_sfp.clk
 S!CLK_TO_SFP.CLK_TO_SFP_P0!@gps_interface_board.\gib top\(sch_1):\clk_to_sfp.clk_to_sfp_p0\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP0!!19.5 MIL!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!5 MIL!!!!!!
 S!CLK_TO_SFP.CLK_TO_SFP_N0!@gps_interface_board.\gib top\(sch_1):\clk_to_sfp.clk_to_sfp_n0\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP0!!19.5 MIL!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!5 MIL!!!!!!
 S!CLK_TO_SFP.CLK_TO_SFP_P2!@gps_interface_board.\gib top\(sch_1):\clk_to_sfp.clk_to_sfp_p2\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP2!!19.5 MIL!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!5 MIL!!!!!!
-S!12V_SW!@gps_interface_board.\gib top\(sch_1):\12v_sw\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N90529!@gps_interface_board.\gib top\(sch_1):n90529!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N140138!@gps_interface_board.\gib top\(sch_1):n140138!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!RT_5V5!@gps_interface_board.\gib top\(sch_1):rt_5v5!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!

@@ -1,6 +1,6 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[09/21/23]")
+  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[09/22/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -568,20 +568,19 @@
       (Path "Outputs")
       (Path "Logs")
       (Select "Design Resources"
-         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "04. Power"
-         "06. Power 12V Main"))
+         "c:\spb_data\gps_interface_board\gps_interface_board.dsn" "04. Power"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 0 435 0 591"))
+        (Placement "44 0 1 -1 -1 0 0 0 377 0 591"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "1876 786")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "0 524")
+        (Zoom "112")
         (Occurrence "/Clock Generation"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "02. Clock Generation")
@@ -589,8 +588,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "-114 -5")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "-143 -5")
         (Zoom "56")
         (Occurrence "/Utilities"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -599,9 +598,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "1876 715")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "75 178")
+        (Zoom "112")
         (Occurrence "/PM3_FMC"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "05. FMC Connector")
@@ -609,9 +608,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "1118 797")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "-143 -5")
+        (Zoom "56")
         (Occurrence "/GPS Interface"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "01. GPS Interface")
@@ -619,8 +618,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "-114 -5")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "-143 -5")
         (Zoom "56")
         (Occurrence "/"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -629,7 +628,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 -8 -31 5 1174 24 609")
         (Scroll "0 212")
         (Zoom "100")
         (Occurrence "/"))
@@ -639,9 +638,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "114 284")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "-143 -5")
+        (Zoom "56")
         (Occurrence "/Utilities"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "06. Utilities")
@@ -649,9 +648,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "1940 0")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "556 0")
+        (Zoom "112")
         (Occurrence "/Power"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -659,27 +658,27 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
-        (Scroll "246 1429")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
+        (Scroll "-143 -5")
+        (Zoom "56")
         (Occurrence "/SFP Interface/SFP1"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
         (Scroll "0 43")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP2"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
         (Scroll "0 43")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP3"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
         (Scroll "0 270")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP5"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
         (Scroll "0 300")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP6"))
@@ -689,13 +688,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
         (Scroll "1511 1094")
         (Zoom "200"))
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "0 221")
-        (Zoom "85")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "0 494")
+        (Zoom "112")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "ACLK SFP")
@@ -703,9 +702,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "52 0")
-        (Zoom "112")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "-143 -5")
+        (Zoom "56")
         (Occurrence "/SFP Interface"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "03. SFP Interface")
@@ -713,8 +712,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "-45 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "-74 0")
         (Zoom "65")
         (Occurrence "/SFP Interface/Fanout"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
@@ -723,7 +722,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
         (Scroll "1053 176")
         (Zoom "180")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
@@ -733,9 +732,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
-        (Scroll "811 1371")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "248 505")
+        (Zoom "112")
         (Occurrence "/Utilities"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "06. Utilities")
@@ -743,9 +742,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
-        (Scroll "0 110")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
+        (Scroll "261 235")
+        (Zoom "112")
         (Occurrence "/Power"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -753,9 +752,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1116 24 609")
-        (Scroll "0 160")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 5 24 5 1174 24 609")
+        (Scroll "0 181")
+        (Zoom "112")
         (Occurrence "/Power"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -763,13 +762,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1116 24 609")
-        (Scroll "0 220")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
+        (Scroll "97 261")
+        (Zoom "112")
         (Occurrence "/Power"))
       (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
-      (Page "09. Power VCC2V5")))
+      (Page "09. Power VCC2V5"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1174 24 609")
+        (Scroll "451 133")
+        (Zoom "112")
+        (Occurrence "/Utilities"))
+      (Path "C:\SPB_DATA\GPS_INTERFACE_BOARD\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "14. Spare I/O RJ45")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
