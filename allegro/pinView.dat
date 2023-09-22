@@ -1,5 +1,5 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Fri Sep 22 12:07:48 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+J!c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd!Fri Sep 22 13:30:49 2023!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!UP TO DATE!
 S!12V_IN!F2!1!@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins870907@discrete.\fuse.normal\(chips)!FUSE_CAP1206_0.75A!!!F437!!!!!!!!!!
 S!12V_FANS!F2!2!@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins870907@discrete.\fuse.normal\(chips)!FUSE_CAP1206_0.75A!!!F437!!!!!!!!!!
 S!GND_IN!J300!1!@gps_interface_board.\gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins867903@\172448-0004\.\172448-0004.normal\(chips)!172448-0004_172448-YY04_172448-!!!F411!!!!!!!!!!

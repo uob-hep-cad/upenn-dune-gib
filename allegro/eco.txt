@@ -3,85 +3,162 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 12:08:04 2023  |
+|                                                    Fri Sep 22 13:30:54 2023  |
 |------------------------------------------------------------------------------|
 | COMPONENT PROPERTIES added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   ref  des   |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J13            11208.0 4576.00 ROOM           SFP1
- J14            10339.0 4574.00 ROOM           SFP2
- J18            9461.00 4574.00 ROOM           SFP3
- J19            8310.00 4574.00 ROOM           SFP4
- J20            7432.00 4574.00 ROOM           SFP5
- J21            6561.00 4574.00 ROOM           SFP6
- TP50           11713.0 3860.00 ROOM           SFP1
- TP51           10771.0 3860.00 ROOM           SFP2
- TP52           9890.00 3860.00 ROOM           SFP3
- TP53           8813.00 3860.00 ROOM           SFP4
- TP54           7866.00 3860.00 ROOM           SFP5
- TP55           6991.00 3860.00 ROOM           SFP6
- TP56           11712.0 3735.00 ROOM           SFP1
- TP57           10771.0 3735.00 ROOM           SFP2
- TP58           9890.00 3735.00 ROOM           SFP3
- TP59           8813.00 3735.00 ROOM           SFP4
- TP60           7865.00 3735.00 ROOM           SFP5
- TP61           6991.00 3735.00 ROOM           SFP6
- TP62           11712.0 3609.00 ROOM           SFP1
- TP64           10771.0 3609.00 ROOM           SFP2
- TP66           9890.00 3609.00 ROOM           SFP3
- TP68           8813.00 3609.00 ROOM           SFP4
- TP70           7866.00 3609.00 ROOM           SFP5
- TP72           6991.00 3609.00 ROOM           SFP6
+ C2712          -284.00 -5314.0 ROOM           ACLK_SFP
+ C2713           279.00 -5309.0 ROOM           ACLK_SFP
+ C2714           -85.00 -4668.0 ROOM           ACLK_SFP
+ C2717          -282.00 -5207.0 ROOM           ACLK_SFP
+ C2718            56.00 -4667.0 ROOM           ACLK_SFP
+ C2719           274.00 -5200.0 ROOM           ACLK_SFP
+ C2722          -227.00 -5488.0 ROOM           ACLK_SFP
+ C2723            37.00 -5811.0 ROOM           ACLK_SFP
+ C2724          -227.00 -5613.0 ROOM           ACLK_SFP
+ C2725           247.00 -5698.0 ROOM           ACLK_SFP
+ C2726            54.00 -5364.0 ROOM           ACLK_SFP
+ C2727          -227.00 -5550.0 ROOM           ACLK_SFP
+ C2728            -9.00 -5364.0 ROOM           ACLK_SFP
+ C2729          -227.00 -5676.0 ROOM           ACLK_SFP
+ C2730           247.00 -5633.0 ROOM           ACLK_SFP
+ C2731           103.00 -5811.0 ROOM           ACLK_SFP
+ C2732           -54.00 -5403.0 ROOM           ACLK_SFP
+ C2733            44.00 -5338.0 ROOM           ACLK_SFP
+ C2734           209.00 -5655.0 ROOM           ACLK_SFP
+ C2739                          ROOM           ACLK_SFP
+ C2740                          ROOM           ACLK_SFP
+ C2741                          ROOM           ACLK_SFP
+ C2742                          ROOM           ACLK_SFP
+ C2743                          ROOM           ACLK_SFP
+ C2744                          ROOM           ACLK_SFP
+ C2745                          ROOM           ACLK_SFP
+ C2746                          ROOM           ACLK_SFP
+ C2747                          ROOM           ACLK_SFP
+ C2748                          ROOM           ACLK_SFP
+ C2749                          ROOM           ACLK_SFP
+ C2750                          ROOM           ACLK_SFP
+ D40             -75.00 -6271.0 ROOM           ACLK_SFP
+ D41            -205.00 -5057.0 ROOM           ACLK_SFP
+ D42              77.00 -6274.0 ROOM           ACLK_SFP
+ D43             173.00 -5057.0 ROOM           ACLK_SFP
+ J30             -16.00 -4696.0 ROOM           ACLK_SFP
+ L21             272.00 -5257.0 ROOM           ACLK_SFP
+ L22            -3042.0 -1055.0 ROOM           ACLK_SFP
+ R2676            85.00 -4411.0 ROOM           ACLK_SFP
+ R2677          -112.00 -4411.0 ROOM           ACLK_SFP
+ R2679           -39.00 -4411.0 ROOM           ACLK_SFP
+ R2681           -75.00 -4411.0 ROOM           ACLK_SFP
+ R2683          -487.00 -6140.0 ROOM           ACLK_SFP
+ R2684          -512.00 -6211.0 ROOM           ACLK_SFP
+ R2685          -512.00 -6284.0 ROOM           ACLK_SFP
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 12:08:04 2023  |
+|                                                    Fri Sep 22 13:30:54 2023  |
 |------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
+| COMPONENT PROPERTIES added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
+|   ref  des   |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J13.20         11208.0 4576.00 ROOM           SFP1
- J14.20         10339.0 4574.00 ROOM           SFP2
- J18.20         9461.00 4574.00 ROOM           SFP3
- J19.20         8310.00 4574.00 ROOM           SFP4
- J20.20         7432.00 4574.00 ROOM           SFP5
- J21.20         6561.00 4574.00 ROOM           SFP6
- TP50.1         11713.0 3860.00 ROOM           SFP1
- TP51.1         10771.0 3860.00 ROOM           SFP2
- TP52.1         9890.00 3860.00 ROOM           SFP3
- TP53.1         8813.00 3860.00 ROOM           SFP4
- TP54.1         7866.00 3860.00 ROOM           SFP5
- TP55.1         6991.00 3860.00 ROOM           SFP6
- TP56.1         11712.0 3735.00 ROOM           SFP1
- TP57.1         10771.0 3735.00 ROOM           SFP2
- TP58.1         9890.00 3735.00 ROOM           SFP3
- TP59.1         8813.00 3735.00 ROOM           SFP4
- TP60.1         7865.00 3735.00 ROOM           SFP5
- TP61.1         6991.00 3735.00 ROOM           SFP6
- TP62.1         11712.0 3609.00 ROOM           SFP1
- TP64.1         10771.0 3609.00 ROOM           SFP2
- TP66.1         9890.00 3609.00 ROOM           SFP3
- TP68.1         8813.00 3609.00 ROOM           SFP4
- TP70.1         7866.00 3609.00 ROOM           SFP5
- TP72.1         6991.00 3609.00 ROOM           SFP6
+ R2686            -9.00 -5340.0 ROOM           ACLK_SFP
+ R2687          -232.00 -5731.0 ROOM           ACLK_SFP
+ R2688          -199.00 -5570.0 ROOM           ACLK_SFP
+ R2689                          ROOM           ACLK_SFP
+ R2690                          ROOM           ACLK_SFP
+ R2691                          ROOM           ACLK_SFP
+ TP764           489.00 -5412.0 ROOM           ACLK_SFP
+ TP765           488.00 -5537.0 ROOM           ACLK_SFP
+ TP766           488.00 -5663.0 ROOM           ACLK_SFP
+ U104              4.00 -5599.0 ROOM           ACLK_SFP
+ U105           -322.00 -6112.0 ROOM           ACLK_SFP
+ U106            305.00 -6112.0 ROOM           ACLK_SFP
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
-|                                                    Fri Sep 22 12:08:04 2023  |
+|                                                    Fri Sep 22 13:30:54 2023  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C2712.2        -284.00 -5314.0 ROOM           ACLK_SFP
+ C2713.2         279.00 -5309.0 ROOM           ACLK_SFP
+ C2714.2         -85.00 -4668.0 ROOM           ACLK_SFP
+ C2717.2        -282.00 -5207.0 ROOM           ACLK_SFP
+ C2718.2          56.00 -4667.0 ROOM           ACLK_SFP
+ C2719.2         274.00 -5200.0 ROOM           ACLK_SFP
+ C2722.2        -227.00 -5488.0 ROOM           ACLK_SFP
+ C2723.2          37.00 -5811.0 ROOM           ACLK_SFP
+ C2724.2        -227.00 -5613.0 ROOM           ACLK_SFP
+ C2725.2         247.00 -5698.0 ROOM           ACLK_SFP
+ C2726.2          54.00 -5364.0 ROOM           ACLK_SFP
+ C2727.2        -227.00 -5550.0 ROOM           ACLK_SFP
+ C2728.2          -9.00 -5364.0 ROOM           ACLK_SFP
+ C2729.2        -227.00 -5676.0 ROOM           ACLK_SFP
+ C2730.2         247.00 -5633.0 ROOM           ACLK_SFP
+ C2731.2         103.00 -5811.0 ROOM           ACLK_SFP
+ C2732.2         -54.00 -5403.0 ROOM           ACLK_SFP
+ C2733.2          44.00 -5338.0 ROOM           ACLK_SFP
+ C2734.2         209.00 -5655.0 ROOM           ACLK_SFP
+ C2739.2                        ROOM           ACLK_SFP
+ C2740.2                        ROOM           ACLK_SFP
+ C2741.2                        ROOM           ACLK_SFP
+ C2742.2                        ROOM           ACLK_SFP
+ C2743.2                        ROOM           ACLK_SFP
+ C2744.2                        ROOM           ACLK_SFP
+ C2745.2                        ROOM           ACLK_SFP
+ C2746.2                        ROOM           ACLK_SFP
+ C2747.2                        ROOM           ACLK_SFP
+ C2748.2                        ROOM           ACLK_SFP
+ C2749.2                        ROOM           ACLK_SFP
+ C2750.2                        ROOM           ACLK_SFP
+ D40.1           -75.00 -6271.0 ROOM           ACLK_SFP
+ D41.1          -205.00 -5057.0 ROOM           ACLK_SFP
+ D42.1            77.00 -6274.0 ROOM           ACLK_SFP
+ D43.1           173.00 -5057.0 ROOM           ACLK_SFP
+ J30.20          -16.00 -4696.0 ROOM           ACLK_SFP
+ L21.2           272.00 -5257.0 ROOM           ACLK_SFP
+ L22.2          -3042.0 -1055.0 ROOM           ACLK_SFP
+ R2676.2          85.00 -4411.0 ROOM           ACLK_SFP
+ R2677.2        -112.00 -4411.0 ROOM           ACLK_SFP
+ R2679.2         -39.00 -4411.0 ROOM           ACLK_SFP
+ R2681.2         -75.00 -4411.0 ROOM           ACLK_SFP
+ R2683.2        -487.00 -6140.0 ROOM           ACLK_SFP
+ R2684.2        -512.00 -6211.0 ROOM           ACLK_SFP
+ R2685.2        -512.00 -6284.0 ROOM           ACLK_SFP
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|       Comp property added   :      24                                        |
-|       Slot property added   :      24                                        |
+|  c:/spb_data/gps_interface_board/allegro/gps_interface_boardv37.brd          |
+|                                                    Fri Sep 22 13:30:54 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2686.2          -9.00 -5340.0 ROOM           ACLK_SFP
+ R2687.2        -232.00 -5731.0 ROOM           ACLK_SFP
+ R2688.2        -199.00 -5570.0 ROOM           ACLK_SFP
+ R2689.2                        ROOM           ACLK_SFP
+ R2690.2                        ROOM           ACLK_SFP
+ R2691.2                        ROOM           ACLK_SFP
+ TP764.1         489.00 -5412.0 ROOM           ACLK_SFP
+ TP765.1         488.00 -5537.0 ROOM           ACLK_SFP
+ TP766.1         488.00 -5663.0 ROOM           ACLK_SFP
+ U104.3            4.00 -5599.0 ROOM           ACLK_SFP
+ U105.4         -322.00 -6112.0 ROOM           ACLK_SFP
+ U106.4          305.00 -6112.0 ROOM           ACLK_SFP
+|------------------------------------------------------------------------------|
+|       Comp property added   :      57                                        |
+|       Slot property added   :      57                                        |
 |                                                                              |
-|   Total ECO changes reported:      48                                        |
+|   Total ECO changes reported:     114                                        |
 |------------------------------------------------------------------------------|

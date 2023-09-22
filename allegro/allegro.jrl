@@ -34,3 +34,128 @@
 \t (00:00:14) > Schematic pulled successfully
 \i (00:00:14) placementedit 
 \i (00:00:18) viewlog -last 
+\i (00:02:45) setwindow text
+\i (00:02:45) close
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom out 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom out -4493.38 -5994.06
+\i (00:02:47) trapsize 10772
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out -4493.39 -5994.06
+\i (00:02:48) trapsize 21544
+\i (00:02:58) place manual 
+\i (00:02:58) setwindow form.plc_manual
+\i (00:02:58) FORM plc_manual tree  'Components by refdes' 
+\i (00:03:05) FORM plc_manual tree  C2739 'Components by refdes' 
+\i (00:03:09) FORM plc_manual place_by_room YES 
+\i (00:03:11) FORM plc_manual by_room SFP1 
+\i (00:03:15) FORM plc_manual by_room SFP2 
+\i (00:03:18) FORM plc_manual by_room SFP3 
+\i (00:03:38) FORM plc_manual cancel  
+\i (00:03:38) setwindow form.mini
+\i (00:03:38) FORM mini tree  'Components by refdes' 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) placementedit 
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 12070.26 2591.07
+\i (00:03:40) trapsize 10772
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 12070.26 2591.07
+\i (00:03:40) trapsize 5386
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 12070.27 2591.08
+\i (00:03:40) trapsize 2693
+\i (01:14:02) zoom in 1 
+\i (01:14:02) setwindow pcb
+\i (01:14:02) zoom in 10723.79 2009.40
+\i (01:14:02) trapsize 1346
+\i (01:14:02) zoom in 1 
+\i (01:14:02) setwindow pcb
+\i (01:14:02) zoom in 10731.87 2017.48
+\i (01:14:02) trapsize 673
+\i (01:14:02) zoom in 1 
+\i (01:14:02) setwindow pcb
+\i (01:14:02) zoom in 10746.68 2020.18
+\i (01:14:02) trapsize 337
+\i (01:14:03) zoom out 1 
+\i (01:14:03) setwindow pcb
+\i (01:14:03) zoom out 10758.80 2020.18
+\i (01:14:03) trapsize 673
+\i (01:14:03) zoom out 1 
+\i (01:14:03) setwindow pcb
+\i (01:14:03) zoom out 10760.14 2012.10
+\i (01:14:03) trapsize 1346
+\i (01:14:03) zoom out 1 
+\i (01:14:03) setwindow pcb
+\i (01:14:03) zoom out 10762.84 2006.72
+\i (01:14:03) trapsize 2693
+\i (01:14:03) zoom out 1 
+\i (01:14:03) setwindow pcb
+\i (01:14:03) zoom out 10773.62 1990.55
+\i (01:14:03) trapsize 5386
+\i (01:14:06) roam y -96 
+\i (01:14:06) roam y -96
+\i (01:14:06) roam y -96 
+\i (01:14:06) roam y -96
+\i (01:14:08) save 
+\i (01:14:10) fillin yes 
+\t (01:14:10) > Sending response DoneOpenBoard
+\i (01:14:11) placementedit 
+\t (01:22:57) > DoPhysicalNetlistGenerate message received
+\t (01:22:57) > Generating physical netlist...
+\t (01:22:57) Starting genfeedformat...
+\t (01:22:59) > Sending response DonePhysicalNetlistGeneration
+\t (01:22:59) > Physical Netlist Generated
+\t (01:23:02) > DoPullSchematic message received
+\t (01:23:02) > Pulling schematic...
+\t (01:23:02) Starting Cadence Logic Import...
+\t (01:23:03) Opening existing design...
+\i (01:23:04) setwindow form.mini
+\i (01:23:04) FORM mini tree  'Components by refdes' 
+\i (01:23:04) setwindow pcb
+\i (01:23:04) trapsize 5386
+\t (01:23:04) > Sending response DonePullSchematic
+\t (01:23:04) > Schematic pulled successfully
+\i (01:23:04) placementedit 
+\i (01:23:08) zoom out 1 
+\i (01:23:08) setwindow pcb
+\i (01:23:08) zoom out 8069.90 3657.40
+\i (01:23:08) trapsize 10772
+\i (01:23:08) zoom out 1 
+\i (01:23:08) setwindow pcb
+\i (01:23:08) zoom out 6909.71 3571.23
+\i (01:23:08) trapsize 21544
+\i (01:23:10) zoom in 1 
+\i (01:23:10) setwindow pcb
+\i (01:23:10) zoom in -1944.69 -4701.50
+\i (01:23:10) trapsize 10772
+\i (01:23:10) zoom in 1 
+\i (01:23:10) setwindow pcb
+\i (01:23:10) zoom in -1944.69 -4701.50
+\i (01:23:10) trapsize 5386
+\i (01:23:11) zoom in 1 
+\i (01:23:11) setwindow pcb
+\i (01:23:11) zoom in -16.53 -4949.25
+\i (01:23:11) trapsize 2693
+\i (01:23:12) zoom in 1 
+\i (01:23:12) setwindow pcb
+\i (01:23:12) zoom in -16.53 -4949.24
+\i (01:23:12) trapsize 1346
+\i (01:23:12) zoom in 1 
+\i (01:23:12) setwindow pcb
+\i (01:23:12) zoom in -13.84 -4946.54
+\i (01:23:12) trapsize 673
+\i (01:23:15) zoom out 1 
+\i (01:23:15) setwindow pcb
+\i (01:23:15) zoom out -78.47 -4904.80
+\i (01:23:15) trapsize 1346
+\i (01:23:15) zoom out 1 
+\i (01:23:15) setwindow pcb
+\i (01:23:15) zoom out -78.47 -4929.04
+\i (01:23:15) trapsize 2693
+\
