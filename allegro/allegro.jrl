@@ -3656,341 +3656,528 @@
 \i (01:20:10) xhilite 
 \i (01:20:10) xname_flush 
 \i (01:20:10) done 
-\i (01:20:10) xhiut 11376.06 3630.38
-\i (02:05:34) trapsize 291
-\i (02:05:35) zoom out 1 
-\i (02:05:35) setwindow pcb
-\i (02:05:35) zoom out 11376.06 3630.39
-\i (02:05:35) trapsize 583
-\i (02:05:35) zoom in 1 
-\i (02:05:35) setwindow pcb
-\i (02:05:35) zoom in 11369.07 3626.89
-\i (02:05:35) trapsize 291
-\i (02:06:02) roam y -96 
-\i (02:06:02) roam y -96
-\i (02:06:02) roam y -96 
-\i (02:06:02) roam y -96
-\i (02:06:03) roam y -96 
-\i (02:06:03) roam y -96
-\i (02:06:03) roam y -96 
-\i (02:06:03) roam y -96
-\i (02:06:03) roam y -96 
-\i (02:06:03) roam y -96
-\i (02:06:03) roam y -96 
-\i (02:06:03) roam y -96
-\i (02:06:03) roam y -96 
-\i (02:06:03) roam y -96
-\i (02:06:03) roam y -96 
-\i (02:06:03) roam y -96
-\i (02:06:04) roam y 96 
-\i (02:06:04) roam y 96
-\i (02:06:05) roam y 96 
-\i (02:06:05) roam y 96
-\i (02:06:05) roam y 96 
-\i (02:06:05) roam y 96
-\i (02:06:05) roam y 96 
-\i (02:06:05) roam y 96
-\i (02:06:05) roam y 96 
-\i (02:06:05) roam y 96
-\i (02:06:06) roam y 96 
-\i (02:06:06) roam y 96
-\i (02:06:06) roam y 96 
-\i (02:06:06) roam y 96
-\i (02:06:12) delete 
-\i (02:06:13) pick grid 11236.18 3783.27
-\t (02:06:13) last pick:  11236.00 3783.00
-\t (02:06:13) Via "Gnd_Power, Via22rd0-3d,1, (11231.00 3784.00)"
-\i (02:06:13) pick grid dbl 11236.18 3783.27
-\t (02:06:13) last pick:  11236.00 3783.00
-\t (02:06:13) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
-\i (02:06:13) pick grid 11236.18 3788.51
-\t (02:06:13) last pick:  11236.00 3789.00
-\t (02:06:13) Horizontal Line Segment "Not On A Net, Etch/Bottom"
-\i (02:06:14) pick grid dbl 11236.18 3788.51
-\t (02:06:14) last pick:  11236.00 3789.00
-\i (02:06:16) pick grid 11365.00 3793.18
-\t (02:06:16) last pick:  11365.00 3793.00
-\t (02:06:16) Horizontal Line Segment "Gnd_Power, Etch/Bottom"
-\i (02:06:18) pick grid 11401.13 3799.59
-\t (02:06:18) last pick:  11401.00 3800.00
-\t (02:06:18) Via "Gnd_Power, Via22rd0-3d,1, (11407.00 3807.00)"
-\i (02:06:18) pick grid dbl 11401.13 3799.59
-\t (02:06:18) last pick:  11401.00 3800.00
-\t (02:06:18) Odd-angle Line Segment "Not On A Net, Etch/Bottom"
-\i (02:06:19) pick grid 11406.38 3806.00
-\t (02:06:19) last pick:  11406.00 3806.00
-\i (02:06:22) pick grid 11243.18 3836.31
-\t (02:06:22) last pick:  11243.00 3836.00
-\t (02:06:22) Via "Gnd_Power, Via22rd0-3d,1, (11245.00 3837.00)"
-\i (02:06:22) pick grid dbl 11243.18 3836.31
-\t (02:06:22) last pick:  11243.00 3836.00
-\i (02:06:23) roam y 96 
-\i (02:06:23) roam y 96
-\i (02:06:23) roam y 96 
-\i (02:06:23) roam y 96
-\i (02:06:24) roam x -96 
-\i (02:06:24) roam x -96
-\i (02:06:24) roam x -96 
-\i (02:06:24) roam x -96
-\i (02:06:24) roam x -96 
-\i (02:06:24) roam x -96
-\i (02:06:24) roam x -96 
-\i (02:06:24) roam x -96
-\i (02:06:25) roam y -96 
-\i (02:06:25) roam y -96
-\i (02:06:25) roam y -96 
-\i (02:06:25) roam y -96
-\i (02:06:25) roam x -96 
-\i (02:06:25) roam x -96
-\i (02:06:25) roam x -96 
-\i (02:06:25) roam x -96
-\i (02:06:26) roam x -96 
-\i (02:06:26) roam x -96
-\i (02:06:26) roam x -96 
-\i (02:06:26) roam x -96
-\i (02:06:32) roam y 96 
-\i (02:06:32) roam y 96
-\i (02:06:32) roam y 96 
-\i (02:06:32) roam y 96
-\i (02:06:32) roam y 96 
-\i (02:06:32) roam y 96
-\i (02:06:33) roam y 96 
-\i (02:06:33) roam y 96
-\i (02:06:33) roam y 96 
-\i (02:06:33) roam y 96
-\i (02:06:34) roam y 96 
-\i (02:06:34) roam y 96
-\i (02:06:34) roam y 96 
-\i (02:06:34) roam y 96
-\i (02:06:34) roam y 96 
-\i (02:06:34) roam y 96
-\i (02:06:35) roam y -96 
-\i (02:06:35) roam y -96
-\i (02:06:35) roam y -96 
-\i (02:06:35) roam y -96
-\i (02:06:35) roam y -96 
-\i (02:06:35) roam y -96
-\i (02:06:35) roam y -96 
-\i (02:06:35) roam y -96
-\i (02:06:35) roam y -96 
-\i (02:06:35) roam y -96
-\i (02:06:36) roam y -96 
-\i (02:06:36) roam y -96
-\i (02:06:37) roam y -96 
-\i (02:06:37) roam y -96
-\i (02:06:37) roam y -96 
-\i (02:06:37) roam y -96
-\i (02:06:48) roam x 96 
-\i (02:06:48) roam x 96
-\i (02:06:48) roam x 96 
-\i (02:06:48) roam x 96
-\i (02:06:49) roam x 96 
-\i (02:06:49) roam x 96
-\i (02:06:49) roam x 96 
-\i (02:06:49) roam x 96
-\i (02:06:49) roam x 96 
-\i (02:06:49) roam x 96
-\i (02:06:49) roam x 96 
-\i (02:06:49) roam x 96
-\i (02:06:49) roam x 96 
-\i (02:06:49) roam x 96
-\i (02:06:50) roam x 96 
-\i (02:06:50) roam x 96
-\i (02:06:57) zoom in 1 
-\i (02:06:57) setwindow pcb
-\i (02:06:57) zoom in 11402.61 3572.27
-\i (02:06:57) trapsize 146
-\i (02:06:58) zoom out 1 
-\i (02:06:58) setwindow pcb
-\i (02:06:58) zoom out 11402.61 3571.39
-\i (02:06:58) trapsize 291
-\i (02:06:59) roam y 96 
-\i (02:06:59) roam y 96
-\i (02:07:00) roam x -96 
-\i (02:07:00) roam x -96
-\i (02:07:04) slide 
-\t (02:07:04) Pick element to slide.
-\i (02:07:05) pick grid 11354.81 3518.06
-\t (02:07:05) last pick:  11355.00 3518.00
-\t (02:07:05) last pick:  11349.00 3518.00
-\t (02:07:05) Waiting for the destination pick.
-\i (02:07:07) pick grid 11350.15 3536.71
-\t (02:07:07) last pick:  11350.00 3537.00
-\t (02:07:07) No DRC errors detected.
-\t (02:07:07) Pick another element to slide.
-\i (02:07:08) pick grid 11393.28 3511.65
-\t (02:07:08) last pick:  11393.00 3512.00
-\t (02:07:08) last pick:  11391.00 3517.00
-\t (02:07:08) Waiting for the destination pick.
-\i (02:07:12) pick grid 11392.70 3530.89
-\t (02:07:12) last pick:  11393.00 3531.00
-\t (02:07:12) No DRC errors detected.
-\t (02:07:12) Pick another element to slide.
-\i (02:07:14) pick grid 11309.93 3751.21
-\t (02:07:14) last pick:  11310.00 3751.00
-\t (02:07:14) last pick:  11313.00 3752.00
-\t (02:07:14) Waiting for the destination pick.
-\i (02:07:16) pick grid 11347.24 3793.18
-\t (02:07:16) last pick:  11347.00 3793.00
-\t (02:07:16) No DRC errors detected.
-\t (02:07:16) Pick another element to slide.
-\i (02:07:17) pick grid 11439.91 3765.78
-\t (02:07:17) last pick:  11440.00 3766.00
-\t (02:07:17) last pick:  11438.28 3766.72
-\t (02:07:17) Waiting for the destination pick.
-\i (02:07:20) pick grid 11390.95 3796.09
-\t (02:07:20) last pick:  11391.00 3796.00
-\t (02:07:20) No DRC errors detected.
-\t (02:07:20) Pick another element to slide.
-\i (02:07:25) delete 
-\i (02:07:30) setwindow form.find
-\i (02:07:30) FORM find all_off  
-\i (02:07:31) FORM find cline_segs YES 
-\i (02:07:32) setwindow pcb
-\i (02:07:32) pick grid 11460.31 3742.47
-\t (02:07:32) last pick:  11460.00 3742.00
-\t (02:07:32) Vertical Line Segment "Sfp_Td_P_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:32) pick grid dbl 11460.31 3742.47
-\t (02:07:32) last pick:  11460.00 3742.00
-\i (02:07:34) pick grid 11462.06 3806.59
-\t (02:07:34) last pick:  11462.00 3807.00
-\t (02:07:34) Vertical Line Segment "Sfp_Td_P_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:35) pick grid 11471.39 3807.75
-\t (02:07:35) last pick:  11471.00 3808.00
-\t (02:07:35) Vertical Line Segment "Sfp_Td_N_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:36) pick grid 11473.14 3752.96
-\t (02:07:36) last pick:  11473.00 3753.00
-\t (02:07:36) Vertical Line Segment "Sfp_Td_N_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:37) pick grid 11473.14 3752.96
-\t (02:07:37) last pick:  11473.00 3753.00
-\i (02:07:39) pick grid 11445.16 3703.42
-\t (02:07:39) last pick:  11445.00 3703.00
-\t (02:07:39) Odd-angle Line Segment "Sfp_Td_P_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:39) pick grid dbl 11445.16 3703.42
-\t (02:07:39) last pick:  11445.00 3703.00
-\i (02:07:40) pick grid 11443.99 3689.43
-\t (02:07:40) last pick:  11444.00 3689.00
-\t (02:07:40) Odd-angle Line Segment "Sfp_Td_N_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:41) pick grid dbl 11443.99 3689.43
-\t (02:07:41) last pick:  11444.00 3689.00
-\i (02:07:42) pick grid 11410.19 3659.12
-\t (02:07:42) last pick:  11410.00 3659.00
-\t (02:07:42) Horizontal Line Segment "Sfp_Td_N_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:43) pick grid 11403.19 3654.46
-\t (02:07:43) last pick:  11403.00 3654.00
-\t (02:07:43) Odd-angle Line Segment "Sfp_Td_N_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:44) pick grid 11407.86 3667.86
-\t (02:07:44) last pick:  11408.00 3668.00
-\t (02:07:44) Horizontal Line Segment "Sfp_Td_P_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:45) pick grid 11402.61 3674.27
-\t (02:07:45) last pick:  11403.00 3674.00
-\t (02:07:45) Odd-angle Line Segment "Sfp_Td_P_Sfp Interface_Sfp1, Etch/Top"
-\i (02:07:46) pick grid 11446.91 3673.69
-\t (02:07:46) last pick:  11447.00 3674.00
-\i (02:07:49) prepopup 11446.91 3550.12
-\i (02:07:50) done 
-\i (02:07:50) etchedit 
-\i (02:07:51) move 
-\t (02:07:51) Select element(s) to move.
-\i (02:07:53) drag_start grid 11315.18 3611.32
-\i (02:07:55) drag_stop 11414.85 3510.49
-\i (02:07:56) prepopup 11453.90 3521.56
-\i (02:07:57) oops 
-\t (02:07:57) Select element(s) to move.
-\i (02:07:59) delete 
-\i (02:08:00) pick grid 11393.28 3613.65
-\t (02:08:00) last pick:  11393.00 3614.00
-\t (02:08:00) Vertical Line Segment "Sfp_Td_N_Sfp Interface_Sfp1, Etch/Top"
-\i (02:08:00) pick grid dbl 11393.28 3613.65
-\t (02:08:00) last pick:  11393.00 3614.00
-\i (02:08:02) pick grid 11393.28 3708.08
-\t (02:08:02) last pick:  11393.00 3708.00
-\t (02:08:02) Vertical Line Segment "Sfp_Td_P_Sfp Interface_Sfp1, Etch/Top"
-\i (02:08:02) pick grid dbl 11393.28 3708.08
-\t (02:08:02) last pick:  11393.00 3708.00
-\i (02:08:04) move 
-\t (02:08:04) Select element(s) to move.
-\i (02:08:06) drag_start grid 11432.34 3508.15
-\i (02:08:07) drag_stop 11336.74 3579.85
-\i (02:08:09) pick grid 11349.57 3589.76
-\t (02:08:09) last pick:  11350.00 3590.00
-\t (02:08:09) Element has no origin, using pick.
-\t (02:08:09) Element has no origin, using pick.
-\t (02:08:09) Moving R122 / R_RES0402_6.81K / RES0402.
-\t (02:08:09) Moving R126 / R_RES0402_3.83K / RES0402.
-\t (02:08:09) Pick new location for the element(s).
-\i (02:08:15) pick grid 11434.67 3643.96
-\t (02:08:15) last pick:  11435.00 3644.00
-\i (02:08:21) drag_start grid 11414.27 3717.99
-\i (02:08:22) drag_stop 11340.82 3796.68
-\i (02:08:24) pick grid 11353.65 3732.56
-\t (02:08:24) last pick:  11354.00 3733.00
-\t (02:08:24) Element has no origin, using pick.
-\t (02:08:24) Element has no origin, using pick.
-\t (02:08:24) Element has no origin, using pick.
-\t (02:08:24) Element has no origin, using pick.
-\t (02:08:24) Moving R123 / R_RES0402_3.83K / RES0402.
-\t (02:08:24) Moving R121 / R_RES0402_6.81K / RES0402.
-\t (02:08:24) Pick new location for the element(s).
-\i (02:08:36) pick grid 11438.75 3681.85
-\t (02:08:36) last pick:  11439.00 3682.00
-\i (02:08:39) add connect 
-\t (02:08:39) Pick first element.
-\i (02:08:42) pick grid 11459.73 3820.58
-\t (02:08:42) last pick:  11460.00 3821.00
-\t (02:08:42) last pick:  11461.01 3819.99
-\t (02:08:42) last pick:  11461.01 3819.99
-\i (02:08:42) mouse_pos 11459.73 3820.58
-\i (02:08:42) mouse_pos 11463.81 3814.16
-\i (02:08:42) mouse_pos 11464.98 3813.00
-\i (02:08:42) mouse_pos 11465.56 3811.83
-\i (02:08:44) prepopup 11518.60 3688.26
-\i (02:08:45) pop singletrace 
-\i (02:08:48) mouse_pos 11485.96 3666.70
-\i (02:08:49) mouse_pos 11492.95 3677.19
-\i (02:08:52) pick grid 11523.26 3670.78
-\t (02:08:52) last pick:  11523.00 3671.00
-\t (02:08:52) No DRC errors detected.
-\i (02:08:53) prepopup 11519.77 3662.03
-\i (02:08:55) pop singletrace 
-\i (02:08:55) mouse_pos 11490.04 3678.94
-\i (02:08:56) pick grid 11474.89 3674.27
-\t (02:08:56) last pick:  11475.00 3674.00
-\t (02:08:56) No DRC errors detected.
-\t (02:08:56) last pick:  11534.00 3671.00
-\i (02:08:56) mouse_pos 11475.47 3674.27
-\i (02:08:56) mouse_pos 11478.38 3673.69
-\i (02:08:57) mouse_pos 11491.79 3670.19
-\i (02:08:57) mouse_pos 11494.12 3660.28
-\i (02:08:57) mouse_pos 11495.29 3656.79
-\i (02:08:57) mouse_pos 11490.04 3634.06
-\i (02:08:58) pick grid 11476.05 3638.72
-\t (02:08:58) last pick:  11476.00 3639.00
-\t (02:08:58) No DRC errors detected.
-\t (02:08:58) Pick first element.
-\i (02:09:00) pick grid 11473.72 3649.21
-\t (02:09:00) last pick:  11474.00 3649.00
-\t (02:09:00) Pick first element.
-\t (02:09:00) last pick:  11476.00 3647.72
-\t (02:09:00) Target Symbol Pin is defined on TOP.
-\t (02:09:00) last pick:  11476.00 3647.72
-\i (02:09:00) mouse_pos 11446.91 3653.29
-\i (02:09:01) pick grid 11427.67 3647.46
-\t (02:09:01) last pick:  11428.00 3647.00
-\t (02:09:01) No DRC errors detected.
-\t (02:09:01) Pick first element.
-\i (02:09:03) pick grid 11435.25 3680.69
-\t (02:09:03) last pick:  11435.00 3681.00
-\t (02:09:03) Pick first element.
-\t (02:09:03) last pick:  11434.00 3680.28
-\t (02:09:03) Target Symbol Pin is defined on TOP.
-\t (02:09:03) last pick:  11434.00 3680.28
-\i (02:09:03) mouse_pos 11405.52 3689.43
-\i (02:09:04) pick grid 11394.45 3682.43
-\t (02:09:04) last pick:  11394.00 3682.00
-\t (02:09:04) No DRC errors detected.
-\t (02:09:04) last pick:  11434.00 3647.72
-\i (02:09:04) mouse_pos 11393.87 3681.85
+\i (01:20:10) xhilite 
+\i (01:20:10) xname_flush 
+\i (01:20:10) done 
+\i (01:20:10) xhilite 
+\i (01:20:10) xname_flush 
+\i (01:20:10) done 
+\i (01:20:10) xhilite 
+\i (01:20:10) xname_flush 
+\i (01:20:10) done 
+\i (01:20:15) xdehilite 
+\i (01:20:15) xname_flush 
+\i (01:20:15) done 
+\i (01:25:49) xhilite 
+\i (01:25:49) xname_flush 
+\i (01:25:49) done 
+\i (01:25:49) xhilite 
+\i (01:25:49) xname_flush 
+\i (01:25:49) done 
+\i (01:26:43) xhilite 
+\i (01:26:43) xname_flush 
+\i (01:26:43) done 
+\i (01:26:43) xhilite 
+\i (01:26:43) xname_flush 
+\i (01:26:43) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:00) xhilite 
+\i (01:28:00) xname_flush 
+\i (01:28:00) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:37) xname_flush 
+\i (01:28:37) done 
+\i (01:28:37) xdehilite 
+\i (01:28:38) xname_flush 
+\i (01:28:38) done 
+\i (01:28:38) xdehilite 
+\i (01:28:38) xname_flush 
+\i (01:28:31.85
 \i (02:09:04) mouse_pos 11397.95 3676.61
 \i (02:09:04) mouse_pos 11403.19 3669.03
 \i (02:09:04) mouse_pos 11404.94 3665.53
@@ -6045,4 +6232,537 @@
 \t (03:02:26) last pick:  13331.00 10214.00
 \t (03:02:26) last pick:  13331.00 10214.00
 \t (03:02:26) Element has no origin, using pick.
-\t (0
+\t (03:02:26) Pick new location for the element(s).
+\i (03:02:27) pick grid 14194.33 12635.83
+\t (03:02:27) last pick:  14194.00 12636.00
+\i (03:02:34) room outline 
+\i (03:02:37) setwindow form.fprmoutline
+\i (03:02:37) FORM fprmoutline fproname SFP2 
+\i (03:02:39) FORM fprmoutline done  
+\i (03:02:52) setwindow pcb
+\i (03:02:52) room outline 
+\i (03:02:55) setwindow form.fprmoutline
+\i (03:02:55) FORM fprmoutline fproname SFP2 
+\i (03:02:58) setwindow pcb
+\i (03:02:58) pick grid 8511.80 12611.86
+\t (03:02:58) last pick:  8512.00 12612.00
+\i (03:03:01) pick grid 11724.71 9207.14
+\t (03:03:01) last pick:  11725.00 9207.00
+\i (03:03:07) pick grid 4483.68 12635.83
+\t (03:03:07) last pick:  4484.00 12636.00
+\i (03:03:09) pick grid 8152.15 9183.16
+\t (03:03:09) last pick:  8152.00 9183.00
+\i (03:03:13) pick grid 23.98 12707.76
+\t (03:03:13) last pick:  24.00 12708.00
+\i (03:03:14) pick grid 4100.05 9159.18
+\t (03:03:14) last pick:  4100.00 9159.00
+\i (03:03:19) roam x -96 
+\i (03:03:19) roam x -96
+\i (03:03:19) roam x -96 
+\i (03:03:19) roam x -96
+\i (03:03:20) roam x -96 
+\i (03:03:20) roam x -96
+\i (03:03:23) pick grid -4435.73 12683.79
+\t (03:03:23) last pick:  -4436.00 12684.00
+\i (03:03:24) pick grid -503.52 9135.21
+\t (03:03:24) last pick:  -504.00 9135.00
+\i (03:03:26) pick grid -8895.43 12635.83
+\t (03:03:26) last pick:  -8895.00 12636.00
+\i (03:03:27) pick grid -4819.36 9087.25
+\t (03:03:27) last pick:  -4819.00 9087.00
+\i (03:03:29) setwindow form.fprmoutline
+\i (03:03:29) FORM fprmoutline done  
+\i (03:03:31) setwindow pcb
+\i (03:03:31) roam x 96 
+\i (03:03:31) roam x 96
+\i (03:03:32) roam x 96 
+\i (03:03:32) roam x 96
+\i (03:03:32) roam x 96 
+\i (03:03:32) roam x 96
+\i (03:03:32) roam x 96 
+\i (03:03:32) roam x 96
+\i (03:03:35) zoom in 1 
+\i (03:03:35) setwindow pcb
+\i (03:03:35) zoom in 9015.31 3524.61
+\i (03:03:35) trapsize 5994
+\i (03:03:35) zoom in 1 
+\i (03:03:35) setwindow pcb
+\i (03:03:35) zoom in 9063.27 3560.57
+\i (03:03:35) trapsize 2997
+\i (03:03:35) zoom out 1 
+\i (03:03:35) setwindow pcb
+\i (03:03:35) zoom out 9093.24 3596.54
+\i (03:03:35) trapsize 5994
+\i (03:03:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (03:03:42) QtSignal CVPLayerGrid CVPBoxAllGnd2 clicked false
+\i (03:03:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (03:03:44) QtSignal CVPLayerGrid CVPBoxAllPwr1 clicked false
+\i (03:03:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (03:03:44) QtSignal CVPLayerGrid CVPBoxAllPwr2 clicked false
+\i (03:03:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (03:03:46) QtSignal CVPLayerGrid CVPBoxAllGnd3 clicked false
+\i (03:03:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (03:03:50) QtSignal CVPLayerGrid CVPBoxAllGnd1 clicked false
+\i (03:03:53) zoom in 1 
+\i (03:03:53) setwindow pcb
+\i (03:03:53) zoom in 11263.15 5322.87
+\i (03:03:53) trapsize 2997
+\i (03:03:53) zoom in 1 
+\i (03:03:53) setwindow pcb
+\i (03:03:53) zoom in 11263.15 5322.88
+\i (03:03:53) trapsize 1499
+\i (03:03:53) zoom out 1 
+\i (03:03:53) setwindow pcb
+\i (03:03:53) zoom out 11263.16 5322.88
+\i (03:03:53) trapsize 2997
+\i (03:04:02) save 
+\i (03:04:04) fillin yes 
+\t (03:04:04) > Sending response DoneOpenBoard
+\i (03:04:46) zoom out 1 
+\i (03:04:46) setwindow pcb
+\i (03:04:46) zoom out 9476.87 5814.40
+\i (03:04:46) trapsize 5994
+\i (03:04:57) zoom out 1 
+\i (03:04:57) setwindow pcb
+\i (03:04:57) zoom out 8961.38 6725.53
+\i (03:04:57) trapsize 11988
+\i (03:04:58) zoom in 1 
+\i (03:04:58) setwindow pcb
+\i (03:04:58) zoom in 5778.43 6701.55
+\i (03:04:58) trapsize 5994
+\i (03:05:01) zoom in 1 
+\i (03:05:01) setwindow pcb
+\i (03:05:01) zoom in 6833.42 5874.35
+\i (03:05:01) trapsize 2997
+\i (03:05:03) zoom out 1 
+\i (03:05:03) setwindow pcb
+\i (03:05:03) zoom out 6833.42 5868.35
+\i (03:05:03) trapsize 5994
+\i (03:05:08) zoom in 1 
+\i (03:05:08) setwindow pcb
+\i (03:05:08) zoom in 9578.78 4801.39
+\i (03:05:08) trapsize 2997
+\i (03:05:08) zoom in 1 
+\i (03:05:08) setwindow pcb
+\i (03:05:08) zoom in 9578.78 4801.39
+\i (03:05:08) trapsize 1499
+\i (03:05:09) zoom out 1 
+\i (03:05:09) setwindow pcb
+\i (03:05:09) zoom out 9578.78 4801.39
+\i (03:05:09) trapsize 2997
+\i (03:05:09) zoom out 1 
+\i (03:05:09) setwindow pcb
+\i (03:05:09) zoom out 9578.78 4801.40
+\i (03:05:09) trapsize 5994
+\i (03:05:12) delete 
+\i (03:05:23) setwindow form.find
+\i (03:05:23) FORM find symbols YES 
+\i (03:05:27) setwindow pcb
+\i (03:05:27) drag_start grid 10669.73 6311.94
+\i (03:05:31) drag_stop 10358.03 6851.42
+\i (03:05:35) zoom in 1 
+\i (03:05:35) setwindow pcb
+\i (03:05:35) zoom in 10717.68 5244.97
+\i (03:05:35) trapsize 2997
+\i (03:05:37) roam x 96 
+\i (03:05:37) roam x 96
+\i (03:05:37) roam x 96 
+\i (03:05:37) roam x 96
+\i (03:05:38) roam x -96 
+\i (03:05:38) roam x -96
+\i (03:05:38) roam x -96 
+\i (03:05:38) roam x -96
+\i (03:05:41) drag_start grid 10681.71 6281.98
+\i (03:05:49) drag_stop 9051.29 2637.49
+\t (03:05:49) Cannot edit Symbol "Tp50". Module "Cr_Sfp_Without_Cdr_1" has the LOCKED property.
+\i (03:05:51) pick grid 9069.27 2655.47
+\t (03:05:51) last pick:  9069.00 2655.00
+\i (03:05:55) setwindow form.find
+\i (03:05:55) FORM find vias YES 
+\i (03:05:57) setwindow pcb
+\i (03:05:57) drag_start grid 9063.27 4963.25
+\i (03:05:59) drag_stop 10471.92 2649.47
+\i (03:06:00) pick grid 10465.92 2685.44
+\t (03:06:00) last pick:  10466.00 2685.00
+\i (03:06:02) drag_start grid 10393.99 4759.44
+\i (03:06:03) drag_stop 10585.81 2715.41
+\i (03:06:04) pick grid 10561.83 2739.39
+\t (03:06:04) last pick:  10562.00 2739.00
+\i (03:06:04) zoom in 1 
+\i (03:06:04) setwindow pcb
+\i (03:06:04) zoom in 10603.79 2829.30
+\i (03:06:04) trapsize 1499
+\i (03:06:04) zoom in 1 
+\i (03:06:04) setwindow pcb
+\i (03:06:04) zoom in 10603.79 2829.30
+\i (03:06:04) trapsize 749
+\i (03:06:05) zoom out 1 
+\i (03:06:05) setwindow pcb
+\i (03:06:05) zoom out 10605.29 2829.30
+\i (03:06:05) trapsize 1499
+\i (03:06:07) drag_start grid 10539.35 4255.93
+\i (03:06:09) drag_stop 10674.22 3476.68
+\t (03:06:09) Cannot edit Symbol "Tp50". Module "Cr_Sfp_Without_Cdr_1" has the LOCKED property.
+\i (03:06:10) pick grid 10674.22 3476.68
+\t (03:06:10) last pick:  10674.00 3477.00
+\i (03:06:12) pick grid 10713.18 4136.04
+\t (03:06:12) last pick:  10713.00 4136.00
+\t (03:06:12) Via "Vcc3v3, 21Via10, (10717.00 4132.00)"
+\i (03:06:13) pick grid 10713.18 3911.26
+\t (03:06:13) last pick:  10713.00 3911.00
+\t (03:06:13) Via "Vcc3v3, 21Via10, (10714.00 3919.00)"
+\i (03:06:14) pick grid 10710.19 3677.48
+\t (03:06:14) last pick:  10710.00 3677.00
+\t (03:06:14) Vertical Line Segment "Gnd_Power, Etch/Top"
+\i (03:06:14) pick grid dbl 10710.19 3677.48
+\t (03:06:14) last pick:  10710.00 3677.00
+\t (03:06:14) Vertical Line Segment "Fmc.Scl2, Etch/Sig"
+\i (03:06:17) drag_start grid 10548.34 3494.66
+\i (03:06:20) drag_stop 10773.13 2718.41
+\i (03:06:21) pick grid 10272.61 3275.87
+\t (03:06:21) last pick:  10273.00 3276.00
+\i (03:06:23) roam y -96 
+\i (03:06:23) roam y -96
+\i (03:06:24) roam y -96 
+\i (03:06:24) roam y -96
+\i (03:06:24) roam y -96 
+\i (03:06:24) roam y -96
+\i (03:06:24) roam y -96 
+\i (03:06:24) roam y -96
+\i (03:06:24) roam y -96 
+\i (03:06:24) roam y -96
+\i (03:06:24) roam y -96 
+\i (03:06:24) roam y -96
+\i (03:06:25) roam y -96 
+\i (03:06:25) roam y -96
+\i (03:06:25) roam x -96 
+\i (03:06:25) roam x -96
+\i (03:06:25) roam x -96 
+\i (03:06:25) roam x -96
+\i (03:06:25) roam x -96 
+\i (03:06:25) roam x -96
+\i (03:06:25) roam x -96 
+\i (03:06:25) roam x -96
+\i (03:06:26) roam x -96 
+\i (03:06:26) roam x -96
+\i (03:06:26) roam y 96 
+\i (03:06:26) roam y 96
+\i (03:06:26) roam y 96 
+\i (03:06:26) roam y 96
+\i (03:06:26) roam y 96 
+\i (03:06:26) roam y 96
+\i (03:06:27) roam y 96 
+\i (03:06:27) roam y 96
+\i (03:06:29) pick grid 9051.28 3311.81
+\t (03:06:29) last pick:  9051.00 3312.00
+\t (03:06:29) Via "N141568_Sfp Interface_Sfp3, 21Via10, (9048.00 3314.00)"
+\i (03:06:29) pick grid dbl 9051.28 3311.81
+\t (03:06:29) last pick:  9051.00 3312.00
+\i (03:06:31) zoom out 1 
+\i (03:06:31) setwindow pcb
+\i (03:06:31) zoom out 9006.32 3569.56
+\i (03:06:31) trapsize 2997
+\i (03:06:32) roam y 96 
+\i (03:06:32) roam y 96
+\i (03:06:33) roam y 96 
+\i (03:06:33) roam y 96
+\i (03:06:37) drag_start grid 8676.64 6257.97
+\i (03:06:43) drag_stop 6177.05 2745.35
+\i (03:06:45) pick grid 6968.28 3866.27
+\t (03:06:45) last pick:  6968.00 3866.00
+\i (03:06:46) drag_start grid 8305.00 4399.76
+\i (03:06:47) drag_stop 8994.33 2757.34
+\i (03:06:48) pick grid 8994.33 2823.28
+\t (03:06:48) last pick:  8994.00 2823.00
+\i (03:06:50) pick grid 6260.96 2739.36
+\t (03:06:50) last pick:  6261.00 2739.00
+\t (03:06:50) Via "Gnd_Power, 21Via10, (6257.00 2730.00)"
+\i (03:06:51) pick grid dbl 6272.95 2739.36
+\t (03:06:51) last pick:  6273.00 2739.00
+\i (03:06:53) zoom out 1 
+\i (03:06:53) setwindow pcb
+\i (03:06:53) zoom out 8203.09 3596.53
+\i (03:06:53) trapsize 5994
+\i (03:06:54) roam x 96 
+\i (03:06:54) roam x 96
+\i (03:06:55) roam x 96 
+\i (03:06:55) roam x 96
+\i (03:06:55) roam x 96 
+\i (03:06:55) roam x 96
+\i (03:06:55) roam x 96 
+\i (03:06:55) roam x 96
+\i (03:06:55) roam x 96 
+\i (03:06:55) roam x 96
+\i (03:06:55) roam y -96 
+\i (03:06:55) roam y -96
+\i (03:06:57) prepopup 13487.01 5322.88
+\i (03:06:57) done 
+\i (03:06:58) roam y -96 
+\i (03:06:58) roam y -96
+\i (03:06:58) roam y -96 
+\i (03:06:58) roam y -96
+\i (03:06:58) roam y -96 
+\i (03:06:58) roam y -96
+\i (03:06:58) roam y -96 
+\i (03:06:58) roam y -96
+\i (03:06:59) roam x -96 
+\i (03:06:59) roam x -96
+\i (03:06:59) roam x -96 
+\i (03:06:59) roam x -96
+\i (03:07:00) roam y 96 
+\i (03:07:00) roam y 96
+\i (03:07:03) roam y 96 
+\i (03:07:03) roam y 96
+\i (03:07:03) roam y 96 
+\i (03:07:03) roam y 96
+\i (03:07:03) roam y 96 
+\i (03:07:03) roam y 96
+\i (03:07:03) roam y 96 
+\i (03:07:03) roam y 96
+\i (03:07:04) zoom out 1 
+\i (03:07:04) setwindow pcb
+\i (03:07:04) zoom out 9710.65 4603.57
+\i (03:07:04) trapsize 11988
+\i (03:07:05) zoom out 1 
+\i (03:07:05) setwindow pcb
+\i (03:07:05) zoom out 6593.65 4339.82
+\i (03:07:05) trapsize 23977
+\i (03:07:06) zoom in 1 
+\i (03:07:06) setwindow pcb
+\i (03:07:06) zoom in -4627.54 -839.19
+\i (03:07:06) trapsize 11988
+\i (03:07:09) roam y -96 
+\i (03:07:09) roam y -96
+\i (03:07:09) roam y -96 
+\i (03:07:09) roam y -96
+\i (03:07:09) roam y -96 
+\i (03:07:09) roam y -96
+\i (03:07:09) roam y -96 
+\i (03:07:09) roam y -96
+\i (03:07:10) roam x 96 
+\i (03:07:10) roam x 96
+\i (03:07:10) roam x 96 
+\i (03:07:10) roam x 96
+\i (03:07:10) roam x 96 
+\i (03:07:10) roam x 96
+\i (03:07:10) roam x 96 
+\i (03:07:10) roam x 96
+\i (03:07:10) roam x 96 
+\i (03:07:10) roam x 64
+\i (03:07:12) roam y 96 
+\i (03:07:12) roam y 96
+\i (03:07:12) roam y 96 
+\i (03:07:12) roam y 96
+\i (03:07:13) roam y 96 
+\i (03:07:13) roam y 96
+\i (03:07:13) roam y 96 
+\i (03:07:13) roam y 96
+\i (03:07:13) roam y 96 
+\i (03:07:13) roam y 96
+\i (03:07:14) roam y -96 
+\i (03:07:14) roam y -96
+\i (03:07:14) roam x -96 
+\i (03:07:14) roam x -96
+\i (03:07:15) roam x -96 
+\i (03:07:15) roam x -96
+\i (03:07:23) room outline 
+\i (03:07:28) pick grid -1366.68 -2565.53
+\t (03:07:28) last pick:  -1367.00 -2566.00
+\i (03:07:30) pick grid 1510.55 -7672.61
+\t (03:07:30) last pick:  1511.00 -7673.00
+\i (03:07:32) setwindow form.fprmoutline
+\i (03:07:32) FORM fprmoutline done  
+\i (03:07:33) setwindow pcb
+\i (03:07:33) roam y -96 
+\i (03:07:33) roam y -96
+\i (03:07:33) roam y -96 
+\i (03:07:33) roam y -96
+\i (03:07:34) roam y -96 
+\i (03:07:34) roam y -96
+\i (03:07:34) roam x 96 
+\i (03:07:34) roam x 96
+\i (03:07:34) roam x 96 
+\i (03:07:34) roam x 96
+\i (03:07:41) place manual 
+\i (03:07:41) setwindow form.plc_manual
+\i (03:07:41) FORM plc_manual tree  'Components by refdes' 
+\i (03:07:45) FORM plc_manual cancel  
+\i (03:07:47) setwindow pcb
+\i (03:07:47) save 
+\i (03:07:48) fillin yes 
+\t (03:07:49) > Sending response DoneOpenBoard
+\i (03:07:52) quickplace 
+\i (03:07:55) setwindow form.quickplc
+\i (03:07:55) FORM quickplc place_by_room YES 
+\i (03:07:59) FORM quickplc place  
+\i (03:08:12) setwindow pcb
+\i (03:08:12) pick grid 10214.16 14338.19
+\t (03:08:12) last pick:  10214.00 14338.00
+\i (03:08:13) roam x -96 
+\i (03:08:13) roam x -96
+\i (03:08:13) roam x -96 
+\i (03:08:13) roam x -96
+\i (03:08:13) roam x -96 
+\i (03:08:13) roam x -96
+\i (03:08:13) roam x -96 
+\i (03:08:13) roam x -96
+\i (03:08:14) roam y 96 
+\i (03:08:14) roam y 96
+\i (03:08:14) roam y 96 
+\i (03:08:14) roam y 96
+\i (03:08:14) roam y 96 
+\i (03:08:14) roam y 96
+\i (03:08:14) roam y 96 
+\i (03:08:14) roam y 96
+\i (03:08:15) roam x 96 
+\i (03:08:15) roam x 96
+\i (03:08:15) roam x 96 
+\i (03:08:15) roam x 96
+\i (03:08:18) zoom in 1 
+\i (03:08:18) setwindow pcb
+\i (03:08:18) zoom in 671.36 -3045.07
+\i (03:08:18) trapsize 5994
+\i (03:08:18) zoom in 1 
+\i (03:08:18) setwindow pcb
+\i (03:08:18) zoom in 455.57 -3117.00
+\i (03:08:18) trapsize 2997
+\i (03:08:19) zoom in 1 
+\i (03:08:19) setwindow pcb
+\i (03:08:19) zoom in 449.58 -3117.00
+\i (03:08:19) trapsize 1499
+\i (03:08:20) zoom out 1 
+\i (03:08:20) setwindow pcb
+\i (03:08:20) zoom out 455.57 -3066.05
+\i (03:08:20) trapsize 2997
+\i (03:08:22) roam y 96 
+\i (03:08:22) roam y 96
+\i (03:08:22) roam y 96 
+\i (03:08:22) roam y 96
+\i (03:08:22) roam y 96 
+\i (03:08:22) roam y 96
+\i (03:08:22) roam y 96 
+\i (03:08:22) roam y 96
+\i (03:08:23) roam y -96 
+\i (03:08:23) roam y -96
+\i (03:08:23) roam y -96 
+\i (03:08:23) roam y -96
+\i (03:08:24) roam y -96 
+\i (03:08:24) roam y -96
+\i (03:08:24) roam y -96 
+\i (03:08:24) roam y -96
+\i (03:08:24) roam y -96 
+\i (03:08:24) roam y -96
+\i (03:08:24) roam y -96 
+\i (03:08:24) roam y -96
+\i (03:08:24) roam y -96 
+\i (03:08:24) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:25) roam y -96 
+\i (03:08:25) roam y -96
+\i (03:08:26) roam y -96 
+\i (03:08:26) roam y -96
+\i (03:08:26) roam y -96 
+\i (03:08:26) roam y -96
+\i (03:08:26) roam y -96 
+\i (03:08:26) roam y -96
+\i (03:08:26) roam y -96 
+\i (03:08:26) roam y -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:27) roam x -96 
+\i (03:08:27) roam x -96
+\i (03:08:29) roam x 96 
+\i (03:08:29) roam x 96
+\i (03:08:29) roam x 96 
+\i (03:08:29) roam x 96
+\i (03:08:29) roam x 96 
+\i (03:08:29) roam x 96
+\i (03:08:29) roam x 96 
+\i (03:08:29) roam x 96
+\i (03:08:29) roam x 96 
+\i (03:08:29) roam x 96
+\i (03:08:29) roam x 96 
+\i (03:08:29) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam x 96
+\i (03:08:30) roam x 96 
+\i (03:08:30) roam 

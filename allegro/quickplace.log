@@ -4,8 +4,246 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv37.brd                    )
 (    Software Version : 17.4S033                                      )
-(    Date/Time        : Fri Sep 22 11:46:01 2023                      )
+(    Date/Time        : Fri Sep 22 15:15:43 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+State: Placing on layer TOP
+
+         Placed symbol:  J21 / CON20P_SFP-1367073-1_TE_2227023 / TE_2227023-1 at (-7201.30 12295.65)
+         Placed symbol:  U42 / NB7V52M_2_PQFN50P300X300X100-17 / PQFN50P300X300X100-17N-S145 at (-6822.56 12552.54)
+         Placed symbol:  U44 / SN74LVC1G32_4_SOT23-5_SN74LVC1G / SOT23-5 at (-6658.10 12563.87)
+         Placed symbol:  R226 / R_RES0402_6.81K / RES0402 at (-6527.32 12602.81)
+         Placed symbol:  R227 / R_RES0402_6.81K / RES0402 at (-6444.97 12602.81)
+         Placed symbol:  R228 / R_RES0402_3.83K / RES0402 at (-6362.62 12602.81)
+         Placed symbol:  R231 / R_RES0402_3.83K / RES0402 at (-6280.27 12602.81)
+         Placed symbol:  C254 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-6176.05 12597.81)
+         Placed symbol:  C249 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (-6031.57 12587.97)
+         Placed symbol:  C252 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (-5875.28 12587.97)
+         Placed symbol:  C247 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-5730.80 12597.81)
+         Placed symbol:  C248 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-5598.13 12597.81)
+         Placed symbol:  C250 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-5465.46 12597.81)
+         Placed symbol:  C253 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-5332.79 12597.81)
+         Placed symbol:  C251 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-5200.12 12597.81)
+         Placed symbol:  C256 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (-5087.40 12602.81)
+         Placed symbol:  D37 / LED_LEDC1608X80N_RED / LEDC1608X80N at (-4979.71 12595.84)
+         Placed symbol:  D36 / LED_GREEN0603 / LEDC1608X80N at (-8825.31 11925.77)
+         Placed symbol:  L17 / IND_CAP1210_4.7 UH / CAP1210 at (-8637.62 11875.30)
+         Placed symbol:  L18 / IND_CAP1210_4.7 UH / CAP1210 at (-8390.99 11875.30)
+         Placed symbol:  R229 / R_RES0402_4.7K / RES0402 at (-8223.21 11932.74)
+         Placed symbol:  R232 / R_RES0402_4.7K / RES0402 at (-8140.86 11932.74)
+         Placed symbol:  R234 / R_RES0402_4.7K / RES0402 at (-8058.51 11932.74)
+         Placed symbol:  R230 / R_RES0402_4.7K / RES0402 at (-7976.16 11932.74)
+         Placed symbol:  R233 / R_RES0603_4.99K / RES0603 at (-7875.87 11929.71)
+         Placed symbol:  R235 / R_RES0603_4.99K / RES0603 at (-7751.06 11929.71)
+         Placed symbol:  R237 / R_RES0603_200 / RES0603 at (-7626.25 11929.71)
+         Placed symbol:  R238 / R_RES0603_200 / RES0603 at (-7501.44 11929.71)
+         Placed symbol:  R236 / R_RES0402_100 / RES0402 at (-7394.57 11932.74)
+         Placed symbol:  R224 / R_RES0603_49.9 OHM / RES0603 at (-7294.28 11929.71)
+         Placed symbol:  R225 / R_RES0603_49.9 OHM / RES0603 at (-7169.47 11929.71)
+         Placed symbol:  C255 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (-7060.68 11932.74)
+         Placed symbol:  TP61 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (-6944.55 11896.24)
+         Placed symbol:  TP72 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (-6807.36 11896.24)
+         Placed symbol:  TP55 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (-6670.17 11896.24)
+
+
+Placed 35 of 35 applicable (207 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  J20 / CON20P_SFP-1367073-1_TE_2227023 / TE_2227023-1 at (-2742.30 12343.65)
+         Placed symbol:  U38 / NB7V52M_2_PQFN50P300X300X100-17 / PQFN50P300X300X100-17N-S145 at (-2363.56 12600.54)
+         Placed symbol:  U40 / SN74LVC1G32_4_SOT23-5_SN74LVC1G / SOT23-5 at (-2199.10 12611.87)
+         Placed symbol:  R205 / R_RES0402_6.81K / RES0402 at (-2068.32 12650.81)
+         Placed symbol:  R206 / R_RES0402_6.81K / RES0402 at (-1985.97 12650.81)
+         Placed symbol:  R207 / R_RES0402_3.83K / RES0402 at (-1903.62 12650.81)
+         Placed symbol:  R210 / R_RES0402_3.83K / RES0402 at (-1821.27 12650.81)
+         Placed symbol:  C231 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-1717.05 12645.81)
+         Placed symbol:  C226 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (-1572.57 12635.97)
+         Placed symbol:  C229 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (-1416.28 12635.97)
+         Placed symbol:  C224 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-1271.80 12645.81)
+         Placed symbol:  C225 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-1139.13 12645.81)
+         Placed symbol:  C228 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-1006.46 12645.81)
+         Placed symbol:  C230 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-873.79 12645.81)
+         Placed symbol:  C227 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-741.12 12645.81)
+         Placed symbol:  D33 / LED_LEDC1608X80N_RED / LEDC1608X80N at (-610.41 12643.84)
+         Placed symbol:  D32 / LED_GREEN0603 / LEDC1608X80N at (-4366.31 11973.77)
+         Placed symbol:  L15 / IND_CAP1210_4.7 UH / CAP1210 at (-4178.62 11923.30)
+         Placed symbol:  L16 / IND_CAP1210_4.7 UH / CAP1210 at (-3931.99 11923.30)
+         Placed symbol:  R208 / R_RES0402_4.7K / RES0402 at (-3764.21 11980.74)
+         Placed symbol:  R209 / R_RES0402_4.7K / RES0402 at (-3681.86 11980.74)
+         Placed symbol:  R211 / R_RES0402_4.7K / RES0402 at (-3599.51 11980.74)
+         Placed symbol:  R213 / R_RES0402_4.7K / RES0402 at (-3517.16 11980.74)
+         Placed symbol:  R212 / R_RES0603_4.99K / RES0603 at (-3416.87 11977.71)
+         Placed symbol:  R214 / R_RES0603_4.99K / RES0603 at (-3292.06 11977.71)
+         Placed symbol:  R216 / R_RES0603_200 / RES0603 at (-3167.25 11977.71)
+         Placed symbol:  R217 / R_RES0603_200 / RES0603 at (-3042.44 11977.71)
+         Placed symbol:  R215 / R_RES0402_100 / RES0402 at (-2935.57 11980.74)
+         Placed symbol:  R203 / R_RES0603_49.9 OHM / RES0603 at (-2835.28 11977.71)
+         Placed symbol:  R204 / R_RES0603_49.9 OHM / RES0603 at (-2710.47 11977.71)
+         Placed symbol:  C232 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (-2601.68 11980.74)
+         Placed symbol:  C233 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (-2511.98 11980.74)
+         Placed symbol:  TP60 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (-2395.85 11944.24)
+         Placed symbol:  TP70 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (-2258.66 11944.24)
+         Placed symbol:  TP54 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (-2121.47 11944.24)
+
+
+Placed 35 of 35 applicable (207 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  J19 / CON20P_SFP-1367073-1_TE_2227023 / TE_2227023-1 at (1717.70 12367.65)
+         Placed symbol:  U34 / NB7V52M_2_PQFN50P300X300X100-17 / PQFN50P300X300X100-17N-S145 at (2096.44 12624.54)
+         Placed symbol:  U36 / SN74LVC1G32_4_SOT23-5_SN74LVC1G / SOT23-5 at (2260.90 12635.87)
+         Placed symbol:  R184 / R_RES0402_6.81K / RES0402 at (2391.68 12674.81)
+         Placed symbol:  R185 / R_RES0402_6.81K / RES0402 at (2474.03 12674.81)
+         Placed symbol:  R186 / R_RES0402_3.83K / RES0402 at (2556.38 12674.81)
+         Placed symbol:  R189 / R_RES0402_3.83K / RES0402 at (2638.73 12674.81)
+         Placed symbol:  C208 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (2742.95 12669.81)
+         Placed symbol:  C203 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (2887.43 12659.97)
+         Placed symbol:  C206 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (3043.72 12659.97)
+         Placed symbol:  C201 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (3188.20 12669.81)
+         Placed symbol:  C202 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (3320.87 12669.81)
+         Placed symbol:  C205 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (3453.54 12669.81)
+         Placed symbol:  C204 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (3586.21 12669.81)
+         Placed symbol:  C207 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (3718.88 12669.81)
+         Placed symbol:  C209 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (3831.60 12674.81)
+         Placed symbol:  C210 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (3921.30 12674.81)
+         Placed symbol:  D29 / LED_LEDC1608X80N_RED / LEDC1608X80N at (4028.99 12667.84)
+         Placed symbol:  D28 / LED_GREEN0603 / LEDC1608X80N at (93.69 11997.77)
+         Placed symbol:  L13 / IND_CAP1210_4.7 UH / CAP1210 at (281.38 11947.30)
+         Placed symbol:  L14 / IND_CAP1210_4.7 UH / CAP1210 at (528.01 11947.30)
+         Placed symbol:  R187 / R_RES0402_4.7K / RES0402 at (695.79 12004.74)
+         Placed symbol:  R188 / R_RES0402_4.7K / RES0402 at (778.14 12004.74)
+         Placed symbol:  R190 / R_RES0402_4.7K / RES0402 at (860.49 12004.74)
+         Placed symbol:  R192 / R_RES0402_4.7K / RES0402 at (942.84 12004.74)
+         Placed symbol:  R191 / R_RES0603_4.99K / RES0603 at (1043.13 12001.71)
+         Placed symbol:  R193 / R_RES0603_4.99K / RES0603 at (1167.94 12001.71)
+         Placed symbol:  R195 / R_RES0603_200 / RES0603 at (1292.75 12001.71)
+         Placed symbol:  R196 / R_RES0603_200 / RES0603 at (1417.56 12001.71)
+         Placed symbol:  R194 / R_RES0402_100 / RES0402 at (1524.43 12004.74)
+         Placed symbol:  R182 / R_RES0603_49.9 OHM / RES0603 at (1624.72 12001.71)
+         Placed symbol:  R183 / R_RES0603_49.9 OHM / RES0603 at (1749.53 12001.71)
+         Placed symbol:  TP68 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (1884.75 11968.24)
+         Placed symbol:  TP59 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (2021.94 11968.24)
+         Placed symbol:  TP53 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (2159.13 11968.24)
+
+
+Placed 35 of 35 applicable (207 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  J18 / CON20P_SFP-1367073-1_TE_2227023 / TE_2227023-1 at (6177.70 12295.65)
+         Placed symbol:  U30 / NB7V52M_2_PQFN50P300X300X100-17 / PQFN50P300X300X100-17N-S145 at (6556.44 12552.54)
+         Placed symbol:  U32 / SN74LVC1G32_4_SOT23-5_SN74LVC1G / SOT23-5 at (6720.90 12563.87)
+         Placed symbol:  R163 / R_RES0402_6.81K / RES0402 at (6851.68 12602.81)
+         Placed symbol:  R164 / R_RES0402_6.81K / RES0402 at (6934.03 12602.81)
+         Placed symbol:  R165 / R_RES0402_3.83K / RES0402 at (7016.38 12602.81)
+         Placed symbol:  R168 / R_RES0402_3.83K / RES0402 at (7098.73 12602.81)
+         Placed symbol:  C185 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (7202.95 12597.81)
+         Placed symbol:  C180 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (7347.43 12587.97)
+         Placed symbol:  C183 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (7503.72 12587.97)
+         Placed symbol:  C178 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (7648.20 12597.81)
+         Placed symbol:  C179 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (7780.87 12597.81)
+         Placed symbol:  C182 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (7913.54 12597.81)
+         Placed symbol:  C181 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (8046.21 12597.81)
+         Placed symbol:  C184 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (4555.65 11927.74)
+         Placed symbol:  C186 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (4668.37 11932.74)
+         Placed symbol:  C187 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (4758.07 11932.74)
+         Placed symbol:  D25 / LED_LEDC1608X80N_RED / LEDC1608X80N at (4865.76 11925.77)
+         Placed symbol:  D24 / LED_GREEN0603 / LEDC1608X80N at (4994.51 11925.77)
+         Placed symbol:  L11 / IND_CAP1210_4.7 UH / CAP1210 at (5182.20 11875.30)
+         Placed symbol:  L12 / IND_CAP1210_4.7 UH / CAP1210 at (5428.83 11875.30)
+         Placed symbol:  R166 / R_RES0402_4.7K / RES0402 at (5596.61 11932.74)
+         Placed symbol:  R167 / R_RES0402_4.7K / RES0402 at (5678.96 11932.74)
+         Placed symbol:  R169 / R_RES0402_4.7K / RES0402 at (5761.31 11932.74)
+         Placed symbol:  R171 / R_RES0402_4.7K / RES0402 at (5843.66 11932.74)
+         Placed symbol:  R170 / R_RES0603_4.99K / RES0603 at (5943.95 11929.71)
+         Placed symbol:  R172 / R_RES0603_4.99K / RES0603 at (6068.76 11929.71)
+         Placed symbol:  R174 / R_RES0603_200 / RES0603 at (6193.57 11929.71)
+         Placed symbol:  R175 / R_RES0603_200 / RES0603 at (6318.38 11929.71)
+         Placed symbol:  R173 / R_RES0402_100 / RES0402 at (6425.25 11932.74)
+         Placed symbol:  R161 / R_RES0603_49.9 OHM / RES0603 at (6525.54 11929.71)
+         Placed symbol:  R162 / R_RES0603_49.9 OHM / RES0603 at (6650.35 11929.71)
+         Placed symbol:  TP66 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (6785.57 11896.24)
+         Placed symbol:  TP58 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (6922.76 11896.24)
+         Placed symbol:  TP52 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (7059.95 11896.24)
+
+
+Placed 35 of 35 applicable (207 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  J14 / CON20P_SFP-1367073-1_TE_2227023 / TE_2227023-1 at (10205.70 12271.65)
+         Placed symbol:  U26 / NB7V52M_2_PQFN50P300X300X100-17 / PQFN50P300X300X100-17N-S145 at (10584.44 12528.54)
+         Placed symbol:  U28 / SN74LVC1G32_4_SOT23-5_SN74LVC1G / SOT23-5 at (10748.90 12539.87)
+         Placed symbol:  R147 / R_RES0402_3.83K / RES0402 at (10879.68 12578.81)
+         Placed symbol:  R144 / R_RES0402_3.83K / RES0402 at (10962.03 12578.81)
+         Placed symbol:  R143 / R_RES0402_6.81K / RES0402 at (11044.38 12578.81)
+         Placed symbol:  C162 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (11148.60 12573.81)
+         Placed symbol:  C157 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (11293.08 12563.97)
+         Placed symbol:  C160 / CAP_NP_CAP0805_DISCRETE_22UF_ / CAP0805 at (11449.37 12563.97)
+         Placed symbol:  C155 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (11593.85 12573.81)
+         Placed symbol:  C156 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (8583.65 11903.74)
+         Placed symbol:  C159 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (8716.32 11903.74)
+         Placed symbol:  C158 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (8848.99 11903.74)
+         Placed symbol:  C161 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (8981.66 11903.74)
+         Placed symbol:  C163 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (9094.38 11908.74)
+         Placed symbol:  C164 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 at (9184.08 11908.74)
+         Placed symbol:  R142 / R_RES0402_6.81K / RES0402 at (9271.86 11908.74)
+         Placed symbol:  D20 / LED_GREEN0603 / LEDC1608X80N at (9374.12 11901.77)
+         Placed symbol:  L10 / IND_CAP1210_4.7 UH / CAP1210 at (9561.81 11851.30)
+         Placed symbol:  L9 / IND_CAP1210_4.7 UH / CAP1210 at (9808.44 11851.30)
+         Placed symbol:  R145 / R_RES0402_4.7K / RES0402 at (9976.22 11908.74)
+         Placed symbol:  R146 / R_RES0402_4.7K / RES0402 at (10058.57 11908.74)
+         Placed symbol:  R148 / R_RES0402_4.7K / RES0402 at (10140.92 11908.74)
+         Placed symbol:  R150 / R_RES0402_4.7K / RES0402 at (10223.27 11908.74)
+         Placed symbol:  R149 / R_RES0603_4.99K / RES0603 at (10323.56 11905.71)
+         Placed symbol:  R151 / R_RES0603_4.99K / RES0603 at (10448.37 11905.71)
+         Placed symbol:  R153 / R_RES0603_200 / RES0603 at (10573.18 11905.71)
+         Placed symbol:  R154 / R_RES0603_200 / RES0603 at (10697.99 11905.71)
+         Placed symbol:  R152 / R_RES0402_100 / RES0402 at (10804.86 11908.74)
+         Placed symbol:  R140 / R_RES0603_49.9 OHM / RES0603 at (10905.15 11905.71)
+         Placed symbol:  R141 / R_RES0603_49.9 OHM / RES0603 at (11029.96 11905.71)
+         Placed symbol:  D21 / LED_LEDC1608X80N_RED / LEDC1608X80N at (11156.74 11901.77)
+         Placed symbol:  TP64 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (11293.93 11872.24)
+         Placed symbol:  TP57 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (11431.12 11872.24)
+         Placed symbol:  TP51 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (11568.31 11872.24)
+
+
+Placed 35 of 35 applicable (207 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  C2749 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-1295.35 -2604.19)
+         Placed symbol:  C2744 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-1162.68 -2604.19)
+         Placed symbol:  C2745 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-1030.01 -2604.19)
+         Placed symbol:  C2746 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-897.34 -2604.19)
+         Placed symbol:  C2747 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-764.67 -2604.19)
+         Placed symbol:  C2748 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-632.00 -2604.19)
+         Placed symbol:  C2743 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (-499.33 -2604.19)
+         Placed symbol:  C2750 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-366.66 -2604.19)
+         Placed symbol:  C2740 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-233.99 -2604.19)
+         Placed symbol:  C2741 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (-101.32 -2604.19)
+         Placed symbol:  C2742 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (31.35 -2604.19)
+         Placed symbol:  C2739 / CAP_NP_CAP0603_DISCRETE_0.1UF_ / CAP0603 at (164.02 -2604.19)
+         Placed symbol:  R2690 / R_RES0603_200 / RES0603 at (292.76 -2602.22)
+         Placed symbol:  R2691 / R_RES0603_200 / RES0603 at (417.57 -2602.22)
+         Placed symbol:  R2689 / R_RES0402_100 / RES0402 at (524.44 -2599.19)
+
+
+Placed 15 of 15 applicable (207 total) symbols.
+
+-----------------------------------------------------------------------
 
