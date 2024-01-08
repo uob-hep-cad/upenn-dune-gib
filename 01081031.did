@@ -1,0 +1,11 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v17-4-0 made 2020/07/15 at 12:48:59
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : \\ppfs6.physics.ox.ac.uk\CEG\Central Electronics\Projects\Hastingsp\DUNE\upenn-dune-gib\GPS_INTERFACE_BOARD.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : \\ppfs6.physics.ox.ac.uk\CEG\Central Electronics\Projects\Hastingsp\DUNE\upenn-dune-gib\monitor.sts
+select_product  Allegro Package Designer L
