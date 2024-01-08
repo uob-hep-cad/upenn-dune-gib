@@ -1,6 +1,6 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[09/22/23]")
+  (SoftwareVersion "17.4-2019 S011 (3890763)  [9/18/2020]-[09/22/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -398,6 +398,11 @@
       (Type "Board File")
       (OutputBoard ".\allegro\sfp_with_cdr.mdd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_boardv36_ph.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_boardv36_ph.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
@@ -528,7 +533,7 @@
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "phdgc")
+  (MPSSessionName "hastingsp")
   (GlobalState
     (FileView
       (Path "Design Resources")
