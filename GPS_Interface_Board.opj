@@ -558,30 +558,44 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\gps_interface_board.dsn")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "GIB Top")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "03. SFP Interface")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "06. Utilities")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "SFP Block")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "Storage")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
+         "03. SFP Interface")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
+         "04. Power")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
+         "06. Utilities")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
+         "09. ACLK SFP")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
+         "10. SFP Block")
+      (Path "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
+         "11. SFP Fan-in")
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\gps_interface_board.dsn" "GIB Top"
-         "01. Address Table"))
+      (Select "Design Resources"
+         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 0 200 0 880"))
+        (Placement "44 0 1 -1 -1 0 0 0 519 0 880"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-634 33")
-        (Zoom "108")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
+        (Scroll "-642 -4")
+        (Zoom "86")
         (Occurrence "/SFP Interface"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "03. SFP Interface")
@@ -589,28 +603,28 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
+        (Scroll "-536 0")
         (Zoom "100")
         (Occurrence "/SFP Interface/Fanout"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "SFP Fanout")
+      (Schematic "12. SFP Fanout")
       (Page "Signal Fanout"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-634 33")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
+        (Scroll "-475 33")
         (Zoom "108")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "ACLK SFP")
+      (Schematic "09. ACLK SFP")
       (Page "ACLK SFP"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-634 33")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
+        (Scroll "-475 33")
         (Zoom "108")
         (Occurrence "/Power"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -619,194 +633,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
+        (Scroll "-536 0")
         (Zoom "100")
         (Occurrence "/Utilities"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "06. Utilities")
-      (Page "13. Spare I/O BNC/LEMO"))
+      (Page "15. Spare I/O BNC/LEMO"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/PM3_FMC"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "05. FMC Connector")
-      (Page "10. FMC Connector"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
+        (Scroll "-536 0")
         (Zoom "100")
         (Occurrence "/GPS Interface"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "01. GPS Interface")
-      (Page "03. GPS Interface"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/Utilities"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "06. Utilities")
-      (Page "11. Utilities"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-787 0")
-        (Zoom "88")
-        (Occurrence "/Clock Generation"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "02. Clock Generation")
-      (Page "04. Clock Generation"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/Power"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "04. Power")
-      (Page "08. Power VCC3V3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/SFP1"))
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/SFP2"))
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/SFP3"))
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/SFP4"))
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/SFP5"))
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/SFP6"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "SFP Block")
-      (Page "SFP"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/Utilities"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "06. Utilities")
-      (Page "12. Level Translators"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/Utilities"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "06. Utilities")
-      (Page "14. Spare I/O RJ45"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/Power"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "04. Power")
-      (Page "09. Power VCC2V5"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/Power"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "04. Power")
-      (Page "07. Power VCC5V"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "FMC Connector v3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "Top Level"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "top_level_v1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "Storage")
-      (Page "CDR Addr. Extender"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/Fan-In and Monitor"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "SFP Fan-in")
-      (Page "Fan-In and I2C Extender"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2948 24 898")
-        (Scroll "-695 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "GIB Top")
-      (Page "01. Address Table")))
+      (Page "03. GPS Interface")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
