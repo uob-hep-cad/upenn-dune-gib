@@ -1,6 +1,6 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 P001 (4147275)  [9/30/2023]-[08/29/24]")
+  (SoftwareVersion "17.4-2019 S011 (3890763)  [9/18/2020]-[09/02/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -554,102 +554,71 @@
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "phdgc")
+  (MPSSessionName "hastingsp")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "03. SFP Interface")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "04. Power")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "06. Utilities")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "09. ACLK SFP")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "10. SFP Block")
-      (Path "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "11. SFP Fan-in")
+      (Path "Design Resources" ".\gps_interface_board.dsn")
+      (Path "Design Resources" ".\gps_interface_board.dsn" "00. GIB Top")
+      (Path "Design Resources" ".\gps_interface_board.dsn" "03. SFP Interface")
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"))
-    (HierarchyView)
+      (Select "Layout"
+         ".\allegro\gps_interface_boardv40_quickplaced_downreved.brd"))
+    (HierarchyView
+      (Path "00. GIB Top")
+      (Select "00. GIB Top" "CLOCK GENERATION (02. CLOCK GENERATION)"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 0 519 0 880"))
+        (Placement "44 0 1 -1 -1 0 0 0 200 0 1107"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
-        (Scroll "-642 -4")
-        (Zoom "86")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2314 24 1125")
+        (Scroll "-317 -10")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "00. GIB Top")
+      (Page "01. Address Table"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2314 24 1125")
+        (Scroll "-317 -10")
+        (Zoom "108")
         (Occurrence "/SFP Interface"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "03. SFP Interface")
       (Page "05. SFP Interface"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
-        (Scroll "-536 0")
-        (Zoom "100")
-        (Occurrence "/SFP Interface/Fanout"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "12. SFP Fanout")
-      (Page "Signal Fanout"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
-        (Scroll "-475 33")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2314 24 1125")
+        (Scroll "-317 -10")
         (Zoom "108")
         (Occurrence "/SFP Interface/ACLK SFP"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "09. ACLK SFP")
       (Page "ACLK SFP"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
-        (Scroll "-475 33")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2314 24 1125")
+        (Scroll "-317 -10")
         (Zoom "108")
         (Occurrence "/Power"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
-      (Page "06. Power 12V Main"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
-        (Scroll "-536 0")
-        (Zoom "100")
-        (Occurrence "/Utilities"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "06. Utilities")
-      (Page "15. Spare I/O BNC/LEMO"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2629 24 898")
-        (Scroll "-536 0")
-        (Zoom "100")
-        (Occurrence "/GPS Interface"))
-      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "01. GPS Interface")
-      (Page "03. GPS Interface")))
+      (Page "06. Power 12V Main")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -662,10 +631,12 @@
   (Folder "Logs"
     (File ".\allegro\netlist.log"
       (Type "Log File")
-      (LogFile "c:\users\phdgc\downloads\upenn-dune-gib\allegro\netlist.log"))
+      (LogFile
+         "\\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\allegro\netlist.log"))
     (File ".\allegro\genfeed.log"
       (Type "Log File")
-      (LogFile "c:\users\phdgc\downloads\upenn-dune-gib\allegro\genfeed.log"))
+      (LogFile
+         "\\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\allegro\genfeed.log"))
     (File ".\allegro\netrev.lst"
       (Type "Log File")
       (LogFile "c:\users\phdgc\downloads\upenn-dune-gib\allegro\netrev.lst"))

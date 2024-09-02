@@ -1,1 +1,1 @@
-gps_interface_boardv40_quickplaced_downreved.brd
+gps_interface_boardv41.brd
