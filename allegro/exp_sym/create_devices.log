@@ -1,0 +1,113 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : gps_interface_boardv41ph.brd                  )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Thu Sep  5 09:51:09 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/fuse_cap1206_075a.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/74avc2t45_dct_sop50p310x90-8n_s.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ufl-r-smt_10__uflrsmt10_ufl-r.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/172448-0004_172448-yy04_172448-.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/con160p_11_samtec_asp-134606-01.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/recept10x2100mil_recept_10x2.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/osc_6p_en_diffout_3_oscsc254p50.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_1k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/sy58608umg_qfn50p300x300x90-17n.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/sit5021ai-2de-25e-50_000000_qfn.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/tps74618pqwdrbrq1_son65p300x300.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_dnp.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap1206_discrete_22uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_143k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_280kohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ltm8029iy_pbf_bga35c127p5x8_625.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_390kohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_499.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_zero.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/3pin-22-23-2031_22-23-2031_0022.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/gib_mount_holes_0_fxg_m2-7_gib_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/pca9539_tssop_2_sop65p640x110-2.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/tps3895a_dry6_tps3895adryr.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/con20p_sfp-1367073-1_te_2227023.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/bnc_te_1-1634612-0_te_1-1634612.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/drtr5v0u4s_sot363_drtr5v0u4s-7.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_47uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/lm75aimx_0_soic8_lm75aimxnopb.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/24aa025e48_soic_1_soic127p600x1.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_47k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_976k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_20k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_499k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/txb0104qpwrq1_sop65p640x120-14n.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/txb0106ipwrq1_sop65p640x120-16n.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/tca9548apwr_tssop_24_tca9548apw.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0402_discrete_47uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_1uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0805_discrete_01uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0805_discrete_10uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_047uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap1206_discrete_47uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/hdr1x2_hdr1x2_hdr1x2.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/6-2301994-2_te_6-2301994-2_6-23.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/4x2_recpt_100mil.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/bss138_sot95p230x110-3n_bss138k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_133.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_75ohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_681k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_383k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ltc2945cud_qfn12_ltc2945cud.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/tps7a8500rgrt_qfn20_3p65mmsq_tp.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0402_discrete_001uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_10uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_1000pf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0805_discrete_22uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_01uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0402_discrete_047uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0402_discrete_01uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0805_discrete_47uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_50pf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap0603_discrete_001uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/cap_np_cap1210_discrete_100uf_.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/led_ledc1608x80n_red.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/led_green0603.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/fuse_cap1206_4a.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/490-11112-1-nd_fil_dlw5btm501sq.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/si5395_qfn_1_qfn50p900x900x90-6.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ind_cap0805_120ohm100mhz.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ind_cap1210_47uh.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ind_we-lhmi_8040_33uh.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_249ohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_68.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_47k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_499k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_200.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_0.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_1k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_100.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0402_100.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_499ohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_1m.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_178k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0805_0005.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_121k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_232k.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0805_00055.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0805_002.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_0ohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0603_dnp.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/r_res0805_75ohm.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/testpoint_tp_keystone_5000a_500.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/ltc6957-2_3_dfn_12_ltc6957idd-2.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/nb7v52m_2_pqfn50p300x300x100-17.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/adn2814acpz_1_qfn50p500x500x100.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/sn74lvc1g32_4_sot23-5_sn74lvc1g.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/max9371_2_sot-23-8_max9371eka.txt': written successfully.
+Device file '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/lt8645_conv_t8645siv_lt8645sjv-.txt': written successfully.
+
+  Created device files: 98
+

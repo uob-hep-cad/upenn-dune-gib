@@ -1,0 +1,50 @@
+\t (00:49:03) allegro 17.4 S011 Windows SPB 64-bit Edition
+\t (00:49:03)     Journal start - Thu Sep  5 10:12:26 2024
+\t (00:49:03)         Host=ELWE4 User=hastingsp Pid=16344 CPUs=32
+\t (00:49:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession hastingsp -proj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.opj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\allegro\gps_interface_boardv40_quickplaced_downreved.brd
+\t (00:49:03) 
+\d (00:49:03) Design opened: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/TE_6-2301994-2.dra
+\i (00:49:03) trapsize 2984
+\i (00:49:07) zoom in 1 
+\i (00:49:07) setwindow pcb
+\i (00:49:07) zoom in -2.2142 -9.8667
+\i (00:49:07) trapsize 1492
+\i (00:49:14) text edit 
+\i (00:49:15) pick grid -3.1093 -4.9734
+\t (00:49:15) last pick:  -2.5400 -5.0800
+\i (00:49:19) setwindow pcb
+\i (00:49:19) pick -3.1093 -4.9734
+\t (00:49:19) Pick text to edit.
+\i (00:49:20) pick grid 11.9584 -5.1525
+\t (00:49:20) last pick:  12.7000 -5.0800
+\i (00:49:22) setwindow pcb
+\i (00:49:22) pick 11.9584 -5.1525
+\t (00:49:22) Pick text to edit.
+\i (00:49:23) setwindow pcb
+\i (00:49:23) pick grid 14.4945 -5.6299
+\t (00:49:23) last pick:  15.2400 -5.0800
+\i (00:49:25) setwindow pcb
+\i (00:49:25) pick 14.4945 -5.6299
+\t (00:49:25) Pick text to edit.
+\i (00:49:26) setwindow pcb
+\i (00:49:26) zoom out 1 
+\i (00:49:26) setwindow pcb
+\i (00:49:26) zoom out 16.0460 -7.1515
+\i (00:49:26) trapsize 2984
+\i (00:49:26) zoom in 1 
+\i (00:49:26) setwindow pcb
+\i (00:49:26) zoom in 16.0460 -6.1968
+\i (00:49:26) trapsize 1492
+\i (00:49:27) prepopup 17.0605 -6.2266
+\i (00:49:27) done 
+\i (00:49:28) save 
+\i (00:49:30) fillin yes 
+\t (00:49:31) Symbol 'te_6-2301994-2.psm' created.
+\i (00:49:41) opencd '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv41ph.brd' 
+\t (00:49:41) Opening existing design...
+\i (00:49:41) trapsize 4069
+\i (00:49:41) trapsize 4138
+\i (00:49:41) trapsize 4069
+\i (00:49:41) trapsize 4286
+\t (00:49:41) > Sending response DoneOpenBoard
+\t (00:49:41)     Journal end - Thu Sep  5 10:13:04 2024

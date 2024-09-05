@@ -1,0 +1,79 @@
+\t (00:39:50) allegro 17.4 S011 Windows SPB 64-bit Edition
+\t (00:39:50)     Journal start - Thu Sep  5 10:03:12 2024
+\t (00:39:50)         Host=ELWE4 User=hastingsp Pid=16344 CPUs=32
+\t (00:39:50) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession hastingsp -proj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.opj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\allegro\gps_interface_boardv40_quickplaced_downreved.brd
+\t (00:39:50) 
+\d (00:39:50) Design opened: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/allegro/623019942.dra
+\i (00:39:50) trapsize 22053
+\i (00:39:52) zoom in 1 
+\i (00:39:52) setwindow pcb
+\i (00:39:52) zoom in -9.5822 3.6496
+\i (00:39:52) trapsize 11027
+\i (00:39:52) zoom in 1 
+\i (00:39:52) setwindow pcb
+\i (00:39:52) zoom in -44.8672 0.1211
+\i (00:39:52) trapsize 5513
+\i (00:39:52) zoom in 1 
+\i (00:39:52) setwindow pcb
+\i (00:39:52) zoom in -43.7646 -0.2096
+\i (00:39:52) trapsize 2757
+\i (00:39:53) zoom out 1 
+\i (00:39:53) setwindow pcb
+\i (00:39:53) zoom out -2.9663 10.1002
+\i (00:39:53) trapsize 5513
+\i (00:39:53) roam start
+\i (00:39:53) roam y 16
+\i (00:39:53) roam x 16
+\i (00:39:53) roam y 16
+\i (00:39:53) roam x 48
+\i (00:39:53) roam y 80
+\i (00:39:53) roam x 48
+\i (00:39:53) roam y 64
+\i (00:39:53) roam x 64
+\i (00:39:53) roam y 112
+\i (00:39:53) roam x 16
+\i (00:39:53) roam y 16
+\i (00:39:53) roam y 48
+\i (00:39:53) roam y 16
+\i (00:39:53) roam end
+\i (00:39:54) zoom in 1 
+\i (00:39:54) setwindow pcb
+\i (00:39:54) zoom in 6.7371 -6.8256
+\i (00:39:54) trapsize 2757
+\i (00:39:55) roam start
+\i (00:39:55) roam x -32
+\i (00:39:55) roam y -80
+\i (00:39:55) roam x -32
+\i (00:39:55) roam y -16
+\i (00:39:55) roam x -80
+\i (00:39:55) roam y -64
+\i (00:39:55) roam y -16
+\i (00:39:55) roam end
+\i (00:39:56) zoom in 1 
+\i (00:39:56) setwindow pcb
+\i (00:39:56) zoom in 10.3758 -11.2914
+\i (00:39:56) trapsize 1378
+\i (00:39:57) zoom out 1 
+\i (00:39:57) setwindow pcb
+\i (00:39:57) zoom out 11.3131 -12.4491
+\i (00:39:57) trapsize 2757
+\i (00:40:00) save_as 
+\i (00:40:20) fillin "//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/TE_6-2301994-2.dra"
+\i (00:40:20) cd "//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym"
+\t (00:40:21) Symbol 'te_6-2301994-2.psm' created.
+\i (00:40:26) dlib 
+\i (00:40:30) setwindow form.dlib
+\i (00:40:30) FORM dlib execute  
+\t (00:40:30) Starting Cadence export libraries...
+\i (00:40:33) FORM dlib cancel  
+\i (00:40:35) setwindow pcb
+\i (00:40:35) open 
+\i (00:40:41) fillin "//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv41ph.brd"
+\i (00:40:41) cd "//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro"
+\t (00:40:41) Opening existing design...
+\i (00:40:42) trapsize 3667
+\i (00:40:42) trapsize 3730
+\i (00:40:42) trapsize 3667
+\i (00:40:42) trapsize 3863
+\t (00:40:42) > Sending response DoneOpenBoard
+\t (00:40:42)     Journal end - Thu Sep  5 10:04:04 2024
