@@ -648,7 +648,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2913 24 1125")
-        (Scroll "-343 20")
+        (Scroll "-343 166")
         (Zoom "144")
         (Occurrence "/SFP Interface/SFP5"))
       (Frame

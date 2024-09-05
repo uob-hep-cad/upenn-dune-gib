@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv41ph.brd                  )
 (    Software Version : 17.4S011                                      )
-(    Date/Time        : Thu Sep  5 10:00:53 2024                      )
+(    Date/Time        : Thu Sep  5 10:21:43 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,10 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  382
+ ..... Total number of DRC errors  488
+
+
+WARNING: 7 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

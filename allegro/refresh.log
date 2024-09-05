@@ -1,9 +1,9 @@
-Thu Sep  5 10:00:51 2024				Page     1
+Thu Sep  5 10:21:41 2024				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Sep  5 10:00:51 2024
+	Thu Sep  5 10:21:41 2024
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : gps_interface_boardv41ph.brd                  )
 (    Software Version : 17.4S011                                      )
-(    Date/Time        : Thu Sep  5 10:00:52 2024                      )
+(    Date/Time        : Thu Sep  5 10:21:42 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Sep  5 10:00:52 2024				Page     1
+Thu Sep  5 10:21:42 2024				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -43,7 +43,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaalq16344.tmp'
+Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaabc05580.tmp'
 
 
 ------ Library Paths ------
@@ -58,9 +58,9 @@ PSMPATH =  //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/m
 
 PADPATH =  . 
            .. 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
            //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
            //ppfs6.physics.ox.ac.uk/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/pads 
-           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
            Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/130nm Double Sided Tape Designs Jan 2018/footprints/ 
            Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/pads/ 
            //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
@@ -68,13 +68,16 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'SON65P300X300X100-9N-D'  symbol refreshed successfully.
+'TE_6-2301994-2'  symbol refreshed successfully.
 
 
 ------ Pad Stack Refresh Messages ------
 
-'D80_35'  pad stack refreshed successfully.
-'R250_175'  pad stack refreshed successfully.
+'S140_H90'  pad stack refreshed successfully.
+'C180_H120'  pad stack refreshed successfully.
+'C240_H160'  pad stack refreshed successfully.
+'C162_5_H325'  pad stack refreshed successfully.
+'C140_H90'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----

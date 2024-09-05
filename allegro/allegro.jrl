@@ -1,314 +1,161 @@
-\t (00:49:41) allegro 17.4 S011 Windows SPB 64-bit Edition
-\t (00:49:41)     Journal start - Thu Sep  5 10:13:04 2024
-\t (00:49:41)         Host=ELWE4 User=hastingsp Pid=16344 CPUs=32
-\t (00:49:41) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession hastingsp -proj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.opj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\allegro\gps_interface_boardv40_quickplaced_downreved.brd
-\t (00:49:41) 
-\d (00:49:41) Design opened: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv41ph.brd
-\i (00:49:42) trapsize 3853
-\i (00:49:42) trapsize 3889
-\i (00:49:45) place manual 
-\i (00:49:45) setwindow form.plc_manual
-\i (00:49:45) FORM plc_manual tree  'Components by refdes' 
-\i (00:49:48) FORM plc_manual tree  J17 'Components by refdes' 
-\i (00:49:48) FORM plc_manual tree 'MULTISEL YES' J17 'Components by refdes' 
-\w (00:49:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:49:48) Placing J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2 on Top.
-\i (00:49:50) setwindow pcb
-\i (00:49:50) pick grid 14002.10 2403.17
-\t (00:49:50) last pick:  14002.00 2403.00
-\i (00:49:51) zoom in 1 
-\i (00:49:51) setwindow pcb
-\i (00:49:51) zoom in 14748.80 2107.60
-\i (00:49:51) trapsize 1945
-\i (00:49:51) zoom in 1 
-\i (00:49:51) setwindow pcb
-\i (00:49:51) zoom in 14721.57 2076.50
-\i (00:49:51) trapsize 972
-\i (00:49:51) zoom in 1 
-\i (00:49:51) setwindow pcb
-\i (00:49:51) zoom in 14719.63 2057.05
-\i (00:49:51) trapsize 486
-\i (00:49:52) prepopup 14720.60 2074.56
-\i (00:49:52) done 
-\i (00:49:53) zoom out 1 
-\i (00:49:53) setwindow pcb
-\i (00:49:53) zoom out 14648.65 1986.08
-\i (00:49:53) trapsize 972
-\i (00:49:53) zoom out 1 
-\i (00:49:53) setwindow pcb
-\i (00:49:53) zoom out 14644.77 1974.41
-\i (00:49:53) trapsize 1945
-\i (00:49:53) zoom out 1 
-\i (00:49:53) setwindow pcb
-\i (00:49:53) zoom out 14644.77 1970.53
-\i (00:49:53) trapsize 3889
-\i (00:49:57) show element 
-\i (00:49:58) pick grid 14061.43 2094.98
-\t (00:49:58) last pick:  14061.00 2095.00
-\i (00:50:20) setwindow text
-\i (00:50:20) close
-\i (00:50:22) save 
-\i (00:50:24) fillin yes 
-\t (00:50:25) > Sending response DoneOpenBoard
-\i (00:50:27) zoom out 1 
-\i (00:50:27) setwindow pcb
-\i (00:50:27) zoom out 4331.07 3020.57
-\i (00:50:27) trapsize 7778
-\i (00:50:31) zoom in 1 
-\i (00:50:31) setwindow pcb
-\i (00:50:31) zoom in 12096.12 189.35
-\i (00:50:31) trapsize 3889
-\i (00:50:31) zoom in 1 
-\i (00:50:31) setwindow pcb
-\i (00:50:31) zoom in 11626.97 166.02
-\i (00:50:31) trapsize 1945
-\i (00:50:39) move 
-\t (00:50:39) Select element(s) to move.
-\i (00:50:40) pick grid 14403.73 2040.53
-\t (00:50:40) last pick:  14404.00 2041.00
-\t (00:50:40) last pick:  14002.00 2403.00
-\t (00:50:40) Moving J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2.
-\t (00:50:40) Pick new location for the element(s).
-\i (00:50:41) zoom in 1 
-\i (00:50:41) setwindow pcb
-\i (00:50:41) zoom in 9806.90 407.14
-\i (00:50:41) trapsize 972
-\i (00:50:42) zoom in 1 
-\i (00:50:42) setwindow pcb
-\i (00:50:42) zoom in 9645.51 519.93
-\i (00:50:42) trapsize 486
-\i (00:50:46) zoom out 1 
-\i (00:50:46) setwindow pcb
-\i (00:50:46) zoom out 9650.37 720.22
-\i (00:50:46) trapsize 972
-\i (00:50:47) zoom out 1 
-\i (00:50:47) setwindow pcb
-\i (00:50:47) zoom out 9650.37 720.22
-\i (00:50:47) trapsize 1945
-\i (00:50:48) pick grid 9627.03 -147.04
-\t (00:50:48) last pick:  9627.00 -147.00
-\i (00:50:48) prepopup 10941.52 140.75
-\i (00:50:49) done 
-\i (00:50:49) zoom in 1 
-\i (00:50:49) setwindow pcb
-\i (00:50:49) zoom in 9732.04 94.08
-\i (00:50:49) trapsize 972
-\i (00:50:52) show measure 
-\i (00:50:52) zoom in 1 
-\i (00:50:52) setwindow pcb
-\i (00:50:52) zoom in 9831.21 869.94
-\i (00:50:52) trapsize 486
-\i (00:50:52) zoom in 1 
-\i (00:50:52) setwindow pcb
-\i (00:50:52) zoom in 9839.96 838.83
-\i (00:50:52) trapsize 243
-\i (00:50:52) zoom in 1 
-\i (00:50:52) setwindow pcb
-\i (00:50:52) zoom in 9839.47 811.13
-\i (00:50:52) trapsize 122
-\i (00:50:54) pick grid 9849.44 729.95
-\t (00:50:54) last pick:  9849.00 730.00
-\i (00:50:55) zoom out 1 
-\i (00:50:55) setwindow pcb
-\i (00:50:55) zoom out 9902.43 697.38
-\i (00:50:55) trapsize 243
-\i (00:50:55) zoom out 1 
-\i (00:50:55) setwindow pcb
-\i (00:50:55) zoom out 9893.19 690.56
-\i (00:50:55) trapsize 486
-\i (00:50:55) zoom out 1 
-\i (00:50:55) setwindow pcb
-\i (00:50:55) zoom out 9869.86 675.98
-\i (00:50:55) trapsize 972
-\i (00:50:56) zoom out 1 
-\i (00:50:56) setwindow pcb
-\i (00:50:56) zoom out 9813.47 617.65
-\i (00:50:56) trapsize 1945
-\i (00:50:56) zoom in 1 
-\i (00:50:56) setwindow pcb
-\i (00:50:56) zoom in 9871.79 -339.05
-\i (00:50:56) trapsize 972
-\i (00:50:58) pick grid 9817.35 -140.71
-\t (00:50:58) last pick:  9817.00 -141.00
-\i (00:51:00) prepopup 9914.57 656.55
-\i (00:51:01) done 
-\i (00:51:02) move 
-\t (00:51:02) Select element(s) to move.
-\i (00:51:04) pick grid 9883.46 -249.60
-\t (00:51:04) last pick:  9883.00 -250.00
-\t (00:51:04) last pick:  9627.00 -147.00
-\t (00:51:04) Moving J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2.
-\t (00:51:04) Pick new location for the element(s).
-\i (00:51:06) ipick 22 
-\t (00:51:06) last pick:  9649.00 -147.00
-\i (00:51:07) prepopup 10039.02 324.03
-\i (00:51:08) done 
-\i (00:51:11) show measure 
-\i (00:51:17) zoom in 1 
-\i (00:51:17) setwindow pcb
-\i (00:51:17) zoom in 9852.35 759.61
-\i (00:51:17) trapsize 486
-\i (00:51:17) zoom in 1 
-\i (00:51:17) setwindow pcb
-\i (00:51:17) zoom in 9852.35 759.61
-\i (00:51:17) trapsize 243
-\i (00:51:18) pick grid 9850.41 727.53
-\t (00:51:18) last pick:  9850.00 728.00
-\i (00:51:19) zoom out 1 
-\i (00:51:19) setwindow pcb
-\i (00:51:19) zoom out 9916.53 595.79
-\i (00:51:19) trapsize 486
-\i (00:51:19) zoom out 1 
-\i (00:51:19) setwindow pcb
-\i (00:51:19) zoom out 9904.86 588.98
-\i (00:51:19) trapsize 972
-\i (00:51:19) roam start
-\i (00:51:19) roam x 48
-\i (00:51:19) roam y 288
-\i (00:51:19) roam y 16
-\i (00:51:19) roam y 16
-\i (00:51:19) roam y 16
-\i (00:51:19) roam end
-\i (00:51:20) zoom in 1 
-\i (00:51:20) setwindow pcb
-\i (00:51:20) zoom in 9922.34 -165.88
-\i (00:51:20) trapsize 486
-\i (00:51:21) zoom out 1 
-\i (00:51:21) setwindow pcb
-\i (00:51:21) zoom out 9924.28 -126.99
-\i (00:51:21) trapsize 972
-\i (00:51:22) zoom in 1 
-\i (00:51:22) setwindow pcb
-\i (00:51:22) zoom in 9908.73 -181.43
-\i (00:51:22) trapsize 486
-\i (00:51:23) pick grid 9865.95 -134.76
-\t (00:51:23) last pick:  9866.00 -135.00
-\i (00:51:24) prepopup 10395.84 -86.15
-\i (00:51:26) done 
-\i (00:51:26) zoom out 1 
-\i (00:51:26) setwindow pcb
-\i (00:51:26) zoom out 9782.34 53.86
-\i (00:51:26) trapsize 972
-\i (00:51:28) move 
-\t (00:51:28) Select element(s) to move.
-\i (00:51:28) pick grid 10151.80 -490.61
-\t (00:51:28) last pick:  10152.00 -491.00
-\t (00:51:28) last pick:  9649.00 -147.00
-\t (00:51:28) Moving J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2.
-\t (00:51:28) Pick new location for the element(s).
-\i (00:51:32) ipick 0 874.95 
-\t (00:51:32) last pick:  9649.00 727.95
-\i (00:51:34) prepopup 10223.75 -119.21
-\i (00:51:34) done 
-\i (00:51:35) zoom out 1 
-\i (00:51:35) setwindow pcb
-\i (00:51:35) zoom out 9591.78 380.54
-\i (00:51:35) trapsize 1945
-\i (00:51:38) roam start
-\i (00:51:38) roam x 48
-\i (00:51:38) roam y -64
-\i (00:51:38) roam x 64
-\i (00:51:38) roam y -80
-\i (00:51:38) roam x 32
-\i (00:51:38) roam y -16
-\i (00:51:38) roam x 16
-\i (00:51:38) roam y -16
-\i (00:51:38) roam x 48
-\i (00:51:38) roam y -48
-\i (00:51:38) roam x 80
-\i (00:51:38) roam y -80
-\i (00:51:38) roam x 112
-\i (00:51:38) roam y -96
-\i (00:51:38) roam x 48
-\i (00:51:38) roam y -64
-\i (00:51:38) roam end
-\i (00:51:39) zoom in 1 
-\i (00:51:39) setwindow pcb
-\i (00:51:39) zoom in 9961.25 526.39
-\i (00:51:39) trapsize 972
-\i (00:51:39) zoom in 1 
-\i (00:51:39) setwindow pcb
-\i (00:51:39) zoom in 9961.25 526.40
-\i (00:51:39) trapsize 486
-\i (00:51:41) zoom out 1 
-\i (00:51:41) setwindow pcb
-\i (00:51:41) zoom out 9922.36 539.04
-\i (00:51:41) trapsize 972
-\i (00:51:41) zoom out 1 
-\i (00:51:41) setwindow pcb
-\i (00:51:41) zoom out 9922.36 539.05
-\i (00:51:41) trapsize 1945
-\i (00:51:46) save 
-\i (00:51:47) fillin yes 
-\t (00:51:48) > Sending response DoneOpenBoard
-\i (00:51:50) zoom in 1 
-\i (00:51:50) setwindow pcb
-\i (00:51:50) zoom in 10054.59 270.70
-\i (00:51:50) trapsize 972
-\i (00:51:50) zoom in 1 
-\i (00:51:50) setwindow pcb
-\i (00:51:50) zoom in 10054.59 270.70
-\i (00:51:50) trapsize 486
-\i (00:51:50) zoom in 1 
-\i (00:51:50) setwindow pcb
-\i (00:51:50) zoom in 10054.59 270.71
-\i (00:51:50) trapsize 243
-\i (00:51:53) zoom out 1 
-\i (00:51:53) setwindow pcb
-\i (00:51:53) zoom out 10089.11 273.14
-\i (00:51:53) trapsize 486
-\i (00:51:53) zoom out 1 
-\i (00:51:53) setwindow pcb
-\i (00:51:53) zoom out 10089.11 273.14
-\i (00:51:53) trapsize 972
-\i (00:51:54) zoom out 1 
-\i (00:51:54) setwindow pcb
-\i (00:51:54) zoom out 10172.72 529.81
-\i (00:51:54) trapsize 1945
-\i (00:51:57) copy 
-\t (00:51:57) Select the element(s) to copy.
-\i (00:51:58) pick grid 10141.61 1008.17
-\t (00:51:58) last pick:  10142.00 1008.00
-\t (00:51:58) last pick:  9962.00 986.00
-\i (00:51:58) paste 
-\i (00:51:59) pick grid 9678.81 -154.66
-\t (00:51:59) last pick:  9679.00 -155.00
-\i (00:51:59) prepopup 10009.38 -170.21
-\i (00:52:00) done 
-\i (00:52:04) text edit 
-\i (00:52:05) pick grid 9861.59 -146.88
-\t (00:52:05) last pick:  9862.00 -147.00
-\e (00:52:12) ERROR(SPMHUT-163): It is not legal to use a '!' in text.
-\i (00:52:13) setwindow pcb
-\i (00:52:13) zoom in 1 
-\i (00:52:13) setwindow pcb
-\i (00:52:13) zoom in 10627.74 -6.87
-\i (00:52:13) trapsize 972
-\i (00:52:16) pick grid 9894.65 -142.99
-\t (00:52:16) last pick:  9895.00 -143.00
-\i (00:52:24) setwindow pcb
-\i (00:52:24) pick 9894.65 -142.99
-\t (00:52:24) Pick text to edit.
-\i (00:52:28) move 
-\t (00:52:28) Select element(s) to move.
-\i (00:52:28) pick grid 10021.05 -158.54
-\t (00:52:28) last pick:  10021.00 -159.00
-\t (00:52:28) last pick:  9679.00 -155.00
-\t (00:52:28) Pick new location for the element(s).
-\i (00:52:30) pick grid 9573.81 -106.04
-\t (00:52:30) last pick:  9574.00 -106.00
-\i (00:52:31) prepopup 10516.90 -121.60
-\i (00:52:32) done 
-\i (00:52:32) zoom out 1 
-\i (00:52:32) setwindow pcb
-\i (00:52:32) zoom out 10505.24 -86.60
-\i (00:52:32) trapsize 1945
-\i (00:52:33) zoom out 1 
-\i (00:52:33) setwindow pcb
-\i (00:52:33) zoom out 10376.89 -102.15
-\i (00:52:33) trapsize 3889
-\i (00:52:36) save 
-\i (00:52:37) fillin yes 
-\t (00:52:38) > Sending response DoneOpenBoard
-\i (00:52:44) exit 
-\t (00:52:48)     Journal end - Thu Sep  5 10:16:10 2024
+\t (00:00:01) allegro 17.4 S011 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Sep  5 10:19:27 2024
+\t (00:00:01)         Host=ELWE4 User=hastingsp Pid=5580 CPUs=32
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession hastingsp -proj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.opj \\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\allegro\gps_interface_boardv40_quickplaced_downreved.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv40_quickplaced_downreved"
+\d (00:00:04) Design opened: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv40_quickplaced_downreved.brd
+\i (00:00:04) trapsize 21284
+\i (00:00:04) trapsize 22587
+\i (00:00:04) trapsize 21284
+\i (00:00:05) trapsize 15656
+\i (00:00:05) trapsize 16077
+\i (00:00:05) trapsize 20941
+\t (00:00:05) > Sending response DoneOpenBoard
+\i (00:00:05) trapsize 7339
+\i (00:00:09) open 
+\e (00:00:09) Do you want to save the changes you made to gps_interface_boardv40_quickplaced_downreved.brd?
+\i (00:00:11) fillin menu_cancel 
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 10359.61 76.36
+\i (00:00:12) trapsize 3669
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 10337.60 76.36
+\i (00:00:12) trapsize 1835
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 10337.60 -44.72
+\i (00:00:12) trapsize 917
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 10001.85 -242.86
+\i (00:00:14) trapsize 459
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 10064.23 -230.02
+\i (00:00:15) trapsize 917
+\i (00:00:26) dlib 
+\i (00:00:28) setwindow form.dlib
+\i (00:00:28) FORM dlib browse_export  
+\i (00:00:34) fillin "New Folder"
+\i (00:00:36) FORM dlib none  
+\i (00:00:37) FORM dlib package YES 
+\i (00:00:37) FORM dlib pad YES 
+\i (00:00:39) FORM dlib execute  
+\t (00:00:39) Starting Cadence export libraries...
+\i (00:01:54) setwindow pcb
+\i (00:01:54) open 
+\e (00:01:54) Do you want to save the changes you made to gps_interface_boardv40_quickplaced_downreved.brd?
+\i (00:01:56) fillin no 
+\i (00:01:58) fillin "gps_interface_boardv41ph.brd"
+\t (00:01:58) Opening existing design...
+\i (00:01:59) trapsize 3889
+\t (00:01:59) > Sending response DoneOpenBoard
+\d (00:01:59) Design opened: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv41ph.brd
+\i (00:02:03) refresh symbol 
+\i (00:02:05) setwindow form.upd_element
+\i (00:02:05) FORM upd_element tree  'Package symbols' 
+\i (00:02:08) FORM upd_element tree  TE_6-2301994-2 'Package symbols' 
+\i (00:02:09) FORM upd_element tree 'MULTISEL YES' TE_6-2301994-2 'Package symbols' 
+\i (00:02:11) FORM upd_element padstacks YES 
+\i (00:02:15) FORM upd_element refresh  
+\t (00:02:15) Starting Refresh Symbol...
+\t (00:02:18) Opening existing design...
+\i (00:02:19) setwindow pcb
+\i (00:02:19) trapsize 3889
+\t (00:02:20) Updating dynamic shape (1 of 7) Vcc5v, Boundary/Pwr2 @ (5820.00 5941.00) ...
+\t (00:02:20) Updating dynamic shape (2 of 7) 12V_Fans, Boundary/Pwr2 @ (60.00 5192.00) ...
+\t (00:02:20) Updating dynamic shape (3 of 7) Gnd_Power, Boundary/Gnd2 @ (11926.00 78.00) ...
+\t (00:02:20) Updating dynamic shape (4 of 7) Vcc3v3, Boundary/Pwr1 @ (1792.00 3486.00) ...
+\t (00:02:20) Updating dynamic shape (5 of 7) Vcc2v5, Boundary/Pwr2 @ (1270.00 5086.00) ...
+\t (00:02:20) Updating dynamic shape (6 of 7) Gnd_Power, Boundary/Gnd1 @ (73.00 5924.00) ...
+\t (00:02:20) Updating dynamic shape (7 of 7) Gnd_Power, Boundary/Gnd3 @ (78.74 5924.00) ...
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in 10242.41 302.31
+\i (00:02:20) trapsize 1945
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 10242.41 302.31
+\i (00:02:21) trapsize 972
+\i (00:02:23) setwindow form.upd_element
+\i (00:02:23) FORM upd_element close  
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 10152.97 529.82
+\i (00:02:26) trapsize 1945
+\i (00:02:30) delete 
+\i (00:02:31) drag_start grid 9678.49 -45.76
+\i (00:02:31) drag_stop 10028.51 -216.88
+\i (00:02:31) pick grid 10028.51 -216.88
+\t (00:02:31) last pick:  10029.00 -217.00
+\i (00:02:33) setwindow form.find
+\i (00:02:33) FORM find text YES 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) drag_start grid 10121.84 -271.33
+\i (00:02:35) drag_stop 9752.38 -18.54
+\t (00:02:35) Text "Check This Footprint"
+\i (00:02:35) pick grid 9752.38 -18.54
+\t (00:02:35) last pick:  9752.00 -19.00
+\i (00:02:37) move 
+\t (00:02:37) Select element(s) to move.
+\i (00:02:38) pick grid 9872.94 763.16
+\t (00:02:38) last pick:  9873.00 763.00
+\t (00:02:38) last pick:  9649.00 727.95
+\t (00:02:38) Moving J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2.
+\t (00:02:38) Pick new location for the element(s).
+\i (00:02:40) pick grid 9884.61 -461.89
+\t (00:02:40) last pick:  9885.00 -462.00
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in 9884.61 -131.32
+\i (00:02:41) trapsize 972
+\i (00:02:44) show measure 
+\i (00:02:46) pick grid 9756.27 732.05
+\t (00:02:46) last pick:  9756.00 732.00
+\i (00:02:47) pick grid 9752.39 -111.87
+\t (00:02:47) last pick:  9752.00 -112.00
+\i (00:02:50) move 
+\t (00:02:50) Select element(s) to move.
+\i (00:02:51) pick grid 9795.16 -185.77
+\t (00:02:51) last pick:  9795.00 -186.00
+\t (00:02:51) last pick:  9885.00 -462.00
+\t (00:02:51) Moving J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2.
+\t (00:02:51) Pick new location for the element(s).
+\i (00:02:56) ipick -11 iy 0 
+\t (00:02:56) last pick:  9874.00 -462.00
+\i (00:02:58) show measure 
+\i (00:02:59) pick grid 9771.83 712.61
+\t (00:02:59) last pick:  9772.00 713.00
+\i (00:03:01) pick grid 9752.39 732.05
+\t (00:03:01) last pick:  9752.00 732.00
+\i (00:03:02) pick grid 9754.33 -109.93
+\t (00:03:02) last pick:  9754.00 -110.00
+\i (00:03:04) move 
+\t (00:03:04) Select element(s) to move.
+\i (00:03:04) move 
+\t (00:03:04) Select element(s) to move.
+\i (00:03:05) pick grid 9929.34 -197.43
+\t (00:03:05) last pick:  9929.00 -197.00
+\t (00:03:05) last pick:  9874.00 -462.00
+\t (00:03:05) Moving J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2.
+\t (00:03:05) Pick new location for the element(s).
+\i (00:03:09) ipick 0 837 
+\t (00:03:09) last pick:  9874.00 375.00
+\i (00:03:10) prepopup 10127.68 597.88
+\i (00:03:11) done 
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 10300.74 -4.93
+\i (00:03:12) trapsize 1945
+\i (00:03:16) save 
+\i (00:03:17) fillin yes 
+\t (00:03:18) > Sending response DoneOpenBoard
+\i (00:03:27) trapsize 5549
+\i (00:03:29) exit 
+\t (00:03:37)     Journal end - Thu Sep  5 10:23:03 2024
