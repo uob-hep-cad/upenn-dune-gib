@@ -424,7 +424,12 @@
       (Type "Board File")
       (OutputBoard ".\allegro\gps_interface_boardv40_quickplaced_downreved.brd")
       (NetListPath ".\allegro")
-      (ActiveBoard "1")))
+      (ActiveBoard "1"))
+    (File ".\allegro\gps_interface_boardv41.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_boardv41.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -558,18 +563,21 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\gps_interface_board.dsn")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "00. GIB Top")
-      (Path "Design Resources" ".\gps_interface_board.dsn" "03. SFP Interface")
+      (Path "Design Resources"
+         "\\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.dsn")
+      (Path "Design Resources"
+         "\\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.dsn"
+         "00. GIB Top")
+      (Path "Design Resources"
+         "\\ppfs6.physics.ox.ac.uk\ceg\central electronics\projects\hastingsp\dune\upenn-dune-gib\gps_interface_board.dsn"
+         "03. SFP Interface")
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
       (Select "Layout"
          ".\allegro\gps_interface_boardv40_quickplaced_downreved.brd"))
-    (HierarchyView
-      (Path "00. GIB Top")
-      (Select "00. GIB Top" "CLOCK GENERATION (02. CLOCK GENERATION)"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
@@ -618,7 +626,29 @@
       (Path
          "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
-      (Page "06. Power 12V Main")))
+      (Page "06. Power 12V Main"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2314 24 1125")
+        (Scroll "-317 -10")
+        (Zoom "108")
+        (Occurrence "/SFP Interface/SFP5"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "10. SFP Block")
+      (Page "SFP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2314 24 1125")
+        (Scroll "-317 -10")
+        (Zoom "108")
+        (Occurrence "/GPS Interface"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "01. GPS Interface")
+      (Page "03. GPS Interface")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
