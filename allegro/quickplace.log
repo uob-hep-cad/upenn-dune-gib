@@ -4,24 +4,23 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv41ph.brd                  )
 (    Software Version : 17.4S011                                      )
-(    Date/Time        : Thu Sep  5 09:50:27 2024                      )
+(    Date/Time        : Thu Sep  5 10:33:06 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 State: Placing on layer TOP
 
-ERROR:   Could not find symbol:  J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-2301994-2
-         Placed symbol:  R1550 / R_RES0402_DNP / RES0402 at (8799.01 -33.19)
-         Placed symbol:  R2640 / R_RES0603_143K / RES0603 at (8899.30 -36.22)
-         Placed symbol:  C88 / CAP_NP_CAP1206_DISCRETE_22UF_ / CAP1206 at (9063.48 -59.84)
-         Placed symbol:  R2650 / R_RES0402_280 KOHM / RES0402 at (9209.72 -33.19)
-         Placed symbol:  F2 / FUSE_CAP1206_0.75A / CAP1206 at (9349.38 -59.84)
+         Placed symbol:  F2 / FUSE_CAP1206_0.75A / CAP1206 at (8856.32 -59.84)
+         Placed symbol:  R1550 / R_RES0402_DNP / RES0402 at (9002.56 -33.19)
+         Placed symbol:  C88 / CAP_NP_CAP1206_DISCRETE_22UF_ / CAP1206 at (9142.22 -59.84)
+         Placed symbol:  R2640 / R_RES0603_143K / RES0603 at (9306.40 -36.22)
+         Placed symbol:  R2650 / R_RES0402_280 KOHM / RES0402 at (9413.27 -33.19)
          Placed symbol:  C3712 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9517.49 -38.19)
-         Placed symbol:  C3714 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9650.16 -38.19)
-         Placed symbol:  C3715 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9782.83 -38.19)
-         Placed symbol:  C87 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9915.50 -38.19)
-         Placed symbol:  C3713 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (10048.17 -38.19)
+         Placed symbol:  C3713 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9650.16 -38.19)
+         Placed symbol:  C3714 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9782.83 -38.19)
+         Placed symbol:  C3715 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (9915.50 -38.19)
+         Placed symbol:  C87 / CAP_NP_CAP0603_DISCRETE_1UF_ / CAP0603 at (10048.17 -38.19)
          Placed symbol:  R142 / R_RES0402_6.81K / RES0402 at (10158.97 -33.19)
          Placed symbol:  R144 / R_RES0402_3.83K / RES0402 at (10241.32 -33.19)
          Placed symbol:  C2727 / CAP_NP_CAP0603_DISCRETE_1000PF_ / CAP0603 at (10345.54 -38.19)
@@ -111,7 +110,7 @@ ERROR:   Could not find symbol:  J17 / 6-2301994-2_TE_6-2301994-2_6-23 / TE_6-23
          Placed symbol:  TP760 / TESTPOINT_TP_KEYSTONE_5000A_500 / TP_KEYSTONE_5000A at (8649.62 -649.25)
 
 
-Placed 97 of 98 applicable (98 total) symbols.
+Placed 97 of 97 applicable (97 total) symbols.
 
 -----------------------------------------------------------------------
 

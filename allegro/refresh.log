@@ -1,9 +1,9 @@
-Thu Sep  5 10:21:41 2024				Page     1
+Fri Sep  6 08:02:00 2024				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Sep  5 10:21:41 2024
+	Fri Sep  6 08:02:00 2024
 
 ------ Module Refresh Messages ------
 
@@ -17,20 +17,20 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : gps_interface_boardv41ph.brd                  )
+(    Drawing          : gps_interface_boardv42ph.brd                  )
 (    Software Version : 17.4S011                                      )
-(    Date/Time        : Thu Sep  5 10:21:42 2024                      )
+(    Date/Time        : Fri Sep  6 08:02:01 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Sep  5 10:21:42 2024				Page     1
+Fri Sep  6 08:02:01 2024				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
 Input design  = '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boa~
-rdv41ph.brd'
+rdv42ph.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -43,7 +43,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaabc05580.tmp'
+Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaaco32704.tmp'
 
 
 ------ Library Paths ------
@@ -68,16 +68,13 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'TE_6-2301994-2'  symbol refreshed successfully.
+'SAMTEC_ASP-134606-01'  symbol refreshed successfully.
 
 
 ------ Pad Stack Refresh Messages ------
 
-'S140_H90'  pad stack refreshed successfully.
-'C180_H120'  pad stack refreshed successfully.
-'C240_H160'  pad stack refreshed successfully.
-'C162_5_H325'  pad stack refreshed successfully.
-'C140_H90'  pad stack refreshed successfully.
+'C100HN130'  pad stack refreshed successfully.
+'C64'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
