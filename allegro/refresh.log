@@ -1,9 +1,9 @@
-Fri Sep  6 08:02:00 2024				Page     1
+Tue Sep 17 07:42:33 2024				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri Sep  6 08:02:00 2024
+	Tue Sep 17 07:42:33 2024
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : gps_interface_boardv42ph.brd                  )
 (    Software Version : 17.4S011                                      )
-(    Date/Time        : Fri Sep  6 08:02:01 2024                      )
+(    Date/Time        : Tue Sep 17 07:42:34 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Sep  6 08:02:01 2024				Page     1
+Tue Sep 17 07:42:34 2024				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -43,7 +43,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaaco32704.tmp'
+Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaacz00532.tmp'
 
 
 ------ Library Paths ------
@@ -68,13 +68,13 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'SAMTEC_ASP-134606-01'  symbol refreshed successfully.
+'QFN50P300X300X90-17N'  symbol refreshed successfully.
 
 
 ------ Pad Stack Refresh Messages ------
 
-'C100HN130'  pad stack refreshed successfully.
-'C64'  pad stack refreshed successfully.
+'R85_25'  pad stack refreshed successfully.
+'S160'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
