@@ -634,13 +634,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 0 381 0 1075"))
+        (Placement "44 0 1 -1 -1 0 0 0 200 0 1075"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2766 24 1093")
-        (Scroll "-566 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
         (Zoom "105")
         (Occurrence "/Utilities"))
       (Path
@@ -650,8 +650,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2766 24 1093")
-        (Scroll "-566 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/Fanout"))
       (Path
@@ -661,8 +661,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2766 24 1093")
-        (Scroll "-566 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
       (Path
@@ -672,8 +672,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2766 24 1093")
-        (Scroll "204 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "67 460")
         (Zoom "210")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path
@@ -683,14 +683,171 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2766 24 1093")
-        (Scroll "-566 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
         (Zoom "105")
         (Occurrence "/Power"))
       (Path
          "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
-      (Page "06. Power 12V Main")))
+      (Page "06. Power 12V Main"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Power"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "08. Power VCC3V3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Power"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "09. Power VCC2V5"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/PM3_FMC"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "05. FMC Connector")
+      (Page "10. FMC Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Power"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "07. Power VCC5V"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Clock Generation"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "02. Clock Generation")
+      (Page "04. Clock Generation"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/GPS Interface"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "01. GPS Interface")
+      (Page "03. GPS Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface/SFP6"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface/SFP3"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface/SFP5"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface/SFP1"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface/SFP2"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface/SFP4"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "10. SFP Block")
+      (Page "SFP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Utilities"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "15. Spare I/O BNC/LEMO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Utilities"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "14. Level Translators"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/Utilities"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "13. Utilities"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "00. GIB Top")
+      (Page "02. Top Level"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
+        (Scroll "-657 -9")
+        (Zoom "105")
+        (Occurrence "/SFP Interface"))
+      (Path
+         "\\PPFS6.PHYSICS.OX.AC.UK\CEG\CENTRAL ELECTRONICS\PROJECTS\HASTINGSP\DUNE\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "03. SFP Interface")
+      (Page "05. SFP Interface")))
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
