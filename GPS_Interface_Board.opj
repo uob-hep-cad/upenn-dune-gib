@@ -454,6 +454,11 @@
       (Type "Board File")
       (OutputBoard ".\allegro\gps_interface_boardv45ph.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_boardv46ph.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_boardv46ph.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
@@ -639,8 +644,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Utilities"))
       (Path
@@ -650,8 +655,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/Fanout"))
       (Path
@@ -661,8 +666,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
       (Path
@@ -672,8 +677,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "67 460")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "876 991")
         (Zoom "210")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path
@@ -683,8 +688,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Power"))
       (Path
@@ -694,8 +699,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Power"))
       (Path
@@ -705,8 +710,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Power"))
       (Path
@@ -716,8 +721,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/PM3_FMC"))
       (Path
@@ -727,8 +732,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Power"))
       (Path
@@ -738,8 +743,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Clock Generation"))
       (Path
@@ -749,8 +754,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/GPS Interface"))
       (Path
@@ -760,33 +765,33 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/SFP6"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/SFP3"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/SFP5"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/SFP1"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/SFP2"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface/SFP4"))
       (Path
@@ -796,8 +801,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Utilities"))
       (Path
@@ -807,8 +812,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Utilities"))
       (Path
@@ -818,8 +823,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/Utilities"))
       (Path
@@ -829,8 +834,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/"))
       (Path
@@ -840,8 +845,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2947 24 1093")
-        (Scroll "-657 -9")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
+        (Scroll "-217 -9")
         (Zoom "105")
         (Occurrence "/SFP Interface"))
       (Path
