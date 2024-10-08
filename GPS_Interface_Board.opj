@@ -459,6 +459,11 @@
       (Type "Board File")
       (OutputBoard ".\allegro\gps_interface_boardv46ph.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_boardv47ph.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_boardv47ph.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
@@ -722,7 +727,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
-        (Scroll "-179 0")
+        (Scroll "-179 20")
         (Zoom "110")
         (Occurrence "/PM3_FMC"))
       (Path
@@ -733,7 +738,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
-        (Scroll "-179 0")
+        (Scroll "-179 20")
         (Zoom "110")
         (Occurrence "/Power"))
       (Path
@@ -744,7 +749,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
-        (Scroll "-179 20")
+        (Scroll "-179 0")
         (Zoom "110")
         (Occurrence "/Clock Generation"))
       (Path
@@ -755,7 +760,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
-        (Scroll "-179 0")
+        (Scroll "-179 20")
         (Zoom "110")
         (Occurrence "/GPS Interface"))
       (Path
@@ -813,7 +818,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
-        (Scroll "-179 0")
+        (Scroll "-179 17")
         (Zoom "110")
         (Occurrence "/Utilities"))
       (Path
@@ -824,7 +829,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 2067 24 1093")
-        (Scroll "-179 0")
+        (Scroll "-179 20")
         (Zoom "110")
         (Occurrence "/Utilities"))
       (Path

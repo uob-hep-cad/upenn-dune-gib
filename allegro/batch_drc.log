@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : gps_interface_boardv46ph.brd                  )
+(    Drawing          : gps_interface_boardv48ph.brd                  )
 (    Software Version : 17.4S011                                      )
-(    Date/Time        : Wed Oct  2 12:31:54 2024                      )
+(    Date/Time        : Tue Oct  8 14:03:02 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  42
+ ..... Total number of DRC errors  32
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
