@@ -1,0 +1,55 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SON65P300X300X100-9N-D.dra                    )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Fri Sep 27 09:39:23 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Sep 27 09:39:23 2024				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/SON65P300~
+X300X100-9N-D.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+INFO: Design is an old-style flash design. Any thermal relief
+	geometries will preserve name but set Geometry to Rectangle. 
+
+
+------ Library Paths ------
+PSMPATH =  //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
+           . 
+           .. 
+           Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/Potting Wirebond Tests/footprints/ 
+           Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/130nm Double Sided Tape Designs Jan 2018/footprints/ 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
+           Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/symbols/ 
+           Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/formats/ 
+
+PADPATH =  . 
+           .. 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
+           //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
+           //ppfs6.physics.ox.ac.uk/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/pads 
+           Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/130nm Double Sided Tape Designs Jan 2018/footprints/ 
+           Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/pads/ 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
+
+
+------ Pad Stack Refresh Messages ------
+
+'D80_35'  pad stack refresh starting.
+
+     'D80_35'  pad stack refreshed successfully.
+     
+'R250_175'  pad stack refresh starting.
+
+     'R250_175'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : gps_interface_boardv40.brd                    )
-(    Software Version : 23.1P001                                      )
-(    Date/Time        : Wed Aug 28 16:22:37 2024                      )
+(    Drawing          : gps_interface_boardv41ph.brd                  )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Thu Sep  5 10:11:31 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -14,105 +14,68 @@
 Ripup etch:                  No
 Ripup delete first segment:  No
 Ripup retain bondwire:       No
-Ripup symbols:               Never
+Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'c:\users\phdgc\downloads\upenn-dune-gib\allegro'
-Design Directory:            'C:/Users/phdgc/Downloads/upenn-dune-gib/allegro'
-Old design name:             'C:/Users/phdgc/Downloads/upenn-dune-gib/allegro/gps_interface_boardv40.brd'
-New design name:             'C:/Users/phdgc/Downloads/upenn-dune-gib/allegro/gps_interface_boardv40.brd'
+Schematic directory:         '.'
+Design Directory:            '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro'
+Old design name:             '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv41ph.brd'
+New design name:             '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv41ph.brd'
 
-CmdLine: netrev -y 3 -i c:\users\phdgc\downloads\upenn-dune-gib\allegro -q netrev_constraint_report.xml C:/Users/phdgc/Downloads/upenn-dune-gib/allegro/#Taaaaai16112.tmp
+CmdLine: netrev -$ -i . -y 1 -h -q netrev_constraint_report.xml //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/#Taaaawo16344.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat (00:00:00.01)
-Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.01)
-Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat (00:00:00.01)
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.12)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.03)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.02)
 
 ------ Oversights/Warnings/Errors ------
 
 
------- Library Paths ------
-MODULEPATH =  . 
-           C:/Cadence/SPB_23.1/share/local/pcb/modules 
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
-PSMPATH =  . 
-           F:/cad/bris_cdslib/lib_psd14.x/symbols 
-           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/qfp 
-           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
-           /projects/HEP_Instrumentation/cad/bris_cdslib/lib_psd14.x/symbols 
-           /projects/HEP_Instrumentation/cad/bris_cdslib/lib_psd14.x/formats 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/soic 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/discrete 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/dip 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/so 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/bga 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/qfp 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/passif 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/cap 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/led 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/rel 
-           /projects/HEP_Instrumentation/cad/ral_cdslib/lib_psd15.x/symbols 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/sw 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/mec 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/pwr 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/res 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           Z:/cad/bris_cdslib/lib_psd14.x/symbols 
-           Z:/cad/bris_cdslib/lib_psd14.x/formats 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/soic 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/discrete 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/dip 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/so 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/bga 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/cap 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/led 
-           Z:/cad/cern_cds 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/symbols 
-           C:/Users/phdgc/AppData/Roaming/SPB_Data/downloaded_parts/allegropcb 
+ERROR(SPMHNI-196): Symbol 'TE_6-2301994-2' for device '6-2301994-2_TE_6-2301994-2_6-23' has extra pin 'MH3'.
+
+ERROR(SPMHNI-196): Symbol 'TE_6-2301994-2' for device '6-2301994-2_TE_6-2301994-2_6-23' has extra pin 'MH4'.
+
+ERROR(SPMHNI-195): Symbol 'TE_6-2301994-2' for device '6-2301994-2_TE_6-2301994-2_6-23' is missing pin 'S1'.
+
+ERROR(SPMHNI-195): Symbol 'TE_6-2301994-2' for device '6-2301994-2_TE_6-2301994-2_6-23' is missing pin 'S2'.
+
+------ Library Paths ------
+MODULEPATH =  Y:/Users/CEG/Central Electronics/Projects/Hastingsp/PaMIR/001x/worklib/switcherpsu/physical/ 
+           . 
+           C:/Cadence/SPB_16.5/share/local/pcb/modules 
+
+PSMPATH =  //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
+           . 
+           .. 
+           Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/Potting Wirebond Tests/footprints/ 
+           Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/130nm Double Sided Tape Designs Jan 2018/footprints/ 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
+           Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/symbols/ 
+           Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/formats/ 
 
 PADPATH =  . 
-           symbols 
            .. 
-           ../symbols 
-           /software/CAD/Cadence/SPB17.40.034/share/local/pcb/padstacks 
-           /software/CAD/Cadence/SPB17.40.034/share/pcb/pcb_lib/symbols 
-           /software/CAD/Cadence/SPB17.40.034/share/pcb/allegrolib/symbols 
-           /projects/HEP_Instrumentation/cad/bris_cdslib/lib_psd14.x/pads 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
-           /projects/HEP_Instrumentation/cad/ral_cdslib/lib_psd15.x/pads 
-           ./symbols 
-           /projects/HEP_Instrumentation/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           ../../../../cis_hep_partslib/cis_hep_partslib/Allegro_Library/pads/ 
-           F:/cad/bris_cdslib/lib_psd14.x/pads 
-           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
-           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
-           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
-           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           Z:/cad/bris_cdslib/lib_psd14.x/pads 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/pads 
-           C:/Users/phdgc/AppData/Roaming/SPB_Data/downloaded_parts/allegropcb 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
+           //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
+           //ppfs6.physics.ox.ac.uk/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/pads 
+           Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/130nm Double Sided Tape Designs Jan 2018/footprints/ 
+           Y:/users/CEG/CEG_Software/Cadence/Shared_Libraries/V16_5/pads/ 
+           //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Aug 28 16:22:37 2024
+netrev run on Sep 5 10:11:31 2024
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
-   PACKAGING ON Sep 29 2023 23:54:04
+   PACKAGING ON Sep 18 2020 01:37:34
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -133,8 +96,8 @@ netrev run on Aug 28 16:22:37 2024
 
  No error detected
  No oversight detected
- No warning detected
+  1 warnings detected
 
-cpu time      0:03:09
-elapsed time  0:00:02
+cpu time      0:03:31
+elapsed time  0:00:01
 

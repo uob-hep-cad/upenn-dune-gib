@@ -1,0 +1,24 @@
+		Auto Differential Pair Results
+
+	Using net suffixes: _P / _N
+	Number generated: 15
+
+
+Diffpair                   Net+                     Net-                    
+---------------------------------------------------------------------
+FMC.RECOV_ACLK_DATA        FMC.RECOV_ACLK_DATA_P    FMC.RECOV_ACLK_DATA_N   
+FMC.RECOV_ACLK_CLK         FMC.RECOV_ACLK_CLK_P     FMC.RECOV_ACLK_CLK_N    
+FMC.ACLK_FROM_SFP          FMC.ACLK_FROM_SFP_P      FMC.ACLK_FROM_SFP_N     
+FMC.ACLK_TO_SFP            FMC.ACLK_TO_SFP_P        FMC.ACLK_TO_SFP_N       
+FMC.GPS_CLK_COPY           FMC.GPS_CLK_COPY_P       FMC.GPS_CLK_COPY_N      
+FMC.AUXOUT1                FMC.AUXOUT1_P            FMC.AUXOUT1_N           
+FMC.AUXOUT3                FMC.AUXOUT3_P            FMC.AUXOUT3_N           
+FMC.AUXOUT2                FMC.AUXOUT2_P            FMC.AUXOUT2_N           
+FMC.AUXOUT0                FMC.AUXOUT0_P            FMC.AUXOUT0_N           
+CLK_FROM_FPGA              CLK_FROM_FPGA_P          CLK_FROM_FPGA_N         
+FMC.CLK_FROM_FPGA          FMC.CLK_FROM_FPGA_P      FMC.CLK_FROM_FPGA_N     
+SFP_RD                     SFP_RD_P                 SFP_RD_N                
+ACLK_TO_CDR                ACLK_TO_CDR_P            ACLK_TO_CDR_N           
+FMC.ACLK_REFCLK            FMC.ACLK_REFCLK_P        FMC.ACLK_REFCLK_N       
+RECOV_ACLK_CLK             RECOV_ACLK_CLK_P         RECOV_ACLK_CLK_N        
+

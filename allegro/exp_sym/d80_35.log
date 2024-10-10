@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : d80_35.dra                                    )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Fri Sep 27 09:39:08 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym
+    Name      = d80_35.ssm
+    User      = hastingsp
+    Machine   = ELWE4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

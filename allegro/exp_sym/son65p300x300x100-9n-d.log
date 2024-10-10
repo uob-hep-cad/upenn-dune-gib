@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SON65P300X300X100-9N-D.dra                    )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Fri Sep 27 09:45:54 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym
+    Name      = son65p300x300x100-9n-d.psm
+    User      = hastingsp
+    Machine   = ELWE4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
