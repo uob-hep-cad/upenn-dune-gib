@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 23.1.0 d001Aug-28-2024 at 16:22:35}
+{ Using PSTWRITER 23.1.0 d001Oct-29-2024 at 17:04:40}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -1690,31 +1690,6 @@ primitive 'BSS138_SOT95P230X110-3N_BSS138K';
     PART_NAME='BSS138';
     JEDEC_TYPE='SOT95P230X110-3N';
     VALUE='BSS138K';
-  end_body;
-end_primitive;
-primitive 'OSC_6P_EN_DIFFOUT_3_OSCSC254P50';
-  pin
-    'E/D':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-    'OUT+':
-      PIN_NUMBER='(4)';
-      OUTPUT_LOAD='(*)';
-    'OUT-':
-      PIN_NUMBER='(5)';
-      OUTPUT_LOAD='(*)';
-    'GND':
-      PIN_NUMBER='(3)';
-      PINUSE='POWER';
-    'VDD':
-      PIN_NUMBER='(6)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='OSC_6P_EN_DIFFOUT_3';
-    JEDEC_TYPE='oscsc254p500x700x150-6n_txc_bf';
-    VALUE='50.0MHz';
-    NC_PINS='(2)';
   end_body;
 end_primitive;
 primitive 'R_RES0402_1K';
@@ -3644,29 +3619,29 @@ primitive 'LT8645_CONV_T8645SIV_LT8645SJV-';
     VALUE='LT8645SJV-2';
   end_body;
 end_primitive;
-primitive 'SIT5021AI-2DE-25E-50_000000_QFN';
+primitive 'SIT5021AI-2DE-25E-50_0_QFN_7050';
   pin
     'VC/OE/S\T\':
-      PIN_NUMBER='(6)';
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'NC':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'OUT+':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'OUT-':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'OUT+':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'OUT-':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
     'VDD':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(6)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='SiT5021AI-2DE-25E-50_000000';
+    PART_NAME='SiT5021AI-2DE-25E-50_0';
     JEDEC_TYPE='QFN_7050_6pins';
     VALUE='SiT5021AI-2DE-25E-50_000000';
   end_body;

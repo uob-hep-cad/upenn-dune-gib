@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TE_6-2301994-2.dra                            )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Thu Sep  5 10:12:53 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym
+    Name      = te_6-2301994-2.psm
+    User      = hastingsp
+    Machine   = ELWE4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

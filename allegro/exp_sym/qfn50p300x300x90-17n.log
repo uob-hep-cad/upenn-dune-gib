@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : QFN50P300X300X90-17N.dra                      )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Tue Sep 17 07:42:10 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym
+    Name      = qfn50p300x300x90-17n.psm
+    User      = hastingsp
+    Machine   = ELWE4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

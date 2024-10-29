@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.4S011                                      )
+(    Date/Time        : Fri Sep 27 09:35:32 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/exp_sym/SON65P300X300X100-9N-D.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  R250_175 being dumped.
+
+  D80_35 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  d80_35 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+Number of shape symbols dumped:            1
+
+Total number of symbols dumped:            1
+*****************************************************
+

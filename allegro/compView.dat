@@ -1,5 +1,6 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/Users/phdgc/Downloads/upenn-dune-gib/allegro/gps_interface_boardv40.brd!Wed Aug 28 16:22:16 2024!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!59.600000 mil!8!OUT OF DATE!
+J!C:/Users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd!Tue Oct 29 17:04:13 2024!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
+S!Y1!!!!!!!!!!!
 S!F2!!!!!!!!!!!
 S!IC1!!!!!!!!!!!
 S!IC2!!!!!!!!!!!
@@ -12,7 +13,6 @@ S!P2!!!!!!!!!!!
 S!QZ1!!!!!!!!!!!
 S!R33!!!!!!!!!!!
 S!U107!!!!!!!!!!!
-S!Y1!!!!!!!!!!!
 S!U102!!!!!!!!!!!
 S!R266!!!!!!!!!!!
 S!R55!!!!!!!!!!!
