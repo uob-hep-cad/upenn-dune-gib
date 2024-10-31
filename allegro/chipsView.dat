@@ -1217,45 +1217,6 @@ primitive 'RECEPT 10X2 100 MIL_RECEPT_10X2';
   end_body;
 end_primitive;
 
-primitive 'OSC_6P_EN_DIFFOUT_3_OSCSC254P50';
-  pin
-	 'VDD':
-	   PIN_NUMBER='(6)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT-':
-	   PIN_NUMBER='(5)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'OUT+':
-	   PIN_NUMBER='(4)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'GND':
-	   PIN_NUMBER='(3)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'E/D':
-	   PIN_NUMBER='(1)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='OSC_6P_EN_DIFFOUT_3';
-	 VALUE='50.0MHz';
-	 BODY_NAME='OSC_6P_EN_DIFFOUT_3_OSCSC254P50';
-	 JEDEC_TYPE='OSCSC254P500X700X150-6N_TXC_BF';
-	 PHYS_DES_PREFIX='QZ';
-	 CLASS='IC';
-	 NC_PINS='(2)';
-  end_body;
-end_primitive;
-
 primitive 'R_RES0603_1K';
   pin
 	 '2':

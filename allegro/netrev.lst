@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv49dc.brd                  )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Oct 29 17:04:41 2024                      )
+(    Date/Time        : Thu Oct 31 11:21:28 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,16 +18,16 @@ Ripup symbols:               Never
 Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'c:\users\phdgc\downloads\upenn-dune-gib\allegro'
-Design Directory:            'C:/Users/phdgc/downloads/upenn-dune-gib/allegro'
-Old design name:             'C:/Users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd'
-New design name:             'C:/Users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd'
+Design Directory:            'c:/users/phdgc/downloads/upenn-dune-gib/allegro'
+Old design name:             'c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd'
+New design name:             'c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd'
 
-CmdLine: netrev -y 3 -i c:\users\phdgc\downloads\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml C:/Users/phdgc/downloads/upenn-dune-gib/allegro/#Taaaaca38332.tmp
+CmdLine: netrev -y 3 -i c:\users\phdgc\downloads\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml c:/users/phdgc/downloads/upenn-dune-gib/allegro/#Taaaacx24204.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat (00:00:00.04)
+   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat (00:00:00.05)
 Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat 
    Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.01)
 Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat 
@@ -110,7 +110,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Oct 29 17:04:41 2024
+netrev run on Oct 31 11:21:28 2024
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
    PACKAGING ON Sep 29 2023 23:54:04
 
@@ -135,6 +135,6 @@ netrev run on Oct 29 17:04:41 2024
  No oversight detected
  No warning detected
 
-cpu time      0:01:20
-elapsed time  0:00:00
+cpu time      0:01:21
+elapsed time  0:00:01
 

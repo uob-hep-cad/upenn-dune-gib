@@ -2,98 +2,18 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd   |
-|                                                    Tue Oct 29 17:04:41 2024  |
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd   |
+|                                                    Thu Oct 31 11:21:28 2024  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  FMC.ACLK_REFCLK_N pins ADDED TO this existing net (pins not previously on any net)
-                                 Y2.5                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.ACLK_REFCLK_P pins ADDED TO this existing net (pins not previously on any net)
-                                 Y2.4                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
-                                 Y2.3                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N727253      pins ADDED TO this existing net (pins not previously on any net)
-                                 R2694.2                        
-                                 R2695.2                        
-                                 Y2.6                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755053      pins MOVED FROM this net (to net name listed on right)
-                                 C276.1          4010.36 3218.00
-                                                                        N812455
-                                 Y1.4            3889.80 3115.00
-                                                                        N755066
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N755062      pins MOVED FROM this net (to net name listed on right)
-                                 C277.1          4010.36 3173.00
-                                                                        N755066
-                                 Y1.5            3889.80 3215.00
-                                                                        N812455
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N764207      pins ADDED TO this new net
-                                 R2694.1                        
-                                 Y2.1                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N764211      pins ADDED TO this new net
-                                 R2695.1                        
-                                 Y2.2                           
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
+  VCC5V5       pins MOVED FROM this net (to net name listed on right)
+                                 R2660.2          115.00  933.53
+                                                                          VP5V5
 |------------------------------------------------------------------------------|
-|  C:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd   |
-|                                                    Tue Oct 29 17:04:41 2024  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- QZ1                 OSC_6P_EN_DIFFOUT_3_OSCSC254P50 7201.00  758.00
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd   |
-|                                                    Tue Oct 29 17:04:41 2024  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2694               R_RES0402_1K          
- R2695               R_RES0402_DNP         
- Y2                  SIT5021AI-2DE-25E-50_0_QFN_7050 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  C:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc.brd   |
-|                                                    Tue Oct 29 17:04:41 2024  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C276.2         4030.00 3218.00 XY             (590,330)
- C2749.2        7270.00  940.00 XY             (85,274)
- C2750.2        7270.00 1005.00 XY             (30,280)
- L22.2          7300.00 1120.00 XY             (30,53)
- R2694.2                        PRIM_FILE      .\pstchip.dat
- R2694.2                        XY             (60,120)
- R2695.2                        PRIM_FILE      .\pstchip.dat
- R2695.2                        XY             (60,200)
- Y2.6                           PRIM_FILE      .\pstchip.dat
- Y2.6                           XY             (120,140)
-|------------------------------------------------------------------------------|
-|       Nets changed          :      14                                        |
-|       Components added      :       3                                        |
-|       Components deleted    :       1                                        |
-|       Slot property added   :      10                                        |
+|       Nets changed          :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:      28                                        |
+|   Total ECO changes reported:       1                                        |
 |------------------------------------------------------------------------------|
