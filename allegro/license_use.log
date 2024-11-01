@@ -1,29 +1,5 @@
 Licenses in Use Report
 
 --------------------------------------------------------------------
-Consumers of license:  "Allegro_studio"
-    Server:      1711@localhost
-    Available:   100
-    In use:      1
-
- USER                 SYSTEM               USED  STATUS
- mbreilly             MICHAELREIL7ADE        1   Checked out
-
---------------------------------------------------------------------
-Consumers of license:  "Allegro_performance"
-    Server:      1711@localhost
-    Available:   50
-    In use:      1
-
- USER                 SYSTEM               USED  STATUS
- mbreilly             MICHAELREIL7ADE        1   Checked out
-
---------------------------------------------------------------------
-Consumers of license:  "PCB_design_studio"
-    Server:      1711@localhost
-    Available:   50
-    In use:      1
-
- USER                 SYSTEM               USED  STATUS
- mbreilly             MICHAELREIL7ADE        1   Checked out
+No license Allegro_Viewer_Plus available
 

@@ -1,26 +1,9 @@
-\t (00:00:11) allegro 17.4 S011 Windows SPB 64-bit Edition
-\t (00:00:11)     Journal start - Thu Oct 10 07:43:59 2024
-\t (00:00:11)         Host=ELWE4 User=hastingsp Pid=36040 CPUs=32
-\t (00:00:11) CmdLine= allegro -proj \\ppfs6.physics.ox.ac.uk\CEG\Central Electronics\Projects\Hastingsp\DUNE\uob-hep-pc072\hardware\Cadence\top\top_mib_v3.cpm -product PCB_librarian_expert -mpssession hastingsp_ProjectMgr11451 -mpshost ELWE4
-\t (00:00:11) 
-\d (00:00:11) Design opened: //ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boardv48ph.brd
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 292.44 823.88
-\t (00:00:13) Grids are drawn 20.00, 20.00 apart for enhanced viewing.
-\i (00:00:13) trapsize 1444
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 292.44 823.89
-\t (00:00:13) Grids are drawn 10.00, 10.00 apart for enhanced viewing.
-\i (00:00:13) trapsize 722
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 306.89 839.78
-\i (00:00:13) trapsize 361
-\i (00:00:15) zoom in 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom in 259.22 831.11
-\i (00:00:15) trapsize 181
-\i (00:00:17) exit 
-\t (00:00:20)     Journal end - Thu Oct 10 07:44:08 2024
+\t (01:42:58) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (01:42:58)     Journal start - Thu Oct 31 11:40:30 2024
+\t (01:42:58)         Host=IT088130 User=phdgc Pid=24204 CPUs=16
+\t (01:42:58) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv49dc.brd
+\t (01:42:58) 
+\d (01:42:58) Design opened: C:/Users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv49dc_downrev.brd
+\i (01:42:58) generaledit 
+\i (01:43:04) exit 
+\t (01:43:05)     Journal end - Thu Oct 31 11:40:37 2024
