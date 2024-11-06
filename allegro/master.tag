@@ -1,1 +1,1 @@
-gps_interface_boardv49dc.brd
+gps_interface_boardv51ph.brd

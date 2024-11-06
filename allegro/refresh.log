@@ -1,9 +1,9 @@
-Fri Sep 27 09:46:35 2024				Page     1
+Wed Nov  6 07:50:06 2024				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri Sep 27 09:46:35 2024
+	Wed Nov  6 07:50:06 2024
 
 ------ Module Refresh Messages ------
 
@@ -17,33 +17,33 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : gps_interface_boardv46ph.brd                  )
-(    Software Version : 17.4S011                                      )
-(    Date/Time        : Fri Sep 27 09:46:36 2024                      )
+(    Drawing          : gps_interface_boardv50ph.brd                  )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Wed Nov  6 07:50:07 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Sep 27 09:46:36 2024				Page     1
+Wed Nov  6 07:50:07 2024				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = '//ppfs6.physics.ox.ac.uk/ceg/central electronics/projects/hastingsp/dune/upenn-dune-gib/allegro/gps_interface_boa~
-rdv46ph.brd'
+Input design  = '//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boa~
+rdv50ph.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
 Update package symbols                 = 'NO'
 Update shape/flash symbols             = 'NO'
-Update symbol padstacks                = 'YES'
+Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
 Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaafy30984.tmp'
+Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaabl31132.tmp'
 
 
 ------ Library Paths ------
@@ -68,13 +68,11 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'SON65P300X300X100-9N-D'  symbol refreshed successfully.
+'SOT23-5'  symbol refreshed successfully.
 
 
------- Pad Stack Refresh Messages ------
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
 
-'R250_175'  pad stack refreshed successfully.
-'D80_35'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
