@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : gps_interface_boardv51ph_smoothed.brd         )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Wed Nov 13 07:34:02 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ERROR(SPMHA1-161): Cannot open the design because of database problems. Run dbdo
+ctor on the design from the command prompt to diagnose and fix the problems. If 
+the problems persist, contact Cadence Customer Support with the design file and 
+details of the steps performed before this message appeared.
+Unable to paste the symbol - ("LOCATING" "MECHANICAL") 
+ERROR(SPMHA1-161): Cannot open the design because of database problems. Run dbdo
+ctor on the design from the command prompt to diagnose and fix the problems. If 
+the problems persist, contact Cadence Customer Support with the design file and 
+details of the steps performed before this message appeared.
+Unable to paste the symbol - ("LOCATING" "MECHANICAL") 
+ERROR(SPMHA1-161): Cannot open the design because of database problems. Run dbdo
+ctor on the design from the command prompt to diagnose and fix the problems. If 
+the problems persist, contact Cadence Customer Support with the design file and 
+details of the steps performed before this message appeared.
+Unable to paste the symbol - ("SAMTEC_SEAM-40-035-S-10-2-A" "PACKAGE") 
+
+
+Clipboard Paste Session Completed at Nov 13 07:34:04 2024

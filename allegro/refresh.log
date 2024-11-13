@@ -1,9 +1,9 @@
-Wed Nov  6 07:50:06 2024				Page     1
+Wed Nov 13 07:59:12 2024				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Wed Nov  6 07:50:06 2024
+	Wed Nov 13 07:59:12 2024
 
 ------ Module Refresh Messages ------
 
@@ -17,20 +17,20 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : gps_interface_boardv50ph.brd                  )
+(    Drawing          : gps_interface_boardv51ph_smoothed.brd         )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Wed Nov  6 07:50:07 2024                      )
+(    Date/Time        : Wed Nov 13 07:59:13 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Wed Nov  6 07:50:07 2024				Page     1
+Wed Nov 13 07:59:13 2024				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
 Input design  = '//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boa~
-rdv50ph.brd'
+rdv51ph_smoothed.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -43,11 +43,12 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaabl31132.tmp'
+Symbol list file                       = 'C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaapg07800.tmp'
 
 
 ------ Library Paths ------
-PSMPATH =  //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
+PSMPATH =  //ppfs6.physics.ox.ac.uk/CEG/CEG_Software/Cadence/Shared_Libraries/V23_1/formats/ 
+           //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/mu3e/dev/worklib/top/physical 
            . 
            .. 
            Y:/Users/CEG/Central Electronics/Projects/Hastingsp/SLHC/Potting Wirebond Tests/footprints/ 
@@ -68,7 +69,7 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'SOT23-5'  symbol refreshed successfully.
+'SAMTEC_ASP-134606-01'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
