@@ -2,13 +2,13 @@
 (                                                                     )
 (    Downrev Design                                                   )
 (                                                                     )
-(    Drawing          : gps_interface_boardv49dc_downrev.brd          )
+(    Drawing          : M270                                          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Thu Oct 31 11:39:19 2024                      )
+(    Date/Time        : Thu Nov 14 07:38:40 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-
+Changes made to design for 17.2 compatibility.
 
