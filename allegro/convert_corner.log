@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv51ph_smoothed.brd         )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Wed Nov 13 08:07:02 2024                      )
+(    Date/Time        : Thu Nov 14 07:26:47 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,8 +18,11 @@ Preferred Radius Size:  5x Line Width
 Min Radius Size:        1x Line Width
 Allow DRCs:             No
 
-Result: 0 of 5 failed to convert
+Result: 3 of 23 failed to convert
 
+Cline vertex:xy (9371.00 180.20)	subclass: SIG	net_name: FMC.SPARE_RJ45_LED_0 
+Cline vertex:xy (4969.18 1433.27)	subclass: SIG	net_name: FMC.SPARE_RJ45_LED_0 
+Cline vertex:xy (4966.91 1431.00)	subclass: SIG	net_name: FMC.SPARE_RJ45_LED_0 
 
 CommandEnd AiCC **************************************************************
 CommandStart AiCC ************************************************************
@@ -31,9 +34,12 @@ Preferred Radius Size:  5x Line Width
 Min Radius Size:        1x Line Width
 Allow DRCs:             No
 
-Result: 2 of 11 failed to convert
+Result: 5 of 41 failed to convert
 
-Cline vertex:xy (8733.14 416.64)	subclass: TOP	net_name: FMC.I2C_EXT_INT0* 
-Cline vertex:xy (8733.00 416.50)	subclass: TOP	net_name: FMC.I2C_EXT_INT0* 
+Cline vertex:xy (10320.90 571.40)	subclass: TOP	net_name: FMC.SPARE_RJ45_LED_1 
+Cline vertex:xy (10320.50 571.00)	subclass: TOP	net_name: FMC.SPARE_RJ45_LED_1 
+Cline vertex:xy (9371.00 180.20)	subclass: SIG	net_name: FMC.SPARE_RJ45_LED_0 
+Cline vertex:xy (4969.18 1433.27)	subclass: SIG	net_name: FMC.SPARE_RJ45_LED_0 
+Cline vertex:xy (4966.91 1431.00)	subclass: SIG	net_name: FMC.SPARE_RJ45_LED_0 
 
 CommandEnd AiCC **************************************************************

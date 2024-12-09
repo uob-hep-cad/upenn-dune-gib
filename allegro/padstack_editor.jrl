@@ -1,19 +1,12 @@
-\t (00:00:01) padstack_editor 17.4 S011 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Sep 17 07:53:20 2024
-\t (00:00:01)         Host=ELWE4 User=hastingsp Pid=21836 CPUs=32
-\t (00:00:01) CmdLine= padstack_editor -mpssession hastingsp -file C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaadm00532.tmp -pname 21VIA10 -data C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaadp00532.tmp
-\t (00:00:01) 
-\d (00:00:04) QtSignal MainWindow Open triggered
-\d (00:00:26) QtFillin "via36rd0-4d.pad"
-\d (00:00:29) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:43) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:49) QtSignal MainWindow Units CurrentIndexChanged Millimeter
-\d (00:00:51) QtFillin Yes
-\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\d (00:01:10) QtFillin No
-\t (00:01:10)     Journal end - Tue Sep 17 07:54:29 2024
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Nov 14 07:38:41 2024
+\t (00:00:00)         Host=ELWE4 User=hastingsp Pid=29660 CPUs=32
+\t (00:00:00) CmdLine= padstack_editor -mpssession hastingsp -file C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaabo25316.tmp -pname M270 -data C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaabr25316.tmp
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:10) QtSignal MainWindow Units CurrentIndexChanged Millimeter
+\d (00:00:11) QtFillin Yes
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:00:14) QtSignal MainWindow Exit triggered
+\d (00:00:15) QtFillin No
+\t (00:00:15)     Journal end - Thu Nov 14 07:38:56 2024

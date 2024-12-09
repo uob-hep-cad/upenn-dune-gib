@@ -1,1 +1,1 @@
-gps_interface_boardv51ph_smoothed.brd
+gps_interface_boardv53ph.brd

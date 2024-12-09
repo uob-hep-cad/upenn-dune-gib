@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : gps_interface_boardv53ph.brd                  )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Tue Nov 26 07:19:02 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in CONNECT LINE (7342.94 787.00) - (7341.00 788.94)
+  class = ETCH
+  subclass = TOP 
+  ERROR(SPMHA1-415): Line segments cannot overlap.
+   Error was fixed.
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+0 warnings, 1 errors detected, 1 errors  fixed.

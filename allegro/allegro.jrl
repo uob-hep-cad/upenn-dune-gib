@@ -1,97 +1,37 @@
-\t (00:07:58) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:07:58)     Journal start - Wed Nov 13 08:15:33 2024
-\t (00:07:58)         Host=ELWE4 User=hastingsp Pid=28964 CPUs=32
-\t (00:07:58) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:07:58) 
-\d (00:07:58) Design opened: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd
-\i (00:08:03) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 00_0work_top"
-\i (00:08:03) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 00_0work_top"
-\i (00:08:10) zoom in 1 
-\i (00:08:10) setwindow pcb
-\i (00:08:10) zoom in 7089.81 469.24
-\i (00:08:10) trapsize 1524
-\i (00:08:10) zoom in 1 
-\i (00:08:10) setwindow pcb
-\i (00:08:10) zoom in 7053.23 463.15
-\i (00:08:10) trapsize 762
-\i (00:08:10) zoom in 1 
-\i (00:08:10) setwindow pcb
-\i (00:08:10) zoom in 7144.68 452.48
-\i (00:08:10) trapsize 381
-\i (00:08:11) roam start
-\i (00:08:11) roam y 16
-\i (00:08:11) roam y 16
-\i (00:08:11) roam y 16
-\i (00:08:11) roam x 16
-\i (00:08:11) roam y 32
-\i (00:08:11) roam y 16
-\i (00:08:11) roam y 32
-\i (00:08:11) roam x 16
-\i (00:08:11) roam y 16
-\i (00:08:11) roam y 16
-\i (00:08:11) roam y 32
-\i (00:08:11) roam x 16
-\i (00:08:11) roam y 16
-\i (00:08:11) roam end
-\i (00:08:13) slide 
-\t (00:08:13) Pick element to slide.
-\i (00:08:14) pick grid 7043.31 583.55
-\t (00:08:14) last pick:  7043.00 584.00
-\t (00:08:14) last pick:  7042.43 584.43
-\t (00:08:14) Waiting for the destination pick.
-\i (00:08:14) updateport CVPane
-\i (00:08:15) pick grid 7050.17 556.11
-\t (00:08:15) last pick:  7050.00 556.00
-\t (00:08:15) No DRC errors detected.
-\t (00:08:15) Pick another element to slide.
-\i (00:08:16) pick grid 6998.35 498.96
-\t (00:08:16) last pick:  6998.00 499.00
-\t (00:08:16) last pick:  6996.36 499.98
-\t (00:08:16) Waiting for the destination pick.
-\i (00:08:17) pick grid 7005.97 490.58
-\t (00:08:17) last pick:  7006.00 491.00
-\t (00:08:17) No DRC errors detected.
-\t (00:08:17) Pick another element to slide.
-\i (00:08:19) zoom out 1 
-\i (00:08:19) setwindow pcb
-\i (00:08:19) zoom out 7161.43 313.03
-\i (00:08:19) trapsize 762
-\i (00:08:20) prepopup 7123.32 556.87
-\i (00:08:20) done 
-\i (00:08:22) zoom out 1 
-\i (00:08:22) setwindow pcb
-\i (00:08:22) zoom out 7133.99 178.90
-\i (00:08:22) trapsize 1524
-\i (00:08:26) zoom in 1 
-\i (00:08:26) setwindow pcb
-\i (00:08:26) zoom in 6899.28 133.18
-\i (00:08:26) trapsize 762
-\i (00:08:26) zoom in 1 
-\i (00:08:26) setwindow pcb
-\i (00:08:26) zoom in 6896.24 142.33
-\i (00:08:26) trapsize 381
-\i (00:08:26) zoom in 1 
-\i (00:08:26) setwindow pcb
-\i (00:08:26) zoom in 6829.94 248.25
-\i (00:08:26) trapsize 191
-\i (00:08:27) zoom out 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom out 6829.94 248.25
-\i (00:08:27) trapsize 381
-\i (00:08:27) zoom out 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom out 6829.94 248.26
-\i (00:08:27) trapsize 762
-\i (00:08:27) zoom out 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom out 6829.94 248.26
-\i (00:08:27) trapsize 1524
-\i (00:08:27) zoom out 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom out 6829.95 248.26
-\i (00:08:27) trapsize 3048
-\i (00:08:29) save 
-\i (00:08:31) fillin yes 
-\t (00:08:31) > Sending response DoneOpenBoard
-\i (00:08:34) exit 
-\t (00:08:37)     Journal end - Wed Nov 13 08:16:11 2024
+\t (00:00:42) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:42)     Journal start - Wed Nov 27 15:03:43 2024
+\t (00:00:42)         Host=ELWE4 User=hastingsp Pid=18668 CPUs=32
+\t (00:00:42) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:42) 
+\d (00:00:42) Design opened: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv53ph.brd
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 1399.08 5168.97
+\i (00:00:43) trapsize 1117
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 1383.44 5173.44
+\i (00:00:43) trapsize 559
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 1385.67 5156.68
+\i (00:00:43) trapsize 1117
+\i (00:00:44) roam start
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -32
+\i (00:00:44) roam x -32
+\i (00:00:44) roam y -48
+\i (00:00:44) roam x -48
+\i (00:00:44) roam y -48
+\i (00:00:44) roam x -48
+\i (00:00:44) roam y -48
+\i (00:00:44) roam end
+\i (00:22:38) exit 
+\e (00:22:38) Do you want to save the changes you made to gps_interface_boardv53ph.brd?
+\i (00:22:39) fillin no 
+\t (00:22:43)     Journal end - Wed Nov 27 15:25:44 2024
