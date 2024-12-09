@@ -1,20 +1,37 @@
-\t (00:00:03) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Mon Nov 25 08:16:43 2024
-\t (00:00:03)         Host=ELWE4 User=hastingsp Pid=24032 CPUs=32
-\t (00:00:03) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv51ph_smoothed"
-\d (00:00:07) Design opened: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd
-\i (00:00:07) trapsize 4498
-\i (00:00:07) trapsize 4618
-\i (00:00:07) trapsize 4654
-\i (00:00:07) trapsize 4498
-\i (00:00:07) trapsize 4567
-\t (00:00:07) > Sending response DoneOpenBoard
-\t (00:00:07) Loading NV GPU Plugin
-\i (00:00:15) opencd '//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/ePIC/Heater November 2024/5u_heaters_v3_NOV24.brd' 
-\t (00:00:15) Opening existing design...
-\i (00:00:15) trapsize 1498
-\t (00:00:15)     Journal end - Mon Nov 25 08:16:55 2024
+\t (00:00:42) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:42)     Journal start - Wed Nov 27 15:03:43 2024
+\t (00:00:42)         Host=ELWE4 User=hastingsp Pid=18668 CPUs=32
+\t (00:00:42) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:42) 
+\d (00:00:42) Design opened: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv53ph.brd
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 1399.08 5168.97
+\i (00:00:43) trapsize 1117
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 1383.44 5173.44
+\i (00:00:43) trapsize 559
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 1385.67 5156.68
+\i (00:00:43) trapsize 1117
+\i (00:00:44) roam start
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -32
+\i (00:00:44) roam x -32
+\i (00:00:44) roam y -48
+\i (00:00:44) roam x -48
+\i (00:00:44) roam y -48
+\i (00:00:44) roam x -48
+\i (00:00:44) roam y -48
+\i (00:00:44) roam end
+\i (00:22:38) exit 
+\e (00:22:38) Do you want to save the changes you made to gps_interface_boardv53ph.brd?
+\i (00:22:39) fillin no 
+\t (00:22:43)     Journal end - Wed Nov 27 15:25:44 2024

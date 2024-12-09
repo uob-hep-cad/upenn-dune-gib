@@ -1,0 +1,171 @@
+\t (00:00:07) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Nov 27 15:03:09 2024
+\t (00:00:07)         Host=ELWE4 User=hastingsp Pid=18668 CPUs=32
+\t (00:00:07) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:08) Starting new design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv53ph"
+\i (00:00:08) trapsize 1218
+\i (00:00:08) trapsize 1270
+\i (00:00:08) trapsize 1285
+\i (00:00:08) trapsize 1218
+\i (00:00:08) trapsize 1628
+\t (00:00:09) Loading NV GPU Plugin
+\i (00:00:13) trapsize 1046
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 13408.8 9852.7
+\i (00:00:14) trapsize 1123
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 14574.6 10509.9
+\i (00:00:14) trapsize 1123
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 14664.5 10509.9
+\i (00:00:14) trapsize 1123
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 14956.4 6602.4
+\i (00:00:15) trapsize 561
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 13409.5 6400.3
+\i (00:00:16) trapsize 281
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 13415.1 6383.5
+\i (00:00:16) trapsize 140
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 13415.2 6383.6
+\i (00:00:16) trapsize 281
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 13415.1 6383.5
+\i (00:00:16) trapsize 561
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 13415.1 6383.5
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 14978.9 6130.8
+\i (00:00:16) trapsize 1123
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 14956.4 6130.8
+\i (00:00:17) trapsize 561
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13387.1 6130.8
+\i (00:00:17) trapsize 281
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13370.2 6130.8
+\i (00:00:17) trapsize 140
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13367.4 6130.9
+\i (00:00:17) trapsize 70
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13367.5 6130.9
+\i (00:00:17) trapsize 35
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13365.3 6130.9
+\i (00:00:17) trapsize 18
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13364.3 6130.9
+\i (00:00:17) trapsize 9
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13308.0 6140.7
+\i (00:00:17) trapsize 4
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13308.0 6140.8
+\i (00:00:17) trapsize 2
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13308.0 6140.8
+\i (00:00:17) trapsize 1
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13308.0 6140.8
+\i (00:00:17) trapsize 1
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 13308.0 6140.8
+\i (00:00:17) trapsize 1
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13307.9 6141.3
+\i (00:00:19) trapsize 1
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13308.0 6141.4
+\i (00:00:19) trapsize 1
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13308.0 6141.4
+\i (00:00:19) trapsize 2
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13308.1 6141.5
+\i (00:00:19) trapsize 4
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13308.4 6141.8
+\i (00:00:19) trapsize 9
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 13307.8 6146.8
+\i (00:00:19) trapsize 4
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13307.4 6147.1
+\i (00:00:19) trapsize 9
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13306.9 6147.4
+\i (00:00:19) trapsize 17
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 13303.1 6150.5
+\i (00:00:19) trapsize 35
+\i (00:00:27) opencd '//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/gps_interface_boardv53ph.brd' 
+\i (00:00:29) fillin confirm
+\i (00:00:38) fillin "//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv53ph.brd"
+\i (00:00:38) cd "//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro"
+\t (00:00:38) Opening existing design...
+\i (00:00:38) trapsize 2235
+\i (00:00:42) fillin no 
+\t (00:00:42)     Journal end - Wed Nov 27 15:03:43 2024

@@ -1,0 +1,68 @@
+A!FILM_NAME!CLASS!SUBCLASS!ROTATION!OFFSET_X!OFFSET_Y!UNDEFINED_LINE_WIDTH!SHAPE_BOUNDING_BOX!PLOT_MODE!FILM_MIRRORED!FULL_CONTACT_THERMAL_RELIEFS!SUPPRESS_UNCONNECTED_PADS!DRAW_MISSING_PAD_APERTURES!USE_APERTURE_ROTATION!SUPPRESS_SHAPE_FILL!VECTOR_BASED_PAD_BEHAVIOR!
+J!//ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/gps_interface_boardv53ph.brd!Nov 26 09:34:32 2024!19685.04!-19685.04!19685.04!-19685.04!2!mils!!!23!out of date!
+S!03_TOP!ETCH!TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!03_TOP!PIN!TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!03_TOP!VIA CLASS!TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!10_BOTTOM!ETCH!BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!10_BOTTOM!PIN!BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!10_BOTTOM!VIA CLASS!BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!04_Gnd1!VIA CLASS!GND1!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!04_Gnd1!PIN!GND1!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!04_Gnd1!ETCH!GND1!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!06_Gnd2!VIA CLASS!GND2!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!06_Gnd2!PIN!GND2!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!06_Gnd2!ETCH!GND2!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!08_Pwr2!VIA CLASS!PWR2!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!08_Pwr2!PIN!PWR2!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!08_Pwr2!ETCH!PWR2!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!09_Gnd3!VIA CLASS!GND3!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!09_Gnd3!PIN!GND3!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!09_Gnd3!ETCH!GND3!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_DesignOutline!BOARD GEOMETRY!DESIGN_OUTLINE!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!02a_Paste_Top!VIA CLASS!PASTEMASK_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!02a_Paste_Top!PIN!PASTEMASK_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!02a_Paste_Top!PACKAGE GEOMETRY!PASTEMASK_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11a_Paste_Bottom!VIA CLASS!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11a_Paste_Bottom!PIN!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11a_Paste_Bottom!PACKAGE GEOMETRY!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!02_Sold_Top!PIN!SOLDERMASK_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!02_Sold_Top!PACKAGE GEOMETRY!SOLDERMASK_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!02_Sold_Top!BOARD GEOMETRY!SOLDERMASK_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11_Sold_Bottom!VIA CLASS!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11_Sold_Bottom!PIN!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11_Sold_Bottom!PACKAGE GEOMETRY!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!11_Sold_Bottom!BOARD GEOMETRY!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!01_Silk_Top!BOARD GEOMETRY!DESIGN_OUTLINE!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!01_Silk_Top!REF DES!SILKSCREEN_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!01_Silk_Top!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!01_Silk_Top!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!12_Silk_Bottom!BOARD GEOMETRY!DESIGN_OUTLINE!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!12_Silk_Bottom!REF DES!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!12_Silk_Bottom!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!12_Silk_Bottom!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!01a_Assemb_Top!REF DES!ASSEMBLY_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!01a_Assemb_Top!PACKAGE GEOMETRY!ASSEMBLY_TOP!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!12a_Assemb_Bottom!REF DES!ASSEMBLY_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!12a_Assemb_Bottom!PACKAGE GEOMETRY!ASSEMBLY_BOTTOM!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!05_SIG!VIA CLASS!SIG!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!05_SIG!PIN!SIG!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!05_SIG!ETCH!SIG!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!07_Pwr1!VIA CLASS!PWR1!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!07_Pwr1!PIN!PWR1!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!07_Pwr1!ETCH!PWR1!0!0.00!0.00!5.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!BOARD GEOMETRY!DESIGN_OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!VIA CLASS!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!PIN!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!ETCH!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!REF DES!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_top!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!VIA CLASS!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!REF DES!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!PIN!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!PACKAGE GEOMETRY!ASSEMBLY_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!ETCH!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!00_0work_bottom!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!

@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : gps_interface_boardv53ph.brd                  )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Tue Nov 26 07:41:50 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 1 of 5 failed to convert
+
+Cline vertex:xy (3394.00 5248.94)	subclass: BOTTOM	net_name: VCC3V3_LFILT 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 1 of 5 failed to convert
+
+Cline vertex:xy (3394.00 5248.94)	subclass: BOTTOM	net_name: VCC3V3_LFILT 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 1 of 5 failed to convert
+
+Cline vertex:xy (3394.00 5248.94)	subclass: BOTTOM	net_name: VCC3V3_LFILT 
+
+CommandEnd AiCC **************************************************************
