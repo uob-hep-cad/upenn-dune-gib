@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 23.1.0 d001Oct-31-2024 at 11:21:27}
+{ Using PSTWRITER 23.1.0 d001Nov-25-2024 at 17:47:41}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -2973,37 +2973,37 @@ primitive 'TCA9548APWR_TSSOP_24_TCA9548APW';
     VALUE='TCA9548APWR';
   end_body;
 end_primitive;
-primitive 'MAX9371_2_SOT-23-8_MAX9371EKA+';
+primitive 'MAX9371ESA_SOIC8_MAX9371ESA';
   pin
     'VCC':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(8)';
       PINUSE='POWER';
     'GND':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(5)';
       PINUSE='UNSPEC';
     'D':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(7)';
       INPUT_LOAD='(*)';
     'NC1':
       PIN_NUMBER='(4)';
       PINUSE='UNSPEC';
     'NC2':
-      PIN_NUMBER='(5)';
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'Q\':
-      PIN_NUMBER='(6)';
+      PIN_NUMBER='(3)';
       OUTPUT_LOAD='(*)';
     'Q':
-      PIN_NUMBER='(7)';
+      PIN_NUMBER='(2)';
       OUTPUT_LOAD='(*)';
     'NC3':
-      PIN_NUMBER='(8)';
+      PIN_NUMBER='(6)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='MAX9371_2';
-    JEDEC_TYPE='SOT-23-8';
-    VALUE='MAX9371EKA+';
+    PART_NAME='MAX9371ESA';
+    JEDEC_TYPE='SOIC8';
+    VALUE='MAX9371ESA';
   end_body;
 end_primitive;
 primitive 'NB7V52M_2_PQFN50P300X300X100-17';

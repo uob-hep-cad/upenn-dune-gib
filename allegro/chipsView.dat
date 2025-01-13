@@ -1,4 +1,66 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive 'MAX9371_2_SOIC-8_MAX9371ESA+';
+  pin
+	 'VCC':
+	   PIN_NUMBER='(1)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'Q\':
+	   PIN_NUMBER='(6)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'Q':
+	   PIN_NUMBER='(7)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'NC3':
+	   PIN_NUMBER='(8)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'NC2':
+	   PIN_NUMBER='(5)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'NC1':
+	   PIN_NUMBER='(4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'D':
+	   PIN_NUMBER='(3)';
+	   INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+	 PART_NAME='MAX9371_2';
+	 VALUE='MAX9371ESA+';
+	 BODY_NAME='MAX9371_2_SOIC-8_MAX9371ESA+';
+	 JEDEC_TYPE='SOIC-8';
+	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive 'SIT5021AI-2DE-25E-50_0_QFN_7050';
   pin
 	 'VDD':
@@ -5737,68 +5799,6 @@ primitive 'SN74LVC1G32_4_SOT23-5_SN74LVC1G';
 	 VALUE='SN74LVC1G32';
 	 BODY_NAME='SN74LVC1G32_4_SOT23-5_SN74LVC1G';
 	 JEDEC_TYPE='SOT23-5';
-	 PHYS_DES_PREFIX='U';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'MAX9371_2_SOT-23-8_MAX9371EKA+';
-  pin
-	 'VCC':
-	   PIN_NUMBER='(1)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'Q\':
-	   PIN_NUMBER='(6)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'Q':
-	   PIN_NUMBER='(7)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'NC3':
-	   PIN_NUMBER='(8)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'NC2':
-	   PIN_NUMBER='(5)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'NC1':
-	   PIN_NUMBER='(4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'D':
-	   PIN_NUMBER='(3)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='MAX9371_2';
-	 VALUE='MAX9371EKA+';
-	 BODY_NAME='MAX9371_2_SOT-23-8_MAX9371EKA+';
-	 JEDEC_TYPE='SOT-23-8';
 	 PHYS_DES_PREFIX='U';
 	 CLASS='IC';
   end_body;

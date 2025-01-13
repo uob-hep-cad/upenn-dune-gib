@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 23.1.0 d001Oct-31-2024 at 11:21:27 }
+{ Using PSTWRITER 23.1.0 d001Nov-25-2024 at 17:47:41 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -3158,7 +3158,7 @@ SECTION_NUMBER 1
  C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins465006@ocad_parts_lib.\bnc_te_1-1634612-0.normal\(chips)',
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins465006@ocad_parts_lib.\bnc_te_1-1634612-0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(90,585)',
+ XY='(90,580)',
  SECTION='';
 
 PART_NAME
@@ -3722,7 +3722,7 @@ SECTION_NUMBER 1
  C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins128158@discrete.\r.normal\(chips)',
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins128158@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(605,585)',
+ XY='(610,580)',
  SECTION='';
 
 PART_NAME
@@ -3845,7 +3845,7 @@ SECTION_NUMBER 1
  C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins128490@discrete.\r.normal\(chips)',
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins128490@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(605,605)',
+ XY='(610,600)',
  SECTION='';
 
 PART_NAME
@@ -7599,14 +7599,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U2 'MAX9371_2_SOT-23-8_MAX9371EKA+':;
+ U2 'MAX9371ESA_SOIC8_MAX9371ESA':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS186@GPS_INTERFACE_BOARD.MAX9371_2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins186@gps_interface_board.\max9371_2.normal\(chips)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins186@gps_interface_board.\max9371_2.normal\(chips)',
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS539757@LOCAL_LIBRARY.MAX9371ESA.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins539757@local_library.\max9371esa.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins539757@local_library.\max9371esa.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(365,545)',
+ XY='(350,540)',
  SECTION='';
 
 PART_NAME
@@ -7684,14 +7684,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U3 'MAX9371_2_SOT-23-8_MAX9371EKA+':;
+ U3 'MAX9371ESA_SOIC8_MAX9371ESA':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS325870@GPS_INTERFACE_BOARD.MAX9371_2.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins325870@gps_interface_board.\max9371_2.normal\(chips)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins325870@gps_interface_board.\max9371_2.normal\(chips)',
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):GPS INTERFACE@GPS_INTERFACE_BOARD.01. GPS INTERFACE(SCH_1):INS540213@LOCAL_LIBRARY.MAX9371ESA.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins540213@local_library.\max9371esa.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins540213@local_library.\max9371esa.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(365,740)',
+ XY='(360,740)',
  SECTION='';
 
 PART_NAME
