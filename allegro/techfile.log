@@ -2,15 +2,15 @@
 (                                                                     )
 (    Technology File WRITE                                            )
 (                                                                     )
-(    Drawing          : gps_interface_boardv51ph_smoothed.brd         )
+(    Drawing          : gps_interface_boardv53ph.brd                  )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Thu Nov 14 08:28:57 2024                      )
+(    Date/Time        : Mon Jan 20 14:09:10 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  layout name: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd
-techfile name: tech_gps_interface_boardv51ph_smoothed.out
+  layout name: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/upenn-dune-gib/allegro/gps_interface_boardv53ph.brd
+techfile name: tech_gps_interface_boardv53ph.out
 
 
 
