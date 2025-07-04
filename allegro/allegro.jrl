@@ -1,13 +1,13 @@
 \t (00:00:14) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:14)     Journal start - Wed Jun 18 18:28:49 2025
-\t (00:00:14)         Host=IT088130 User=phdgc Pid=18232 CPUs=16
-\t (00:00:14) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:14)     Journal start - Fri Jul  4 14:53:30 2025
+\t (00:00:14)         Host=IT088130 User=phdgc Pid=50972 CPUs=16
+\t (00:00:14) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv52dc.brd
 \t (00:00:14) 
 \t (00:00:14) Loading axlcore.cxt 
 \t (00:00:15) Opening existing design...
-\i (00:00:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv52dc"
-\d (00:00:15) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv52dc.brd
-\i (00:00:15) trapsize 35460
+\i (00:00:16) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv52dc"
+\d (00:00:16) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv52dc.brd
+\i (00:00:16) trapsize 35460
 \i (00:00:16) trapsize 37156
 \i (00:00:16) trapsize 37671
 \i (00:00:16) trapsize 24591
@@ -15,10 +15,311 @@
 \t (00:00:16) > Sending response DoneOpenBoard
 \t (00:00:16) Loading NV GPU Plugin
 \i (00:00:17) generaledit 
-\i (00:00:54) open 
-\i (00:02:11) fillin "C:/Users/phdgc/downloads/uob-hep-pc072/hardware/Cadence/top/mtca_interface_board_reocc/top_mib_v3/physical/mib_rev3ox_v224_manuf.brd"
-\i (00:02:11) cd "C:/Users/phdgc/downloads/uob-hep-pc072/hardware/Cadence/top/mtca_interface_board_reocc/top_mib_v3/physical"
-\t (00:02:11) Opening existing design...
-\i (00:02:14) fillin yes 
-\i (00:02:15) trapsize 192
-\t (00:02:15)     Journal end - Wed Jun 18 18:30:50 2025
+\i (00:00:25) trapsize 38689
+\i (00:00:25) trapsize 38361
+\i (00:00:26) trapsize 42564
+\i (00:00:29) trapsize 8757
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 5481.58 4146.68
+\i (00:00:31) trapsize 4378
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 5070.19 4146.68
+\i (00:00:31) trapsize 2189
+\i (00:00:33) roam y -96 
+\i (00:00:33) roam y -96
+\i (00:00:33) roam y -96 
+\i (00:00:33) roam y -96
+\i (00:00:33) roam y -96 
+\i (00:00:33) roam y -96
+\i (00:00:34) roam y -96 
+\i (00:00:34) roam y -96
+\i (00:00:34) roam y -96 
+\i (00:00:34) roam y -96
+\i (00:00:36) show element 
+\i (00:00:41) setwindow form.find
+\i (00:00:41) FORM find components YES 
+\i (02:38:15) setwindow pcb
+\i (02:38:15) xrefdes R70 
+\i (02:38:15) xname_flush 
+\i (02:38:15) trapsize 92
+\i (02:39:22) xrefdes R258 
+\i (02:39:22) xname_flush 
+\i (02:39:22) trapsize 99
+\i (02:42:22) xname_flush '!' 
+\i (02:42:22) xrefdes R63 
+\i (02:42:22) xname_flush 
+\i (02:42:22) trapsize 182
+\i (02:42:23) xname_flush '!' 
+\i (02:42:23) xrefdes R63 
+\i (02:42:23) xname_flush 
+\i (02:42:23) trapsize 182
+\i (02:42:27) xname_flush '!' 
+\i (02:42:27) xrefdes R63 
+\i (02:42:27) xname_flush 
+\i (02:42:27) trapsize 182
+\i (02:42:28) xname_flush '!' 
+\i (02:42:28) xrefdes R63 
+\i (02:42:28) xname_flush 
+\i (02:42:28) trapsize 182
+\i (02:42:30) xname_flush '!' 
+\i (02:42:30) xrefdes R63 
+\i (02:42:30) xname_flush 
+\i (02:42:30) trapsize 182
+\i (02:42:32) xname_flush '!' 
+\i (02:42:32) xrefdes R63 
+\i (02:42:32) xname_flush 
+\i (02:42:32) trapsize 182
+\i (02:42:33) xname_flush '!' 
+\i (02:42:33) xrefdes R70 
+\i (02:42:33) xname_flush 
+\i (02:42:33) trapsize 92
+\i (02:42:35) xname_flush '!' 
+\i (02:42:35) xrefdes R63 
+\i (02:42:35) xname_flush 
+\i (02:42:35) trapsize 182
+\i (02:42:37) xname_flush '!' 
+\i (02:42:40) xrefdes R63 
+\i (02:42:40) xname_flush 
+\i (02:42:40) trapsize 182
+\i (02:42:41) xname_flush '!' 
+\i (02:42:41) xrefdes R63 
+\i (02:42:41) xname_flush 
+\i (02:42:41) trapsize 182
+\i (02:42:43) xname_flush '!' 
+\i (02:42:43) xrefdes R63 
+\i (02:42:43) xname_flush 
+\i (02:42:43) trapsize 182
+\i (02:42:44) xname_flush '!' 
+\i (02:42:44) xrefdes R63 
+\i (02:42:44) xname_flush 
+\i (02:42:44) trapsize 182
+\i (02:42:48) xname_flush '!' 
+\i (02:42:50) xrefdes R63 
+\i (02:42:50) xname_flush 
+\i (02:42:50) trapsize 182
+\i (02:42:52) xname_flush '!' 
+\i (02:42:52) xrefdes R63 
+\i (02:42:52) xname_flush 
+\i (02:42:52) trapsize 182
+\i (02:42:52) xname_flush '!' 
+\i (02:42:52) xrefdes R63 
+\i (02:42:52) xname_flush 
+\i (02:42:52) trapsize 182
+\i (02:42:53) xname_flush '!' 
+\i (02:42:53) xrefdes R63 
+\i (02:42:53) xname_flush 
+\i (02:42:53) trapsize 182
+\i (02:42:54) xname_flush '!' 
+\i (02:42:54) xrefdes R70 
+\i (02:42:54) xname_flush 
+\i (02:42:54) trapsize 92
+\i (02:42:55) xname_flush '!' 
+\i (02:42:55) xrefdes R70 
+\i (02:42:55) xname_flush 
+\i (02:42:55) trapsize 92
+\i (02:43:32) xname_flush '!' 
+\i (02:43:32) xrefdes R63 
+\i (02:43:32) xname_flush 
+\i (02:43:32) trapsize 182
+\i (02:45:44) xname_flush '!' 
+\i (02:45:47) xrefdes R112 
+\i (02:45:47) xname_flush 
+\i (02:45:47) trapsize 205
+\i (02:45:49) xname_flush '!' 
+\i (02:45:49) xrefdes R112 
+\i (02:45:49) xname_flush 
+\i (02:45:49) trapsize 205
+\i (02:46:18) xname_flush '!' 
+\i (02:46:18) xrefdes R113 
+\i (02:46:18) xname_flush 
+\i (02:46:18) trapsize 205
+\i (02:46:20) xname_flush '!' 
+\i (02:46:20) xrefdes R113 
+\i (02:46:20) xname_flush 
+\i (02:46:20) trapsize 205
+\i (02:47:23) xname_flush '!' 
+\i (02:47:25) xrefdes R63 
+\i (02:47:25) xname_flush 
+\i (02:47:25) trapsize 205
+\i (02:47:27) xname_flush '!' 
+\i (02:47:27) xrefdes R63 
+\i (02:47:27) xname_flush 
+\i (02:47:27) trapsize 205
+\i (02:48:30) xname_flush '!' 
+\i (02:48:31) xrefdes R70 
+\i (02:48:31) xname_flush 
+\i (02:48:31) trapsize 92
+\i (02:48:34) xname_flush '!' 
+\i (02:48:34) xrefdes R63 
+\i (02:48:34) xname_flush 
+\i (02:48:34) trapsize 182
+\i (02:48:38) xname_flush '!' 
+\i (02:50:38) xrefdes R114 
+\i (02:50:38) xname_flush 
+\i (02:50:38) trapsize 123
+\i (02:50:39) xname_flush '!' 
+\i (02:50:39) xrefdes R114 
+\i (02:50:39) xname_flush 
+\i (02:50:39) trapsize 123
+\i (02:51:51) xname_flush '!' 
+\i (02:51:51) xrefdes R118 
+\i (02:51:51) xname_flush 
+\i (02:51:51) trapsize 205
+\i (02:51:53) xname_flush '!' 
+\i (02:51:53) xrefdes R118 
+\i (02:51:53) xname_flush 
+\i (02:51:53) trapsize 205
+\i (02:52:27) xname_flush '!' 
+\i (02:52:27) xrefdes R255.2 
+\i (02:52:27) xname_flush 
+\i (02:52:27) trapsize 23
+\i (02:52:28) xname_flush '!' 
+\i (02:52:28) xrefdes R255 
+\i (02:52:28) xname_flush 
+\i (02:52:28) trapsize 205
+\i (02:52:29) xname_flush '!' 
+\i (02:52:29) xrefdes R255 
+\i (02:52:29) xname_flush 
+\i (02:52:29) trapsize 205
+\i (02:53:07) xname_flush '!' 
+\i (02:53:07) xrefdes R115 
+\i (02:53:07) xname_flush 
+\i (02:53:07) trapsize 205
+\i (02:53:07) xname_flush '!' 
+\i (02:53:07) xrefdes R115 
+\i (02:53:07) xname_flush 
+\i (02:53:07) trapsize 205
+\i (02:53:10) xname_flush '!' 
+\i (02:53:10) xrefdes R114 
+\i (02:53:10) xname_flush 
+\i (02:53:10) trapsize 123
+\i (02:53:50) xname_flush '!' 
+\i (02:55:18) xname_flush '!' 
+\i (02:56:31) xrefdes R262 
+\i (02:56:31) xname_flush 
+\i (02:56:31) trapsize 200
+\i (02:56:33) xname_flush '!' 
+\i (02:56:33) xrefdes R262 
+\i (02:56:33) xname_flush 
+\i (02:56:33) trapsize 200
+\i (02:56:51) xname_flush '!' 
+\i (02:56:51) xrefdes R262 
+\i (02:56:51) xname_flush 
+\i (02:56:51) trapsize 200
+\i (02:57:25) xname_flush '!' 
+\i (02:58:40) xrefdes R2662 
+\i (02:58:40) xname_flush 
+\i (02:58:40) trapsize 230
+\i (02:58:46) xname_flush '!' 
+\i (02:58:46) xrefdes R2666 
+\i (02:58:46) xname_flush 
+\i (02:58:46) trapsize 93
+\i (02:58:47) xname_flush '!' 
+\i (02:58:47) xrefdes R2666 
+\i (02:58:47) xname_flush 
+\i (02:58:47) trapsize 93
+\i (02:58:48) xname_flush '!' 
+\i (02:58:48) xrefdes R2666 
+\i (02:58:48) xname_flush 
+\i (02:58:48) trapsize 93
+\i (02:58:50) xname_flush '!' 
+\i (02:58:50) xrefdes R2666 
+\i (02:58:50) xname_flush 
+\i (02:58:50) trapsize 93
+\i (02:58:51) xname_flush '!' 
+\i (02:58:51) xrefdes R2666 
+\i (02:58:51) xname_flush 
+\i (02:58:51) trapsize 93
+\i (02:58:53) xname_flush '!' 
+\i (02:59:33) xrefdes R2665 
+\i (02:59:33) xname_flush 
+\i (02:59:33) trapsize 230
+\i (02:59:34) xname_flush '!' 
+\i (02:59:34) xrefdes R2665 
+\i (02:59:34) xname_flush 
+\i (02:59:34) trapsize 230
+\i (03:00:04) xname_flush '!' 
+\i (03:01:32) zoom out 1 
+\i (03:01:32) setwindow pcb
+\i (03:01:32) zoom out 2179.10 2123.29
+\i (03:01:32) trapsize 461
+\t (03:01:32) [17:54:49.326000] Periodic Lic check successful
+[17:54:49.326000] Feature usage summary:
+[17:54:49.326000] Allegro_X_Platinum_Layout
+[17:54:49.326000] Allegro_Venture_PCB_Designer
+[17:54:49.326000] PCB_design_studio
+[17:54:49.326000] Venture_PCB_Schematic
+[17:54:49.326000] Allegro_Venture_PCB_Designer2
+
+\i (03:01:33) zoom out 1 
+\i (03:01:33) setwindow pcb
+\i (03:01:33) zoom out 2179.10 2123.30
+\i (03:01:33) trapsize 921
+\i (03:01:34) zoom out 1 
+\i (03:01:34) setwindow pcb
+\i (03:01:34) zoom out 2179.11 2132.50
+\i (03:01:34) trapsize 1842
+\i (03:01:34) zoom out 1 
+\i (03:01:34) setwindow pcb
+\i (03:01:34) zoom out 2179.11 2132.51
+\i (03:01:34) trapsize 3684
+\i (03:01:35) roam y -96 
+\i (03:01:36) roam y -96
+\i (03:01:36) roam y -96 
+\i (03:01:36) roam y -96
+\i (03:01:36) roam y -96 
+\i (03:01:36) roam y -96
+\i (03:01:36) roam y -96 
+\i (03:01:36) roam y -96
+\i (03:01:36) roam x 96 
+\i (03:01:36) roam x 96
+\i (03:01:37) roam x 96 
+\i (03:01:37) roam x 96
+\i (03:01:48) trapsize 17055
+\i (03:01:48) trapsize 16537
+\i (03:01:50) trapsize 16141
+\i (03:01:51) trapsize 6375
+\i (03:01:51) trapsize 15381
+\i (03:01:51) trapsize 16537
+\i (03:02:01) trapsize 8421
+\i (03:02:02) trapsize 7931
+\i (03:02:05) trapsize 7936
+\i (03:02:05) trapsize 8341
+\i (03:02:05) trapsize 8371
+\i (03:02:05) trapsize 8585
+\i (03:02:07) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (03:02:10) zoom in 1 
+\i (03:02:10) setwindow pcb
+\i (03:02:10) zoom in 188.34 5260.21
+\i (03:02:10) trapsize 4292
+\i (03:02:10) zoom in 1 
+\i (03:02:10) setwindow pcb
+\i (03:02:10) zoom in 188.34 5260.21
+\i (03:02:10) trapsize 2146
+\i (03:02:11) zoom in 1 
+\i (03:02:11) setwindow pcb
+\i (03:02:11) zoom in 188.35 5260.22
+\i (03:02:11) trapsize 1073
+\i (03:02:12) roam x 96 
+\i (03:02:12) roam x 96
+\i (03:02:12) roam x 96 
+\i (03:02:12) roam x 96
+\i (03:02:12) roam x 96 
+\i (03:02:12) roam x 96
+\i (03:02:13) roam x 96 
+\i (03:02:13) roam x 96
+\i (03:02:32) exit 
+\e (03:02:32) Do you want to save the changes you made to gps_interface_boardv52dc.brd?
+\i (03:02:35) fillin no 
+\t (03:02:35) Lic Summary:
+[17:55:51.272712] Cdslmd servers: ppl
+[17:55:51.797000] Feature usage summary:
+[17:55:51.797000] Allegro_X_Platinum_Layout
+[17:55:51.797000] Allegro_Venture_PCB_Designer
+[17:55:51.797000] PCB_design_studio
+[17:55:51.797000] Venture_PCB_Schematic
+[17:55:51.797000] Allegro_Venture_PCB_Designer2
+
+\t (03:02:35)     Journal end - Fri Jul  4 17:55:51 2025
