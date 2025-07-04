@@ -1,325 +1,359 @@
-\t (00:00:14) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:14)     Journal start - Fri Jul  4 14:53:30 2025
-\t (00:00:14)         Host=IT088130 User=phdgc Pid=50972 CPUs=16
-\t (00:00:14) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv52dc.brd
-\t (00:00:14) 
-\t (00:00:14) Loading axlcore.cxt 
-\t (00:00:15) Opening existing design...
-\i (00:00:16) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv52dc"
-\d (00:00:16) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv52dc.brd
-\i (00:00:16) trapsize 35460
-\i (00:00:16) trapsize 37156
-\i (00:00:16) trapsize 37671
-\i (00:00:16) trapsize 24591
-\i (00:00:16) trapsize 24591
-\t (00:00:16) > Sending response DoneOpenBoard
-\t (00:00:16) Loading NV GPU Plugin
-\i (00:00:17) generaledit 
-\i (00:00:25) trapsize 38689
-\i (00:00:25) trapsize 38361
-\i (00:00:26) trapsize 42564
-\i (00:00:29) trapsize 8757
-\i (00:00:31) zoom in 1 
-\i (00:00:31) setwindow pcb
-\i (00:00:31) zoom in 5481.58 4146.68
-\i (00:00:31) trapsize 4378
-\i (00:00:31) zoom in 1 
-\i (00:00:31) setwindow pcb
-\i (00:00:31) zoom in 5070.19 4146.68
-\i (00:00:31) trapsize 2189
-\i (00:00:33) roam y -96 
-\i (00:00:33) roam y -96
-\i (00:00:33) roam y -96 
-\i (00:00:33) roam y -96
-\i (00:00:33) roam y -96 
-\i (00:00:33) roam y -96
-\i (00:00:34) roam y -96 
-\i (00:00:34) roam y -96
-\i (00:00:34) roam y -96 
-\i (00:00:34) roam y -96
-\i (00:00:36) show element 
-\i (00:00:41) setwindow form.find
-\i (00:00:41) FORM find components YES 
-\i (02:38:15) setwindow pcb
-\i (02:38:15) xrefdes R70 
-\i (02:38:15) xname_flush 
-\i (02:38:15) trapsize 92
-\i (02:39:22) xrefdes R258 
-\i (02:39:22) xname_flush 
-\i (02:39:22) trapsize 99
-\i (02:42:22) xname_flush '!' 
-\i (02:42:22) xrefdes R63 
-\i (02:42:22) xname_flush 
-\i (02:42:22) trapsize 182
-\i (02:42:23) xname_flush '!' 
-\i (02:42:23) xrefdes R63 
-\i (02:42:23) xname_flush 
-\i (02:42:23) trapsize 182
-\i (02:42:27) xname_flush '!' 
-\i (02:42:27) xrefdes R63 
-\i (02:42:27) xname_flush 
-\i (02:42:27) trapsize 182
-\i (02:42:28) xname_flush '!' 
-\i (02:42:28) xrefdes R63 
-\i (02:42:28) xname_flush 
-\i (02:42:28) trapsize 182
-\i (02:42:30) xname_flush '!' 
-\i (02:42:30) xrefdes R63 
-\i (02:42:30) xname_flush 
-\i (02:42:30) trapsize 182
-\i (02:42:32) xname_flush '!' 
-\i (02:42:32) xrefdes R63 
-\i (02:42:32) xname_flush 
-\i (02:42:32) trapsize 182
-\i (02:42:33) xname_flush '!' 
-\i (02:42:33) xrefdes R70 
-\i (02:42:33) xname_flush 
-\i (02:42:33) trapsize 92
-\i (02:42:35) xname_flush '!' 
-\i (02:42:35) xrefdes R63 
-\i (02:42:35) xname_flush 
-\i (02:42:35) trapsize 182
-\i (02:42:37) xname_flush '!' 
-\i (02:42:40) xrefdes R63 
-\i (02:42:40) xname_flush 
-\i (02:42:40) trapsize 182
-\i (02:42:41) xname_flush '!' 
-\i (02:42:41) xrefdes R63 
-\i (02:42:41) xname_flush 
-\i (02:42:41) trapsize 182
-\i (02:42:43) xname_flush '!' 
-\i (02:42:43) xrefdes R63 
-\i (02:42:43) xname_flush 
-\i (02:42:43) trapsize 182
-\i (02:42:44) xname_flush '!' 
-\i (02:42:44) xrefdes R63 
-\i (02:42:44) xname_flush 
-\i (02:42:44) trapsize 182
-\i (02:42:48) xname_flush '!' 
-\i (02:42:50) xrefdes R63 
-\i (02:42:50) xname_flush 
-\i (02:42:50) trapsize 182
-\i (02:42:52) xname_flush '!' 
-\i (02:42:52) xrefdes R63 
-\i (02:42:52) xname_flush 
-\i (02:42:52) trapsize 182
-\i (02:42:52) xname_flush '!' 
-\i (02:42:52) xrefdes R63 
-\i (02:42:52) xname_flush 
-\i (02:42:52) trapsize 182
-\i (02:42:53) xname_flush '!' 
-\i (02:42:53) xrefdes R63 
-\i (02:42:53) xname_flush 
-\i (02:42:53) trapsize 182
-\i (02:42:54) xname_flush '!' 
-\i (02:42:54) xrefdes R70 
-\i (02:42:54) xname_flush 
-\i (02:42:54) trapsize 92
-\i (02:42:55) xname_flush '!' 
-\i (02:42:55) xrefdes R70 
-\i (02:42:55) xname_flush 
-\i (02:42:55) trapsize 92
-\i (02:43:32) xname_flush '!' 
-\i (02:43:32) xrefdes R63 
-\i (02:43:32) xname_flush 
-\i (02:43:32) trapsize 182
-\i (02:45:44) xname_flush '!' 
-\i (02:45:47) xrefdes R112 
-\i (02:45:47) xname_flush 
-\i (02:45:47) trapsize 205
-\i (02:45:49) xname_flush '!' 
-\i (02:45:49) xrefdes R112 
-\i (02:45:49) xname_flush 
-\i (02:45:49) trapsize 205
-\i (02:46:18) xname_flush '!' 
-\i (02:46:18) xrefdes R113 
-\i (02:46:18) xname_flush 
-\i (02:46:18) trapsize 205
-\i (02:46:20) xname_flush '!' 
-\i (02:46:20) xrefdes R113 
-\i (02:46:20) xname_flush 
-\i (02:46:20) trapsize 205
-\i (02:47:23) xname_flush '!' 
-\i (02:47:25) xrefdes R63 
-\i (02:47:25) xname_flush 
-\i (02:47:25) trapsize 205
-\i (02:47:27) xname_flush '!' 
-\i (02:47:27) xrefdes R63 
-\i (02:47:27) xname_flush 
-\i (02:47:27) trapsize 205
-\i (02:48:30) xname_flush '!' 
-\i (02:48:31) xrefdes R70 
-\i (02:48:31) xname_flush 
-\i (02:48:31) trapsize 92
-\i (02:48:34) xname_flush '!' 
-\i (02:48:34) xrefdes R63 
-\i (02:48:34) xname_flush 
-\i (02:48:34) trapsize 182
-\i (02:48:38) xname_flush '!' 
-\i (02:50:38) xrefdes R114 
-\i (02:50:38) xname_flush 
-\i (02:50:38) trapsize 123
-\i (02:50:39) xname_flush '!' 
-\i (02:50:39) xrefdes R114 
-\i (02:50:39) xname_flush 
-\i (02:50:39) trapsize 123
-\i (02:51:51) xname_flush '!' 
-\i (02:51:51) xrefdes R118 
-\i (02:51:51) xname_flush 
-\i (02:51:51) trapsize 205
-\i (02:51:53) xname_flush '!' 
-\i (02:51:53) xrefdes R118 
-\i (02:51:53) xname_flush 
-\i (02:51:53) trapsize 205
-\i (02:52:27) xname_flush '!' 
-\i (02:52:27) xrefdes R255.2 
-\i (02:52:27) xname_flush 
-\i (02:52:27) trapsize 23
-\i (02:52:28) xname_flush '!' 
-\i (02:52:28) xrefdes R255 
-\i (02:52:28) xname_flush 
-\i (02:52:28) trapsize 205
-\i (02:52:29) xname_flush '!' 
-\i (02:52:29) xrefdes R255 
-\i (02:52:29) xname_flush 
-\i (02:52:29) trapsize 205
-\i (02:53:07) xname_flush '!' 
-\i (02:53:07) xrefdes R115 
-\i (02:53:07) xname_flush 
-\i (02:53:07) trapsize 205
-\i (02:53:07) xname_flush '!' 
-\i (02:53:07) xrefdes R115 
-\i (02:53:07) xname_flush 
-\i (02:53:07) trapsize 205
-\i (02:53:10) xname_flush '!' 
-\i (02:53:10) xrefdes R114 
-\i (02:53:10) xname_flush 
-\i (02:53:10) trapsize 123
-\i (02:53:50) xname_flush '!' 
-\i (02:55:18) xname_flush '!' 
-\i (02:56:31) xrefdes R262 
-\i (02:56:31) xname_flush 
-\i (02:56:31) trapsize 200
-\i (02:56:33) xname_flush '!' 
-\i (02:56:33) xrefdes R262 
-\i (02:56:33) xname_flush 
-\i (02:56:33) trapsize 200
-\i (02:56:51) xname_flush '!' 
-\i (02:56:51) xrefdes R262 
-\i (02:56:51) xname_flush 
-\i (02:56:51) trapsize 200
-\i (02:57:25) xname_flush '!' 
-\i (02:58:40) xrefdes R2662 
-\i (02:58:40) xname_flush 
-\i (02:58:40) trapsize 230
-\i (02:58:46) xname_flush '!' 
-\i (02:58:46) xrefdes R2666 
-\i (02:58:46) xname_flush 
-\i (02:58:46) trapsize 93
-\i (02:58:47) xname_flush '!' 
-\i (02:58:47) xrefdes R2666 
-\i (02:58:47) xname_flush 
-\i (02:58:47) trapsize 93
-\i (02:58:48) xname_flush '!' 
-\i (02:58:48) xrefdes R2666 
-\i (02:58:48) xname_flush 
-\i (02:58:48) trapsize 93
-\i (02:58:50) xname_flush '!' 
-\i (02:58:50) xrefdes R2666 
-\i (02:58:50) xname_flush 
-\i (02:58:50) trapsize 93
-\i (02:58:51) xname_flush '!' 
-\i (02:58:51) xrefdes R2666 
-\i (02:58:51) xname_flush 
-\i (02:58:51) trapsize 93
-\i (02:58:53) xname_flush '!' 
-\i (02:59:33) xrefdes R2665 
-\i (02:59:33) xname_flush 
-\i (02:59:33) trapsize 230
-\i (02:59:34) xname_flush '!' 
-\i (02:59:34) xrefdes R2665 
-\i (02:59:34) xname_flush 
-\i (02:59:34) trapsize 230
-\i (03:00:04) xname_flush '!' 
-\i (03:01:32) zoom out 1 
-\i (03:01:32) setwindow pcb
-\i (03:01:32) zoom out 2179.10 2123.29
-\i (03:01:32) trapsize 461
-\t (03:01:32) [17:54:49.326000] Periodic Lic check successful
-[17:54:49.326000] Feature usage summary:
-[17:54:49.326000] Allegro_X_Platinum_Layout
-[17:54:49.326000] Allegro_Venture_PCB_Designer
-[17:54:49.326000] PCB_design_studio
-[17:54:49.326000] Venture_PCB_Schematic
-[17:54:49.326000] Allegro_Venture_PCB_Designer2
+\t (00:00:07) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Fri Jul  4 18:20:16 2025
+\t (00:00:07)         Host=IT088130 User=phdgc Pid=34376 CPUs=16
+\t (00:00:07) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv54dc.brd
+\t (00:00:07) 
+\t (00:00:08) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:13) fillin yes 
+\i (00:00:13) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
+\d (00:00:13) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\i (00:00:13) trapsize 10969
+\i (00:00:14) trapsize 11328
+\i (00:00:14) trapsize 11435
+\i (00:00:14) trapsize 9085
+\i (00:00:14) trapsize 11582
+\t (00:00:14) > Sending response DoneOpenBoard
+\t (00:00:14) Loading NV GPU Plugin
+\i (00:00:15) generaledit 
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find find_name r112 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) trapsize 300
+\i (00:00:45) pick grid 1415.27 3560.65
+\t (00:00:45) last pick:  1420.00 3560.00
+\i (00:00:48) prepopup 1411.67 3655.45
+\i (00:00:49) pick grid 1410.47 3567.85
+\t (00:00:49) last pick:  1410.00 3570.00
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 1484.26 3562.45
+\i (00:00:50) trapsize 600
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 1485.46 3562.46
+\i (00:00:51) trapsize 1200
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 1485.46 3562.45
+\i (00:00:51) trapsize 2400
+\i (00:00:53) save 
+\i (00:00:55) fillin yes 
+\t (00:00:55) > Sending response DoneOpenBoard
+\i (00:00:55) generaledit 
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 2358.98 2943.31
+\i (00:01:00) trapsize 1200
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 2358.98 2943.31
+\i (00:01:00) trapsize 600
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 2358.98 2943.31
+\i (00:01:01) trapsize 300
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 2358.98 2943.91
+\i (00:01:01) trapsize 150
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 2358.98 2944.21
+\i (00:01:01) trapsize 300
+\i (00:01:03) roam y 96 
+\i (00:01:03) roam y 96
+\i (00:01:03) roam y 96 
+\i (00:01:03) roam y 96
+\i (00:01:03) roam y 96 
+\i (00:01:03) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:05) roam y 96 
+\i (00:01:05) roam y 96
+\i (00:01:05) roam y 96 
+\i (00:01:05) roam y 96
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 2358.98 2425.42
+\i (00:01:07) trapsize 600
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 2358.98 2425.42
+\i (00:01:07) trapsize 1200
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 2368.58 2425.42
+\i (00:01:09) trapsize 2400
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 2368.58 2425.42
+\i (00:01:09) trapsize 4800
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 3770.05 1436.71
+\i (00:01:11) trapsize 2400
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 3770.06 1436.71
+\i (00:01:11) trapsize 1200
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 3770.06 1436.71
+\i (00:01:11) trapsize 600
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 3770.06 1436.71
+\i (00:01:12) trapsize 1200
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 3770.07 1436.71
+\i (00:01:12) trapsize 2400
+\i (00:01:14) roam y -96 
+\i (00:01:14) roam y -96
+\i (00:01:14) roam y -96 
+\i (00:01:14) roam y -96
+\i (00:01:14) roam y -96 
+\i (00:01:14) roam y -96
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 3530.09 4336.89
+\i (00:01:24) trapsize 1200
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 3530.09 4336.90
+\i (00:01:24) trapsize 600
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 3540.89 4340.50
+\i (00:01:25) trapsize 1200
+\i (00:01:32) setwindow form.find
+\i (00:01:32) FORM find symbols NO 
+\i (00:02:04) FORM find symbols YES 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) prepopup 4246.42 5274.01
+\i (00:03:43) plctxt out 
+\i (00:04:10) setwindow form.plctxt
+\i (00:04:10) FORM plctxt filename gps_interface_board_placement_v54dc 
+\i (00:04:11) FORM plctxt execute  
+\t (00:04:11) Starting Place symbols by text file...
+\t (00:04:12) SpawnProcessExit background process completed status = 0
 
-\i (03:01:33) zoom out 1 
-\i (03:01:33) setwindow pcb
-\i (03:01:33) zoom out 2179.10 2123.30
-\i (03:01:33) trapsize 921
-\i (03:01:34) zoom out 1 
-\i (03:01:34) setwindow pcb
-\i (03:01:34) zoom out 2179.11 2132.50
-\i (03:01:34) trapsize 1842
-\i (03:01:34) zoom out 1 
-\i (03:01:34) setwindow pcb
-\i (03:01:34) zoom out 2179.11 2132.51
-\i (03:01:34) trapsize 3684
-\i (03:01:35) roam y -96 
-\i (03:01:36) roam y -96
-\i (03:01:36) roam y -96 
-\i (03:01:36) roam y -96
-\i (03:01:36) roam y -96 
-\i (03:01:36) roam y -96
-\i (03:01:36) roam y -96 
-\i (03:01:36) roam y -96
-\i (03:01:36) roam x 96 
-\i (03:01:36) roam x 96
-\i (03:01:37) roam x 96 
-\i (03:01:37) roam x 96
-\i (03:01:48) trapsize 17055
-\i (03:01:48) trapsize 16537
-\i (03:01:50) trapsize 16141
-\i (03:01:51) trapsize 6375
-\i (03:01:51) trapsize 15381
-\i (03:01:51) trapsize 16537
-\i (03:02:01) trapsize 8421
-\i (03:02:02) trapsize 7931
-\i (03:02:05) trapsize 7936
-\i (03:02:05) trapsize 8341
-\i (03:02:05) trapsize 8371
-\i (03:02:05) trapsize 8585
-\i (03:02:07) QtSignal CVPLayerGrid CVPAllConductors clicked true
-\i (03:02:10) zoom in 1 
-\i (03:02:10) setwindow pcb
-\i (03:02:10) zoom in 188.34 5260.21
-\i (03:02:10) trapsize 4292
-\i (03:02:10) zoom in 1 
-\i (03:02:10) setwindow pcb
-\i (03:02:10) zoom in 188.34 5260.21
-\i (03:02:10) trapsize 2146
-\i (03:02:11) zoom in 1 
-\i (03:02:11) setwindow pcb
-\i (03:02:11) zoom in 188.35 5260.22
-\i (03:02:11) trapsize 1073
-\i (03:02:12) roam x 96 
-\i (03:02:12) roam x 96
-\i (03:02:12) roam x 96 
-\i (03:02:12) roam x 96
-\i (03:02:12) roam x 96 
-\i (03:02:12) roam x 96
-\i (03:02:13) roam x 96 
-\i (03:02:13) roam x 96
-\i (03:02:32) exit 
-\e (03:02:32) Do you want to save the changes you made to gps_interface_boardv52dc.brd?
-\i (03:02:35) fillin no 
-\t (03:02:35) Lic Summary:
-[17:55:51.272712] Cdslmd servers: ppl
-[17:55:51.797000] Feature usage summary:
-[17:55:51.797000] Allegro_X_Platinum_Layout
-[17:55:51.797000] Allegro_Venture_PCB_Designer
-[17:55:51.797000] PCB_design_studio
-[17:55:51.797000] Venture_PCB_Schematic
-[17:55:51.797000] Allegro_Venture_PCB_Designer2
+\i (00:04:18) setwindow pcb
+\i (00:04:18) place manual 
+\i (00:04:18) setwindow form.plc_manual
+\i (00:04:18) FORM plc_manual tree  'Components by refdes' 
+\i (00:04:21) FORM plc_manual cancel  
+\i (00:04:21) setwindow pcb
+\i (00:04:21) generaledit 
+\i (00:04:27) setwindow form.find
+\i (00:04:27) FORM find find_name r2665 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) trapsize 338
+\i (00:04:47) pick grid 1675.95 2029.45
+\t (00:04:47) last pick:  1680.00 2030.00
+\i (00:04:50) show element 
+\i (00:04:50) generaledit 
+\i (00:04:56) setwindow text
+\i (00:04:56) close
+\t (00:05:19) > DoPhysicalNetlistGenerate message received
+\t (00:05:19) > Generating physical netlist...
+\t (00:05:19) Starting genfeedformat...
+\t (00:05:19) > Sending response DonePhysicalNetlistGeneration
+\t (00:05:19) > Physical Netlist Generated
+\t (00:05:26) > DoPullSchematic message received
+\t (00:05:26) > Pulling schematic...
+\t (00:05:26) Starting Cadence Logic Import...
+\t (00:05:27) Opening existing design...
+\i (00:05:28) setwindow pcb
+\i (00:05:28) trapsize 338
+\t (00:05:28) > Sending response DonePullSchematic
+\t (00:05:28) > Schematic pulled successfully
+\i (00:05:28) generaledit 
+\t (00:05:28) [18:25:37.207000] Periodic Lic check successful
+[18:25:37.207000] Feature usage summary:
+[18:25:37.207000] Allegro_X_Platinum_Layout
+[18:25:37.207000] Allegro_Venture_PCB_Designer
+[18:25:37.207000] PCB_design_studio
+[18:25:37.207000] Venture_PCB_Schematic
+[18:25:37.207000] Allegro_Venture_PCB_Designer2
 
-\t (03:02:35)     Journal end - Fri Jul  4 17:55:51 2025
+\i (00:05:49) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:05:55) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:06:04) plctxt in 
+\i (00:06:07) setwindow form.plctxt
+\i (00:06:07) FORM plctxt browse  
+\i (00:06:22) fillin "gps_interface_board_placement_v54dc.txt"
+\i (00:06:24) FORM plctxt execute  
+\t (00:06:24) Starting Place symbols by text file...
+\t (00:06:25) SpawnProcessExit background process completed status = 0
+
+\t (00:06:25) Opening existing design...
+\i (00:06:26) setwindow pcb
+\i (00:06:26) trapsize 338
+\i (00:06:44) place manual 
+\i (00:06:44) setwindow form.plc_manual
+\i (00:06:44) FORM plc_manual tree  'Components by refdes' 
+\i (00:06:47) FORM plc_manual cancel  
+\i (00:06:47) setwindow pcb
+\i (00:06:47) generaledit 
+\i (00:06:49) save 
+\i (00:06:51) fillin yes 
+\t (00:06:52) > Sending response DoneOpenBoard
+\i (00:06:52) generaledit 
+\i (00:06:56) pick grid 1686.08 2029.45
+\t (00:06:56) last pick:  1690.00 2030.00
+\i (00:06:59) show element 
+\i (00:06:59) generaledit 
+\i (00:07:09) setwindow text
+\i (00:07:09) close
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom out 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom out 1469.30 2007.84
+\i (00:07:19) trapsize 675
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 1469.31 2007.83
+\i (00:07:20) trapsize 1351
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 1469.31 2007.84
+\i (00:07:20) trapsize 2701
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 1469.31 2007.84
+\i (00:07:20) trapsize 5402
+\i (00:07:23) zoom in 1 
+\i (00:07:23) setwindow pcb
+\i (00:07:23) zoom in 205.15 927.36
+\i (00:07:23) trapsize 2701
+\i (00:07:23) zoom in 1 
+\i (00:07:23) setwindow pcb
+\i (00:07:23) zoom in 269.98 975.98
+\i (00:07:23) trapsize 1351
+\i (00:07:23) zoom in 1 
+\i (00:07:23) setwindow pcb
+\i (00:07:23) zoom in 245.67 973.28
+\i (00:07:23) trapsize 675
+\i (00:07:23) zoom in 1 
+\i (00:07:23) setwindow pcb
+\i (00:07:23) zoom in 245.67 973.28
+\i (00:07:23) trapsize 338
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 255.13 984.76
+\i (00:07:25) trapsize 675
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 255.12 984.76
+\i (00:07:25) trapsize 1351
+\i (00:07:26) zoom in 1 
+\i (00:07:26) setwindow pcb
+\i (00:07:26) zoom in 255.12 984.76
+\i (00:07:26) trapsize 675
+\i (00:07:29) show element 
+\i (00:07:29) generaledit 
+\i (00:07:38) setwindow form.find
+\i (00:07:38) FORM find all_off  
+\i (00:07:39) FORM find vias YES 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) pick grid 419.89 1000.97
+\t (00:07:41) last pick:  420.00 1000.00
+\i (00:07:45) show element 
+\i (00:07:45) generaledit 
+\i (00:07:57) zoom out 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom out 1041.17 1002.32
+\i (00:07:57) trapsize 1351
+\i (00:07:57) zoom out 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom out 1041.16 1002.31
+\i (00:07:57) trapsize 2701
+\i (00:07:58) roam y 96 
+\i (00:07:58) roam y 96
+\i (00:07:58) roam y 96 
+\i (00:07:58) roam y 96
+\i (00:07:59) zoom in 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom in 2521.41 39.01
+\i (00:07:59) trapsize 1351
+\i (00:07:59) zoom in 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom in 2534.92 55.22
+\i (00:07:59) trapsize 675
+\i (00:08:00) roam y -96 
+\i (00:08:00) roam y -96
+\i (00:08:00) roam y -96 
+\i (00:08:00) roam y -96
+\i (00:08:01) roam y -96 
+\i (00:08:01) roam y -96
+\i (00:08:01) roam y -96 
+\i (00:08:01) roam y -96
+\i (00:08:01) roam y -96 
+\i (00:08:01) roam y -96
+\i (00:08:01) roam x -96 
+\i (00:08:01) roam x -96
+\i (00:08:02) roam x -96 
+\i (00:08:02) roam x -96
+\i (00:08:02) roam x -96 
+\i (00:08:02) roam x -96
+\i (00:08:06) zoom out 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom out 991.18 1219.44
+\i (00:08:06) trapsize 1351
+\i (00:08:07) roam y -96 
+\i (00:08:07) roam y -96
+\i (00:08:07) roam y -96 
+\i (00:08:07) roam y -96
+\i (00:08:07) roam y -96 
+\i (00:08:07) roam y -96
+\i (00:08:08) roam y -96 
+\i (00:08:08) roam y -96
+\i (00:08:08) roam y -96 
+\i (00:08:08) roam y -96
+\i (00:08:09) roam y -96 
+\i (00:08:09) roam y -96
+\i (00:08:09) roam y -96 
+\i (00:08:09) roam y -96
+\i (00:08:09) roam y -96 
+\i (00:08:09) roam y -96
+\i (00:08:09) roam y -96 
+\i (00:08:09) roam y -96
+\i (00:08:09) roam y -96 
+\i (00:08:09) roam y -96
+\i (00:08:10) roam y -96 
+\i (00:08:10) roam y -96
+\i (00:13:58) exit 
+\t (00:13:58) [18:34:06.019712] Periodic Lic check successful
+[18:34:06.544000] Feature usage summary:
+[18:34:06.544000] Allegro_X_Platinum_Layout
+[18:34:06.544000] Allegro_Venture_PCB_Designer
+[18:34:06.544000] PCB_design_studio
+[18:34:06.544000] Venture_PCB_Schematic
+[18:34:06.544000] Allegro_Venture_PCB_Designer2
+
+\t (00:13:58) Lic Summary:
+[18:34:06.404712] Cdslmd servers: ppl
+[18:34:06.929000] Feature usage summary:
+[18:34:06.929000] Allegro_X_Platinum_Layout
+[18:34:06.929000] Allegro_Venture_PCB_Designer
+[18:34:06.929000] PCB_design_studio
+[18:34:06.929000] Venture_PCB_Schematic
+[18:34:06.929000] Allegro_Venture_PCB_Designer2
+
+\t (00:13:58)     Journal end - Fri Jul  4 18:34:06 2025

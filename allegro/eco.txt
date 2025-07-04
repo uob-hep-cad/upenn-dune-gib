@@ -2,100 +2,51 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd          |
-|                                                    Mon Nov 25 17:47:42 2024  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND_POWER    pins MOVED FROM this net (to net name listed on right)
-                                 U2.2                           
-                                                                      PPS_OUT_P
-                                 U3.2                           
-                                                                     SYNC_OUT_P
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U2.5                           
-                                 U3.5                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_PPS_IN   pins MOVED FROM this net (to net name listed on right)
-                                 U2.3                           
-                                                                      PPS_OUT_N
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_SYNC_IN  pins MOVED FROM this net (to net name listed on right)
-                                 U3.3                           
-                                                                     SYNC_OUT_N
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  PPS_OUT_N    pins DELETED FROM this net (pin now not on any net)
-                                 U2.6                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  PPS_OUT_P    pins MOVED FROM this net (to net name listed on right)
-                                 U2.7                           
-                                                                     GPS_PPS_IN
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SYNC_OUT_N   pins DELETED FROM this net (pin now not on any net)
-                                 U3.6                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SYNC_OUT_P   pins MOVED FROM this net (to net name listed on right)
-                                 U3.7                           
-                                                                    GPS_SYNC_IN
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC5V_LFILT  pins DELETED FROM this net (pin now not on any net)
-                                 U2.1                           
-                                 U3.1                           
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U2.8                           
-                                 U3.8                           
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
-|------------------------------------------------------------------------------|
-|  C:.../upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd          |
-|                                                    Mon Nov 25 17:47:42 2024  |
-|------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- MAX9371ESA_SOIC8_MAX9371ESA
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:.../upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd          |
-|                                                    Mon Nov 25 17:47:42 2024  |
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Fri Jul  4 18:25:35 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2                  MAX9371ESA_SOIC8_MAX9371ESA                 MAX9371_2_SOIC-8_MAX9371ESA+
- U3                  MAX9371ESA_SOIC8_MAX9371ESA                 MAX9371_2_SOIC-8_MAX9371ESA+
+ R70                 R_RES0402_DNP         1903.00 3289.00 R_RES0402_0
+ R112                R_RES0402_DNP         1762.00 3409.00 R_RES0402_0
+ R113                R_RES0402_DNP         1723.00 3409.00 R_RES0402_0
+ R114                R_RES0402_DNP         1901.00 3875.00 R_RES0402_0
+ R118                R_RES0402_DNP         1761.00 4015.00 R_RES0402_0
+ R255                R_RES0402_DNP         1721.00 4015.00 R_RES0402_0
+ R262                R_RES0402_DNP         1683.00 2720.00 R_RES0402_0
+ R2665               R_RES0402_DNP         1683.00 2012.00 R_RES0402_0
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:.../upenn-dune-gib/allegro/gps_interface_boardv51ph_smoothed.brd          |
-|                                                    Mon Nov 25 17:47:42 2024  |
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Fri Jul  4 18:25:35 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J5.1            650.00 5513.00 XY             (90,580)
- R11.2           684.28 5010.00 XY             (610,580)
- R12.2           630.28 5010.00 XY             (610,600)
- U2.8                           PRIM_FILE      .\pstchip.dat
- U2.8                           XY             (350,540)
- U3.8                           PRIM_FILE      .\pstchip.dat
- U3.8                           XY             (360,740)
+ R70.2                          PRIM_FILE      .\pstchip.dat
+ R70.2                          XY             (485,370)
+ R112.2                         PRIM_FILE      .\pstchip.dat
+ R112.2                         XY             (505,370)
+ R113.2                         PRIM_FILE      .\pstchip.dat
+ R113.2                         XY             (515,370)
+ R114.2                         PRIM_FILE      .\pstchip.dat
+ R114.2                         XY             (485,690)
+ R118.2                         PRIM_FILE      .\pstchip.dat
+ R118.2                         XY             (505,690)
+ R255.2                         PRIM_FILE      .\pstchip.dat
+ R255.2                         XY             (515,690)
+ R262.2                         PRIM_FILE      .\pstchip.dat
+ R262.2                         XY             (565,455)
+ R2665.2                        PRIM_FILE      .\pstchip.dat
+ R2665.2                        XY             (565,785)
 |------------------------------------------------------------------------------|
-|       Nets changed          :      14                                        |
-|       Comp definitions added:       1                                        |
-|       Components changed    :       2                                        |
-|       Slot property added   :       7                                        |
+|       Components changed    :       8                                        |
+|       Slot property added   :      16                                        |
 |                                                                              |
 |   Total ECO changes reported:      24                                        |
 |------------------------------------------------------------------------------|
