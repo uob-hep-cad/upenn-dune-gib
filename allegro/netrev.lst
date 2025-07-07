@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_boardv54dc.brd                  )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Fri Jul  4 18:25:35 2025                      )
+(    Date/Time        : Mon Jul  7 14:23:06 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            'c:/users/phdgc/downloads/upenn-dune-gib/allegro'
 Old design name:             'c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd'
 New design name:             'c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd'
 
-CmdLine: netrev -y 3 -i c:\users\phdgc\downloads\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml c:/users/phdgc/downloads/upenn-dune-gib/allegro/#Taaaabq34376.tmp
+CmdLine: netrev -y 3 -i c:\users\phdgc\downloads\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml c:/users/phdgc/downloads/upenn-dune-gib/allegro/#Taaaaak28108.tmp
 
 ------ Preparing to read pst files ------
 
@@ -31,7 +31,7 @@ Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat
 Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat 
    Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.01)
 Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat (00:00:00.01)
+   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat (00:00:00.02)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -105,7 +105,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jul 4 18:25:35 2025
+netrev run on Jul 7 14:23:06 2025
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
    PACKAGING ON Sep  4 2024 20:54:11
 
@@ -130,6 +130,6 @@ netrev run on Jul 4 18:25:35 2025
  No oversight detected
  No warning detected
 
-cpu time      0:01:23
+cpu time      0:01:54
 elapsed time  0:00:01
 

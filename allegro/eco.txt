@@ -3,50 +3,32 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Fri Jul  4 18:25:35 2025  |
+|                                                    Mon Jul  7 14:23:06 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R70                 R_RES0402_DNP         1903.00 3289.00 R_RES0402_0
- R112                R_RES0402_DNP         1762.00 3409.00 R_RES0402_0
- R113                R_RES0402_DNP         1723.00 3409.00 R_RES0402_0
- R114                R_RES0402_DNP         1901.00 3875.00 R_RES0402_0
- R118                R_RES0402_DNP         1761.00 4015.00 R_RES0402_0
- R255                R_RES0402_DNP         1721.00 4015.00 R_RES0402_0
- R262                R_RES0402_DNP         1683.00 2720.00 R_RES0402_0
- R2665               R_RES0402_DNP         1683.00 2012.00 R_RES0402_0
+ R71                 R_RES0603_DNP         2669.00  354.00 R_RES0603_0 OHM
+ R75                 R_RES0603_0 OHM       2669.00  299.00 R_RES0603_DNP
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Fri Jul  4 18:25:35 2025  |
+|                                                    Mon Jul  7 14:23:06 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R70.2                          PRIM_FILE      .\pstchip.dat
- R70.2                          XY             (485,370)
- R112.2                         PRIM_FILE      .\pstchip.dat
- R112.2                         XY             (505,370)
- R113.2                         PRIM_FILE      .\pstchip.dat
- R113.2                         XY             (515,370)
- R114.2                         PRIM_FILE      .\pstchip.dat
- R114.2                         XY             (485,690)
- R118.2                         PRIM_FILE      .\pstchip.dat
- R118.2                         XY             (505,690)
- R255.2                         PRIM_FILE      .\pstchip.dat
- R255.2                         XY             (515,690)
- R262.2                         PRIM_FILE      .\pstchip.dat
- R262.2                         XY             (565,455)
- R2665.2                        PRIM_FILE      .\pstchip.dat
- R2665.2                        XY             (565,785)
+ R71.2                          PRIM_FILE      .\pstchip.dat
+ R71.2                          XY             (95,675)
+ R75.2                          PRIM_FILE      .\pstchip.dat
+ R75.2                          XY             (95,765)
 |------------------------------------------------------------------------------|
-|       Components changed    :       8                                        |
-|       Slot property added   :      16                                        |
+|       Components changed    :       2                                        |
+|       Slot property added   :       4                                        |
 |                                                                              |
-|   Total ECO changes reported:      24                                        |
+|   Total ECO changes reported:       6                                        |
 |------------------------------------------------------------------------------|

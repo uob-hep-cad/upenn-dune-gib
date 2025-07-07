@@ -1,96 +1,74 @@
-\t (00:00:13) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:13)     Journal start - Mon Jul  7 13:54:45 2025
-\t (00:00:13)         Host=IT088130 User=phdgc Pid=33488 CPUs=16
-\t (00:00:13) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv54dc.brd
-\t (00:00:13) 
-\t (00:00:14) Loading axlcore.cxt 
+\t (00:00:07) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Mon Jul  7 14:22:59 2025
+\t (00:00:07)         Host=IT088130 User=phdgc Pid=28108 CPUs=16
+\t (00:00:07) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\t (00:00:07) 
+\t (00:00:07) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
+\d (00:00:11) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\i (00:00:11) trapsize 408
+\i (00:00:11) trapsize 421
+\i (00:00:11) trapsize 425
+\i (00:00:11) trapsize 338
+\i (00:00:11) trapsize 338
+\t (00:00:11) > Sending response DoneOpenBoard
+\t (00:00:11) Loading NV GPU Plugin
+\i (00:00:12) trapsize 364
+\i (00:00:12) generaledit 
+\t (00:00:13) > DoPullSchematic message received
+\t (00:00:13) > Pulling schematic...
+\t (00:00:13) Starting Cadence Logic Import...
 \t (00:00:15) Opening existing design...
-\i (00:00:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
-\d (00:00:15) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\i (00:00:15) trapsize 408
-\i (00:00:15) trapsize 421
-\i (00:00:15) trapsize 425
-\i (00:00:15) trapsize 338
-\i (00:00:15) trapsize 338
-\t (00:00:15) > Sending response DoneOpenBoard
-\t (00:00:16) Loading NV GPU Plugin
+\i (00:00:15) trapsize 364
+\t (00:00:15) > Sending response DonePullSchematic
+\t (00:00:15) > Schematic pulled successfully
 \i (00:00:16) generaledit 
-\i (00:00:24) drc update 
-\t (00:00:24) Performing DRC...
-\t (00:00:24) Multithreaded DRC update (16 threads).
-\t (00:00:24) No DRC errors detected.
-\i (00:00:24) generaledit 
-\i (00:00:39) pick grid 1440.27 2092.25
-\t (00:00:39) last pick:  1440.00 2090.00
-\i (00:00:42) show element 
-\i (00:00:43) setwindow form.find
-\i (00:00:43) FORM find all_off  
-\i (00:00:44) FORM find components YES 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) xrefdes R260 
-\i (00:01:15) xname_flush 
-\i (00:01:15) trapsize 292
-\i (00:01:20) pick grid 1438.05 2749.85
-\t (00:01:20) last pick:  1440.00 2750.00
-\i (00:01:26) trapsize 314
-\i (00:01:31) xrefdes R258.2 
-\i (00:01:31) xname_flush 
-\i (00:01:31) trapsize 39
-\i (00:01:31) xname_flush '!' 
-\i (00:01:34) xrefdes R258 
-\i (00:01:34) xname_flush 
-\i (00:01:34) trapsize 155
-\i (00:01:39) xname_flush '!' 
-\i (00:01:39) xrefdes R259 
-\i (00:01:39) xname_flush 
-\i (00:01:39) trapsize 314
-\i (00:01:54) xname_flush '!' 
-\i (00:01:54) xrefdes R263 
-\i (00:01:54) xname_flush 
-\i (00:01:54) trapsize 132
-\i (00:01:59) show element 
-\i (00:02:05) xname_flush '!' 
-\i (00:02:05) xrefdes R258 
-\i (00:02:05) xname_flush 
-\i (00:02:05) trapsize 155
-\i (00:02:05) xname_flush '!' 
-\i (00:02:05) xrefdes R258 
-\i (00:02:05) xname_flush 
-\i (00:02:05) trapsize 155
-\i (00:02:08) xname_flush '!' 
-\i (00:02:08) xrefdes R259 
-\i (00:02:08) xname_flush 
-\i (00:02:08) trapsize 314
-\i (00:02:12) xname_flush '!' 
-\i (00:02:12) xrefdes R260 
-\i (00:02:12) xname_flush 
-\i (00:02:12) trapsize 314
-\i (00:02:13) xname_flush '!' 
-\i (00:02:13) xrefdes R260 
-\i (00:02:13) xname_flush 
-\i (00:02:13) trapsize 314
-\i (00:02:15) xname_flush '!' 
-\i (00:02:17) xrefdes R262 
-\i (00:02:17) xname_flush 
-\i (00:02:17) trapsize 157
-\i (00:02:20) xname_flush '!' 
-\i (00:02:20) xrefdes R261 
-\i (00:02:20) xname_flush 
-\i (00:02:20) trapsize 312
-\i (00:02:22) xname_flush '!' 
-\i (00:02:22) xrefdes R260 
-\i (00:02:22) xname_flush 
-\i (00:02:22) trapsize 312
-\i (00:02:37) exit 
-\e (00:02:37) Do you want to save the changes you made to gps_interface_boardv54dc.brd?
-\i (00:02:40) fillin no 
-\t (00:02:40) Lic Summary:
-[13:57:11.224712] Cdslmd servers: ppl
-[13:57:11.749000] Feature usage summary:
-[13:57:11.749000] Allegro_X_Platinum_Layout
-[13:57:11.749000] Allegro_Venture_PCB_Designer
-[13:57:11.749000] PCB_design_studio
-[13:57:11.749000] Venture_PCB_Schematic
-[13:57:11.749000] Allegro_Venture_PCB_Designer2
+\i (00:00:17) place manual 
+\i (00:00:17) setwindow form.plc_manual
+\i (00:00:17) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:20) FORM plc_manual cancel  
+\i (00:00:20) setwindow pcb
+\i (00:00:20) generaledit 
+\i (00:00:26) plctxt in 
+\i (00:00:29) setwindow form.plctxt
+\i (00:00:29) FORM plctxt browse  
+\i (00:00:34) fillin "gps_interface_board_placement_v54dc.txt"
+\i (00:00:36) FORM plctxt execute  
+\t (00:00:36) Starting Place symbols by text file...
+\t (00:00:37) SpawnProcessExit background process completed status = 0
 
-\t (00:02:40)     Journal end - Mon Jul  7 13:57:11 2025
+\t (00:00:37) Opening existing design...
+\i (00:00:37) setwindow pcb
+\i (00:00:37) trapsize 364
+\i (00:00:42) place manual 
+\i (00:00:42) setwindow form.plc_manual
+\i (00:00:42) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:44) FORM plc_manual done  
+\i (00:00:44) setwindow pcb
+\i (00:00:44) generaledit 
+\i (00:00:50) setwindow form.find
+\i (00:00:50) FORM find find_name r71 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) trapsize 103
+\i (00:00:56) setwindow form.find
+\i (00:00:56) FORM find find_name r75 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) trapsize 103
+\i (00:00:59) zoom fit 
+\i (00:00:59) trapsize 4886
+\i (00:01:03) save 
+\i (00:01:05) fillin yes 
+\t (00:01:05) > Sending response DoneOpenBoard
+\i (00:01:05) generaledit 
+\i (00:01:12) exit 
+\t (00:01:13) Lic Summary:
+[14:24:05.080712] Cdslmd servers: ppl
+[14:24:05.605000] Feature usage summary:
+[14:24:05.605000] Allegro_X_Platinum_Layout
+[14:24:05.605000] Allegro_Venture_PCB_Designer
+[14:24:05.605000] PCB_design_studio
+[14:24:05.605000] Venture_PCB_Schematic
+[14:24:05.605000] Allegro_Venture_PCB_Designer2
+
+\t (00:01:13)     Journal end - Mon Jul  7 14:24:05 2025
