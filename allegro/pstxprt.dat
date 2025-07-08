@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 24.1.0 d001Jul-07-2025 at 14:23:05 }
+{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 10:45:32 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -2961,6 +2961,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ J118 'TSW-103-07-G-S_SAMTEC_TSW-103-0':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS936041@TSW-103-07-G-S.TSW-103-07-G-S.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins936041@\tsw-103-07-g-s\.\tsw-103-07-g-s.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page11_ins936041@\tsw-103-07-g-s\.\tsw-103-07-g-s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,130)',
+ SECTION='';
+
+PART_NAME
  J12 'HDR1X2_HDR1X2_HDR1X2':;
 
 SECTION_NUMBER 1
@@ -5832,6 +5843,28 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins340469@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1370,645)',
+ SECTION='';
+
+PART_NAME
+ R3257 'ERJU030R00V_RES_ERJU030R00V_ERJ':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS934290@ERJU030R00V.ERJU030R00V.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins934290@erju030r00v.\erju030r00v.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page11_ins934290@erju030r00v.\erju030r00v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,270)',
+ SECTION='';
+
+PART_NAME
+ R3258 'ERJU030R00V_RES_ERJU030R00V_ERJ':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS934306@ERJU030R00V.ERJU030R00V.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins934306@erju030r00v.\erju030r00v.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page11_ins934306@erju030r00v.\erju030r00v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,340)',
  SECTION='';
 
 PART_NAME

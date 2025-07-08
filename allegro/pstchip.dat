@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 24.1.0 d001Jul-07-2025 at 14:23:05}
+{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 10:45:32}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -478,6 +478,24 @@ primitive 'HDR1X2_HDR1X2_HDR1X2';
     PART_NAME='HDR1x2';
     JEDEC_TYPE='HDR1x2';
     VALUE='HDR1x2';
+  end_body;
+end_primitive;
+primitive 'TSW-103-07-G-S_SAMTEC_TSW-103-0';
+  pin
+    '01':
+      PIN_NUMBER='(01)';
+      PINUSE='UNSPEC';
+    '02':
+      PIN_NUMBER='(02)';
+      PINUSE='UNSPEC';
+    '03':
+      PIN_NUMBER='(03)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TSW-103-07-G-S';
+    JEDEC_TYPE='SAMTEC_TSW-103-07-G-S';
+    VALUE='TSW-103-07-G-S';
   end_body;
 end_primitive;
 primitive 'CON20P_SFP-1367073-1_TE_2227023';
@@ -2020,6 +2038,21 @@ primitive 'R_RES0603_75 OHM';
     PART_NAME='R';
     JEDEC_TYPE='res0603';
     VALUE='75 Ohm';
+  end_body;
+end_primitive;
+primitive 'ERJU030R00V_RES_ERJU030R00V_ERJ';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ERJU030R00V';
+    JEDEC_TYPE='RES_ERJU030R00V';
+    VALUE='ERJU030R00V';
   end_body;
 end_primitive;
 primitive 'R_RES0603_1K';

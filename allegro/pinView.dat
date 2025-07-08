@@ -1,5 +1,5 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Mon Jul  7 14:22:43 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
+J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Tue Jul  8 10:44:39 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
 S!PPS_OUT_N!U2!3!@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins539757@local_library.\max9371esa.normal\(chips)!MAX9371ESA_SOIC8_MAX9371ESA!!!F16!!!!!!!!!!
 S!PPS_OUT_P!U2!2!@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins539757@local_library.\max9371esa.normal\(chips)!MAX9371ESA_SOIC8_MAX9371ESA!!!F16!!!!!!!!!!
 S!!U2!4!@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins539757@local_library.\max9371esa.normal\(chips)!MAX9371ESA_SOIC8_MAX9371ESA!!!F16!!!!!!!!!!
@@ -2022,18 +2022,18 @@ S!VP3V3!R53!1!@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_boar
 S!VCC3V3!R53!2!@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins123980@discrete.\r.normal\(chips)!R_RES0805_0.02!!!F136!!!!!!!!!!
 S!VP2V5!R58!1!@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins280406@discrete.\r.normal\(chips)!R_RES0805_0.02!!!F135!!!!!!!!!!
 S!VCC2V5!R58!2!@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins280406@discrete.\r.normal\(chips)!R_RES0805_0.02!!!F135!!!!!!!!!!
+S!A2_BID!R75!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631307@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F166!!!!!!!!!!
+S!VCC3V3!R75!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631307@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F166!!!!!!!!!!
 S!TEMP_ADDR!R253!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins650426@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F169!!!!!!!!!!
 S!GND_POWER!R253!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins650426@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F169!!!!!!!!!!
-S!GND_POWER!R71!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631183@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F168!!!!!!!!!!
-S!A2_BID!R71!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631183@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F168!!!!!!!!!!
-S!GND_POWER!R72!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631199@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F167!!!!!!!!!!
-S!A1_BID!R72!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631199@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F167!!!!!!!!!!
-S!GND_POWER!R73!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631215@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F166!!!!!!!!!!
-S!A0_BID!R73!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631215@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F166!!!!!!!!!!
+S!GND_POWER!R72!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631199@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F168!!!!!!!!!!
+S!A1_BID!R72!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631199@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F168!!!!!!!!!!
+S!GND_POWER!R73!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631215@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F167!!!!!!!!!!
+S!A0_BID!R73!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631215@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F167!!!!!!!!!!
 S!N01590!R9!1!@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins339746@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F165!!!!!!!!!!
 S!GND_POWER!R9!2!@gps_interface_board.\00. gib top\(sch_1):\gps interface\@gps_interface_board.\01. gps interface\(sch_1):ins339746@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F165!!!!!!!!!!
-S!A2_BID!R75!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631307@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F134!!!!!!!!!!
-S!VCC3V3!R75!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631307@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F134!!!!!!!!!!
+S!GND_POWER!R71!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631183@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F134!!!!!!!!!!
+S!A2_BID!R71!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631183@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F134!!!!!!!!!!
 S!A1_BID!R76!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631323@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F133!!!!!!!!!!
 S!VCC3V3!R76!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631323@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F133!!!!!!!!!!
 S!A0_BID!R77!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins631339@discrete.\r.normal\(chips)!R_RES0603_DNP!!!F132!!!!!!!!!!

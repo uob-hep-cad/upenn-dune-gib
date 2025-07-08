@@ -3,32 +3,103 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Mon Jul  7 14:23:06 2025  |
+|                                                    Tue Jul  8 10:45:34 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R71                 R_RES0603_DNP         2669.00  354.00 R_RES0603_0 OHM
- R75                 R_RES0603_0 OHM       2669.00  299.00 R_RES0603_DNP
+  FMC.SCL0     pins MOVED FROM this net (to net name listed on right)
+                                 U8.6            1024.69 2388.88
+                                                                        SCL_PWR
+                                 U10.6           2575.12 3210.69
+                                                                        SCL_PWR
+                                 U13.6           2262.69 2182.88
+                                                                        SCL_PWR
+                                 U46.2            608.50 3510.00
+                                                                        SCL_PWR
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC.SCL_FPGA pins ADDED TO this existing net (pins not previously on any net)
+                                 R3257.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC.SDA0     pins MOVED FROM this net (to net name listed on right)
+                                 U8.7            1060.12 2424.31
+                                                                        SDA_PWR
+                                 U8.8            1060.12 2444.00
+                                                                        SDA_PWR
+                                 U10.7           2539.69 3246.12
+                                                                        SDA_PWR
+                                 U10.8           2520.00 3246.12
+                                                                        SDA_PWR
+                                 U13.7           2298.12 2218.31
+                                                                        SDA_PWR
+                                 U13.8           2298.12 2238.00
+                                                                        SDA_PWR
+                                 U46.1            608.50 3560.00
+                                                                        SDA_PWR
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC.SDA_FPGA pins ADDED TO this existing net (pins not previously on any net)
+                                 R3258.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
+                                 J118.03                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCL_PWR      pins ADDED TO this new net
+                                 J118.02                        
+                                 R3257.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDA_PWR      pins ADDED TO this new net
+                                 J118.01                        
+                                 R3258.2                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Mon Jul  7 14:23:06 2025  |
+|                                                    Tue Jul  8 10:45:34 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ERJU030R00V_RES_ERJU030R00V_ERJ
+ TSW-103-07-G-S_SAMTEC_TSW-103-0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Tue Jul  8 10:45:34 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J118                TSW-103-07-G-S_SAMTEC_TSW-103-0 
+ R3257               ERJU030R00V_RES_ERJU030R00V_ERJ 
+ R3258               ERJU030R00V_RES_ERJU030R00V_ERJ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Tue Jul  8 10:45:34 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R71.2                          PRIM_FILE      .\pstchip.dat
- R71.2                          XY             (95,675)
- R75.2                          PRIM_FILE      .\pstchip.dat
- R75.2                          XY             (95,765)
+ J118.03                        PRIM_FILE      .\pstchip.dat
+ J118.03                        XY             (840,130)
+ R3257.2                        PRIM_FILE      .\pstchip.dat
+ R3257.2                        XY             (710,270)
+ R3258.2                        PRIM_FILE      .\pstchip.dat
+ R3258.2                        XY             (710,340)
 |------------------------------------------------------------------------------|
-|       Components changed    :       2                                        |
-|       Slot property added   :       4                                        |
+|       Nets changed          :      18                                        |
+|       Comp definitions added:       2                                        |
+|       Components added      :       3                                        |
+|       Slot property added   :       6                                        |
 |                                                                              |
-|   Total ECO changes reported:       6                                        |
+|   Total ECO changes reported:      29                                        |
 |------------------------------------------------------------------------------|
