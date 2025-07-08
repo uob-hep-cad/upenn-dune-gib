@@ -1,247 +1,268 @@
-\t (00:00:07) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:07)     Journal start - Tue Jul  8 12:23:54 2025
-\t (00:00:07)         Host=IT088130 User=phdgc Pid=11748 CPUs=16
-\t (00:00:07) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\t (00:00:07) 
-\t (00:00:07) Loading axlcore.cxt 
-\t (00:00:10) Opening existing design...
-\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
-\d (00:00:11) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\i (00:00:11) trapsize 2735
-\i (00:00:11) trapsize 2825
-\i (00:00:11) trapsize 2851
-\i (00:00:11) trapsize 2265
-\i (00:00:11) trapsize 2282
-\t (00:00:11) > Sending response DoneOpenBoard
-\t (00:00:11) Loading NV GPU Plugin
-\i (00:00:11) trapsize 2461
-\i (00:00:12) generaledit 
-\t (00:00:13) > DoPullSchematic message received
-\t (00:00:13) > Pulling schematic...
-\t (00:00:13) Starting Cadence Logic Import...
-\t (00:00:16) Opening existing design...
-\i (00:00:16) trapsize 2461
-\t (00:00:16) > Sending response DonePullSchematic
-\t (00:00:16) > Schematic pulled successfully
-\i (00:00:17) generaledit 
-\i (00:00:17) roam x 96 
-\i (00:00:17) roam x 96
-\i (00:00:18) roam x 96 
-\i (00:00:18) roam x 96
-\i (00:00:20) place manual 
-\i (00:00:20) setwindow form.plc_manual
-\i (00:00:20) FORM plc_manual tree  'Components by refdes' 
-\i (00:00:22) FORM plc_manual categories 'Components by net group' 
-\i (00:00:23) FORM plc_manual categories 'Module instances' 
-\i (00:00:23) FORM plc_manual categories 'Module definition' 
-\i (00:00:23) FORM plc_manual categories 'Module instances' 
-\i (00:00:23) FORM plc_manual categories 'Components by net group' 
-\i (00:00:24) FORM plc_manual categories 'Components by refdes' 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) prepopup 4606.63 2507.65
-\i (00:00:29) pick grid 3046.57 3112.98
-\t (00:00:29) last pick:  3050.00 3110.00
-\i (00:00:30) roam start
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam y -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam y -16
-\i (00:00:30) roam x -32
-\i (00:00:30) roam x -16
-\i (00:00:30) roam y -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -32
-\i (00:00:30) roam y -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam y -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x -16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam y 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam y 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam y 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam y 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam y 16
-\i (00:00:30) roam x 16
-\i (00:00:30) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:31) roam x 16
-\i (00:00:31) roam y 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam y 16
-\i (00:00:32) roam x 16
-\i (00:00:32) roam y 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam x 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam x 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam y 16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam x 16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam x 16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam x 16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:33) roam y -16
-\i (00:00:34) roam y -16
-\i (00:00:34) roam y -16
-\i (00:00:34) roam y -16
-\i (00:00:34) roam y -16
-\i (00:00:34) roam y -16
-\i (00:00:35) roam x -16
-\i (00:00:35) roam x -16
-\i (00:00:35) roam y 16
-\i (00:00:35) roam x -16
-\i (00:00:35) roam x -16
-\i (00:00:35) roam x -16
-\i (00:00:35) roam x -16
-\i (00:00:35) roam x -16
-\i (00:00:36) roam x -16
-\i (00:00:36) roam y 16
-\i (00:00:36) roam x -16
-\i (00:00:36) roam y 16
-\i (00:00:36) roam x -16
-\i (00:00:36) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:37) roam x -16
-\i (00:00:39) roam end
-\i (00:00:55) zoom in 1 
-\i (00:00:55) setwindow pcb
-\i (00:00:55) zoom in 4508.20 2780.81
-\i (00:00:55) trapsize 1230
-\i (00:00:55) zoom in 1 
-\i (00:00:55) setwindow pcb
-\i (00:00:55) zoom in 4508.20 2780.82
-\i (00:00:55) trapsize 615
-\i (00:00:55) zoom in 1 
-\i (00:00:55) setwindow pcb
-\i (00:00:55) zoom in 4508.20 2780.82
-\i (00:00:55) trapsize 308
-\i (00:00:56) zoom out 1 
-\i (00:00:56) setwindow pcb
-\i (00:00:56) zoom out 4508.21 2780.83
-\i (00:00:56) trapsize 615
-\i (00:01:01) show element 
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 4382.71 2916.16
-\i (00:01:10) trapsize 308
-\i (00:01:11) zoom out 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom out 4382.71 2916.78
-\i (00:01:11) trapsize 615
-\i (00:01:19) zoom in 1 
-\i (00:01:19) setwindow pcb
-\i (00:01:19) zoom in 4353.18 2995.52
-\i (00:01:19) trapsize 308
-\i (00:01:20) zoom out 1 
-\i (00:01:20) setwindow pcb
-\i (00:01:20) zoom out 4353.18 2995.52
-\i (00:01:20) trapsize 615
-\i (00:38:30) save 
-\t (00:38:30) [13:02:17.413712] Periodic Lic check successful
-[13:02:17.938000] Feature usage summary:
-[13:02:17.938000] Allegro_X_Platinum_Layout
-[13:02:17.938000] Allegro_Venture_PCB_Designer
-[13:02:17.938000] PCB_design_studio
-[13:02:17.938000] Venture_PCB_Schematic
-[13:02:17.938000] Allegro_Venture_PCB_Designer2
+\t (00:02:43) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:02:43)     Journal start - Tue Jul  8 17:56:13 2025
+\t (00:02:43)         Host=IT088130 User=phdgc Pid=29304 CPUs=16
+\t (00:02:43) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\t (00:02:43) 
+\t (00:02:43) Loading axlcore.cxt 
+\t (00:02:44) Opening existing design...
+\i (00:02:44) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
+\d (00:02:44) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\i (00:02:45) trapsize 689
+\i (00:02:45) trapsize 711
+\i (00:02:45) trapsize 718
+\i (00:02:46) trapsize 570
+\i (00:02:46) trapsize 575
+\t (00:02:46) > Sending response DoneOpenBoard
+\t (00:02:46) Loading NV GPU Plugin
+\i (00:02:46) trapsize 620
+\i (00:02:47) generaledit 
+\t (00:02:48) > DoPullSchematic message received
+\t (00:02:48) > Pulling schematic...
+\t (00:02:48) Starting Cadence Logic Import...
+\t (00:02:51) Opening existing design...
+\i (00:02:52) trapsize 620
+\t (00:02:52) > Sending response DonePullSchematic
+\t (00:02:52) > Schematic pulled successfully
+\i (00:02:52) generaledit 
+\i (00:02:54) place manual 
+\i (00:02:54) setwindow form.plc_manual
+\i (00:02:54) FORM plc_manual tree  'Components by refdes' 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 4420.19 2859.54
+\i (00:03:16) trapsize 1239
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 4420.20 2859.55
+\i (00:03:16) trapsize 2479
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out 4420.20 2859.54
+\i (00:03:17) trapsize 4957
+\i (00:03:38) prepopup 6522.05 3385.01
+\i (00:03:40) roam start
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x -16
+\i (00:03:41) roam x -16
+\i (00:03:41) roam y 16
+\i (00:03:41) roam x -16
+\i (00:03:41) roam x -16
+\i (00:03:41) roam y 16
+\i (00:03:41) roam x -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 32
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam y -16
+\i (00:03:41) roam x 16
+\i (00:03:41) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 32
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 16
+\i (00:03:43) roam x -16
+\i (00:03:43) roam x -16
+\i (00:03:44) roam end
+\i (00:04:02) setwindow form.plc_manual
+\i (00:04:02) FORM plc_manual tree  U354 'Components by refdes' 
+\i (00:04:02) FORM plc_manual tree 'MULTISEL YES' U354 'Components by refdes' 
+\w (00:04:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:04:03) Placing U354 / CD74HC4050PWR_PW16_CD74HC4050_P / PW16 on Top.
+\i (00:04:24) setwindow pcb
+\i (00:04:24) pick grid 8719.65 2790.86
+\t (00:04:24) last pick:  8720.00 2790.00
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 8769.22 2850.34
+\i (00:04:29) trapsize 2479
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 8769.22 2850.34
+\i (00:04:29) trapsize 1239
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 8771.70 2850.34
+\i (00:04:32) trapsize 2479
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 8771.71 2850.34
+\i (00:04:33) trapsize 4957
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 8771.72 2850.34
+\i (00:04:33) trapsize 9914
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 8771.71 2850.34
+\i (00:04:34) trapsize 4957
+\i (00:04:51) prepopup 8563.51 2523.17
+\i (00:04:53) done 
+\i (00:04:53) generaledit 
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in 8741.97 2701.63
+\i (00:04:55) trapsize 2479
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in 8741.97 2701.63
+\i (00:04:55) trapsize 1239
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 8801.46 2731.37
+\i (00:04:56) trapsize 620
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 8801.46 2731.37
+\i (00:04:56) trapsize 310
+\i (00:04:57) zoom in 1 
+\i (00:04:57) setwindow pcb
+\i (00:04:57) zoom in 8801.46 2731.37
+\i (00:04:57) trapsize 155
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 8854.13 2647.10
+\i (00:04:59) trapsize 310
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 8854.13 2657.63
+\i (00:04:59) trapsize 620
+\i (00:04:59) zoom out 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom out 8854.13 2657.63
+\i (00:05:00) trapsize 1239
+\i (00:05:00) zoom out 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom out 8854.13 2657.63
+\i (00:05:00) trapsize 2479
+\i (00:05:02) roam y 96 
+\i (00:05:02) roam y 96
+\i (00:05:03) roam y 96 
+\i (00:05:03) roam y 96
+\i (00:05:03) roam y 96 
+\i (00:05:03) roam y 96
+\i (00:05:06) roam y 96 
+\i (00:05:06) roam y 96
+\i (00:05:20) zoom in 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom in 8209.69 723.69
+\i (00:05:20) trapsize 1239
+\i (00:05:21) zoom in 1 
+\i (00:05:21) setwindow pcb
+\i (00:05:21) zoom in 8209.69 723.69
+\i (00:05:21) trapsize 620
+\i (00:05:21) zoom in 1 
+\i (00:05:21) setwindow pcb
+\i (00:05:21) zoom in 8209.69 723.70
+\i (00:05:21) trapsize 310
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 8209.69 723.70
+\i (00:05:23) trapsize 620
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 8209.70 723.71
+\i (00:05:23) trapsize 1239
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 8209.70 723.70
+\i (00:05:23) trapsize 2479
+\i (00:05:32) save 
+\i (00:05:34) fillin yes 
+\t (00:05:35) > Sending response DoneOpenBoard
+\i (00:05:35) generaledit 
+\i (00:05:45) exit 
+\t (00:05:45) Lic Summary:
+[17:59:16.233000] Cdslmd servers: ppl
+[17:59:16.233000] Feature usage summary:
+[17:59:16.233000] Allegro_X_Platinum_Layout
+[17:59:16.233000] Allegro_Venture_PCB_Designer
+[17:59:16.233000] PCB_design_studio
+[17:59:16.233000] Venture_PCB_Schematic
+[17:59:16.233000] Allegro_Venture_PCB_Designer2
 
-\i (00:38:32) fillin yes 
-\t (00:38:33) > Sending response DoneOpenBoard
-\i (00:38:33) generaledit 
-\i (00:38:38) exit 
-\t (00:38:39) Lic Summary:
-[13:02:26.230000] Cdslmd servers: ppl
-[13:02:26.230000] Feature usage summary:
-[13:02:26.230000] Allegro_X_Platinum_Layout
-[13:02:26.230000] Allegro_Venture_PCB_Designer
-[13:02:26.230000] PCB_design_studio
-[13:02:26.230000] Venture_PCB_Schematic
-[13:02:26.230000] Allegro_Venture_PCB_Designer2
-
-\t (00:38:39)     Journal end - Tue Jul  8 13:02:26 2025
+\t (00:05:45)     Journal end - Tue Jul  8 17:59:16 2025

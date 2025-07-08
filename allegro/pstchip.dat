@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 12:24:00}
+{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 17:56:18}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -3097,6 +3097,63 @@ primitive 'NB7V52M_2_PQFN50P300X300X100-17';
     PART_NAME='NB7V52M_2';
     JEDEC_TYPE='PQFN50P300X300X100-17N-S145';
     VALUE='NB7V52MMNG';
+  end_body;
+end_primitive;
+primitive 'CD74HC4050PWR_PW16_CD74HC4050_P';
+  pin
+    'VCC':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    '1Y':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(*)';
+    '1A':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    '2Y':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(*)';
+    '2A':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    '3Y':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(*)';
+    '3A':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    '4A':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+    '4Y':
+      PIN_NUMBER='(10)';
+      OUTPUT_LOAD='(*)';
+    '5A':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(*)';
+    '5Y':
+      PIN_NUMBER='(12)';
+      OUTPUT_LOAD='(*)';
+    'NC':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '6A':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+    '6Y':
+      PIN_NUMBER='(15)';
+      OUTPUT_LOAD='(*)';
+    'NC_2':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CD74HC4050PWR';
+    JEDEC_TYPE='PW16';
+    VALUE='CD74HC4050_PW_16';
   end_body;
 end_primitive;
 primitive 'LM75AIMX_0_SOIC8_LM75AIMX/NOPB';
