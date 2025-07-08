@@ -1,6 +1,6 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106") <<<<<<< HEAD
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[07/07/25]") =======
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[07/08/25]") =======
   (SoftwareVersion "17.4-2019 S011 (3890763)  [9/18/2020]-[09/02/24]") >>>>>>>
    a7cbe7d5b9b1580fdaae237299643f2a3d455517
   (ProjectType "PCB")
@@ -719,13 +719,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 417 0 1263"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 879 0 1263"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 2696 24 1281")
-        (Scroll "-364 0")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
+        (Scroll "-133 0")
         (Zoom "127")
         (Occurrence "/"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -734,8 +734,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 2696 24 1281")
-        (Scroll "-364 0")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
+        (Scroll "-133 0")
         (Zoom "127")
         (Occurrence "/"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -744,9 +744,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 2696 24 1281")
-        (Scroll "-387 -11")
-        (Zoom "124")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
+        (Scroll "-133 0")
+        (Zoom "127")
         (Occurrence "/Power"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -754,9 +754,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 2696 24 1281")
-        (Scroll "-387 -11")
-        (Zoom "124")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
+        (Scroll "-133 0")
+        (Zoom "127")
         (Occurrence "/Power"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -764,7 +764,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 2696 24 1281")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
         (Scroll "0 551")
         (Zoom "184")
         (Occurrence "/GPS Interface"))
@@ -774,9 +774,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2696 24 1281")
-        (Scroll "-387 -11")
-        (Zoom "124")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
+        (Scroll "-133 0")
+        (Zoom "127")
         (Occurrence "/Power"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -784,8 +784,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2696 24 1281")
-        (Scroll "-387 -11")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2234 24 1281")
+        (Scroll "-156 -11")
         (Zoom "124")
         (Occurrence "/SFP Interface/Fanout"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -794,8 +794,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2696 24 1281")
-        (Scroll "-387 -11")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2234 24 1281")
+        (Scroll "-156 -11")
         (Zoom "124")
         (Occurrence "/SFP Interface"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -804,8 +804,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2696 24 1281")
-        (Scroll "-387 -11")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2234 24 1281")
+        (Scroll "-156 -11")
         (Zoom "124")
         (Occurrence "/SFP Interface/SFP4"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -814,8 +814,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 2696 24 1281")
-        (Scroll "-387 -11")
+        (Placement "44 0 1 -1 -1 -1 -1 5 2234 24 1281")
+        (Scroll "-156 -11")
         (Zoom "124")
         (Occurrence "/SFP Interface/Fan-In and Monitor"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -824,13 +824,24 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 2696 24 1281")
-        (Scroll "-364 0")
+        (Placement "44 0 1 -1 -1 5 24 5 2234 24 1281")
+        (Scroll "-133 0")
         (Zoom "127")
         (Occurrence "/Utilities"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "06. Utilities")
-      (Page "13. Utilities"))) >>>>>>> a7cbe7d5b9b1580fdaae237299643f2a3d455517
+      (Page "13. Utilities"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2234 24 1281")
+        (Scroll "-156 -11")
+        (Zoom "124")
+        (Occurrence "/Power"))
+      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "06. Power 12V Main"))) >>>>>>>
+   a7cbe7d5b9b1580fdaae237299643f2a3d455517
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
