@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 10:45:32}
+{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 12:24:00}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -465,21 +465,6 @@ primitive 'U.FL-R-SMT_10__UFLRSMT10_U.FL-R';
     VALUE='U.FL-R-SMT_10_';
   end_body;
 end_primitive;
-primitive 'HDR1X2_HDR1X2_HDR1X2';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='HDR1x2';
-    JEDEC_TYPE='HDR1x2';
-    VALUE='HDR1x2';
-  end_body;
-end_primitive;
 primitive 'TSW-103-07-G-S_SAMTEC_TSW-103-0';
   pin
     '01':
@@ -496,6 +481,21 @@ primitive 'TSW-103-07-G-S_SAMTEC_TSW-103-0';
     PART_NAME='TSW-103-07-G-S';
     JEDEC_TYPE='SAMTEC_TSW-103-07-G-S';
     VALUE='TSW-103-07-G-S';
+  end_body;
+end_primitive;
+primitive 'HDR1X2_HDR1X2_HDR1X2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HDR1x2';
+    JEDEC_TYPE='HDR1x2';
+    VALUE='HDR1x2';
   end_body;
 end_primitive;
 primitive 'CON20P_SFP-1367073-1_TE_2227023';
