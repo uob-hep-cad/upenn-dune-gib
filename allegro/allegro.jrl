@@ -1,120 +1,128 @@
-\t (00:00:08) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:08)     Journal start - Wed Jul  9 14:28:18 2025
-\t (00:00:08)         Host=IT088130 User=phdgc Pid=4940 CPUs=16
-\t (00:00:08) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv54dc.brd
-\t (00:00:08) 
+\t (00:00:09) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Wed Jul  9 14:37:31 2025
+\t (00:00:09)         Host=IT088130 User=phdgc Pid=26152 CPUs=16
+\t (00:00:09) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:09) 
 \t (00:00:09) Loading axlcore.cxt 
 \t (00:00:12) Opening existing design...
 \i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
 \d (00:00:12) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\i (00:00:12) trapsize 354
-\i (00:00:12) trapsize 366
-\i (00:00:12) trapsize 370
-\i (00:00:12) trapsize 294
-\i (00:00:12) trapsize 296
-\t (00:00:12) > Sending response DoneOpenBoard
+\i (00:00:13) trapsize 197
+\i (00:00:13) trapsize 203
+\i (00:00:13) trapsize 205
+\i (00:00:13) trapsize 163
+\i (00:00:13) trapsize 164
+\t (00:00:13) > Sending response DoneOpenBoard
 \t (00:00:13) Loading NV GPU Plugin
-\i (00:00:13) trapsize 319
-\i (00:00:13) generaledit 
-\i (00:00:19) plctxt out 
-\i (00:00:22) setwindow form.plctxt
-\i (00:00:22) FORM plctxt browse  
-\i (00:00:25) fillin "gps_interface_board_placement_v54dc.txt"
-\i (00:00:27) FORM plctxt execute  
-\t (00:00:27) Starting Place symbols by text file...
-\t (00:00:28) SpawnProcessExit background process completed status = 0
+\i (00:00:13) trapsize 177
+\i (00:00:14) generaledit 
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 2720.74 5406.66
+\i (00:00:14) trapsize 355
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 2720.73 5406.67
+\i (00:00:14) trapsize 709
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 2720.73 5406.67
+\i (00:00:14) trapsize 1418
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 2720.74 5406.67
+\i (00:00:15) trapsize 2836
+\i (00:00:17) roam x 96 
+\i (00:00:17) roam x 96
+\i (00:00:17) roam x 96 
+\i (00:00:17) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:21) artwork 
+\i (00:00:24) setwindow form.film_control
+\i (00:00:24) FORM film_control filmtree  01_Silk_Top 
+\i (00:00:25) FORM film_control filmtree popup 'Display for Visibility' 01_Silk_Top 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) updateport CVPane
+\i (00:00:27) setwindow form.film_control
+\i (00:00:27) FORM film_control ok  
+\i (00:00:27) setwindow pcb
+\i (00:00:27) generaledit 
+\i (00:00:31) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 4304.54 4430.98
+\i (00:00:34) trapsize 1418
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 4304.55 4430.98
+\i (00:00:34) trapsize 709
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 4305.97 4470.69
+\i (00:00:37) trapsize 1418
+\i (00:00:51) pick grid 4121.60 4717.46
+\t (00:00:51) last pick:  4120.00 4720.00
+\i (00:00:54) move 
+\t (00:00:54) Select element(s) to move.
+\i (00:00:56) setwindow form.find
+\i (00:00:56) FORM find all_off  
+\i (00:00:57) FORM find text YES 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) pick grid 4132.95 4711.79
+\t (00:00:59) last pick:  4130.00 4710.00
+\t (00:00:59) last pick:  4115.00 4704.00
+\t (00:00:59) Pick new location for the element(s).
+\i (00:01:03) pick grid 3832.30 4762.84
+\t (00:01:03) last pick:  3830.00 4760.00
+\i (00:01:03) pick grid 3823.79 4723.13
+\t (00:01:03) last pick:  3820.00 4720.00
+\t (00:01:03) last pick:  3760.00 4707.00
+\t (00:01:03) Pick new location for the element(s).
+\i (00:01:05) pick grid 4127.27 4703.28
+\t (00:01:05) last pick:  4130.00 4700.00
+\i (00:01:07) pick grid 3837.97 4779.86
+\t (00:01:07) last pick:  3840.00 4780.00
+\t (00:01:07) last pick:  3830.00 4760.00
+\t (00:01:07) Pick new location for the element(s).
+\i (00:01:13) pick grid 3837.97 4703.28
+\t (00:01:13) last pick:  3840.00 4700.00
+\i (00:01:15) pick grid 4045.02 4708.95
+\t (00:01:15) last pick:  4050.00 4710.00
+\t (00:01:15) last pick:  4025.00 4707.00
+\t (00:01:15) Pick new location for the element(s).
+\i (00:01:16) pick grid 3954.26 4788.37
+\t (00:01:16) last pick:  3950.00 4790.00
+\i (00:01:17) pick grid 3951.42 4703.28
+\t (00:01:17) last pick:  3950.00 4700.00
+\t (00:01:17) last pick:  3940.00 4707.00
+\t (00:01:17) Pick new location for the element(s).
+\i (00:01:21) pick grid 4028.00 4697.61
+\t (00:01:21) last pick:  4030.00 4700.00
+\i (00:01:22) pick grid 3962.77 4796.88
+\t (00:01:22) last pick:  3960.00 4800.00
+\t (00:01:22) last pick:  3950.00 4790.00
+\t (00:01:22) Pick new location for the element(s).
+\i (00:01:26) pick grid 3934.40 4697.61
+\t (00:01:26) last pick:  3930.00 4700.00
+\i (00:01:29) save 
+\i (00:01:32) fillin yes 
+\t (00:01:32) > Sending response DoneOpenBoard
+\i (00:01:32) generaledit 
+\i (00:01:39) exit 
+\t (00:01:40) Lic Summary:
+[14:39:02.031000] Cdslmd servers: ppl
+[14:39:02.031000] Feature usage summary:
+[14:39:02.031000] Allegro_X_Platinum_Layout
+[14:39:02.031000] Allegro_Venture_PCB_Designer
+[14:39:02.031000] PCB_design_studio
+[14:39:02.031000] Venture_PCB_Schematic
+[14:39:02.031000] Allegro_Venture_PCB_Designer2
 
-\i (00:00:33) FORM plctxt cancel  
-\i (00:00:33) setwindow pcb
-\i (00:00:33) generaledit 
-\i (00:02:59) xrefdes R264 
-\i (00:02:59) xname_flush 
-\i (00:02:59) trapsize 176
-\t (00:03:25) > DoPhysicalNetlistGenerate message received
-\t (00:03:25) > Generating physical netlist...
-\t (00:03:25) Starting genfeedformat...
-\t (00:03:25) > Sending response DonePhysicalNetlistGeneration
-\t (00:03:25) > Physical Netlist Generated
-\t (00:03:29) > DoPullSchematic message received
-\t (00:03:29) > Pulling schematic...
-\t (00:03:29) Starting Cadence Logic Import...
-\t (00:03:31) Opening existing design...
-\i (00:03:31) trapsize 176
-\t (00:03:31) > Sending response DonePullSchematic
-\t (00:03:31) > Schematic pulled successfully
-\i (00:03:31) generaledit 
-\i (00:03:37) plctxt in 
-\i (00:03:41) setwindow form.plctxt
-\i (00:03:41) FORM plctxt browse  
-\i (00:03:43) fillin "gps_interface_board_placement_v54dc.txt"
-\i (00:03:44) FORM plctxt execute  
-\t (00:03:44) Starting Place symbols by text file...
-\t (00:03:45) SpawnProcessExit background process completed status = 0
-
-\t (00:03:45) Opening existing design...
-\i (00:03:46) setwindow pcb
-\i (00:03:46) trapsize 176
-\i (00:03:53) xrefdes '!' R264 
-\t (00:03:53) Symbol and Component Instances are not selectable at this time.
-\i (00:03:53) xname_flush '!' 
-\i (00:03:53) xrefdes R265 
-\t (00:03:53) Symbol and Component Instances are not selectable at this time.
-\i (00:03:53) xname_flush 
-\i (00:04:15) xrefdes '!' R265 
-\t (00:04:15) Symbol and Component Instances are not selectable at this time.
-\i (00:04:15) xname_flush '!' 
-\i (00:04:15) xrefdes R9 
-\t (00:04:15) Symbol and Component Instances are not selectable at this time.
-\i (00:04:15) xname_flush 
-\i (00:04:29) xrefdes '!' R9 
-\t (00:04:29) Symbol and Component Instances are not selectable at this time.
-\i (00:04:29) xname_flush '!' 
-\i (00:04:30) xNet Fmc.Clk_Filter_B 
-\t (00:04:30) Nets are not selectable at this time.
-\i (00:04:30) xNet Fmc.Gps_Clk_En* 
-\t (00:04:30) Nets are not selectable at this time.
-\i (00:04:30) xNet Fmc.Clk_Filter_A 
-\t (00:04:30) Nets are not selectable at this time.
-\i (00:04:30) xname_flush 
-\i (00:04:35) xNet '!' Fmc.Clk_Filter_B 
-\t (00:04:35) Nets are not selectable at this time.
-\i (00:04:35) xNet '!' Fmc.Gps_Clk_En* 
-\t (00:04:35) Nets are not selectable at this time.
-\i (00:04:35) xNet '!' Fmc.Clk_Filter_A 
-\t (00:04:35) Nets are not selectable at this time.
-\i (00:04:35) xname_flush '!' 
-\i (00:04:57) xNet Fmc.Clk_Filter_B 
-\t (00:04:57) Nets are not selectable at this time.
-\i (00:04:57) xNet Fmc.Gps_Clk_En* 
-\t (00:04:57) Nets are not selectable at this time.
-\i (00:04:57) xNet Fmc.Clk_Filter_A 
-\t (00:04:57) Nets are not selectable at this time.
-\i (00:04:57) xname_flush 
-\i (00:05:04) xNet '!' Fmc.Clk_Filter_B 
-\t (00:05:04) Nets are not selectable at this time.
-\i (00:05:04) xNet '!' Fmc.Gps_Clk_En* 
-\t (00:05:04) Nets are not selectable at this time.
-\i (00:05:04) xNet '!' Fmc.Clk_Filter_A 
-\t (00:05:04) Nets are not selectable at this time.
-\i (00:05:04) xname_flush '!' 
-\i (00:05:19) exit 
-\e (00:05:19) Do you want to save the changes you made to c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd?
-\t (00:05:19) [14:33:29.310000] Periodic Lic check successful
-[14:33:29.310000] Feature usage summary:
-[14:33:29.310000] Allegro_X_Platinum_Layout
-[14:33:29.310000] Allegro_Venture_PCB_Designer
-[14:33:29.310000] PCB_design_studio
-[14:33:29.310000] Venture_PCB_Schematic
-[14:33:29.310000] Allegro_Venture_PCB_Designer2
-
-\i (00:05:21) fillin yes 
-\t (00:05:21) Lic Summary:
-[14:33:31.045000] Cdslmd servers: ppl
-[14:33:31.045000] Feature usage summary:
-[14:33:31.045000] Allegro_X_Platinum_Layout
-[14:33:31.045000] Allegro_Venture_PCB_Designer
-[14:33:31.045000] PCB_design_studio
-[14:33:31.045000] Venture_PCB_Schematic
-[14:33:31.045000] Allegro_Venture_PCB_Designer2
-
-\t (00:05:21)     Journal end - Wed Jul  9 14:33:31 2025
+\t (00:01:40)     Journal end - Wed Jul  9 14:39:02 2025
