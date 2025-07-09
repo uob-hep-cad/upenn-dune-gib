@@ -1,6 +1,5 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Wed Jul  9 10:51:55 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
-S!U354!!!!!!!!!!!
+J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Wed Jul  9 14:20:46 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
 S!J102!!!!!!!!!!!
 S!J118!!!!!!!!!!!
 S!R3694!!!!!!!!!!!
@@ -112,6 +111,7 @@ S!R93!!!!!!!!!!!
 S!R94!!!!!!!!!!!
 S!R95!!!!!!!!!!!
 S!U17!!!!!!!!6!!!
+S!U347!!!!!!!!!!!
 S!U18!!!!!!!!1!!!
 S!U19!!!!!!!!!!!
 S!C127!!!!!!!!2!!!
@@ -234,7 +234,6 @@ S!C226!!SFP5!!!!!!!!!
 S!C229!!SFP5!!!!!!!!!
 S!C249!!SFP6!!!!!!!!!
 S!C252!!SFP6!!!!!!!!!
-S!C3272!!!!!!!!!!!
 S!C2712!!ACLK_SFP!!!!!!!!!
 S!C2713!!ACLK_SFP!!!!!!!!!
 S!C2714!!ACLK_SFP!!!!!!!!!
@@ -312,6 +311,8 @@ S!C78!!!!!!!!3!!!
 S!C79!!!!!!!!4!!!
 S!C83!!!!!!!!8!!!
 S!C2732!!ACLK_SFP!!!!!!!!!
+S!C3274!!!!!!!!!!!
+S!C3276!!!!!!!!!!!
 S!C2733!!ACLK_SFP!!!!!!!!!
 S!C2734!!ACLK_SFP!!!!!!!!!
 S!C2735!!!!!!!!!!!
@@ -520,6 +521,7 @@ S!R60!!!!!!!!!!!
 S!R247!!!!!!!!!!!
 S!R48!!!!!!!!14!!!
 S!R49!!!!!!!!11!!!
+S!R3270!!!!!!!!!!!
 S!R2694!!!!!!!!!!!
 S!R2670!!!!!!!!!!!
 S!R254!!!!!!!!28!!!

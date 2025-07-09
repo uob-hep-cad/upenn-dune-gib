@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 24.1.0 d001Jul-09-2025 at 10:54:04 }
+{ Using PSTWRITER 24.1.0 d001Jul-09-2025 at 14:21:10 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -5956,25 +5956,25 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R3694 'ERJU030R00V_RES_ERJU030R00V_ERJ':;
+ R3694 'R_RES0603_0 OHM':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS825550@ERJU030R00V.ERJU030R00V.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins825550@erju030r00v.\erju030r00v.normal\(chips)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins825550@erju030r00v.\erju030r00v.normal\(chips)',
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS832431@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins832431@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins832431@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(800,850)',
+ XY='(820,850)',
  SECTION='';
 
 PART_NAME
- R3695 'ERJU030R00V_RES_ERJU030R00V_ERJ':;
+ R3695 'R_RES0603_0 OHM':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS825566@ERJU030R00V.ERJU030R00V.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins825566@erju030r00v.\erju030r00v.normal\(chips)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins825566@erju030r00v.\erju030r00v.normal\(chips)',
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):CLOCK GENERATION@GPS_INTERFACE_BOARD.02. CLOCK GENERATION(SCH_1):INS832457@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins832457@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_clock generation\@gps_interface_board.\02. clock generation\(sch_1):page4_ins832457@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(800,900)',
+ XY='(820,900)',
  SECTION='';
 
 PART_NAME

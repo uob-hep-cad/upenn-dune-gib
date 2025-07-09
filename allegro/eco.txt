@@ -3,176 +3,32 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 10:54:07 2025  |
+|                                                    Wed Jul  9 14:21:11 2025  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  FMC.SFP_LOS_FPGA0_PM3_FMC pins MOVED FROM this net (to net name listed on right)
-                                 J8.C19          6075.00  275.00
-                                                              FMC.SFP_LOS_FPGA0
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA1_PM3_FMC pins MOVED FROM this net (to net name listed on right)
-                                 J8.C22          5925.00  275.00
-                                                              FMC.SFP_LOS_FPGA1
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA2_PM3_FMC pins MOVED FROM this net (to net name listed on right)
-                                 J8.C23          5875.00  275.00
-                                                              FMC.SFP_LOS_FPGA2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA3_PM3_FMC pins MOVED FROM this net (to net name listed on right)
-                                 J8.G28          5625.00  475.00
-                                                              FMC.SFP_LOS_FPGA3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA4_PM3_FMC pins MOVED FROM this net (to net name listed on right)
-                                 J8.G33          5375.00  475.00
-                                                              FMC.SFP_LOS_FPGA4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA5_PM3_FMC pins MOVED FROM this net (to net name listed on right)
-                                 J8.G34          5325.00  475.00
-                                                              FMC.SFP_LOS_FPGA5
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA0 pins ADDED TO this new net
-                                 U347.7                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA1 pins ADDED TO this new net
-                                 U347.6                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA2 pins ADDED TO this new net
-                                 U347.5                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA3 pins ADDED TO this new net
-                                 U347.4                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA4 pins ADDED TO this new net
-                                 U347.3                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.SFP_LOS_FPGA5 pins ADDED TO this new net
-                                 U347.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
-                                 C3274.1                        
-                                 C3276.2                        
+ R3694               R_RES0603_0 OHM       3310.00 3170.00 ERJU030R00V_RES_ERJU030R00V_ERJ
+ R3695               R_RES0603_0 OHM       3310.00 3070.00 ERJU030R00V_RES_ERJU030R00V_ERJ
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 10:54:07 2025  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 U347.9                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N224404      pins ADDED TO this existing net (pins not previously on any net)
-                                 U347.12                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N224436      pins ADDED TO this existing net (pins not previously on any net)
-                                 U347.13                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N224468      pins ADDED TO this existing net (pins not previously on any net)
-                                 U347.14                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N224496      pins ADDED TO this existing net (pins not previously on any net)
-                                 U347.16                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N266420      pins ADDED TO this existing net (pins not previously on any net)
-                                 U347.11                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N351234      pins ADDED TO this existing net (pins not previously on any net)
-                                 U347.10                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N760214      pins ADDED TO this new net
-                                 R3270.1                        
-                                 U347.8                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC2V5       pins ADDED TO this existing net (pins not previously on any net)
-                                 C3274.2                        
-                                 R3270.2                        
-                                 U347.2                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC3V3       pins ADDED TO this existing net (pins not previously on any net)
-                                 C3276.1                        
-                                 U347.15                        
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 10:54:07 2025  |
-|------------------------------------------------------------------------------|
-| NET PROPERTIES added to design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|     net  name   |   property   |                    value                    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- FMC.SFP_LOS_FPGA0       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA0       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA1       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA1       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA2       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA2       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA3       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA3       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA4       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA4       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA5       BUS_NAME FMC[0..116]
- FMC.SFP_LOS_FPGA5       BUS_NAME FMC[0..116]
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 10:54:07 2025  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3272               CAP_NP_CAP0603_DISCRETE_0.1UF_                
- U354                CD74HC4050PWR_PW16_CD74HC4050_P 8720.00 2790.00
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 10:54:07 2025  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3274               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- C3276               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
- R3270               R_RES0402_1K          
- U347                TXB0106IPWRQ1_SOP65P640X120-16N 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 10:54:07 2025  |
+|                                                    Wed Jul  9 14:21:11 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3274.2                        PRIM_FILE      .\pstchip.dat
- C3274.2                        XY             (250,225)
- C3276.2                        PRIM_FILE      .\pstchip.dat
- C3276.2                        XY             (330,245)
- R3270.2                        PRIM_FILE      .\pstchip.dat
- R3270.2                        XY             (230,265)
- U347.15                        PRIM_FILE      .\pstchip.dat
- U347.15                        XY             (245,290)
+ R3694.2                        PRIM_FILE      .\pstchip.dat
+ R3694.2                        XY             (820,850)
+ R3695.2                        PRIM_FILE      .\pstchip.dat
+ R3695.2                        XY             (820,900)
 |------------------------------------------------------------------------------|
-|       Nets changed          :      28                                        |
-|       Net property added    :      12                                        |
-|       Components added      :       4                                        |
-|       Components deleted    :       2                                        |
-|       Slot property added   :       8                                        |
+|       Components changed    :       2                                        |
+|       Slot property added   :       4                                        |
 |                                                                              |
-|   Total ECO changes reported:      54                                        |
+|   Total ECO changes reported:       6                                        |
 |------------------------------------------------------------------------------|
