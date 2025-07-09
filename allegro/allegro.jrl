@@ -1,268 +1,632 @@
-\t (00:02:43) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:02:43)     Journal start - Tue Jul  8 17:56:13 2025
-\t (00:02:43)         Host=IT088130 User=phdgc Pid=29304 CPUs=16
-\t (00:02:43) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\t (00:02:43) 
-\t (00:02:43) Loading axlcore.cxt 
-\t (00:02:44) Opening existing design...
-\i (00:02:44) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
-\d (00:02:44) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\i (00:02:45) trapsize 689
-\i (00:02:45) trapsize 711
-\i (00:02:45) trapsize 718
-\i (00:02:46) trapsize 570
-\i (00:02:46) trapsize 575
-\t (00:02:46) > Sending response DoneOpenBoard
-\t (00:02:46) Loading NV GPU Plugin
-\i (00:02:46) trapsize 620
-\i (00:02:47) generaledit 
-\t (00:02:48) > DoPullSchematic message received
-\t (00:02:48) > Pulling schematic...
-\t (00:02:48) Starting Cadence Logic Import...
-\t (00:02:51) Opening existing design...
-\i (00:02:52) trapsize 620
-\t (00:02:52) > Sending response DonePullSchematic
-\t (00:02:52) > Schematic pulled successfully
-\i (00:02:52) generaledit 
-\i (00:02:54) place manual 
-\i (00:02:54) setwindow form.plc_manual
-\i (00:02:54) FORM plc_manual tree  'Components by refdes' 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom out 1 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom out 4420.19 2859.54
-\i (00:03:16) trapsize 1239
-\i (00:03:16) zoom out 1 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom out 4420.20 2859.55
-\i (00:03:16) trapsize 2479
-\i (00:03:17) zoom out 1 
-\i (00:03:17) setwindow pcb
-\i (00:03:17) zoom out 4420.20 2859.54
-\i (00:03:17) trapsize 4957
-\i (00:03:38) prepopup 6522.05 3385.01
-\i (00:03:40) roam start
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam x -16
-\i (00:03:40) roam y 16
-\i (00:03:40) roam x -16
-\i (00:03:41) roam x -16
-\i (00:03:41) roam y 16
-\i (00:03:41) roam x -16
-\i (00:03:41) roam x -16
-\i (00:03:41) roam y 16
-\i (00:03:41) roam x -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 32
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam y -16
-\i (00:03:41) roam x 16
-\i (00:03:41) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 32
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:42) roam y -16
-\i (00:03:42) roam x 16
-\i (00:03:43) roam x -16
-\i (00:03:43) roam x -16
-\i (00:03:44) roam end
-\i (00:04:02) setwindow form.plc_manual
-\i (00:04:02) FORM plc_manual tree  U354 'Components by refdes' 
-\i (00:04:02) FORM plc_manual tree 'MULTISEL YES' U354 'Components by refdes' 
-\w (00:04:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:04:03) Placing U354 / CD74HC4050PWR_PW16_CD74HC4050_P / PW16 on Top.
-\i (00:04:24) setwindow pcb
-\i (00:04:24) pick grid 8719.65 2790.86
-\t (00:04:24) last pick:  8720.00 2790.00
-\i (00:04:29) zoom in 1 
-\i (00:04:29) setwindow pcb
-\i (00:04:29) zoom in 8769.22 2850.34
-\i (00:04:29) trapsize 2479
-\i (00:04:29) zoom in 1 
-\i (00:04:29) setwindow pcb
-\i (00:04:29) zoom in 8769.22 2850.34
-\i (00:04:29) trapsize 1239
-\i (00:04:32) zoom out 1 
-\i (00:04:32) setwindow pcb
-\i (00:04:32) zoom out 8771.70 2850.34
-\i (00:04:32) trapsize 2479
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out 8771.71 2850.34
-\i (00:04:33) trapsize 4957
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out 8771.72 2850.34
-\i (00:04:33) trapsize 9914
-\i (00:04:34) zoom in 1 
-\i (00:04:34) setwindow pcb
-\i (00:04:34) zoom in 8771.71 2850.34
-\i (00:04:34) trapsize 4957
-\i (00:04:51) prepopup 8563.51 2523.17
-\i (00:04:53) done 
-\i (00:04:53) generaledit 
-\i (00:04:55) zoom in 1 
-\i (00:04:55) setwindow pcb
-\i (00:04:55) zoom in 8741.97 2701.63
-\i (00:04:55) trapsize 2479
-\i (00:04:55) zoom in 1 
-\i (00:04:55) setwindow pcb
-\i (00:04:55) zoom in 8741.97 2701.63
-\i (00:04:55) trapsize 1239
-\i (00:04:56) zoom in 1 
-\i (00:04:56) setwindow pcb
-\i (00:04:56) zoom in 8801.46 2731.37
-\i (00:04:56) trapsize 620
-\i (00:04:56) zoom in 1 
-\i (00:04:56) setwindow pcb
-\i (00:04:56) zoom in 8801.46 2731.37
-\i (00:04:56) trapsize 310
-\i (00:04:57) zoom in 1 
-\i (00:04:57) setwindow pcb
-\i (00:04:57) zoom in 8801.46 2731.37
-\i (00:04:57) trapsize 155
+\t (00:00:11) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Wed Jul  9 10:54:00 2025
+\t (00:00:11)         Host=IT088130 User=phdgc Pid=20928 CPUs=16
+\t (00:00:11) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\t (00:00:11) 
+\t (00:00:11) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
+\d (00:00:12) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\i (00:00:13) trapsize 2775
+\i (00:00:13) trapsize 2866
+\i (00:00:13) trapsize 2893
+\i (00:00:13) trapsize 2298
+\i (00:00:13) trapsize 2315
+\t (00:00:13) > Sending response DoneOpenBoard
+\t (00:00:13) Loading NV GPU Plugin
+\i (00:00:13) trapsize 2497
+\i (00:00:15) generaledit 
+\t (00:00:16) > DoPullSchematic message received
+\t (00:00:16) > Pulling schematic...
+\t (00:00:16) Starting Cadence Logic Import...
+\t (00:00:19) Opening existing design...
+\i (00:00:20) trapsize 2497
+\t (00:00:20) > Sending response DonePullSchematic
+\t (00:00:20) > Schematic pulled successfully
+\i (00:00:20) generaledit 
+\i (00:00:24) place manual 
+\i (00:00:24) setwindow form.plc_manual
+\i (00:00:24) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:28) FORM plc_manual tree  U347 'Components by refdes' 
+\i (00:00:30) FORM plc_manual tree 'MULTISEL YES' U347 'Components by refdes' 
+\t (00:00:30) Placing U347 / TXB0106IPWRQ1_SOP65P640X120-16N / SOP65P640X120-16N on Top.
+\i (00:00:38) setwindow pcb
+\i (00:00:38) prepopup 8751.94 2805.72
+\i (00:00:40) rotate 
+\t (00:00:40) Spin the element(s).
+\i (00:00:41) iangle 90.000
+\t (00:00:41) last angle:  +90.000 Degrees
+\i (00:00:46) pick grid 8746.95 2840.67
+\t (00:00:46) last pick:  8750.00 2840.00
+\i (00:00:59) setwindow form.plc_manual
+\i (00:00:59) FORM plc_manual tree  J102 'Components by refdes' 
+\i (00:00:59) FORM plc_manual tree 'MULTISEL YES' J102 'Components by refdes' 
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:59) Placing J102 / TSW-103-07-G-S_SAMTEC_TSW-103-0 / SAMTEC_TSW-103-07-G-S on Top.
+\i (00:01:02) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) prepopup 4872.20 1207.88
+\i (00:01:08) roam start
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam y -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:09) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:10) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam y -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:11) roam x -16
+\i (00:01:12) roam x -16
+\i (00:01:13) roam x 16
+\i (00:01:13) roam x 16
+\i (00:01:13) roam x 16
+\i (00:01:13) roam x 16
+\i (00:01:13) roam x 16
+\i (00:01:16) roam y -16
+\i (00:01:16) roam x -16
+\i (00:01:16) roam end
+\i (00:01:27) prepopup 3164.01 3144.04
+\i (00:01:29) rotate 
+\t (00:01:29) Spin the element(s).
+\i (00:01:30) iangle -90.000
+\t (00:01:30) last angle:  +270.000 Degrees
+\i (00:01:38) pick grid 3154.03 3169.00
+\t (00:01:38) last pick:  3150.00 3170.00
+\i (00:01:57) setwindow form.plc_manual
+\i (00:01:57) FORM plc_manual tree  J118 'Components by refdes' 
+\i (00:01:57) FORM plc_manual tree 'MULTISEL YES' J118 'Components by refdes' 
+\t (00:01:57) Placing J118 / TSW-103-07-G-S_SAMTEC_TSW-103-0 / SAMTEC_TSW-103-07-G-S on Top.
+\i (00:02:00) setwindow pcb
+\i (00:02:00) roam start
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 32
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x 16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -32
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:00) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam y -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam y -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam y -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam y -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -16
+\i (00:02:01) roam x -32
+\i (00:02:01) roam x -16
+\i (00:02:01) roam y -16
+\i (00:02:02) roam x -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam y -16
+\i (00:02:02) roam x 16
+\i (00:02:02) roam x 16
+\i (00:02:03) roam end
+\i (00:02:07) prepopup 437.71 3942.95
+\i (00:02:08) rotate 
+\t (00:02:08) Spin the element(s).
+\i (00:02:09) iangle 90.000
+\t (00:02:09) last angle:  +90.000 Degrees
+\i (00:02:12) prepopup 307.88 3563.47
+\i (00:02:13) rotate 
+\t (00:02:13) Spin the element(s).
+\i (00:02:14) iangle 90.000
+\t (00:02:14) last angle:  +90.000 Degrees
+\i (00:02:17) prepopup 332.85 3608.41
+\i (00:02:18) rotate 
+\t (00:02:18) Spin the element(s).
+\i (00:02:24) iangle 270.000
+\t (00:02:24) last angle:  +270.000 Degrees
+\i (00:02:29) pick grid 317.87 3433.64
+\t (00:02:29) last pick:  320.00 3430.00
+\i (00:03:59) setwindow form.plc_manual
+\i (00:03:59) FORM plc_manual tree  R3270 'Components by refdes' 
+\i (00:03:59) FORM plc_manual tree 'MULTISEL YES' R3270 'Components by refdes' 
+\t (00:03:59) Placing R3270 / R_RES0402_1K / RES0402 on Top.
+\i (00:04:16) setwindow pcb
+\i (00:04:16) prepopup 2829.47 2644.71
+\i (00:04:19) oops 
+\t (00:04:19) last angle:  +270.000 Degrees
+\i (00:04:28) setwindow form.plc_manual
+\i (00:04:28) FORM plc_manual tree 'MULTISEL YES' R3270 'Components by refdes' 
+\t (00:04:28) Placing R3270 / R_RES0402_1K / RES0402 on Top.
+\i (00:04:36) setwindow pcb
+\i (00:04:36) pick grid 2544.85 2305.17
+\t (00:04:36) last pick:  2540.00 2310.00
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 2524.88 2300.18
+\i (00:04:52) trapsize 1248
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 2524.88 2300.18
+\i (00:04:52) trapsize 624
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 2524.88 2300.18
+\i (00:04:52) trapsize 312
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 2524.88 2300.19
+\i (00:04:52) trapsize 156
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 2524.88 2300.19
+\i (00:04:52) trapsize 78
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2524.88 2300.19
+\i (00:04:53) trapsize 156
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2524.89 2300.19
+\i (00:04:53) trapsize 312
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2524.90 2300.19
+\i (00:04:53) trapsize 624
+\i (00:04:56) move 
+\t (00:04:56) Select element(s) to move.
+\i (00:04:58) pick grid 2539.87 2292.69
+\t (00:04:58) last pick:  2540.00 2290.00
+\t (00:04:58) last pick:  2540.00 2310.00
+\t (00:04:58) Moving R3270 / R_RES0402_1K / RES0402.
+\t (00:04:58) Pick new location for the element(s).
 \i (00:04:59) zoom out 1 
 \i (00:04:59) setwindow pcb
-\i (00:04:59) zoom out 8854.13 2647.10
-\i (00:04:59) trapsize 310
+\i (00:04:59) zoom out 2724.63 2435.00
+\i (00:04:59) trapsize 1248
 \i (00:04:59) zoom out 1 
 \i (00:04:59) setwindow pcb
-\i (00:04:59) zoom out 8854.13 2657.63
-\i (00:04:59) trapsize 620
+\i (00:04:59) zoom out 2724.63 2435.00
+\i (00:04:59) trapsize 2497
 \i (00:04:59) zoom out 1 
-\i (00:05:00) setwindow pcb
-\i (00:05:00) zoom out 8854.13 2657.63
-\i (00:05:00) trapsize 1239
-\i (00:05:00) zoom out 1 
-\i (00:05:00) setwindow pcb
-\i (00:05:00) zoom out 8854.13 2657.63
-\i (00:05:00) trapsize 2479
-\i (00:05:02) roam y 96 
-\i (00:05:02) roam y 96
-\i (00:05:03) roam y 96 
-\i (00:05:03) roam y 96
-\i (00:05:03) roam y 96 
-\i (00:05:03) roam y 96
-\i (00:05:06) roam y 96 
-\i (00:05:06) roam y 96
-\i (00:05:20) zoom in 1 
-\i (00:05:20) setwindow pcb
-\i (00:05:20) zoom in 8209.69 723.69
-\i (00:05:20) trapsize 1239
-\i (00:05:21) zoom in 1 
-\i (00:05:21) setwindow pcb
-\i (00:05:21) zoom in 8209.69 723.69
-\i (00:05:21) trapsize 620
-\i (00:05:21) zoom in 1 
-\i (00:05:21) setwindow pcb
-\i (00:05:21) zoom in 8209.69 723.70
-\i (00:05:21) trapsize 310
-\i (00:05:23) zoom out 1 
-\i (00:05:23) setwindow pcb
-\i (00:05:23) zoom out 8209.69 723.70
-\i (00:05:23) trapsize 620
-\i (00:05:23) zoom out 1 
-\i (00:05:23) setwindow pcb
-\i (00:05:23) zoom out 8209.70 723.71
-\i (00:05:23) trapsize 1239
-\i (00:05:23) zoom out 1 
-\i (00:05:23) setwindow pcb
-\i (00:05:23) zoom out 8209.70 723.70
-\i (00:05:23) trapsize 2479
-\i (00:05:32) save 
-\i (00:05:34) fillin yes 
-\t (00:05:35) > Sending response DoneOpenBoard
-\i (00:05:35) generaledit 
-\i (00:05:45) exit 
-\t (00:05:45) Lic Summary:
-[17:59:16.233000] Cdslmd servers: ppl
-[17:59:16.233000] Feature usage summary:
-[17:59:16.233000] Allegro_X_Platinum_Layout
-[17:59:16.233000] Allegro_Venture_PCB_Designer
-[17:59:16.233000] PCB_design_studio
-[17:59:16.233000] Venture_PCB_Schematic
-[17:59:16.233000] Allegro_Venture_PCB_Designer2
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 2724.63 2435.01
+\i (00:04:59) trapsize 4993
+\i (00:05:01) roam start
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -16
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -16
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -32
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -32
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -32
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x -16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 32
+\i (00:05:01) roam y -16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 32
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 32
+\i (00:05:01) roam x 32
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 32
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam y 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam y 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 16
+\i (00:05:02) roam y 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam y 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam y 16
+\i (00:05:03) roam end
+\i (00:05:05) zoom in 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom in 8816.63 2734.81
+\t (00:05:05) [10:58:54.474000] Periodic Lic check successful
+[10:58:54.474000] Feature usage summary:
+[10:58:54.474000] Allegro_X_Platinum_Layout
+[10:58:54.474000] Allegro_Venture_PCB_Designer
+[10:58:54.474000] PCB_design_studio
+[10:58:54.474000] Venture_PCB_Schematic
+[10:58:54.474000] Allegro_Venture_PCB_Designer2
 
-\t (00:05:45)     Journal end - Tue Jul  8 17:59:16 2025
+\i (00:05:05) trapsize 2497
+\i (00:05:05) zoom in 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom in 8831.61 2734.82
+\i (00:05:05) trapsize 1248
+\i (00:05:06) zoom in 1 
+\i (00:05:06) setwindow pcb
+\i (00:05:06) zoom in 8831.62 2734.82
+\i (00:05:06) trapsize 624
+\i (00:05:08) prepopup 8906.52 2697.37
+\i (00:05:10) rotate 
+\t (00:05:10) Spin the element(s).
+\i (00:05:11) iangle 90.000
+\t (00:05:11) last angle:  90.000 Degrees
+\i (00:05:11) mouse_pos 2540.00 2310.00
+\i (00:05:13) pick grid 8892.79 2736.07
+\t (00:05:13) last pick:  8890.00 2740.00
+\i (00:05:22) place manual 
+\i (00:05:22) setwindow form.plc_manual
+\i (00:05:22) FORM plc_manual tree  'Components by refdes' 
+\i (00:05:29) FORM plc_manual tree  C3274 'Components by refdes' 
+\i (00:05:29) FORM plc_manual tree 'MULTISEL YES' C3274 'Components by refdes' 
+\t (00:05:29) Placing C3274 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 on Top.
+\i (00:05:34) setwindow pcb
+\i (00:05:34) pick grid 8565.73 2920.82
+\t (00:05:34) last pick:  8570.00 2920.00
+\i (00:05:37) setwindow form.plc_manual
+\i (00:05:37) FORM plc_manual tree  C3276 'Components by refdes' 
+\i (00:05:37) FORM plc_manual tree 'MULTISEL YES' C3276 'Components by refdes' 
+\t (00:05:37) Placing C3276 / CAP_NP_CAP0402_DISCRETE_0.1UF_ / CAP0402 on Top.
+\i (00:05:40) setwindow pcb
+\i (00:05:40) pick grid 8560.73 2744.81
+\t (00:05:40) last pick:  8560.00 2740.00
+\i (00:05:47) setwindow form.plc_manual
+\i (00:05:47) FORM plc_manual tree  R3694 'Components by refdes' 
+\i (00:05:47) FORM plc_manual tree 'MULTISEL YES' R3694 'Components by refdes' 
+\t (00:05:47) Placing R3694 / ERJU030R00V_RES_ERJU030R00V_ERJ / RES_ERJU030R00V on Top.
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 8589.45 3018.19
+\i (00:05:53) trapsize 1248
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 8589.45 3018.20
+\i (00:05:53) trapsize 2497
+\i (00:05:54) zoom out 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom out 8589.44 3018.19
+\i (00:05:54) trapsize 4993
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 3945.69 2908.34
+\i (00:05:57) trapsize 2497
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 3945.70 2908.34
+\i (00:05:57) trapsize 1248
+\i (00:05:58) zoom in 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom in 3945.70 2908.34
+\i (00:05:58) trapsize 624
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 4011.86 2963.27
+\i (00:05:59) trapsize 1248
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 3996.88 2968.26
+\i (00:05:59) trapsize 2497
+\i (00:06:05) pick grid 3307.81 3172.98
+\t (00:06:05) last pick:  3310.00 3170.00
+\i (00:06:08) setwindow form.plc_manual
+\i (00:06:08) FORM plc_manual tree  R3695 'Components by refdes' 
+\i (00:06:08) FORM plc_manual tree 'MULTISEL YES' R3695 'Components by refdes' 
+\t (00:06:08) Placing R3695 / ERJU030R00V_RES_ERJU030R00V_ERJ / RES_ERJU030R00V on Top.
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom in 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom in 3332.77 3053.14
+\i (00:06:17) trapsize 1248
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 3332.78 3053.14
+\i (00:06:18) trapsize 624
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 3332.78 3053.14
+\i (00:06:18) trapsize 312
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 3332.78 3053.14
+\i (00:06:18) trapsize 156
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 3332.79 3053.14
+\i (00:06:18) trapsize 78
+\i (00:06:18) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 3332.79 3053.14
+\i (00:06:18) trapsize 156
+\i (00:06:18) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 3332.80 3053.14
+\i (00:06:18) trapsize 312
+\i (00:06:18) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 3332.79 3053.14
+\i (00:06:18) trapsize 624
+\i (00:06:25) pick grid 3305.33 3065.63
+\t (00:06:25) last pick:  3310.00 3070.00
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in 3305.33 3075.61
+\i (00:06:26) trapsize 312
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in 3305.33 3075.62
+\i (00:06:26) trapsize 156
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in 3305.33 3075.62
+\i (00:06:26) trapsize 78
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 3305.33 3075.62
+\i (00:06:26) trapsize 156
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 3305.33 3075.62
+\i (00:06:26) trapsize 312
+\i (00:06:29) zoom in 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom in 3265.38 3054.40
+\i (00:06:29) trapsize 156
+\i (00:06:29) zoom in 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom in 3265.39 3054.40
+\i (00:06:29) trapsize 78
+\i (00:06:29) zoom in 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom in 3265.39 3054.40
+\i (00:06:29) trapsize 39
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out 3265.63 3054.40
+\i (00:06:29) trapsize 78
+\i (00:06:30) zoom out 1 
+\i (00:06:30) setwindow pcb
+\i (00:06:30) zoom out 3266.09 3054.56
+\i (00:06:30) trapsize 156
+\i (00:06:30) prepopup 3287.31 3019.92
+\i (00:06:31) done 
+\i (00:06:31) generaledit 
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out 3284.50 3067.35
+\i (00:06:33) trapsize 312
+\i (00:06:36) save 
+\i (00:06:39) fillin yes 
+\t (00:06:39) > Sending response DoneOpenBoard
+\i (00:06:39) generaledit 
+\i (00:08:17) exit 
+\t (00:08:18) Lic Summary:
+[11:02:07.472000] Cdslmd servers: ppl
+[11:02:07.472000] Feature usage summary:
+[11:02:07.472000] Allegro_X_Platinum_Layout
+[11:02:07.472000] Allegro_Venture_PCB_Designer
+[11:02:07.472000] PCB_design_studio
+[11:02:07.472000] Venture_PCB_Schematic
+[11:02:07.472000] Allegro_Venture_PCB_Designer2
+
+\t (00:08:18)     Journal end - Wed Jul  9 11:02:07 2025

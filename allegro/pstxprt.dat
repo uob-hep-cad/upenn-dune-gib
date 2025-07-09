@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 24.1.0 d001Jul-08-2025 at 17:56:18 }
+{ Using PSTWRITER 24.1.0 d001Jul-09-2025 at 10:54:04 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -1873,14 +1873,25 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C3272 'CAP_NP_CAP0603_DISCRETE_0.1UF_':;
+ C3274 'CAP_NP_CAP0402_DISCRETE_0.1UF_':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):FAN-IN AND MONITOR@GPS_INTERFACE_BOARD.11. SFP FAN-IN(SCH_1):INS434348@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):ins434348@ocad_parts_lib.\cap_np.normal\(chips)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):page22_ins434348@ocad_parts_lib.\cap_np.normal\(chips)',
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):FAN-IN AND MONITOR@GPS_INTERFACE_BOARD.11. SFP FAN-IN(SCH_1):INS760098@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):ins760098@ocad_parts_lib.\cap_np.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):page22_ins760098@ocad_parts_lib.\cap_np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(235,150)',
+ XY='(250,225)',
+ SECTION='';
+
+PART_NAME
+ C3276 'CAP_NP_CAP0402_DISCRETE_0.1UF_':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):FAN-IN AND MONITOR@GPS_INTERFACE_BOARD.11. SFP FAN-IN(SCH_1):INS760154@OCAD_PARTS_LIB.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):ins760154@ocad_parts_lib.\cap_np.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):page22_ins760154@ocad_parts_lib.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,245)',
  SECTION='';
 
 PART_NAME
@@ -5890,6 +5901,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R3270 'R_RES0402_1K':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):FAN-IN AND MONITOR@GPS_INTERFACE_BOARD.11. SFP FAN-IN(SCH_1):INS760192@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):ins760192@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):page22_ins760192@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,265)',
+ SECTION='';
+
+PART_NAME
  R33 'R_RES0603_1K':;
 
 SECTION_NUMBER 1
@@ -7811,14 +7833,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U354 'CD74HC4050PWR_PW16_CD74HC4050_P':;
+ U347 'TXB0106IPWRQ1_SOP65P640X120-16N':;
 
 SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):FAN-IN AND MONITOR@GPS_INTERFACE_BOARD.11. SFP FAN-IN(SCH_1):INS434220@296-9215-2-ND.CD74HC4050PWR.NORMAL(SCH_1)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):ins434220@\296-9215-2-nd\.\cd74hc4050pwr.normal\(sch_1)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):page22_ins434220@\296-9215-2-nd\.\cd74hc4050pwr.normal\(sch_1)',
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):SFP INTERFACE@GPS_INTERFACE_BOARD.03. SFP INTERFACE(SCH_1):FAN-IN AND MONITOR@GPS_INTERFACE_BOARD.11. SFP FAN-IN(SCH_1):INS760228@OCAD_PARTS_LIB.TXB0106IPWRQ1.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):ins760228@ocad_parts_lib.\txb0106ipwrq1.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_fan-in and monitor\@gps_interface_board.\11. sfp fan-in\(sch_1):page22_ins760228@ocad_parts_lib.\txb0106ipwrq1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(270,200)',
+ XY='(245,290)',
  SECTION='';
 
 PART_NAME
