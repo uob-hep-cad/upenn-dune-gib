@@ -3,32 +3,29 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 14:21:11 2025  |
+|                                                    Wed Jul  9 14:31:39 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R3694               R_RES0603_0 OHM       3310.00 3170.00 ERJU030R00V_RES_ERJU030R00V_ERJ
- R3695               R_RES0603_0 OHM       3310.00 3070.00 ERJU030R00V_RES_ERJU030R00V_ERJ
+ R264                R_RES0402_DNP         2667.72 5396.00 R_RES0402_49.9
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 14:21:11 2025  |
+|                                                    Wed Jul  9 14:31:39 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R3694.2                        PRIM_FILE      .\pstchip.dat
- R3694.2                        XY             (820,850)
- R3695.2                        PRIM_FILE      .\pstchip.dat
- R3695.2                        XY             (820,900)
+ R264.2                         PRIM_FILE      .\pstchip.dat
+ R264.2                         XY             (280,505)
 |------------------------------------------------------------------------------|
-|       Components changed    :       2                                        |
-|       Slot property added   :       4                                        |
+|       Components changed    :       1                                        |
+|       Slot property added   :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       6                                        |
+|   Total ECO changes reported:       3                                        |
 |------------------------------------------------------------------------------|

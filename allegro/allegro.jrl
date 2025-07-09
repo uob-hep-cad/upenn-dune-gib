@@ -1,45 +1,120 @@
-\t (00:00:06) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:06)     Journal start - Wed Jul  9 14:21:05 2025
-\t (00:00:06)         Host=IT088130 User=phdgc Pid=21220 CPUs=16
-\t (00:00:06) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\t (00:00:06) 
-\t (00:00:06) Loading axlcore.cxt 
-\t (00:00:08) Opening existing design...
-\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
-\d (00:00:08) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\i (00:00:09) trapsize 352
-\i (00:00:09) trapsize 363
-\i (00:00:09) trapsize 367
-\i (00:00:09) trapsize 291
-\i (00:00:09) trapsize 294
-\t (00:00:09) > Sending response DoneOpenBoard
-\t (00:00:09) Loading NV GPU Plugin
-\i (00:00:09) trapsize 317
-\i (00:00:10) generaledit 
-\t (00:00:10) > DoPullSchematic message received
-\t (00:00:10) > Pulling schematic...
-\t (00:00:10) Starting Cadence Logic Import...
-\t (00:00:11) Opening existing design...
-\i (00:00:12) trapsize 317
-\t (00:00:12) > Sending response DonePullSchematic
-\t (00:00:12) > Schematic pulled successfully
-\i (00:00:12) generaledit 
-\i (00:00:17) place manual 
-\i (00:00:17) setwindow form.plc_manual
-\i (00:00:17) FORM plc_manual tree  'Components by refdes' 
-\i (00:00:18) FORM plc_manual cancel  
-\i (00:00:19) setwindow pcb
-\i (00:00:19) generaledit 
-\i (00:00:21) exit 
-\e (00:00:21) Do you want to save the changes you made to c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd?
-\i (00:00:23) fillin yes 
-\t (00:00:24) Lic Summary:
-[14:21:23.139712] Cdslmd servers: ppl
-[14:21:23.664000] Feature usage summary:
-[14:21:23.664000] Allegro_X_Platinum_Layout
-[14:21:23.664000] Allegro_Venture_PCB_Designer
-[14:21:23.664000] PCB_design_studio
-[14:21:23.664000] Venture_PCB_Schematic
-[14:21:23.664000] Allegro_Venture_PCB_Designer2
+\t (00:00:08) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Jul  9 14:28:18 2025
+\t (00:00:08)         Host=IT088130 User=phdgc Pid=4940 CPUs=16
+\t (00:00:08) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:\users\phdgc\downloads\upenn-dune-gib\allegro\gps_interface_boardv54dc.brd
+\t (00:00:08) 
+\t (00:00:09) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
+\d (00:00:12) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\i (00:00:12) trapsize 354
+\i (00:00:12) trapsize 366
+\i (00:00:12) trapsize 370
+\i (00:00:12) trapsize 294
+\i (00:00:12) trapsize 296
+\t (00:00:12) > Sending response DoneOpenBoard
+\t (00:00:13) Loading NV GPU Plugin
+\i (00:00:13) trapsize 319
+\i (00:00:13) generaledit 
+\i (00:00:19) plctxt out 
+\i (00:00:22) setwindow form.plctxt
+\i (00:00:22) FORM plctxt browse  
+\i (00:00:25) fillin "gps_interface_board_placement_v54dc.txt"
+\i (00:00:27) FORM plctxt execute  
+\t (00:00:27) Starting Place symbols by text file...
+\t (00:00:28) SpawnProcessExit background process completed status = 0
 
-\t (00:00:24)     Journal end - Wed Jul  9 14:21:23 2025
+\i (00:00:33) FORM plctxt cancel  
+\i (00:00:33) setwindow pcb
+\i (00:00:33) generaledit 
+\i (00:02:59) xrefdes R264 
+\i (00:02:59) xname_flush 
+\i (00:02:59) trapsize 176
+\t (00:03:25) > DoPhysicalNetlistGenerate message received
+\t (00:03:25) > Generating physical netlist...
+\t (00:03:25) Starting genfeedformat...
+\t (00:03:25) > Sending response DonePhysicalNetlistGeneration
+\t (00:03:25) > Physical Netlist Generated
+\t (00:03:29) > DoPullSchematic message received
+\t (00:03:29) > Pulling schematic...
+\t (00:03:29) Starting Cadence Logic Import...
+\t (00:03:31) Opening existing design...
+\i (00:03:31) trapsize 176
+\t (00:03:31) > Sending response DonePullSchematic
+\t (00:03:31) > Schematic pulled successfully
+\i (00:03:31) generaledit 
+\i (00:03:37) plctxt in 
+\i (00:03:41) setwindow form.plctxt
+\i (00:03:41) FORM plctxt browse  
+\i (00:03:43) fillin "gps_interface_board_placement_v54dc.txt"
+\i (00:03:44) FORM plctxt execute  
+\t (00:03:44) Starting Place symbols by text file...
+\t (00:03:45) SpawnProcessExit background process completed status = 0
+
+\t (00:03:45) Opening existing design...
+\i (00:03:46) setwindow pcb
+\i (00:03:46) trapsize 176
+\i (00:03:53) xrefdes '!' R264 
+\t (00:03:53) Symbol and Component Instances are not selectable at this time.
+\i (00:03:53) xname_flush '!' 
+\i (00:03:53) xrefdes R265 
+\t (00:03:53) Symbol and Component Instances are not selectable at this time.
+\i (00:03:53) xname_flush 
+\i (00:04:15) xrefdes '!' R265 
+\t (00:04:15) Symbol and Component Instances are not selectable at this time.
+\i (00:04:15) xname_flush '!' 
+\i (00:04:15) xrefdes R9 
+\t (00:04:15) Symbol and Component Instances are not selectable at this time.
+\i (00:04:15) xname_flush 
+\i (00:04:29) xrefdes '!' R9 
+\t (00:04:29) Symbol and Component Instances are not selectable at this time.
+\i (00:04:29) xname_flush '!' 
+\i (00:04:30) xNet Fmc.Clk_Filter_B 
+\t (00:04:30) Nets are not selectable at this time.
+\i (00:04:30) xNet Fmc.Gps_Clk_En* 
+\t (00:04:30) Nets are not selectable at this time.
+\i (00:04:30) xNet Fmc.Clk_Filter_A 
+\t (00:04:30) Nets are not selectable at this time.
+\i (00:04:30) xname_flush 
+\i (00:04:35) xNet '!' Fmc.Clk_Filter_B 
+\t (00:04:35) Nets are not selectable at this time.
+\i (00:04:35) xNet '!' Fmc.Gps_Clk_En* 
+\t (00:04:35) Nets are not selectable at this time.
+\i (00:04:35) xNet '!' Fmc.Clk_Filter_A 
+\t (00:04:35) Nets are not selectable at this time.
+\i (00:04:35) xname_flush '!' 
+\i (00:04:57) xNet Fmc.Clk_Filter_B 
+\t (00:04:57) Nets are not selectable at this time.
+\i (00:04:57) xNet Fmc.Gps_Clk_En* 
+\t (00:04:57) Nets are not selectable at this time.
+\i (00:04:57) xNet Fmc.Clk_Filter_A 
+\t (00:04:57) Nets are not selectable at this time.
+\i (00:04:57) xname_flush 
+\i (00:05:04) xNet '!' Fmc.Clk_Filter_B 
+\t (00:05:04) Nets are not selectable at this time.
+\i (00:05:04) xNet '!' Fmc.Gps_Clk_En* 
+\t (00:05:04) Nets are not selectable at this time.
+\i (00:05:04) xNet '!' Fmc.Clk_Filter_A 
+\t (00:05:04) Nets are not selectable at this time.
+\i (00:05:04) xname_flush '!' 
+\i (00:05:19) exit 
+\e (00:05:19) Do you want to save the changes you made to c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd?
+\t (00:05:19) [14:33:29.310000] Periodic Lic check successful
+[14:33:29.310000] Feature usage summary:
+[14:33:29.310000] Allegro_X_Platinum_Layout
+[14:33:29.310000] Allegro_Venture_PCB_Designer
+[14:33:29.310000] PCB_design_studio
+[14:33:29.310000] Venture_PCB_Schematic
+[14:33:29.310000] Allegro_Venture_PCB_Designer2
+
+\i (00:05:21) fillin yes 
+\t (00:05:21) Lic Summary:
+[14:33:31.045000] Cdslmd servers: ppl
+[14:33:31.045000] Feature usage summary:
+[14:33:31.045000] Allegro_X_Platinum_Layout
+[14:33:31.045000] Allegro_Venture_PCB_Designer
+[14:33:31.045000] PCB_design_studio
+[14:33:31.045000] Venture_PCB_Schematic
+[14:33:31.045000] Allegro_Venture_PCB_Designer2
+
+\t (00:05:21)     Journal end - Wed Jul  9 14:33:31 2025
