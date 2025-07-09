@@ -1,462 +1,372 @@
-\t (00:00:08) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:08)     Journal start - Wed Jul  9 14:41:46 2025
-\t (00:00:08)         Host=IT088130 User=phdgc Pid=15976 CPUs=16
-\t (00:00:08) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
-\t (00:00:08) 
-\t (00:00:08) Loading axlcore.cxt 
-\t (00:00:11) Opening existing design...
-\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
-\d (00:00:11) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
-\i (00:00:11) trapsize 1588
-\i (00:00:11) trapsize 1640
-\i (00:00:11) trapsize 1655
-\i (00:00:11) trapsize 1315
-\i (00:00:11) trapsize 1325
+\t (00:00:09) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Wed Jul  9 16:57:27 2025
+\t (00:00:09)         Host=IT088130 User=phdgc Pid=29964 CPUs=16
+\t (00:00:09) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession phdgc -proj c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.opj c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\t (00:00:09) 
+\t (00:00:09) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_boardv54dc"
+\d (00:00:10) Design opened: c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd
+\i (00:00:11) trapsize 799
+\i (00:00:11) trapsize 826
+\i (00:00:11) trapsize 833
+\i (00:00:11) trapsize 662
+\i (00:00:11) trapsize 667
 \t (00:00:11) > Sending response DoneOpenBoard
 \t (00:00:11) Loading NV GPU Plugin
-\i (00:00:11) trapsize 1428
+\i (00:00:11) trapsize 719
 \i (00:00:12) generaledit 
-\i (00:00:16) roam y 96 
-\i (00:00:16) roam y 96
-\i (00:00:16) roam y 96 
-\i (00:00:16) roam y 96
-\i (00:00:17) roam y 96 
-\i (00:00:17) roam y 96
-\i (00:00:17) roam y 96 
-\i (00:00:17) roam y 96
-\i (00:00:17) roam y 96 
-\i (00:00:17) roam y 96
-\i (00:00:20) zoom in 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom in 5393.41 3424.77
-\i (00:00:20) trapsize 714
-\i (00:00:20) zoom in 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom in 5393.41 3424.77
-\i (00:00:20) trapsize 357
-\i (00:00:20) zoom in 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom in 5393.41 3424.77
-\i (00:00:20) trapsize 179
-\i (00:00:24) artwork 
-\i (00:00:30) setwindow form.film_control
-\i (00:00:30) FORM film_control filmtree  02_Sold_Top 
-\i (00:00:30) FORM film_control filmtree 'MULTISEL YES' 02_Sold_Top 
-\i (00:00:33) FORM film_control filmtree popup 'Display for Visibility''MULTISEL YES' 02_Sold_Top 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) updateport CVPane
-\i (00:00:35) setwindow form.film_control
-\i (00:00:35) FORM film_control ok  
+\t (00:00:13) > DoPullSchematic message received
+\t (00:00:13) > Pulling schematic...
+\t (00:00:13) Starting Cadence Logic Import...
+\t (00:00:16) Opening existing design...
+\i (00:00:17) trapsize 719
+\t (00:00:17) > Sending response DonePullSchematic
+\t (00:00:17) > Schematic pulled successfully
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 8131.04 3673.35
+\i (00:00:17) trapsize 1438
+\i (00:00:17) generaledit 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 8139.67 3704.99
+\i (00:00:18) trapsize 2877
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 8139.68 3705.00
+\i (00:00:18) trapsize 5753
+\i (00:00:23) place manual 
+\i (00:00:23) setwindow form.plc_manual
+\i (00:00:23) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:27) FORM plc_manual tree  U110 'Components by refdes' 
+\i (00:00:28) FORM plc_manual tree 'MULTISEL YES' U110 'Components by refdes' 
+\w (00:00:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:29) Placing U110 / ADN2817ACPZ-RL7_CP_32_11_ADI_AD / CP_32_11_ADI on Top.
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 5470.17 3497.88
+\i (00:00:30) trapsize 2877
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 5470.18 3497.88
+\i (00:00:30) trapsize 1438
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 5470.18 3497.88
+\i (00:00:30) trapsize 719
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 5470.18 3497.88
+\i (00:00:30) trapsize 360
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 5298.30 3395.05
+\i (00:00:32) trapsize 719
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 5298.29 3395.04
+\i (00:00:32) trapsize 1438
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 5298.30 3395.05
+\i (00:00:32) trapsize 2877
+\i (00:00:35) zoom in 1 
 \i (00:00:35) setwindow pcb
-\i (00:00:35) generaledit 
+\i (00:00:35) zoom in 5470.89 2790.96
+\i (00:00:35) trapsize 1438
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 5470.89 2790.96
+\i (00:00:35) trapsize 719
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 5470.89 2790.96
+\i (00:00:35) trapsize 360
 \i (00:00:36) zoom out 1 
 \i (00:00:36) setwindow pcb
-\i (00:00:36) zoom out 5376.62 3414.42
-\i (00:00:36) trapsize 357
-\i (00:00:37) zoom out 1 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom out 5376.62 3415.13
-\i (00:00:37) trapsize 714
-\i (00:00:37) zoom out 1 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom out 5376.63 3415.13
-\i (00:00:37) trapsize 1428
-\i (00:00:44) QtSignal CVPLayerGrid CVPButtonViaTop clicked
-\i (00:00:44) updateport CVPane
-\i (00:00:45) QtSignal CVPLayerGrid CVPButtonViaTop clicked
-\i (00:00:45) updateport CVPane
-\i (00:00:45) QtSignal CVPLayerGrid CVPButtonViaTop clicked
-\i (00:00:45) updateport CVPane
-\i (00:00:46) QtSignal CVPLayerGrid CVPButtonViaTop clicked
-\i (00:00:46) updateport CVPane
-\i (00:00:47) QtSignal CVPLayerGrid CVPButtonViaTop clicked
-\i (00:00:47) updateport CVPane
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 5382.35 3369.42
-\i (00:00:50) trapsize 714
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 5382.35 3369.43
-\i (00:00:50) trapsize 357
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 5382.35 3369.43
-\i (00:00:51) trapsize 714
-\i (00:08:43) pick grid 5392.36 3416.57
-\t (00:08:43) last pick:  5390.00 3420.00
-\i (00:08:50) padeditdb 
-\t (00:08:50) [14:50:28.066712] Periodic Lic check successful
-[14:50:28.592000] Feature usage summary:
-[14:50:28.592000] Allegro_X_Platinum_Layout
-[14:50:28.592000] Allegro_Venture_PCB_Designer
-[14:50:28.592000] PCB_design_studio
-[14:50:28.592000] Venture_PCB_Schematic
-[14:50:28.592000] Allegro_Venture_PCB_Designer2
+\i (00:00:36) zoom out 5470.90 2790.97
+\i (00:00:36) trapsize 719
+\i (00:00:52) pick grid 5414.79 2770.83
+\t (00:00:52) last pick:  5410.00 2770.00
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 5414.79 2770.83
+\i (00:00:53) trapsize 360
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 5414.79 2770.83
+\i (00:00:53) trapsize 180
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 5414.79 2770.83
+\i (00:00:53) trapsize 90
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 5414.79 2770.83
+\i (00:00:53) trapsize 45
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 5414.79 2770.83
+\i (00:00:53) trapsize 22
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 5414.79 2770.84
+\i (00:00:53) trapsize 45
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 5414.79 2770.84
+\i (00:00:53) trapsize 90
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 5414.78 2770.83
+\i (00:00:54) trapsize 180
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 5414.79 2770.84
+\i (00:00:54) trapsize 360
+\i (00:01:02) spin 
+\t (00:01:02) Select element(s) to spin.
+\i (00:01:03) pick grid 5465.85 2805.36
+\t (00:01:03) last pick:  5470.00 2810.00
+\t (00:01:03) Moving U110 / ADN2817ACPZ-RL7_CP_32_11_ADI_AD / CP_32_11_ADI.
+\i (00:01:05) iangle -90.000
+\t (00:01:05) last angle:  270.000 Degrees
+\t (00:01:05) Select element(s) to spin.
+\i (00:01:06) pick grid 5470.16 2815.43
+\t (00:01:06) last pick:  5470.00 2820.00
+\t (00:01:06) Moving U110 / ADN2817ACPZ-RL7_CP_32_11_ADI_AD / CP_32_11_ADI.
+\i (00:01:10) iangle -180.000
+\t (00:01:10) last angle:  90.000 Degrees
+\t (00:01:10) Select element(s) to spin.
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 5378.10 2748.54
+\i (00:01:11) trapsize 180
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 5378.11 2748.54
+\i (00:01:11) trapsize 360
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 5378.10 2748.54
+\i (00:01:11) trapsize 719
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 5378.09 2748.55
+\i (00:01:11) trapsize 1438
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 5277.39 2662.23
+\i (00:01:14) trapsize 719
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 5277.39 2662.23
+\i (00:01:14) trapsize 360
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 5277.40 2662.24
+\i (00:01:14) trapsize 180
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 5277.40 2662.24
+\i (00:01:14) trapsize 90
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 5277.40 2662.25
+\i (00:01:14) trapsize 180
+\i (00:01:16) pick grid 5632.34 2803.21
+\t (00:01:16) last pick:  5630.00 2800.00
+\t (00:01:16) Select element(s) to spin.
+\i (00:01:28) spin 
+\t (00:01:28) Select element(s) to spin.
+\i (00:01:30) pick grid 5474.47 2756.10
+\t (00:01:30) last pick:  5470.00 2760.00
+\t (00:01:30) Moving U110 / ADN2817ACPZ-RL7_CP_32_11_ADI_AD / CP_32_11_ADI.
+\i (00:01:32) iangle 180.000
+\t (00:01:32) last angle:  270.000 Degrees
+\t (00:01:32) Select element(s) to spin.
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 5455.41 2733.81
+\i (00:01:37) trapsize 90
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 5455.59 2733.81
+\i (00:01:37) trapsize 45
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 5455.60 2733.81
+\i (00:01:38) trapsize 90
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 5455.59 2733.82
+\i (00:01:38) trapsize 180
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 5463.87 2671.96
+\i (00:01:40) trapsize 90
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 5463.87 2671.96
+\i (00:01:40) trapsize 45
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 5463.87 2671.96
+\i (00:01:40) trapsize 22
+\i (00:01:40) zoom out 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 5463.87 2671.96
+\i (00:01:40) trapsize 45
+\i (00:01:40) zoom out 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 5463.87 2671.96
+\i (00:01:40) trapsize 90
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 5455.97 2675.92
+\i (00:01:47) trapsize 180
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 5455.97 2675.91
+\i (00:01:47) trapsize 360
+\i (00:08:05) prepopup 5624.99 2817.61
+\i (00:08:06) done 
+\i (00:08:06) generaledit 
+\t (00:08:06) [17:05:24.389000] Periodic Lic check successful
+[17:05:24.389000] Feature usage summary:
+[17:05:24.389000] Allegro_X_Platinum_Layout
+[17:05:24.389000] Allegro_Venture_PCB_Designer
+[17:05:24.389000] PCB_design_studio
+[17:05:24.389000] Venture_PCB_Schematic
+[17:05:24.389000] Allegro_Venture_PCB_Designer2
 
-\i (00:08:52) pick grid 5386.64 3420.86
-\t (00:08:52) last pick:  5390.00 3420.00
-\i (00:08:54) setwindow form.mini
-\i (00:08:54) FORM mini pad_stack_edit  
-\i (00:12:11) setwindow pcb
-\i (00:12:11) pick grid 5948.03 3465.14
-\t (00:12:11) last pick:  5950.00 3470.00
-\i (00:12:11) zoom out 1 
-\i (00:12:11) setwindow pcb
-\i (00:12:11) zoom out 5948.03 3465.14
-\i (00:12:11) trapsize 1428
-\i (00:12:11) zoom out 1 
-\i (00:12:11) setwindow pcb
-\i (00:12:11) zoom out 5948.03 3465.14
-\i (00:12:11) trapsize 2857
-\i (00:12:13) roam y -96 
-\i (00:12:13) roam y -96
-\i (00:12:13) roam y -96 
-\i (00:12:13) roam y -96
-\i (00:12:13) roam y -96 
-\i (00:12:13) roam y -96
-\i (00:12:15) zoom in 1 
-\i (00:12:15) setwindow pcb
-\i (00:12:15) zoom in 5353.78 4170.15
-\i (00:12:15) trapsize 1428
-\i (00:12:15) zoom in 1 
-\i (00:12:15) setwindow pcb
-\i (00:12:15) zoom in 5362.36 4138.73
-\i (00:12:15) trapsize 714
-\i (00:12:15) zoom in 1 
-\i (00:12:15) setwindow pcb
-\i (00:12:15) zoom in 5365.22 4124.45
-\i (00:12:15) trapsize 357
-\i (00:12:17) roam x 96 
-\i (00:12:17) roam x 96
-\i (00:12:17) roam x 96 
-\i (00:12:17) roam x 96
-\i (00:12:19) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
-\i (00:12:27) artwork 
-\i (00:12:30) setwindow form.film_control
-\i (00:12:30) FORM film_control filmtree  01a_Assemb_Top 
-\i (00:12:30) FORM film_control filmtree 'MULTISEL YES' 01a_Assemb_Top 
-\i (00:12:34) FORM film_control filmtree popup 'Display for Visibility''MULTISEL YES' 01a_Assemb_Top 
-\i (00:12:34) setwindow pcb
-\i (00:12:34) updateport CVPane
-\i (00:12:35) setwindow form.film_control
-\i (00:12:35) FORM film_control ok  
-\i (00:12:35) setwindow pcb
-\i (00:12:35) generaledit 
-\i (00:12:38) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
-\i (00:12:43) show element 
-\i (00:12:45) setwindow form.find
-\i (00:12:45) FORM find components YES 
-\i (00:12:47) setwindow pcb
-\i (00:12:47) pick grid 5224.21 4240.87
-\t (00:12:47) last pick:  5220.00 4240.00
-\i (00:12:53) zoom out 1 
-\i (00:12:53) setwindow pcb
-\i (00:12:53) zoom out 5224.21 4240.87
-\i (00:12:53) trapsize 714
-\i (00:12:54) zoom out 1 
-\i (00:12:54) setwindow pcb
-\i (00:12:54) zoom out 5224.22 4240.88
-\i (00:12:54) trapsize 1428
-\i (00:13:06) zoom out 1 
-\i (00:13:06) setwindow pcb
-\i (00:13:06) zoom out 5618.48 3506.65
-\i (00:13:06) trapsize 2857
-\i (00:13:07) zoom in 1 
-\i (00:13:07) setwindow pcb
-\i (00:13:07) zoom in 5618.47 3506.64
-\i (00:13:07) trapsize 1428
-\i (00:13:07) zoom in 1 
-\i (00:13:07) setwindow pcb
-\i (00:13:07) zoom in 5618.48 3506.65
-\i (00:13:07) trapsize 714
-\i (00:13:07) zoom in 1 
-\i (00:13:07) setwindow pcb
-\i (00:13:07) zoom in 5618.48 3506.65
-\i (00:13:07) trapsize 357
-\i (00:13:07) zoom out 1 
-\i (00:13:07) setwindow pcb
-\i (00:13:07) zoom out 5618.48 3506.66
-\i (00:13:07) trapsize 714
-\i (00:13:07) zoom out 1 
-\i (00:13:07) setwindow pcb
-\i (00:13:07) zoom out 5618.48 3506.65
-\i (00:13:07) trapsize 1428
-\i (00:13:08) zoom in 1 
-\i (00:13:08) setwindow pcb
-\i (00:13:08) zoom in 5618.48 3506.66
-\i (00:13:08) trapsize 714
-\i (00:13:08) zoom in 1 
-\i (00:13:08) setwindow pcb
-\i (00:13:08) zoom in 5618.48 3506.66
-\i (00:13:08) trapsize 357
-\i (00:13:08) zoom out 1 
-\i (00:13:08) setwindow pcb
-\i (00:13:08) zoom out 5618.48 3506.67
-\i (00:13:08) trapsize 714
-\i (00:13:09) zoom out 1 
-\i (00:13:09) setwindow pcb
-\i (00:13:09) zoom out 5618.48 3506.66
-\i (00:13:09) trapsize 1428
-\i (00:13:10) roam y 96 
-\i (00:13:10) roam y 96
-\i (00:13:10) roam y 96 
-\i (00:13:10) roam y 96
-\i (00:13:11) roam y 96 
-\i (00:13:11) roam y 96
-\i (00:13:11) roam y 96 
-\i (00:13:11) roam y 96
-\i (00:13:12) roam y 96 
-\i (00:13:12) roam y 96
-\i (00:13:12) roam y 96 
-\i (00:13:12) roam y 96
-\i (00:13:12) roam y 96 
-\i (00:13:12) roam y 96
-\i (00:13:12) roam y -96 
-\i (00:13:12) roam y -96
-\i (00:13:13) roam y -96 
-\i (00:13:13) roam y -96
-\i (00:13:15) roam y -96 
-\i (00:13:15) roam y -96
-\i (00:13:15) roam y 96 
-\i (00:13:15) roam y 96
-\i (00:13:16) roam y 96 
-\i (00:13:16) roam y 96
-\i (00:13:16) roam y 96 
-\i (00:13:16) roam y 96
-\i (00:13:16) roam y 96 
-\i (00:13:16) roam y 96
-\i (00:13:16) roam y 96 
-\i (00:13:16) roam y 96
-\i (00:13:23) QtSignal CVPLayerGrid CVPBoxAllSig clicked true
-\i (00:13:25) roam x 96 
-\i (00:13:25) roam x 96
-\i (00:13:25) roam x 96 
-\i (00:13:25) roam x 96
-\i (00:13:25) roam x 96 
-\i (00:13:25) roam x 96
-\i (00:13:25) roam x 96 
-\i (00:13:25) roam x 96
-\i (00:13:25) roam x 96 
-\i (00:13:25) roam x 96
-\i (00:13:25) roam x 96 
-\i (00:13:25) roam x 96
-\i (00:13:26) roam x 96 
-\i (00:13:26) roam x 96
-\i (00:13:26) roam y 96 
-\i (00:13:26) roam y 96
-\i (00:13:27) roam y 96 
-\i (00:13:27) roam y 96
-\i (00:13:27) roam y 96 
-\i (00:13:27) roam y 96
-\i (00:13:28) roam y 96 
-\i (00:13:28) roam y 96
-\i (00:13:28) roam y 96 
-\i (00:13:28) roam y 96
-\i (00:13:28) roam y -96 
-\i (00:13:28) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:29) roam y -96 
-\i (00:13:29) roam y -96
-\i (00:13:30) roam y 96 
-\i (00:13:30) roam y 96
-\i (00:13:31) roam y 96 
-\i (00:13:31) roam y 96
-\i (00:13:33) roam y -96 
-\i (00:13:33) roam y -96
-\i (00:13:33) roam x -96 
-\i (00:13:33) roam x -96
-\i (00:13:33) roam x -96 
-\i (00:13:33) roam x -96
-\i (00:13:33) roam x -96 
-\i (00:13:33) roam x -96
-\i (00:13:34) roam x -96 
-\i (00:13:34) roam x -96
-\i (00:13:34) roam x -96 
-\i (00:13:34) roam x -96
-\i (00:13:37) roam y 96 
-\i (00:13:37) roam y 96
-\i (00:13:37) roam y 96 
-\i (00:13:37) roam y 96
-\i (00:14:12) roam y 96 
-\i (00:14:13) roam y 96
-\i (00:14:13) roam y 96 
-\i (00:14:13) roam y 96
-\i (00:14:13) roam y 96 
-\i (00:14:13) roam y 96
-\i (00:14:13) roam y 96 
-\i (00:14:13) roam y 96
-\i (00:14:13) roam y 96 
-\i (00:14:13) roam y 96
-\i (00:14:14) roam y -96 
-\i (00:14:14) roam y -96
-\i (00:14:15) roam y -96 
-\i (00:14:15) roam y -96
-\i (00:14:15) roam y -96 
-\i (00:14:15) roam y -96
-\i (00:14:17) pick grid 6509.96 3018.82
-\t (00:14:17) last pick:  6510.00 3020.00
-\i (00:14:27) roam y -96 
-\i (00:14:27) roam y -96
-\i (00:14:27) roam y -96 
-\i (00:14:27) roam y -96
-\i (00:14:28) roam y -96 
-\i (00:14:28) roam y -96
-\i (00:14:28) roam y -96 
-\i (00:14:28) roam y -96
-\i (00:14:29) pick grid 6372.83 4218.72
-\t (00:14:29) last pick:  6370.00 4220.00
-\i (00:19:07) xNet Vcc3v3 
-\i (00:19:07) xrefdes R121 
-\i (00:19:07) xrefdes R122 
-\i (00:19:07) xname_flush 
-\i (00:19:07) trapsize 4854
-\i (00:19:13) xNet Gnd_Power 
-\i (00:19:13) xrefdes R123 
-\i (00:19:13) xNet 'Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:19:13) xrefdes R126 
-\i (00:19:13) xname_flush 
-\i (00:19:13) trapsize 4854
-\i (00:19:17) xrefdes C141 
-\i (00:19:17) xname_flush 
-\i (00:19:17) trapsize 178
-\i (00:19:18) xrefdes C140 
-\i (00:19:18) xname_flush 
-\i (00:19:18) trapsize 178
-\i (00:19:20) xNet 'Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:19:20) xname_flush 
-\i (00:19:20) trapsize 945
-\i (00:19:22) xNet 'Sfp_Td_N_Sfp Interface_Sfp1' 
-\i (00:19:22) xname_flush 
-\i (00:19:22) trapsize 1013
-\i (00:19:23) xNet 'Sfp_Td_N_Sfp Interface_Sfp1' 
-\i (00:19:23) xname_flush 
-\i (00:19:23) trapsize 1013
-\i (00:19:25) xNet 'Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:19:25) xname_flush 
-\i (00:19:25) trapsize 945
-\i (00:19:27) xNet 'Sfp_Td_N_Sfp Interface_Sfp1' 
-\i (00:19:27) xname_flush 
-\i (00:19:27) trapsize 1013
-\i (00:22:46) xname_flush 
-\i (00:22:52) xname_flush '!' 
-\i (00:22:53) xname_flush 
-\i (00:22:54) xname_flush '!' 
-\i (00:23:01) xNet 'Cml_Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:23:01) xname_flush 
-\i (00:23:01) trapsize 89
-\i (00:23:02) xname_flush '!' 
-\i (00:23:02) xNet 'Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:23:02) xname_flush 
-\i (00:23:02) trapsize 945
-\i (00:23:05) xname_flush '!' 
-\i (00:23:10) xNet 'Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:23:10) xname_flush 
-\i (00:23:10) trapsize 945
-\i (00:23:16) xNet 'Cml_Sfp_Td_P_Sfp Interface_Sfp1' 
-\i (00:23:16) xname_flush 
-\i (00:23:16) trapsize 89
-\i (00:23:18) xname_flush '!' 
-\i (00:23:18) xNet 'Sfp_Td_N_Sfp Interface_Sfp1' 
-\i (00:23:18) xname_flush 
-\i (00:23:18) trapsize 1013
-\i (00:23:30) xNet 'Cml_Sfp_Td_P_Sfp Interface_Sfp4' 
-\i (00:23:30) xname_flush 
-\i (00:23:30) trapsize 89
-\i (00:23:32) xNet 'Sfp_Td_N_Sfp Interface_Sfp4' 
-\i (00:23:32) xname_flush 
-\i (00:23:32) trapsize 1008
-\i (00:23:37) xNet 'Cml_Sfp_Td_N_Sfp Interface_Sfp4' 
-\i (00:23:37) xname_flush 
-\i (00:23:37) trapsize 89
-\i (00:23:37) xname_flush '!' 
-\i (00:23:38) xNet 'Cml_Sfp_Td_N_Sfp Interface_Sfp4' 
-\i (00:23:38) xname_flush 
-\i (00:23:38) trapsize 89
-\i (00:23:38) xNet 'Cml_Sfp_Td_N_Sfp Interface_Sfp4' 
-\i (00:23:38) xname_flush 
-\i (00:23:38) trapsize 89
-\i (00:23:40) xNet 'Cml_Sfp_Td_N_Sfp Interface_Sfp4' 
-\i (00:23:40) xname_flush 
-\i (00:23:40) trapsize 89
-\t (00:24:01) > DoPhysicalNetlistGenerate message received
-\t (00:24:01) > Generating physical netlist...
-\t (00:24:01) Starting genfeedformat...
-\t (00:24:02) > Sending response DonePhysicalNetlistGeneration
-\t (00:24:02) > Physical Netlist Generated
-\t (00:24:26) > DoPullSchematic message received
-\t (00:24:26) > Pulling schematic...
-\t (00:24:26) Starting Cadence Logic Import...
-\t (00:24:27) Opening existing design...
-\i (00:24:28) trapsize 89
-\t (00:24:28) > Sending response DonePullSchematic
-\t (00:24:28) > Schematic pulled successfully
-\i (00:24:28) generaledit 
-\t (00:24:28) [15:06:06.418712] Periodic Lic check successful
-[15:06:06.943000] Feature usage summary:
-[15:06:06.943000] Allegro_X_Platinum_Layout
-[15:06:06.943000] Allegro_Venture_PCB_Designer
-[15:06:06.943000] PCB_design_studio
-[15:06:06.943000] Venture_PCB_Schematic
-[15:06:06.943000] Allegro_Venture_PCB_Designer2
+\i (00:08:07) show element 
+\i (00:08:09) pick grid 5451.65 2792.43
+\t (00:08:09) last pick:  5450.00 2790.00
+\i (00:08:41) pick grid 5911.24 2967.21
+\t (00:08:41) last pick:  5910.00 2970.00
+\i (00:08:42) prepopup 5911.24 2967.21
+\i (00:08:43) done 
+\i (00:08:43) generaledit 
+\i (00:08:44) pick grid 5345.20 2764.38
+\t (00:08:44) last pick:  5350.00 2760.00
+\i (00:08:47) delete 
+\i (00:08:47) generaledit 
+\i (00:08:53) plctxt in 
+\i (00:08:55) setwindow form.plctxt
+\i (00:08:55) FORM plctxt browse  
+\i (00:08:58) fillin "gps_interface_board_placement_v54dc_u110.txt"
+\i (00:09:00) FORM plctxt execute  
+\t (00:09:00) Starting Place symbols by text file...
+\t (00:09:01) SpawnProcessExit background process completed status = 0
 
-\i (00:24:40) zoom out 1 
-\i (00:24:40) setwindow pcb
-\i (00:24:40) zoom out 8451.46 3239.38
-\i (00:24:40) trapsize 178
-\i (00:24:40) zoom out 1 
-\i (00:24:40) setwindow pcb
-\i (00:24:40) zoom out 8451.46 3239.38
-\i (00:24:40) trapsize 357
-\i (00:24:41) zoom out 1 
-\i (00:24:41) setwindow pcb
-\i (00:24:41) zoom out 8451.47 3239.37
-\i (00:24:41) trapsize 714
-\i (00:24:42) roam x 96 
-\i (00:24:42) roam x 96
-\i (00:24:42) roam x 96 
-\i (00:24:42) roam x 96
-\i (00:24:42) roam x 96 
-\i (00:24:42) roam x 96
-\i (00:24:42) roam x 96 
-\i (00:24:42) roam x 96
-\i (00:24:51) save 
-\i (00:24:52) fillin yes 
-\t (00:24:53) > Sending response DoneOpenBoard
-\i (00:24:53) generaledit 
-\i (00:24:58) exit 
-\t (00:24:58) Lic Summary:
-[15:06:36.429712] Cdslmd servers: ppl
-[15:06:36.954000] Feature usage summary:
-[15:06:36.954000] Allegro_X_Platinum_Layout
-[15:06:36.954000] Allegro_Venture_PCB_Designer
-[15:06:36.954000] PCB_design_studio
-[15:06:36.954000] Venture_PCB_Schematic
-[15:06:36.954000] Allegro_Venture_PCB_Designer2
+\t (00:09:01) Opening existing design...
+\i (00:09:02) setwindow pcb
+\i (00:09:02) trapsize 360
+\i (00:09:18) setwindow form.plctxt
+\i (00:09:18) FORM plctxt execute  
+\t (00:09:18) Starting Place symbols by text file...
+\t (00:09:19) SpawnProcessExit background process completed status = 0
 
-\t (00:24:58)     Journal end - Wed Jul  9 15:06:37 2025
+\t (00:09:19) Opening existing design...
+\i (00:09:20) setwindow pcb
+\i (00:09:20) trapsize 360
+\i (00:09:28) zoom in 1 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom in 5548.75 2757.19
+\i (00:09:28) trapsize 180
+\i (00:09:28) zoom in 1 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom in 5548.75 2757.19
+\i (00:09:28) trapsize 90
+\i (00:09:29) zoom in 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in 5548.75 2757.19
+\i (00:09:29) trapsize 45
+\i (00:09:29) zoom in 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in 5548.76 2757.20
+\i (00:09:29) trapsize 22
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out 5548.76 2757.20
+\i (00:09:29) trapsize 45
+\i (00:09:30) zoom out 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom out 5548.77 2757.20
+\i (00:09:30) trapsize 90
+\i (00:09:35) zoom out 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom out 5546.42 2766.36
+\i (00:09:35) trapsize 180
+\i (00:09:35) zoom out 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom out 5546.43 2766.37
+\i (00:09:35) trapsize 360
+\i (00:09:51) pick grid 5496.81 2911.66
+\t (00:09:51) last pick:  5500.00 2910.00
+\i (00:09:54) zoom in 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom in 5471.64 2879.29
+\i (00:09:54) trapsize 180
+\i (00:09:54) zoom in 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom in 5471.64 2879.29
+\i (00:09:54) trapsize 90
+\i (00:09:54) zoom in 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom in 5471.64 2879.29
+\i (00:09:54) trapsize 45
+\i (00:09:55) zoom out 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom out 5471.65 2879.30
+\i (00:09:55) trapsize 90
+\i (00:09:56) zoom out 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom out 5473.80 2880.19
+\i (00:09:56) trapsize 180
+\i (00:09:56) zoom out 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom out 5474.53 2880.20
+\i (00:09:56) trapsize 360
+\i (00:09:56) zoom out 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom out 5474.53 2880.20
+\i (00:09:56) trapsize 719
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 5486.02 2884.52
+\i (00:09:57) trapsize 360
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 5486.02 2884.52
+\i (00:09:57) trapsize 180
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 5486.02 2884.52
+\i (00:09:57) trapsize 90
+\i (00:09:58) zoom out 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom out 5487.64 2885.60
+\i (00:09:58) trapsize 180
+\i (00:09:58) zoom out 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom out 5488.36 2885.61
+\i (00:09:58) trapsize 360
+\i (00:10:18) save 
+\i (00:10:20) fillin yes 
+\t (00:10:20) > Sending response DoneOpenBoard
+\i (00:10:20) generaledit 
+\i (00:10:29) exit 
+\t (00:10:29) Lic Summary:
+[17:07:47.209712] Cdslmd servers: ppl
+[17:07:47.734000] Feature usage summary:
+[17:07:47.734000] Allegro_X_Platinum_Layout
+[17:07:47.734000] Allegro_Venture_PCB_Designer
+[17:07:47.734000] PCB_design_studio
+[17:07:47.734000] Venture_PCB_Schematic
+[17:07:47.734000] Allegro_Venture_PCB_Designer2
+
+\t (00:10:30)     Journal end - Wed Jul  9 17:07:47 2025

@@ -1,5 +1,5 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Wed Jul  9 15:05:40 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
+J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Wed Jul  9 16:56:18 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
 S!N760214!@gps_interface_board.\00. gib top\(sch_1):n760214!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.SFP_LOS_FPGA1!@gps_interface_board.\00. gib top\(sch_1):\fmc.sfp_los_fpga1\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.SFP_LOS_FPGA3!@gps_interface_board.\00. gib top\(sch_1):\fmc.sfp_los_fpga3\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
@@ -324,11 +324,9 @@ S!FMC.CLK_FILTER_B!@gps_interface_board.\00. gib top\(sch_1):\fmc.clk_filter_b\!
 S!FMC.CLK_TO_FPGA_P!@gps_interface_board.\00. gib top\(sch_1):\fmc.clk_to_fpga_p\!!!!!!!!!!!!!!!!!!!!!!FMC.CLK_TO_FPGA!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!R_N_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\r_n_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP4!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.CLK_FILTER_A!@gps_interface_board.\00. gib top\(sch_1):\fmc.clk_filter_a\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_P_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_p_sfp interface_sfp2\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP2!!!!!!!!!!!!!!!!!!!!!!!!!
 S!R_P_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\r_p_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP4!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.GPS_CLK_EN*!@gps_interface_board.\00. gib top\(sch_1):\fmc.gps_clk_en*\!!!!!!!!!!!!!!!!!!!!!!!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.CLK_TO_FPGA_N!@gps_interface_board.\00. gib top\(sch_1):\fmc.clk_to_fpga_n\!!!!!!!!!!!!!!!!!!!!!!FMC.CLK_TO_FPGA!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_N_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_n_sfp interface_sfp2\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP2!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N141568_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\n141568_sfp interface_sfp2\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!MOD_ABS_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\mod_abs_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!RS_SFP INTERFACE_SFP3!@gps_interface_board.\00. gib top\(sch_1):\rs_sfp interface_sfp3\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
@@ -336,10 +334,8 @@ S!N04977_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\n04977_sf
 S!CLK_TO_SFP.CLK_TO_SFP_N5!@gps_interface_board.\00. gib top\(sch_1):\clk_to_sfp.clk_to_sfp_n5\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP5!!!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!!!!!!!
 S!R_N_SFP INTERFACE_SFP5!@gps_interface_board.\00. gib top\(sch_1):\r_n_sfp interface_sfp5\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP5!!!!!!!!!!!!!!!!!!!!!!!!!
 S!CLK_TO_SFP.CLK_TO_SFP_P4!@gps_interface_board.\00. gib top\(sch_1):\clk_to_sfp.clk_to_sfp_p4\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP4!!!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_P_SFP INTERFACE_SFP3!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_p_sfp interface_sfp3\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP3!!!!!!!!!!!!!!!!!!!!!!!!!
 S!R_P_SFP INTERFACE_SFP5!@gps_interface_board.\00. gib top\(sch_1):\r_p_sfp interface_sfp5\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP5!!!!!!!!!!!!!!!!!!!!!!!!!
 S!CLK_TO_SFP.CLK_TO_SFP_N4!@gps_interface_board.\00. gib top\(sch_1):\clk_to_sfp.clk_to_sfp_n4\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP4!!!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_N_SFP INTERFACE_SFP3!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_n_sfp interface_sfp3\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP3!!!!!!!!!!!!!!!!!!!!!!!!!
 S!CLK_TO_SFP.CLK_TO_SFP_P5!@gps_interface_board.\00. gib top\(sch_1):\clk_to_sfp.clk_to_sfp_p5\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP5!!!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!!!!!!!
 S!N351234!@gps_interface_board.\00. gib top\(sch_1):n351234!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N141568_SFP INTERFACE_SFP3!@gps_interface_board.\00. gib top\(sch_1):\n141568_sfp interface_sfp3\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
@@ -351,21 +347,15 @@ S!RS_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\rs_sfp interf
 S!VP3V3!@gps_interface_board.\00. gib top\(sch_1):vp3v3!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!R_N_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\r_n_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP6!!!!!!!!!!!!!!!!!!!!!!!!!
 S!R_P_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\r_p_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP6!!!!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_P_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_p_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP4!!!!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_N_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_n_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP4!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N141568_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\n141568_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!MOD_ABS_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\mod_abs_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N180901!@gps_interface_board.\00. gib top\(sch_1):n180901!!!!!!!!!!!!!!!!!!!!!!CLK_SCOPE_CAP!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N04910_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\n04910_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!RS_SFP INTERFACE_SFP5!@gps_interface_board.\00. gib top\(sch_1):\rs_sfp interface_sfp5\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!SFP_TD_P_SFP INTERFACE_SFP5!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_p_sfp interface_sfp5\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP5!!!!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_N_SFP INTERFACE_SFP5!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_n_sfp interface_sfp5\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP5!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N180853!@gps_interface_board.\00. gib top\(sch_1):n180853!!!!!!!!!!!!!!!!!!!!!!CLK_SCOPE_CAP!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N141568_SFP INTERFACE_SFP5!@gps_interface_board.\00. gib top\(sch_1):\n141568_sfp interface_sfp5\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!RS_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\rs_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N04977_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\n04977_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!SFP_TD_P_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_p_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP6!!!!!!!!!!!!!!!!!!!!!!!!!
-S!SFP_TD_N_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_n_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP6!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N141568_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\n141568_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N04977_SFP INTERFACE_SFP6!@gps_interface_board.\00. gib top\(sch_1):\n04977_sfp interface_sfp6\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!CLK_TO_SFP.CLK_TO_SFP_P3!@gps_interface_board.\00. gib top\(sch_1):\clk_to_sfp.clk_to_sfp_p3\!!!!!!!!!!!!!!!!!!!!!!CLK_TO_SFP.CLK_TO_SFP3!!!CLK_TO_SFP[0..11]!!!!!!!!!!!!!!!!!!!!!!
@@ -389,7 +379,6 @@ S!GPS_IRIGB_IN!@gps_interface_board.\00. gib top\(sch_1):gps_irigb_in!!!!!!!!!!!
 S!N127138!@gps_interface_board.\00. gib top\(sch_1):n127138!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!MOD_ABS_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\mod_abs_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!PPS_OUT_P!@gps_interface_board.\00. gib top\(sch_1):pps_out_p!!!!!!!!!!!!!!!!!!!!!!PPS_OUT!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!SFP_TD_N_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_n_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP1!!!!!!!!!!!!!!!!!!!!!!!!!
 S!GPS_PPS_IN!@gps_interface_board.\00. gib top\(sch_1):gps_pps_in!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N107878!@gps_interface_board.\00. gib top\(sch_1):n107878!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N89893!@gps_interface_board.\00. gib top\(sch_1):n89893!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
@@ -407,7 +396,6 @@ S!FPGA_3V3!@gps_interface_board.\00. gib top\(sch_1):fpga_3v3!!!!!!!!!!!!!!!!!!!
 S!VDDA_FILT!@gps_interface_board.\00. gib top\(sch_1):vdda_filt!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!FPGA_12V!@gps_interface_board.\00. gib top\(sch_1):fpga_12v!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!RS_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\rs_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
-S!SFP_TD_P_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\sfp_td_p_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!SFP_TD_SFP INTERFACE_SFP1!!!!!!!!!!!!!!!!!!!!!!!!!
 S!A0_3V3!@gps_interface_board.\00. gib top\(sch_1):a0_3v3!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N04977_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\n04977_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!R_N_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\r_n_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP1!!!!!!!!!!!!!!!!!!!!!!!!!

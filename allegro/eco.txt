@@ -3,131 +3,248 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 15:06:05 2025  |
+|                                                    Wed Jul  9 16:57:32 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  SFP_TD_N_SFP INTERFACE_SFP1 pins MOVED FROM this net (to net name listed on right)
-                                 J13.19          11326.1 4414.58
-                                                CML_SFP_TD_N_SFP INTERFACE_SFP1
+  ACLK_TO_CDR_N pins ADDED TO this existing net (pins not previously on any net)
+                                 TP892.1                        
+                                 U110.4                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_N_SFP INTERFACE_SFP2 pins MOVED FROM this net (to net name listed on right)
-                                 J14.19          10457.1 4412.58
-                                                CML_SFP_TD_N_SFP INTERFACE_SFP2
+  ACLK_TO_CDR_P pins ADDED TO this existing net (pins not previously on any net)
+                                 TP891.1                        
+                                 U110.5                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_N_SFP INTERFACE_SFP3 pins MOVED FROM this net (to net name listed on right)
-                                 J18.19          9579.11 4412.58
-                                                CML_SFP_TD_N_SFP INTERFACE_SFP3
+  FMC.ACLK_SFP_SCL pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.20                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_N_SFP INTERFACE_SFP4 pins MOVED FROM this net (to net name listed on right)
-                                 J19.19          8428.11 4412.58
-                                                CML_SFP_TD_N_SFP INTERFACE_SFP4
+  FMC.ACLK_SFP_SDA pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.21                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_N_SFP INTERFACE_SFP5 pins MOVED FROM this net (to net name listed on right)
-                                 J20.19          7550.11 4412.58
-                                                CML_SFP_TD_N_SFP INTERFACE_SFP5
+  FMC.RECOV_ACLK_CLK_N pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.25                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_N_SFP INTERFACE_SFP6 pins MOVED FROM this net (to net name listed on right)
-                                 J21.19          6679.11 4412.58
-                                                CML_SFP_TD_N_SFP INTERFACE_SFP6
+  FMC.RECOV_ACLK_CLK_P pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.26                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_SFP1 pins MOVED FROM this net (to net name listed on right)
-                                 J13.18          11294.6 4414.58
-                                                CML_SFP_TD_P_SFP INTERFACE_SFP1
+  FMC.RECOV_ACLK_DATA_N pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.28                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_SFP2 pins MOVED FROM this net (to net name listed on right)
-                                 J14.18          10425.6 4412.58
-                                                CML_SFP_TD_P_SFP INTERFACE_SFP2
+  FMC.RECOV_ACLK_DATA_P pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.29                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_SFP3 pins MOVED FROM this net (to net name listed on right)
-                                 J18.18          9547.61 4412.58
-                                                CML_SFP_TD_P_SFP INTERFACE_SFP3
+  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
+                                 C3716.1                        
+                                 C3717.1                        
+                                 R2696.1                        
+                                 R3696.2                        
+                                 R3697.1                        
+                                 R3698.2                        
+                                 U110.6                         
+                                 U110.7                         
+                                 U110.8                         
+                                 U110.11                        
+                                 U110.13                        
+                                 U110.17                        
+                                 U110.23                        
+                                 U110.30                        
+                                 U110.33                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_SFP4 pins MOVED FROM this net (to net name listed on right)
-                                 J19.18          8396.61 4412.58
-                                                CML_SFP_TD_P_SFP INTERFACE_SFP4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_SFP5 pins MOVED FROM this net (to net name listed on right)
-                                 J20.18          7518.61 4412.58
-                                                CML_SFP_TD_P_SFP INTERFACE_SFP5
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SFP_TD_P_SFP INTERFACE_SFP6 pins MOVED FROM this net (to net name listed on right)
+  N361490      pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.16                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 15:06:05 2025  |
+|                                                    Wed Jul  9 16:57:32 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 J21.18          6647.61 4412.58
-                                                CML_SFP_TD_P_SFP INTERFACE_SFP6
+  N361502      pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.22                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N791699      pins ADDED TO this new net
+                                 R2696.2                        
+                                 U110.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N791731      pins ADDED TO this new net
+                                 U110.2                         
+                                 U110.10                        
+                                 U110.12                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N791739      pins ADDED TO this new net
+                                 TP893.1                        
+                                 U110.32                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N791751      pins ADDED TO this new net
+                                 C3716.2                        
+                                 U110.3                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N791843      pins ADDED TO this new net
+                                 R3696.1                        
+                                 U110.27                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N792019      pins ADDED TO this new net
+                                 C3718.1                        
+                                 U110.14                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N792079      pins ADDED TO this new net
+                                 C3718.2                        
+                                 U110.15                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N792083      pins ADDED TO this new net
+                                 R3698.1                        
+                                 U110.19                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  THRADJ       pins ADDED TO this existing net (pins not previously on any net)
+                                 C3717.2                        
+                                 R3697.2                        
+                                 U110.9                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins ADDED TO this existing net (pins not previously on any net)
+                                 U110.18                        
+                                 U110.24                        
+                                 U110.31                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 15:06:05 2025  |
+|                                                    Wed Jul  9 16:57:32 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C140                CAP_NP_CAP0402_DISCRETE_0.1UF_ 11346.0 3318.00
- C141                CAP_NP_CAP0402_DISCRETE_0.1UF_ 11346.0 3275.00
- C163                CAP_NP_CAP0402_DISCRETE_0.1UF_ 10477.0 3322.00
- C164                CAP_NP_CAP0402_DISCRETE_0.1UF_ 10477.0 3279.00
- C186                CAP_NP_CAP0402_DISCRETE_0.1UF_ 9599.00 3322.00
- C187                CAP_NP_CAP0402_DISCRETE_0.1UF_ 9599.00 3279.00
- C209                CAP_NP_CAP0402_DISCRETE_0.1UF_ 8449.00 3322.00
- C210                CAP_NP_CAP0402_DISCRETE_0.1UF_ 8449.00 3279.00
- C232                CAP_NP_CAP0402_DISCRETE_0.1UF_ 7571.00 3322.00
- C233                CAP_NP_CAP0402_DISCRETE_0.1UF_ 7571.00 3279.00
- C255                CAP_NP_CAP0402_DISCRETE_0.1UF_ 6700.00 3322.00
- C256                CAP_NP_CAP0402_DISCRETE_0.1UF_ 6700.00 3279.00
- R121                R_RES0402_6.81K       11366.0 3382.00
- R122                R_RES0402_6.81K       11366.0 3209.00
- R123                R_RES0402_3.83K       11324.0 3382.00
- R126                R_RES0402_3.83K       11324.0 3209.00
- R142                R_RES0402_6.81K       10495.0 3385.00
- R143                R_RES0402_6.81K       10497.0 3213.00
- R144                R_RES0402_3.83K       10455.0 3385.00
- R147                R_RES0402_3.83K       10455.0 3213.00
- R163                R_RES0402_6.81K       9619.00 3386.00
- R164                R_RES0402_6.81K       9619.00 3213.00
- R165                R_RES0402_3.83K       9577.00 3386.00
- R168                R_RES0402_3.83K       9577.00 3213.00
- R184                R_RES0402_6.81K       8469.00 3386.00
- R185                R_RES0402_6.81K       8469.00 3213.00
- R186                R_RES0402_3.83K       8427.00 3386.00
- R189                R_RES0402_3.83K       8427.00 3213.00
- R205                R_RES0402_6.81K       7591.00 3386.00
- R206                R_RES0402_6.81K       7591.00 3213.00
- R207                R_RES0402_3.83K       7549.00 3386.00
- R210                R_RES0402_3.83K       7549.00 3213.00
- R226                R_RES0402_6.81K       6720.00 3386.00
- R227                R_RES0402_6.81K       6720.00 3213.00
- R228                R_RES0402_3.83K       6678.00 3386.00
- R231                R_RES0402_3.83K       6678.00 3213.00
+ ADN2817ACPZ-RL7_CP_32_11_ADI_AD
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Wed Jul  9 15:06:05 2025  |
+|                                                    Wed Jul  9 16:57:32 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C2732               CAP_NP_CAP0402_DISCRETE_0.47UF_ 5255.00 2734.00
+ C2733               CAP_NP_CAP0402_DISCRETE_0.1UF_ 5227.00 2870.00
+ C2734               CAP_NP_CAP0402_DISCRETE_0.1UF_ 5458.00 2941.00
+ R2686               R_RES0402_0           5265.00 2868.00
+ R2687               R_RES0402_0           5667.00 2722.00
+ R2688               R_RES0402_4.7K        5340.00 2509.00
+ TP764               TESTPOINT_TP_KEYSTONE_5000A_500 5706.00 3219.00
+ TP765               TESTPOINT_TP_KEYSTONE_5000A_500 5706.00 3059.00
+ U104                ADN2814ACPZ_1_QFN50P500X500X100 5415.00 2768.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :      12                                        |
-|       Components deleted    :      36                                        |
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Wed Jul  9 16:57:32 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C3716               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
+ C3717               CAP_NP_CAP0402_DISCRETE_0.1UF_ 
+ C3718               CAP_NP_CAP0402_DISCRETE_0.47UF_ 
+ R2696               R_RES0402_4.7K        
+ R3696               R_RES0402_0           
+ R3697               R_RES0402_0           
+ R3698               R_RES0402_4.7K        
+ TP891               TESTPOINT_TP_KEYSTONE_5000A_500 
+ TP892               TESTPOINT_TP_KEYSTONE_5000A_500 
+ TP893               TESTPOINT_TP_KEYSTONE_5000A_500 
+ U110                ADN2817ACPZ-RL7_CP_32_11_ADI_AD 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Wed Jul  9 16:57:32 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R3698                          ROOM           ACLK_SFP
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Wed Jul  9 16:57:32 2025  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C2722.2        5685.00 2908.00 XY             (325,565)
+ C2723.2        5553.00 2562.00 XY             (375,565)
+ C2724.2        5316.00 2562.00 XY             (425,565)
+ C2725.2        5120.00 2767.00 XY             (475,565)
+ C2726.2        5746.00 2908.00 XY             (525,565)
+ C2727.2        5564.00 2908.00 XY             (325,605)
+ C2728.2        5553.00 2621.00 XY             (375,605)
+ C2729.2        5316.00 2621.00 XY             (425,605)
+ C2730.2        5179.00 2767.00 XY             (475,605)
+ C2731.2        5624.00 2908.00 XY             (525,605)
+ C3716.2                        PRIM_FILE      .\pstchip.dat
+ C3716.2                        XY             (270,720)
+ C3717.2                        PRIM_FILE      .\pstchip.dat
+ C3717.2                        XY             (170,780)
+ C3718.2                        PRIM_FILE      .\pstchip.dat
+ C3718.2                        XY             (300,840)
+ D42.1          4979.00 3919.00 XY             (940,515)
+ D43.1          5221.00 4215.00 XY             (1010,575)
+ R2689.2        5275.00 3830.00 XY             (985,540)
+ R2690.2        5114.00 4248.00 XY             (1050,600)
+ R2691.2        5154.00 3830.00 XY             (1080,600)
+ R2696.2                        PRIM_FILE      .\pstchip.dat
+ R2696.2                        XY             (250,700)
+ R3696.2                        PRIM_FILE      .\pstchip.dat
+ R3696.2                        XY             (620,760)
+ R3697.2                        PRIM_FILE      .\pstchip.dat
+ R3697.2                        XY             (160,810)
+ R3698.2                        PRIM_FILE      .\pstchip.dat
+ R3698.2                        ROOM           ACLK_SFP
+ R3698.2                        XY             (620,840)
+ TP766.1        2753.00  170.00 XY             (200,580)
+ TP891.1                        PRIM_FILE      .\pstchip.dat
+ TP891.1                        XY             (140,680)
+ TP892.1                        PRIM_FILE      .\pstchip.dat
+ TP892.1                        XY             (170,710)
+ TP893.1                        PRIM_FILE      .\pstchip.dat
+ TP893.1                        XY             (690,690)
+ U106.4         5776.00 3696.00 XY             (890,565)
+ U110.3                         PRIM_FILE      .\pstchip.dat
+ U110.3                         XY             (370,690)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
+|                                                    Wed Jul  9 16:57:32 2025  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      50                                        |
+|       Comp definitions added:       1                                        |
+|       Components added      :      11                                        |
+|       Components deleted    :       9                                        |
+|       Comp property added   :       1                                        |
+|       Slot property added   :      40                                        |
 |                                                                              |
-|   Total ECO changes reported:      48                                        |
+|   Total ECO changes reported:     112                                        |
 |------------------------------------------------------------------------------|
