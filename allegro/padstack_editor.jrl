@@ -1,19 +1,26 @@
-\t (00:00:01) padstack_editor 17.4 S011 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Sep 17 07:53:20 2024
-\t (00:00:01)         Host=ELWE4 User=hastingsp Pid=21836 CPUs=32
-\t (00:00:01) CmdLine= padstack_editor -mpssession hastingsp -file C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaadm00532.tmp -pname 21VIA10 -data C:/Users/HASTIN~1/AppData/Local/Temp/#Taaaadp00532.tmp
-\t (00:00:01) 
-\d (00:00:04) QtSignal MainWindow Open triggered
-\d (00:00:26) QtFillin "via36rd0-4d.pad"
-\d (00:00:29) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:43) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:49) QtSignal MainWindow Units CurrentIndexChanged Millimeter
-\d (00:00:51) QtFillin Yes
-\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\d (00:01:10) QtFillin No
-\t (00:01:10)     Journal end - Tue Sep 17 07:54:29 2024
+\t (00:00:00) padstack_editor 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Jul  9 14:50:33 2025
+\t (00:00:00)         Host=IT088130 User=phdgc Pid=6832 CPUs=16
+\t (00:00:00) CmdLine= padstack_editor -mpssession phdgc -file C:/Users/phdgc/AppData/Local/Temp/#Taaaaal15976.tmp -pname VIA36RD0_4D -data C:/Users/phdgc/AppData/Local/Temp/#Taaaaao15976.tmp
+\t (00:00:00) 
+\d (00:00:06) QtSignal MainWindow SaveAs triggered
+\d (00:00:10) QtSignal pseCheckBrowser Close clicked
+\d (00:00:16) QtFillin No
+\d (00:00:20) QtSignal MainWindow SaveAs triggered
+\d (00:00:23) QtSignal pseCheckBrowser Close clicked
+\d (00:00:24) QtFillin Yes
+\d (00:00:34) QtSignal MainWindow AQFileDialog finished 1
+\d (00:00:34) QtFillin "VIA_TP_36RD0_4D.pad"
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 0 "Regular Pad" "Circle 46.00"
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 1 "Regular Pad" "Circle 46.00"
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 2 "Regular Pad" None
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 3 "Regular Pad" None
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 4 "Regular Pad" None
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 5 "Regular Pad" None
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 6 "Regular Pad" None
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemChanged 7 "Regular Pad" None
+\d (00:00:48) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:18) QtSignal MainWindow Exit triggered
+\t (00:01:18)     Journal end - Wed Jul  9 14:51:51 2025
