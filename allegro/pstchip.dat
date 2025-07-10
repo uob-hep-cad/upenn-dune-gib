@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 24.1.0 d001Jul-09-2025 at 16:57:30}
+{ Using PSTWRITER 24.1.0 d001Jul-10-2025 at 14:06:57}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -2552,30 +2552,6 @@ primitive 'TPS74618PQWDRBRQ1_SON65P300X300';
     VALUE='TPS74618PQWDRBRQ1';
   end_body;
 end_primitive;
-primitive 'SN74LVC1G32_4_SOT23-5_SN74LVC1G';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-    'B':
-      PIN_NUMBER='(2)';
-      INPUT_LOAD='(*)';
-    'GND':
-      PIN_NUMBER='(3)';
-      PINUSE='POWER';
-    'Y':
-      PIN_NUMBER='(4)';
-      OUTPUT_LOAD='(*)';
-    'VCC':
-      PIN_NUMBER='(5)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='SN74LVC1G32_4';
-    JEDEC_TYPE='SOT23-5';
-    VALUE='SN74LVC1G32';
-  end_body;
-end_primitive;
 primitive 'SY58608UMG_QFN50P300X300X90-17N';
   pin
     'IN':
@@ -3071,6 +3047,33 @@ primitive 'NB7V52M_2_PQFN50P300X300X100-17';
     PART_NAME='NB7V52M_2';
     JEDEC_TYPE='PQFN50P300X300X100-17N-S145';
     VALUE='NB7V52MMNG';
+  end_body;
+end_primitive;
+primitive '74LVC2G04W6-7_SOT26_DIO_74LVC2G';
+  pin
+    '1A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    '2A':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    '2Y':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(*)';
+    'VCC':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    '1Y':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='74LVC2G04W6-7';
+    JEDEC_TYPE='SOT26_DIO';
+    VALUE='74LVC2G04W6-7';
   end_body;
 end_primitive;
 primitive 'LM75AIMX_0_SOIC8_LM75AIMX/NOPB';
