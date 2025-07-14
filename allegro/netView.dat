@@ -1,5 +1,13 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Thu Jul 10 14:06:13 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
+J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Mon Jul 14 11:28:04 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
+S!N808107!@gps_interface_board.\00. gib top\(sch_1):n808107!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N808151!@gps_interface_board.\00. gib top\(sch_1):n808151!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N808103!@gps_interface_board.\00. gib top\(sch_1):n808103!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N808223!@gps_interface_board.\00. gib top\(sch_1):n808223!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N801806!@gps_interface_board.\00. gib top\(sch_1):n801806!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N801750!@gps_interface_board.\00. gib top\(sch_1):n801750!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N801686!@gps_interface_board.\00. gib top\(sch_1):n801686!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N801690!@gps_interface_board.\00. gib top\(sch_1):n801690!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N736103_SFP INTERFACE_SFP4!@gps_interface_board.\00. gib top\(sch_1):\n736103_sfp interface_sfp4\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N736103_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\n736103_sfp interface_sfp2\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N736103_SFP INTERFACE_SFP1!@gps_interface_board.\00. gib top\(sch_1):\n736103_sfp interface_sfp1\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -72,23 +80,17 @@ S!N361502!@gps_interface_board.\00. gib top\(sch_1):n361502!!!!!!!!!!!!!!!!!!!!!
 S!N361490!@gps_interface_board.\00. gib top\(sch_1):n361490!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N361478!@gps_interface_board.\00. gib top\(sch_1):n361478!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!THRADJ!@gps_interface_board.\00. gib top\(sch_1):thradj!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N136741!@gps_interface_board.\00. gib top\(sch_1):n136741!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N222361!@gps_interface_board.\00. gib top\(sch_1):n222361!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT3_P!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout3_p\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT3!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT1_N!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout1_n\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT1!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT3_N!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout3_n\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT3!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT0_P!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout0_p\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT0!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT2_N!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout2_n\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT2!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
-S!N222469!@gps_interface_board.\00. gib top\(sch_1):n222469!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT2_P!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout2_p\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT2!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!VCCT_SFP INTERFACE_ACLK SFP!@gps_interface_board.\00. gib top\(sch_1):\vcct_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT0_N!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout0_n\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT0!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.AUXOUT1_P!@gps_interface_board.\00. gib top\(sch_1):\fmc.auxout1_p\!!!!!!!!!!!!!!!!!!!!!!FMC.AUXOUT1!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!
-S!N141568!@gps_interface_board.\00. gib top\(sch_1):n141568!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!CLK_FROM_FPGA_N!@gps_interface_board.\00. gib top\(sch_1):clk_from_fpga_n!!!!!!!!!!!!!!!!!!!!!!CLK_FROM_FPGA!!!!!!!!!!!!!!!!!!!!!!!!!
 S!CLK_FROM_FPGA_P!@gps_interface_board.\00. gib top\(sch_1):clk_from_fpga_p!!!!!!!!!!!!!!!!!!!!!!CLK_FROM_FPGA!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N210584!@gps_interface_board.\00. gib top\(sch_1):n210584!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N222457!@gps_interface_board.\00. gib top\(sch_1):n222457!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!RS_SFP INTERFACE_ACLK SFP!@gps_interface_board.\00. gib top\(sch_1):\rs_sfp interface_aclk sfp\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N727253!@gps_interface_board.\00. gib top\(sch_1):n727253!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!FMC.CLK_FROM_FPGA_P!@gps_interface_board.\00. gib top\(sch_1):\fmc.clk_from_fpga_p\!!!!!!!!!!!!!!!!!!!!!!FMC.CLK_FROM_FPGA!!!FMC[0..116]!!!!!!!!!!!!!!!!!!!!!!

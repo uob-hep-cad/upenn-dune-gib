@@ -3,155 +3,16 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Thu Jul 10 14:06:58 2025  |
+|                                                    Mon Jul 14 11:28:07 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND_POWER    pins MOVED FROM this net (to net name listed on right)
-                                 R2684.2         4337.00 4897.53
-                                                                        N801806
-                                 R2690.2         5084.47 4248.00
-                                                                        N808223
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U354.2                         
-                                 U355.2                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N136741      pins MOVED FROM this net (to net name listed on right)
-                                 D41.1           4424.50 4837.00
-                                                                        N801806
-                                 R2684.1         4337.00 4838.47
-                                                                         VCC3V3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N141568      pins MOVED FROM this net (to net name listed on right)
-                                 D41.2           4487.50 4837.00
-                                                                        N801750
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N210584      pins MOVED FROM this net (to net name listed on right)
-                                 D40.1           4424.50 4919.00
-                                                                        N801690
-                                 R2685.1         4396.53 4991.00
-                                                                        N801690
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N222361      pins MOVED FROM this net (to net name listed on right)
-                                 D42.1           4979.00 3887.50
-                                                                        N808107
-                                 R2691.1         5183.53 3830.00
-                                                                        N808107
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N222457      pins MOVED FROM this net (to net name listed on right)
-                                 D43.2           5221.00 4246.50
-                                                                        N808151
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N222469      pins MOVED FROM this net (to net name listed on right)
-                                 D43.1           5221.00 4183.50
-                                                                        N808223
-                                 R2690.1         5143.53 4248.00
-                                                                         VCC3V3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N361011      pins ADDED TO this existing net (pins not previously on any net)
-                                 U354.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
+  FMC.SDA_FPGA pins ADDED TO this existing net (pins not previously on any net)
+                                 R3700.1         2839.53 3070.00
 |------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Thu Jul 10 14:06:58 2025  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N361478      pins ADDED TO this existing net (pins not previously on any net)
-                                 U354.3                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N361490      pins ADDED TO this existing net (pins not previously on any net)
-                                 U355.3                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N361502      pins ADDED TO this existing net (pins not previously on any net)
-                                 U355.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N801686      pins ADDED TO this new net
-                                 U354.6                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N801750      pins ADDED TO this new net
-                                 U354.4                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N808103      pins ADDED TO this new net
-                                 U355.6                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N808151      pins ADDED TO this new net
-                                 U355.4                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC3V3       pins MOVED FROM this net (to net name listed on right)
-                                 D40.2           4487.50 4919.00
-                                                                        N801686
-                                 D42.2           4979.00 3950.50
-                                                                        N808103
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U354.5                         
-                                 U355.5                         
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Thu Jul 10 14:06:58 2025  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2683               R_RES0402_100         4551.00 4854.00
- R2689               R_RES0402_100         5275.00 3830.00
- U105                SN74LVC1G32_4_SOT23-5_SN74LVC1G 4843.00 4838.00
- U106                SN74LVC1G32_4_SOT23-5_SN74LVC1G 5776.00 3696.00
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Thu Jul 10 14:06:58 2025  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U354                74LVC2G04W6-7_SOT26_DIO_74LVC2G 
- U355                74LVC2G04W6-7_SOT26_DIO_74LVC2G 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  c:.../phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd   |
-|                                                    Thu Jul 10 14:06:58 2025  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- D40.1          4456.00 4919.00 XY             (1360,440)
- D41.1          4456.00 4837.00 XY             (1360,530)
- D42.1          4979.00 3919.00 XY             (1370,630)
- D43.1          5221.00 4215.00 XY             (1360,720)
- R2684.2        4337.00 4868.00 XY             (1410,500)
- R2685.2        4367.00 4991.00 XY             (1440,480)
- R2690.2        5114.00 4248.00 XY             (1410,690)
- R2691.2        5154.00 3830.00 XY             (1440,670)
- TP893.1                        XY             (620,630)
- U354.5                         PRIM_FILE      .\pstchip.dat
- U354.5                         XY             (1200,440)
- U355.5                         PRIM_FILE      .\pstchip.dat
- U355.5                         XY             (1200,630)
-|------------------------------------------------------------------------------|
-|       Nets changed          :      26                                        |
-|       Components added      :       2                                        |
-|       Components deleted    :       4                                        |
-|       Slot property added   :      13                                        |
+|       Nets changed          :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:      45                                        |
+|   Total ECO changes reported:       1                                        |
 |------------------------------------------------------------------------------|

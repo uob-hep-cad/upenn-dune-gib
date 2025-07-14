@@ -328,35 +328,6 @@ primitive 'TSW-103-07-G-S_SAMTEC_TSW-103-0';
   end_body;
 end_primitive;
 
-primitive 'ERJU030R00V_RES_ERJU030R00V_ERJ';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='ERJU030R00V';
-	 VALUE='ERJU030R00V';
-	 BODY_NAME='ERJU030R00V_RES_ERJU030R00V_ERJ';
-	 JEDEC_TYPE='RES_ERJU030R00V';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'MAX9371ESA_SOIC8_MAX9371ESA';
   pin
 	 'VCC':
@@ -5879,44 +5850,6 @@ primitive 'NB7V52M_2_PQFN50P300X300X100-17';
 	 VALUE='NB7V52MMNG';
 	 BODY_NAME='NB7V52M_2_PQFN50P300X300X100-17';
 	 JEDEC_TYPE='PQFN50P300X300X100-17N-S145';
-	 PHYS_DES_PREFIX='U';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'SN74LVC1G32_4_SOT23-5_SN74LVC1G';
-  pin
-	 'Y':
-	   PIN_NUMBER='(4)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'VCC':
-	   PIN_NUMBER='(5)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND':
-	   PIN_NUMBER='(3)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'B':
-	   PIN_NUMBER='(2)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'A':
-	   PIN_NUMBER='(1)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='SN74LVC1G32_4';
-	 VALUE='SN74LVC1G32';
-	 BODY_NAME='SN74LVC1G32_4_SOT23-5_SN74LVC1G';
-	 JEDEC_TYPE='SOT23-5';
 	 PHYS_DES_PREFIX='U';
 	 CLASS='IC';
   end_body;
