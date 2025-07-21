@@ -3816,4 +3816,1023 @@
 \i (05:15:16) roam y -24
 \i (05:15:16) roam y -16
 \i (05:15:16) roam y -16
-\i (05:15:16) roam y 
+\i (05:15:16) roam y -16
+\i (05:15:16) roam y -16
+\i (05:15:16) roam end
+\i (05:15:17) save 
+\i (05:15:19) fillin yes 
+\t (05:15:20) > Sending response DoneOpenBoard
+\i (05:15:20) etchedit 
+\i (05:15:58) roam start
+\i (05:15:58) roam x -16
+\i (05:15:58) roam y -12
+\i (05:15:58) roam x -20
+\i (05:15:58) roam y -8
+\i (05:15:58) roam x -16
+\i (05:15:58) roam y -12
+\i (05:15:58) roam x -16
+\i (05:15:58) roam y -8
+\i (05:15:58) roam x -16
+\i (05:15:58) roam y -8
+\i (05:15:58) roam x -36
+\i (05:15:58) roam y -44
+\i (05:15:58) roam y -20
+\i (05:15:58) roam x 4
+\i (05:15:58) roam y -16
+\i (05:15:58) roam y -16
+\i (05:15:58) roam y -24
+\i (05:15:58) roam x -16
+\i (05:15:58) roam y -52
+\i (05:15:58) roam x -28
+\i (05:15:58) roam y -28
+\i (05:15:59) roam end
+\i (05:16:12) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (05:16:20) QtSignal CVPLayerGrid CVPBoxAllPwr1 clicked true
+\i (05:16:26) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (05:16:31) drag_start grid 6072.49 203.34
+\i (05:16:31) slide 
+\t (05:16:31) last pick:  6075.00 205.00
+\t (05:16:31) Waiting for the destination pick.
+\t (05:16:31) Start slide location has pre-existing DRC errors.
+\i (05:16:41) drag_stop grid 6138.53 165.29
+\t (05:16:41) No DRC errors detected.
+\i (05:16:42) etchedit 
+\i (05:16:48) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (05:16:53) QtSignal CVPLayerGrid CVPBoxAllPwr1 clicked false
+\i (05:17:07) save_as 
+\i (05:17:12) fillin "gps_interface_board_ml_v66.brd"
+\t (05:17:13) > Sending response DoneOpenBoard
+\i (05:17:13) etchedit 
+\i (05:17:19) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (05:17:36) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (05:17:37) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (05:17:39) QtSignal CVPLayerGrid CVPBoxAllPwr1 clicked true
+\i (05:17:43) roam start
+\i (05:17:43) roam x 28
+\i (05:17:43) roam y 4
+\i (05:17:43) roam x 20
+\i (05:17:43) roam y 16
+\i (05:17:43) roam x 16
+\i (05:17:43) roam y 8
+\i (05:17:43) roam x 28
+\i (05:17:43) roam y 16
+\i (05:17:43) roam x 92
+\i (05:17:43) roam y 44
+\i (05:17:43) roam x 12
+\i (05:17:43) roam y 16
+\i (05:17:43) roam x 16
+\i (05:17:43) roam y 12
+\i (05:17:43) roam x 16
+\i (05:17:43) roam y 24
+\i (05:17:43) roam x 16
+\i (05:17:43) roam y 20
+\i (05:17:43) roam x 24
+\i (05:17:43) roam y 28
+\i (05:17:43) roam x 12
+\i (05:17:43) roam y 20
+\i (05:17:43) roam x 8
+\i (05:17:43) roam y 16
+\i (05:17:44) roam end
+\i (05:17:45) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (05:18:52) status 
+\t (05:18:52) [15:32:21.501000] Periodic Lic check successful
+[15:32:21.501000] Feature usage summary:
+[15:32:21.501000] Allegro_Venture_PCB_Designer2
+[15:32:21.501000] PCB_design_studio
+[15:32:21.501000] Allegro_Venture_PCB_Designer
+[15:32:21.501000] Venture_PCB_Schematic
+
+\i (05:18:52) etchedit 
+\i (05:18:56) setwindow form.status
+\i (05:18:56) FORM status drc_update  
+\t (05:18:56) Running DRC, wait...
+\t (05:18:56) Performing DRC...
+\t (05:18:56) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (05:18:56) Multithreaded DRC update (16 threads).
+\t (05:18:56) DRC done; 132 errors detected.
+\t (05:18:56) DRC done.
+\i (05:18:58) FORM status shorts_drc_color 1 
+\i (05:18:58) setwindow pcb
+\i (05:18:58) reports drc_shorts 
+\i (05:18:58) etchedit 
+\i (05:19:03) zoom center 
+\t (05:19:03) Pick center for the new display.
+\i (05:19:03) pick 6981.31,4198.69 
+\t (05:19:03) last pick:  6981.31 4198.69
+\i (05:19:03) trapsize 157
+\i (05:19:08) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (05:19:10) drag_start grid 6971.40 4210.64
+\i (05:19:10) slide 
+\t (05:19:10) last pick:  6970.00 4210.00
+\t (05:19:10) Waiting for the destination pick.
+\i (05:19:11) drag_stop grid 6968.57 4229.51
+\t (05:19:11) No DRC errors detected.
+\i (05:19:11) etchedit 
+\i (05:19:13) setwindow form.status
+\i (05:19:13) FORM status drc_update  
+\t (05:19:13) Running DRC, wait...
+\t (05:19:13) Performing DRC...
+\t (05:19:13) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (05:19:13) Multithreaded DRC update (16 threads).
+\t (05:19:13) DRC done; 131 errors detected.
+\t (05:19:13) DRC done.
+\i (05:19:16) setwindow pcb
+\i (05:19:16) zoom center 
+\t (05:19:16) Pick center for the new display.
+\i (05:19:16) pick 10763.00,4210.00 
+\t (05:19:16) last pick:  10763.00 4210.00
+\i (05:19:16) trapsize 157
+\i (05:19:18) drag_start grid 10747.75 4210.00
+\i (05:19:18) slide 
+\t (05:19:18) last pick:  10745.00 4210.00
+\t (05:19:18) Waiting for the destination pick.
+\t (05:19:18) Start slide location has pre-existing DRC errors.
+\i (05:19:19) drag_stop grid 10730.45 4251.20
+\t (05:19:19) No DRC errors detected.
+\i (05:19:19) etchedit 
+\i (05:19:21) setwindow form.status
+\i (05:19:21) FORM status drc_update  
+\t (05:19:21) Running DRC, wait...
+\t (05:19:21) Performing DRC...
+\t (05:19:21) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (05:19:21) Multithreaded DRC update (16 threads).
+\t (05:19:22) DRC done; 130 errors detected.
+\t (05:19:22) DRC done.
+\i (05:19:25) FORM status shorts_drc_color 1 
+\i (05:19:25) setwindow pcb
+\i (05:19:25) reports drc_shorts 
+\i (05:19:25) etchedit 
+\i (05:19:28) setwindow text
+\i (05:19:28) close
+\i (05:19:30) setwindow text
+\i (05:19:30) close
+\i (05:19:31) setwindow text
+\i (05:19:31) close
+\i (05:19:36) setwindow form.status
+\i (05:19:36) FORM status done  
+\i (05:19:37) setwindow pcb
+\i (05:19:37) save 
+\i (05:19:39) fillin yes 
+\t (05:19:40) > Sending response DoneOpenBoard
+\i (05:19:40) etchedit 
+\i (05:20:12) zoom out 1 
+\i (05:20:12) setwindow pcb
+\i (05:20:12) zoom out 10821.02 4244.91
+\i (05:20:12) trapsize 314
+\i (05:20:12) zoom out 1 
+\i (05:20:12) setwindow pcb
+\i (05:20:12) zoom out 10821.02 4244.91
+\i (05:20:12) trapsize 629
+\i (05:20:17) status 
+\i (05:20:17) etchedit 
+\i (05:20:20) setwindow form.status
+\i (05:20:20) FORM status drc_update  
+\t (05:20:20) Running DRC, wait...
+\t (05:20:20) Performing DRC...
+\t (05:20:20) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (05:20:20) Multithreaded DRC update (16 threads).
+\t (05:20:20) DRC done; 130 errors detected.
+\t (05:20:20) DRC done.
+\i (05:20:22) FORM status drc_color 1 
+\i (05:20:22) setwindow pcb
+\i (05:20:22) reports drc 
+\i (05:20:22) etchedit 
+\i (05:20:25) zoom center 
+\t (05:20:25) Pick center for the new display.
+\i (05:20:25) pick 5729.88,4750.00 
+\t (05:20:25) last pick:  5729.88 4750.00
+\i (05:20:25) trapsize 629
+\i (05:20:27) setwindow form.status
+\i (05:20:27) FORM status done  
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5902.84 4651.89
+\i (05:20:28) trapsize 314
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5902.84 4651.26
+\i (05:20:28) trapsize 157
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5902.84 4651.27
+\i (05:20:28) trapsize 79
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5870.13 4650.95
+\i (05:20:28) trapsize 39
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5870.13 4650.96
+\i (05:20:28) trapsize 20
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5870.13 4650.96
+\i (05:20:28) trapsize 10
+\i (05:20:28) zoom in 1 
+\i (05:20:28) setwindow pcb
+\i (05:20:28) zoom in 5870.07 4650.96
+\i (05:20:28) trapsize 5
+\i (05:20:31) zoom center 
+\t (05:20:31) Pick center for the new display.
+\i (05:20:31) pick 5729.88,4750.00 
+\t (05:20:31) last pick:  5729.88 4750.00
+\i (05:20:31) trapsize 5
+\i (05:20:32) zoom out 1 
+\i (05:20:32) setwindow pcb
+\i (05:20:32) zoom out 5729.18 4750.67
+\i (05:20:32) trapsize 10
+\i (05:20:32) zoom out 1 
+\i (05:20:32) setwindow pcb
+\i (05:20:32) zoom out 5729.19 4750.68
+\i (05:20:32) trapsize 20
+\i (05:20:32) zoom out 1 
+\i (05:20:32) setwindow pcb
+\i (05:20:32) zoom out 5729.19 4750.67
+\i (05:20:32) trapsize 39
+\i (05:20:32) zoom out 1 
+\i (05:20:32) setwindow pcb
+\i (05:20:32) zoom out 5733.19 4746.83
+\i (05:20:32) trapsize 79
+\i (05:20:32) zoom out 1 
+\i (05:20:32) setwindow pcb
+\i (05:20:32) zoom out 5732.41 4747.46
+\i (05:20:32) trapsize 157
+\i (05:20:33) zoom out 1 
+\i (05:20:33) setwindow pcb
+\i (05:20:33) zoom out 5736.81 4743.99
+\i (05:20:33) trapsize 314
+\i (05:20:36) zoom in 1 
+\i (05:20:36) setwindow pcb
+\i (05:20:36) zoom in 5716.69 4751.55
+\i (05:20:36) trapsize 157
+\i (05:20:44) roam start
+\i (05:20:44) roam x -12
+\i (05:20:44) roam y -16
+\i (05:20:44) roam x -8
+\i (05:20:44) roam y -16
+\i (05:20:44) roam x 56
+\i (05:20:44) roam y -4
+\i (05:20:45) roam end
+\i (05:20:46) drag_start grid 5699.52 4751.36
+\i (05:20:46) slide 
+\t (05:20:46) last pick:  5701.00 4751.00
+\t (05:20:46) Waiting for the destination pick.
+\i (05:20:46) updateport CVPane
+\t (05:20:47) Start slide location has pre-existing DRC errors.
+\i (05:20:50) drag_stop grid 5686.94 4778.40
+\t (05:20:50) No DRC errors detected.
+\i (05:20:50) etchedit 
+\i (05:20:50) zoom out 1 
+\i (05:20:50) setwindow pcb
+\i (05:20:50) zoom out 5725.30 4734.06
+\i (05:20:50) trapsize 314
+\i (05:20:50) zoom out 1 
+\i (05:20:50) setwindow pcb
+\i (05:20:50) zoom out 5733.48 4727.14
+\i (05:20:50) trapsize 629
+\i (05:20:53) undo 
+\i (05:20:53) trapsize 157
+\i (05:20:53) etchedit 
+\i (05:20:56) drag_start grid 5730.02 4747.27
+\i (05:20:56) slide 
+\t (05:20:56) last pick:  5731.00 4751.00
+\t (05:20:56) Waiting for the destination pick.
+\i (05:20:56) updateport CVPane
+\t (05:20:56) Start slide location has pre-existing DRC errors.
+\i (05:20:56) drag_stop grid 5728.45 4756.70
+\t (05:20:56) No DRC errors detected.
+\i (05:20:56) etchedit 
+\i (05:20:57) undo 
+\i (05:20:57) trapsize 157
+\i (05:20:57) etchedit 
+\i (05:21:03) slide 
+\t (05:21:03) last pick:  5726.00 4751.00
+\t (05:21:03) Waiting for the destination pick.
+\i (05:21:03) updateport CVPane
+\t (05:21:04) Start slide location has pre-existing DRC errors.
+\i (05:21:09) setwindow form.mini
+\i (05:21:09) FORM mini bubble_space Off 
+\i (05:21:19) FORM mini smooth_level Off 
+\i (05:21:23) setwindow pcb
+\i (05:21:23) pick grid 5676.25 4788.15
+\t (05:21:23) last pick:  5676.00 4786.00
+\t (05:21:23) No DRC errors detected.
+\i (05:21:23) etchedit 
+\i (05:21:27) undo 
+\i (05:21:27) trapsize 157
+\i (05:21:27) etchedit 
+\i (05:21:28) pick grid 5807.38 4695.07
+\t (05:21:28) last pick:  5805.00 4695.00
+\i (05:21:34) zoom out 1 
+\i (05:21:34) setwindow pcb
+\i (05:21:34) zoom out 5801.72 4700.10
+\i (05:21:34) trapsize 314
+\i (05:21:35) roam start
+\i (05:21:35) roam x 12
+\i (05:21:35) roam y 20
+\i (05:21:35) roam y 16
+\i (05:21:35) roam y 28
+\i (05:21:35) roam x -4
+\i (05:21:35) roam y 24
+\i (05:21:36) roam x -8
+\i (05:21:36) roam y 16
+\i (05:21:36) roam end
+\i (05:21:39) zoom in 1 
+\i (05:21:39) setwindow pcb
+\i (05:21:39) zoom in 5936.95 4704.19
+\i (05:21:39) trapsize 157
+\i (05:21:41) drag_start grid 5616.81 4758.91
+\i (05:21:41) slide 
+\t (05:21:41) last pick:  5616.00 4761.00
+\t (05:21:41) Waiting for the destination pick.
+\i (05:21:41) updateport CVPane
+\t (05:21:41) Start slide location has pre-existing DRC errors.
+\i (05:21:44) drag_stop grid 5625.93 4780.30
+\t (05:21:44) No DRC errors detected.
+\i (05:21:44) etchedit 
+\i (05:21:45) roam start
+\i (05:21:45) roam x -8
+\i (05:21:45) roam y 20
+\i (05:21:45) roam x -4
+\i (05:21:45) roam y 24
+\i (05:21:45) roam x -16
+\i (05:21:45) roam y 24
+\i (05:21:45) roam x -8
+\i (05:21:45) roam y 20
+\i (05:21:45) roam x -12
+\i (05:21:45) roam y 24
+\i (05:21:45) roam x -88
+\i (05:21:45) roam y 216
+\i (05:21:45) roam x -8
+\i (05:21:45) roam y 16
+\i (05:21:45) roam x -12
+\i (05:21:45) roam y 20
+\i (05:21:45) roam y 16
+\i (05:21:45) roam x -4
+\i (05:21:45) roam y 16
+\i (05:21:45) roam y 16
+\i (05:21:45) roam end
+\i (05:21:46) zoom out 1 
+\i (05:21:46) setwindow pcb
+\i (05:21:46) zoom out 5748.26 4526.19
+\i (05:21:46) trapsize 314
+\i (05:21:46) zoom out 1 
+\i (05:21:46) setwindow pcb
+\i (05:21:46) zoom out 5748.27 4526.20
+\i (05:21:46) trapsize 629
+\i (05:21:48) zoom in 1 
+\i (05:21:48) setwindow pcb
+\i (05:21:48) zoom in 5733.17 4711.11
+\i (05:21:48) trapsize 314
+\i (05:21:51) drag_start grid 5783.49 4801.69
+\i (05:21:51) slide 
+\t (05:21:51) last pick:  5786.00 4801.00
+\t (05:21:51) Waiting for the destination pick.
+\t (05:21:51) Start slide location has pre-existing DRC errors.
+\i (05:21:52) drag_stop grid 5785.37 4838.17
+\t (05:21:52) No DRC errors detected.
+\i (05:21:52) etchedit 
+\i (05:21:52) drag_start grid 5789.15 4799.80
+\i (05:21:52) slide 
+\t (05:21:52) last pick:  5786.00 4801.00
+\t (05:21:52) Waiting for the destination pick.
+\t (05:21:52) Start slide location has pre-existing DRC errors.
+\i (05:21:53) drag_stop grid 5789.15 4837.54
+\t (05:21:53) No DRC errors detected.
+\i (05:21:53) etchedit 
+\i (05:21:56) slide 
+\t (05:21:56) Pick element to slide.
+\i (05:21:57) drag_start grid 5789.15 4797.28
+\i (05:21:58) drag_stop 5770.28 4831.25
+\t (05:21:58) Waiting for origin pick.
+\i (05:21:59) drag_start grid 5790.41 4802.32
+\t (05:21:59) Waiting for origin pick.
+\i (05:21:59) drag_stop grid 5775.31 4852.63
+\t (05:21:59) Waiting for the destination pick.
+\t (05:21:59) Start slide location has pre-existing DRC errors.
+\i (05:22:06) cancel 
+\i (05:22:06) etchedit 
+\i (05:22:07) undo 
+\i (05:22:07) trapsize 314
+\i (05:22:07) etchedit 
+\i (05:22:08) undo 
+\i (05:22:08) trapsize 314
+\i (05:22:08) etchedit 
+\i (05:22:09) undo 
+\i (05:22:09) trapsize 314
+\i (05:22:09) etchedit 
+\i (05:22:12) open 
+\e (05:22:12) Do you want to save the changes you made to C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v66.brd?
+\i (05:22:15) fillin no 
+\i (05:22:17) fillin "gps_interface_board_ml_v66.brd"
+\t (05:22:17) Opening existing design...
+\i (05:22:17) trapsize 157
+\t (05:22:17) > Sending response DoneOpenBoard
+\d (05:22:17) Design opened: C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v66.brd
+\i (05:22:17) etchedit 
+\i (05:22:19) zoom out 1 
+\i (05:22:19) setwindow pcb
+\i (05:22:19) zoom out 10800.58 4170.38
+\i (05:22:19) trapsize 314
+\i (05:22:19) zoom out 1 
+\i (05:22:19) setwindow pcb
+\i (05:22:19) zoom out 10944.61 4298.05
+\i (05:22:19) trapsize 629
+\i (05:22:19) zoom out 1 
+\i (05:22:19) setwindow pcb
+\i (05:22:19) zoom out 10944.62 4298.05
+\i (05:22:19) trapsize 1258
+\i (05:22:26) drc update 
+\t (05:22:26) Performing DRC...
+\t (05:22:26) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (05:22:26) Multithreaded DRC update (16 threads).
+\t (05:22:26) DRC done; 130 errors detected.
+\i (05:22:26) etchedit 
+\i (05:22:28) status 
+\i (05:22:28) etchedit 
+\i (05:22:33) setwindow form.status
+\i (05:22:33) FORM status drc_update  
+\t (05:22:33) Running DRC, wait...
+\t (05:22:33) Performing DRC...
+\t (05:22:33) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (05:22:34) Multithreaded DRC update (16 threads).
+\t (05:22:34) DRC done; 130 errors detected.
+\t (05:22:34) DRC done.
+\i (05:22:43) FORM status drc_color 1 
+\i (05:22:43) setwindow pcb
+\i (05:22:43) reports drc 
+\i (05:22:43) etchedit 
+\i (05:22:47) zoom center 
+\t (05:22:47) Pick center for the new display.
+\i (05:22:47) pick 5729.88,4750.00 
+\t (05:22:47) last pick:  5729.88 4750.00
+\i (05:22:47) trapsize 1258
+\i (05:22:48) zoom in 1 
+\i (05:22:48) setwindow pcb
+\i (05:22:48) zoom in 5796.56 4694.65
+\i (05:22:48) trapsize 629
+\i (05:22:48) zoom in 1 
+\i (05:22:48) setwindow pcb
+\i (05:22:48) zoom in 5792.78 4697.17
+\i (05:22:48) trapsize 314
+\i (05:22:49) zoom in 1 
+\i (05:22:49) setwindow pcb
+\i (05:22:49) zoom in 5738.06 4757.55
+\i (05:22:49) trapsize 157
+\i (05:22:49) zoom in 1 
+\i (05:22:49) setwindow pcb
+\i (05:22:49) zoom in 5738.06 4757.55
+\i (05:22:49) trapsize 79
+\i (05:22:50) zoom out 1 
+\i (05:22:50) setwindow pcb
+\i (05:22:50) zoom out 5739.64 4757.87
+\i (05:22:50) trapsize 157
+\i (05:22:52) roam start
+\i (05:22:52) roam x -20
+\i (05:22:52) roam y 4
+\i (05:22:52) roam x -20
+\i (05:22:52) roam x -16
+\i (05:22:52) roam x -16
+\i (05:22:52) roam x -16
+\i (05:22:52) roam x -16
+\i (05:22:52) roam x -76
+\i (05:22:52) roam y -12
+\i (05:22:52) roam x -16
+\i (05:22:52) roam x -16
+\i (05:22:52) roam y -4
+\i (05:22:52) roam x -16
+\i (05:22:52) roam y -8
+\i (05:22:53) roam x -20
+\i (05:22:53) roam y -8
+\i (05:22:53) roam x -20
+\i (05:22:53) roam y -8
+\i (05:22:53) roam x -16
+\i (05:22:53) roam y -4
+\i (05:22:53) roam x -20
+\i (05:22:53) roam y -8
+\i (05:22:53) roam x -20
+\i (05:22:53) roam y -8
+\i (05:22:53) roam x -16
+\i (05:22:53) roam end
+\i (05:22:55) setwindow form.status
+\i (05:22:55) FORM status done  
+\i (05:22:56) setwindow pcb
+\i (05:22:56) drag_start grid 5611.78 4763.00
+\i (05:22:56) slide 
+\t (05:22:57) last pick:  5611.00 4766.00
+\t (05:22:57) Waiting for the destination pick.
+\i (05:22:57) updateport CVPane
+\t (05:22:57) Start slide location has pre-existing DRC errors.
+\i (05:23:00) drag_stop grid 5749.84 4766.46
+\t (05:23:00) No DRC errors detected.
+\i (05:23:00) etchedit 
+\i (05:23:03) undo 
+\i (05:23:03) trapsize 157
+\i (05:23:03) etchedit 
+\i (05:23:06) prepopup 5615.55 4762.37
+\i (05:23:15) pop dyn_option_select @:@Slide 
+\i (05:23:15) slide 
+\t (05:23:15) last pick:  5626.00 4751.00
+\t (05:23:15) Waiting for the destination pick.
+\i (05:23:15) updateport CVPane
+\t (05:23:15) Start slide location has pre-existing DRC errors.
+\i (05:23:17) prepopup 5680.34 4767.08
+\i (05:23:18) cancel 
+\i (05:23:18) etchedit 
+\i (05:23:22) slide 
+\t (05:23:22) Pick element to slide.
+\i (05:23:26) setwindow form.mini
+\i (05:23:26) FORM mini bubble_space Off 
+\i (05:23:37) FORM mini allow_errors YES 
+\i (05:23:38) setwindow pcb
+\i (05:23:38) drag_start grid 5616.81 4755.45
+\i (05:23:39) drag_stop 5735.37 4765.20
+\t (05:23:39) Waiting for origin pick.
+\i (05:23:40) drag_start grid 5618.07 4759.22
+\t (05:23:40) Waiting for origin pick.
+\i (05:23:40) drag_stop grid 5716.50 4764.25
+\t (05:23:40) Waiting for the destination pick.
+\i (05:23:40) updateport CVPane
+\i (05:23:44) cancel 
+\i (05:23:44) etchedit 
+\t (05:23:44) [15:37:13.431000] Periodic Lic check successful
+[15:37:13.431000] Feature usage summary:
+[15:37:13.431000] Allegro_Venture_PCB_Designer2
+[15:37:13.431000] PCB_design_studio
+[15:37:13.431000] Allegro_Venture_PCB_Designer
+[15:37:13.431000] Venture_PCB_Schematic
+
+\i (05:23:46) pick grid 5753.92 4752.62
+\t (05:23:46) last pick:  5755.00 4755.00
+\i (05:23:46) slide 
+\t (05:23:46) last pick:  5756.00 4751.00
+\t (05:23:46) Waiting for the destination pick.
+\i (05:23:46) updateport CVPane
+\i (05:23:48) pick grid 5750.15 4768.97
+\t (05:23:48) last pick:  5751.00 4771.00
+\t (05:23:48) DRC errors detected.
+\i (05:23:48) etchedit 
+\i (05:23:49) pick grid 5781.28 4799.16
+\t (05:23:49) last pick:  5781.00 4801.00
+\i (05:23:49) add connect 
+\t (05:23:49) Pick first element.
+\t (05:23:49) last pick:  5785.00 4800.00
+\i (05:23:49) mouse_pos 5781.28 4799.16
+\i (05:23:49) mouse_pos 5797.64 4810.48
+\i (05:23:51) cancel 
+\i (05:23:51) etchedit 
+\i (05:23:52) drag_start grid 5786.32 4800.10
+\i (05:23:52) slide 
+\t (05:23:52) last pick:  5786.00 4801.00
+\t (05:23:52) Waiting for the destination pick.
+\i (05:23:55) drag_stop grid 5767.13 4818.34
+\t (05:23:55) DRC errors detected.
+\i (05:23:55) etchedit 
+\i (05:23:56) drag_start grid 5661.15 4804.51
+\i (05:23:56) slide 
+\t (05:23:56) last pick:  5661.00 4806.00
+\t (05:23:56) Waiting for the destination pick.
+\i (05:23:57) drag_stop grid 5660.84 4818.66
+\t (05:23:57) DRC errors detected.
+\i (05:23:57) etchedit 
+\i (05:24:02) pick grid 5519.01 4813.31
+\t (05:24:02) last pick:  5521.00 4811.00
+\i (05:24:02) add connect 
+\t (05:24:02) Pick first element.
+\t (05:24:02) last pick:  5512.36 4804.36
+\i (05:24:02) mouse_pos 5519.01 4813.31
+\i (05:24:04) pick grid 5523.41 4809.85
+\t (05:24:04) last pick:  5521.00 4811.00
+\t (05:24:04) No DRC errors detected.
+\t (05:24:04) Pick first element.
+\i (05:24:04) etchedit 
+\i (05:24:04) drag_start grid 5534.73 4819.92
+\i (05:24:04) slide 
+\t (05:24:04) last pick:  5536.00 4816.00
+\t (05:24:04) Waiting for the destination pick.
+\i (05:24:06) drag_stop grid 5588.19 4815.83
+\t (05:24:06) DRC errors detected.
+\i (05:24:06) etchedit 
+\i (05:24:07) zoom in 1 
+\i (05:24:07) setwindow pcb
+\i (05:24:07) zoom in 5526.56 4816.46
+\i (05:24:07) trapsize 79
+\i (05:24:07) zoom in 1 
+\i (05:24:07) setwindow pcb
+\i (05:24:07) zoom in 5526.56 4816.46
+\i (05:24:07) trapsize 39
+\i (05:24:07) zoom in 1 
+\i (05:24:07) setwindow pcb
+\i (05:24:07) zoom in 5526.56 4816.47
+\i (05:24:07) trapsize 20
+\i (05:24:08) pick grid 5522.16 4815.72
+\t (05:24:08) last pick:  5521.00 4816.00
+\i (05:24:08) add connect 
+\t (05:24:08) Pick first element.
+\t (05:24:08) last pick:  5512.36 4804.36
+\i (05:24:08) mouse_pos 5522.16 4815.72
+\i (05:24:10) pick grid 5522.16 4815.72
+\t (05:24:10) last pick:  5521.00 4816.00
+\t (05:24:10) No DRC errors detected.
+\t (05:24:10) Pick first element.
+\i (05:24:10) etchedit 
+\i (05:24:10) pick grid 5523.06 4814.30
+\t (05:24:10) last pick:  5521.00 4816.00
+\i (05:24:10) add connect 
+\t (05:24:11) Pick first element.
+\t (05:24:11) last pick:  5512.36 4804.36
+\i (05:24:11) mouse_pos 5523.06 4814.30
+\i (05:24:11) pick grid 5523.06 4814.30
+\t (05:24:11) last pick:  5521.00 4816.00
+\t (05:24:11) No DRC errors detected.
+\t (05:24:11) Pick first element.
+\i (05:24:11) etchedit 
+\i (05:24:12) pick grid 5518.11 4816.23
+\t (05:24:12) last pick:  5516.00 4816.00
+\i (05:24:12) add connect 
+\t (05:24:12) Pick first element.
+\t (05:24:12) last pick:  5512.36 4804.36
+\i (05:24:12) mouse_pos 5518.11 4816.23
+\i (05:24:13) pick grid 5519.80 4815.96
+\t (05:24:13) last pick:  5521.00 4816.00
+\t (05:24:13) No DRC errors detected.
+\t (05:24:13) Pick first element.
+\i (05:24:13) etchedit 
+\i (05:24:15) setwindow form.find
+\i (05:24:15) FORM find vias NO 
+\i (05:24:16) setwindow pcb
+\i (05:24:16) drag_start grid 5522.98 4815.01
+\i (05:24:16) slide 
+\t (05:24:16) last pick:  5521.00 4816.00
+\t (05:24:16) Waiting for the destination pick.
+\i (05:24:17) drag_stop grid 5566.18 4810.88
+\t (05:24:17) DRC errors detected.
+\i (05:24:17) etchedit 
+\i (05:24:18) zoom out 1 
+\i (05:24:18) setwindow pcb
+\i (05:24:18) zoom out 5573.10 4802.59
+\i (05:24:18) trapsize 39
+\i (05:24:18) zoom out 1 
+\i (05:24:18) setwindow pcb
+\i (05:24:18) zoom out 5573.10 4802.59
+\i (05:24:18) trapsize 79
+\i (05:24:18) zoom out 1 
+\i (05:24:18) setwindow pcb
+\i (05:24:18) zoom out 5567.91 4801.65
+\i (05:24:18) trapsize 157
+\i (05:24:18) zoom out 1 
+\i (05:24:18) setwindow pcb
+\i (05:24:18) zoom out 5567.91 4801.66
+\i (05:24:18) trapsize 314
+\i (05:24:19) roam start
+\i (05:24:19) roam x 16
+\i (05:24:19) roam y 24
+\i (05:24:19) roam x 32
+\i (05:24:19) roam y 28
+\i (05:24:19) roam x 24
+\i (05:24:19) roam y 16
+\i (05:24:19) roam x 88
+\i (05:24:19) roam y 56
+\i (05:24:19) roam x 48
+\i (05:24:19) roam y 20
+\i (05:24:19) roam x 108
+\i (05:24:19) roam y 44
+\i (05:24:19) roam x 92
+\i (05:24:19) roam y 48
+\i (05:24:19) roam x 44
+\i (05:24:19) roam y 20
+\i (05:24:19) roam x 16
+\i (05:24:19) roam y 12
+\i (05:24:19) roam x 16
+\i (05:24:19) roam y 8
+\i (05:24:19) roam x 56
+\i (05:24:19) roam y 16
+\i (05:24:19) roam x 36
+\i (05:24:19) roam y 8
+\i (05:24:19) roam end
+\i (05:24:20) pick grid 5823.11 4663.30
+\t (05:24:20) last pick:  5821.00 4661.00
+\i (05:24:27) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (05:24:27) generaledit 
+\i (05:24:29) save 
+\i (05:24:31) fillin yes 
+\t (05:24:31) > Sending response DoneOpenBoard
+\i (05:24:31) generaledit 
+\i (05:24:33) setwindow form.find
+\i (05:24:33) FORM find drc_errors YES 
+\i (05:24:35) FORM find all_off  
+\i (05:24:36) FORM find drc_errors YES 
+\i (05:24:40) setwindow pcb
+\i (05:24:40) pick grid 5726.88 4768.97
+\t (05:24:40) last pick:  5726.00 4771.00
+\i (05:24:41) prepopup 5726.88 4768.97
+\i (05:24:42) pick grid dbl 5726.88 4768.97
+\t (05:24:42) last pick:  5726.00 4771.00
+\i (05:24:43) zoom in 1 
+\i (05:24:43) setwindow pcb
+\i (05:24:43) zoom in 5735.69 4774.00
+\i (05:24:43) trapsize 157
+\i (05:24:44) zoom in 1 
+\i (05:24:44) setwindow pcb
+\i (05:24:44) zoom in 5735.69 4774.00
+\i (05:24:44) trapsize 79
+\i (05:24:44) zoom in 1 
+\i (05:24:44) setwindow pcb
+\i (05:24:44) zoom in 5735.69 4774.01
+\i (05:24:44) trapsize 39
+\i (05:24:44) pick grid 5730.74 4771.65
+\t (05:24:44) last pick:  5731.00 4771.00
+\i (05:24:47) drag_start grid 5730.74 4771.65
+\i (05:24:47) drag_stop 5734.59 4765.12
+\i (05:24:49) prepopup 5729.64 4770.71
+\i (05:24:51) pop dyn_option_select '@:@Waive DRC' 
+\i (05:24:51) waive drc 
+\i (05:25:12) setwindow form.waivedrc_comment
+\i (05:25:12) FORM waivedrc_comment comment_field 'Keepout only needed on Top Layer' 
+\i (05:25:12) setwindow pcb
+\i (05:25:12) generaledit 
+\i (05:25:13) zoom out 1 
+\i (05:25:13) setwindow pcb
+\i (05:25:13) zoom out 5722.72 4762.53
+\i (05:25:13) trapsize 79
+\i (05:25:13) zoom out 1 
+\i (05:25:13) setwindow pcb
+\i (05:25:13) zoom out 5723.19 4764.57
+\i (05:25:13) trapsize 157
+\i (05:25:14) prepopup 5730.11 4818.98
+\i (05:25:15) pop dyn_option_select '@:@Waive DRC' 
+\i (05:25:15) waive drc 
+\i (05:25:17) setwindow form.waivedrc_comment
+\i (05:25:17) FORM waivedrc_comment done  
+\i (05:25:17) setwindow pcb
+\i (05:25:17) generaledit 
+\i (05:25:17) zoom out 1 
+\i (05:25:17) setwindow pcb
+\i (05:25:17) zoom out 5728.54 4725.26
+\i (05:25:17) trapsize 314
+\i (05:25:17) zoom out 1 
+\i (05:25:17) setwindow pcb
+\i (05:25:17) zoom out 5728.54 4725.27
+\i (05:25:17) trapsize 629
+\i (05:25:17) zoom out 1 
+\i (05:25:17) setwindow pcb
+\i (05:25:17) zoom out 5728.53 4725.27
+\i (05:25:17) trapsize 1258
+\i (05:25:19) roam start
+\i (05:25:19) roam x 16
+\i (05:25:19) roam y 4
+\i (05:25:19) roam x 24
+\i (05:25:19) roam y 12
+\i (05:25:19) roam x 20
+\i (05:25:19) roam y 20
+\i (05:25:19) roam x 16
+\i (05:25:19) roam y 20
+\i (05:25:19) roam x 80
+\i (05:25:19) roam y 56
+\i (05:25:19) roam x 24
+\i (05:25:19) roam y 8
+\i (05:25:19) roam x 16
+\i (05:25:19) roam y 8
+\i (05:25:19) roam x 28
+\i (05:25:19) roam y 12
+\i (05:25:19) roam x 28
+\i (05:25:19) roam y 12
+\i (05:25:19) roam x 20
+\i (05:25:19) roam y 8
+\i (05:25:19) roam x 16
+\i (05:25:19) roam y 4
+\i (05:25:20) roam end
+\i (05:25:20) zoom in 1 
+\i (05:25:20) setwindow pcb
+\i (05:25:20) zoom in 6867.24 4638.20
+\i (05:25:20) trapsize 629
+\i (05:25:20) zoom in 1 
+\i (05:25:20) setwindow pcb
+\i (05:25:20) zoom in 6862.21 4649.52
+\i (05:25:20) trapsize 314
+\i (05:25:22) prepopup 6879.19 4764.00
+\i (05:25:23) pop dyn_option_select '@:@Waive DRC' 
+\i (05:25:23) waive drc 
+\i (05:25:24) setwindow form.waivedrc_comment
+\i (05:25:24) FORM waivedrc_comment done  
+\i (05:25:24) setwindow pcb
+\i (05:25:24) generaledit 
+\i (05:25:26) zoom out 1 
+\i (05:25:26) setwindow pcb
+\i (05:25:26) zoom out 6947.12 4548.89
+\i (05:25:26) trapsize 629
+\i (05:25:28) zoom in 1 
+\i (05:25:28) setwindow pcb
+\i (05:25:28) zoom in 6257.78 4610.53
+\i (05:25:28) trapsize 314
+\i (05:25:28) zoom in 1 
+\i (05:25:28) setwindow pcb
+\i (05:25:28) zoom in 6267.21 4612.42
+\i (05:25:28) trapsize 157
+\i (05:25:28) zoom in 1 
+\i (05:25:28) setwindow pcb
+\i (05:25:28) zoom in 6268.16 4613.05
+\i (05:25:28) trapsize 79
+\i (05:25:29) zoom out 1 
+\i (05:25:29) setwindow pcb
+\i (05:25:29) zoom out 6273.82 4622.02
+\i (05:25:29) trapsize 157
+\i (05:25:29) zoom out 1 
+\i (05:25:29) setwindow pcb
+\i (05:25:29) zoom out 6273.82 4622.02
+\i (05:25:29) trapsize 314
+\i (05:25:29) zoom out 1 
+\i (05:25:29) setwindow pcb
+\i (05:25:29) zoom out 6273.82 4622.02
+\i (05:25:29) trapsize 629
+\i (05:25:30) roam start
+\i (05:25:30) roam x 16
+\i (05:25:30) roam x 28
+\i (05:25:30) roam x 28
+\i (05:25:30) roam y 4
+\i (05:25:30) roam x 24
+\i (05:25:30) roam y 4
+\i (05:25:30) roam x 192
+\i (05:25:30) roam y 52
+\i (05:25:30) roam x 32
+\i (05:25:30) roam y 12
+\i (05:25:30) roam x 16
+\i (05:25:30) roam y 4
+\i (05:25:30) roam x 20
+\i (05:25:30) roam x 32
+\i (05:25:30) roam y 4
+\i (05:25:30) roam x 32
+\i (05:25:30) roam y 4
+\i (05:25:30) roam x 36
+\i (05:25:30) roam y 8
+\i (05:25:30) roam x 40
+\i (05:25:30) roam x 20
+\i (05:25:30) roam x 16
+\i (05:25:30) roam x 16
+\i (05:25:30) roam x 24
+\i (05:25:30) roam x 28
+\i (05:25:30) roam x 20
+\i (05:25:30) roam x 56
+\i (05:25:30) roam x 48
+\i (05:25:30) roam x 48
+\i (05:25:30) roam x 32
+\i (05:25:30) roam x 24
+\i (05:25:30) roam x 16
+\i (05:25:30) roam x 24
+\i (05:25:31) roam x 20
+\i (05:25:31) roam x 20
+\i (05:25:31) roam x 20
+\i (05:25:31) roam y -4
+\i (05:25:31) roam end
+\i (05:25:32) zoom in 1 
+\i (05:25:32) setwindow pcb
+\i (05:25:32) zoom in 7741.45 4782.81
+\i (05:25:32) trapsize 314
+\i (05:25:32) zoom in 1 
+\i (05:25:32) setwindow pcb
+\i (05:25:32) zoom in 7741.45 4784.70
+\i (05:25:32) trapsize 157
+\i (05:25:33) prepopup 7740.51 4806.40
+\i (05:25:35) pop dyn_option_select '@:@Waive DRC' 
+\i (05:25:35) waive drc 
+\i (05:25:36) setwindow form.waivedrc_comment
+\i (05:25:36) FORM waivedrc_comment done  
+\i (05:25:36) setwindow pcb
+\i (05:25:36) generaledit 
+\i (05:25:37) roam start
+\i (05:25:37) roam x -4
+\i (05:25:37) roam y 24
+\i (05:25:37) roam x -4
+\i (05:25:37) roam y 16
+\i (05:25:37) roam x -8
+\i (05:25:37) roam y 20
+\i (05:25:37) roam x -4
+\i (05:25:37) roam y 16
+\i (05:25:37) roam x -8
+\i (05:25:37) roam y 28
+\i (05:25:37) roam x -12
+\i (05:25:37) roam y 144
+\i (05:25:37) roam y 28
+\i (05:25:37) roam y 16
+\i (05:25:37) roam y 24
+\i (05:25:37) roam y 32
+\i (05:25:37) roam y 20
+\i (05:25:37) roam y 20
+\i (05:25:37) roam y 20
+\i (05:25:37) roam y 16
+\i (05:25:37) roam y 24
+\i (05:25:37) roam y 20
+\i (05:25:37) roam y 16
+\i (05:25:37) roam y 20
+\i (05:25:37) roam y 20
+\i (05:25:37) roam end
+\i (05:25:38) prepopup 7730.75 4456.69
+\i (05:25:39) prepopup 7759.68 4460.78
+\i (05:25:40) pick grid 7750.56 4459.21
+\t (05:25:40) last pick:  7751.00 4461.00
+\i (05:25:41) prepopup 7751.19 4454.81
+\i (05:25:42) pop dyn_option_select '@:@Waive DRC' 
+\i (05:25:42) waive drc 
+\i (05:25:43) setwindow form.waivedrc_comment
+\i (05:25:43) FORM waivedrc_comment done  
+\i (05:25:43) setwindow pcb
+\i (05:25:43) generaledit 
+\i (05:25:44) zoom out 1 
+\i (05:25:44) setwindow pcb
+\i (05:25:44) zoom out 7839.24 4561.10
+\i (05:25:44) trapsize 314
+\i (05:25:44) zoom out 1 
+\i (05:25:44) setwindow pcb
+\i (05:25:44) zoom out 7837.36 4564.88
+\i (05:25:44) trapsize 629
+\i (05:25:44) roam start
+\i (05:25:44) roam x 40
+\i (05:25:44) roam y 4
+\i (05:25:45) roam x 36
+\i (05:25:45) roam y 12
+\i (05:25:45) roam x 48
+\i (05:25:45) roam y 4
+\i (05:25:45) roam x 220
+\i (05:25:45) roam y 44
+\i (05:25:45) roam x 56
+\i (05:25:45) roam y 20
+\i (05:25:45) roam x 32
+\i (05:25:45) roam y 8
+\i (05:25:45) roam x 32
+\i (05:25:45) roam y 12
+\i (05:25:45) roam x 28
+\i (05:25:45) roam y 8
+\i (05:25:45) roam x 20
+\i (05:25:45) roam y 4
+\i (05:25:45) roam x 28
+\i (05:25:45) roam y 12
+\i (05:25:45) roam x 16
+\i (05:25:45) roam x 16
+\i (05:25:45) roam y 4
+\i (05:25:45) roam x 16
+\i (05:25:45) roam y 8
+\i (05:25:45) roam x 20
+\i (05:25:45) roam y 4
+\i (05:25:45) roam x 20
+\i (05:25:45) roam x 24
+\i (05:25:45) roam x 16
+\i (05:25:45) roam x 20
+\i (05:25:45) roam x 16
+\i (05:25:45) roam x 20
+\i (05:25:45) roam x 28
+\i (05:25:45) roam y -4
+\i (05:25:45) roam x 24
+\i (05:25:45) roam y -8
+\i (05:25:45) roam x 16
+\i (05:25:45) roam y -8
+\i (05:25:45) roam x 24
+\i (05:25:45) roam x 48
+\i (05:25:45) roam y -4
+\i (05:25:45) roam x 36
+\i (05:25:45) roam y -4
+\i (05:25:45) roam x 28
+\i (05:25:45) roam y -4
+\i (05:25:45) roam x 16
+\i (05:25:45) roam y -8
+\i (05:25:45) roam end
+\i (05:25:46) zoom in 1 
+\i (05:25:46) setwindow pcb
+\i (05:25:46) zoom in 8625.76 4772.75
+\i (05:25:46) trapsize 314
+\i (05:25:47) zoom in 1 
+\i (05:25:47) setwindow pcb
+\i (05:25:47) zoom in 8589.91 4772.13
+\i (05:25:47) trapsize 157
+\i (05:25:48) prepopup 8549.35 4758.61
+\i (05:25:51) pick grid 8522.30 4770.56
+\t (05:25:51) last pick:  8521.00 4771.00
+\i (05:25:52) pick grid 8566.01 4774.02
+\t (05:25:52) last pick:  8566.00 4776.00
+\i (05:25:55) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (05:25:55) etchedit 
+\i (05:25:56) drag_start grid 8560.98 4772.45
+\i (05:25:57) drag_stop 8542.11 4780.94
+\i (05:25:57) pick grid 8535.51 4737.23
+\t (05:25:57) last pick:  8536.00 4736.00
+\i (05:26:00) setwindow form.find
+\i (05:26:00) FORM find cline_segs YES 
+\i (05:26:01) setwindow pcb
+\i (05:26:01) drag_start grid 8538.34 4738.48
+\i (05:26:01) slide 
+\t (05:26:01) last pick:  8536.00 4736.00
+\t (05:26:01) Waiting for the destination pick.
+\i (05:26:02) drag_stop grid 8520.73 4737.23
+\t (05:26:02) DRC errors detected.
+\i (05:26:02) etchedit 
+\i (05:26:03) drag_start grid 8547.46 4757.04
+\i (05:26:03) slide 
+\t (05:26:03) last pick:  8546.00 4756.00
+\t (05:26:03) Waiting for the destination pick.
+\i (05:26:03) drag_stop grid 8524.19 4783.14
+\t (05:26:03) DRC errors detected.
+\i (05:26:04) etchedit 
+\i (05:26:05) roam start
+\i (05:26:05) roam x 12
+\i (05:26:05) roam y -20
+\i (05
