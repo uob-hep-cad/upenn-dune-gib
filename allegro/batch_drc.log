@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : gps_interface_board_ml_v67.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Mon Jul 21 15:48:06 2025                      )
+(    Date/Time        : Mon Jul 21 16:45:01 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  98
+ ..... Total number of DRC errors  67
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
