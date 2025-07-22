@@ -1,5 +1,5 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_boardv54dc.brd!Mon Jul 14 11:28:04 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!OUT OF DATE!
+J!C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v67.brd!Tue Jul 22 11:56:07 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!UP TO DATE!
 S!N361011!U354!1!@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):ins801644@\74lvc2g04w6-7ditr-nd\.\74lvc2g04w6-7.normal\(sch_1)!74LVC2G04W6-7_SOT26_DIO_74LVC2G!!!F10!!!!!!!!!!
 S!N801686!U354!6!@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):ins801644@\74lvc2g04w6-7ditr-nd\.\74lvc2g04w6-7.normal\(sch_1)!74LVC2G04W6-7_SOT26_DIO_74LVC2G!!!F10!!!!!!!!!!
 S!N361478!U354!3!@gps_interface_board.\00. gib top\(sch_1):\sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):ins801644@\74lvc2g04w6-7ditr-nd\.\74lvc2g04w6-7.normal\(sch_1)!74LVC2G04W6-7_SOT26_DIO_74LVC2G!!!F10!!!!!!!!!!
@@ -2047,7 +2047,7 @@ S!VP2V5!R58!1!@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_boar
 S!VCC2V5!R58!2!@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins280406@discrete.\r.normal\(chips)!R_RES0805_0.02!!!F137!!!!!!!!!!
 S!FMC.SCL_FPGA!R3699!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins956518@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F171!!!!!!!!!!
 S!SCL_PWR!R3699!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins956518@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F171!!!!!!!!!!
-S!!R3700!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins956794@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F170!!!!!!!!!!
+S!FMC.SDA_FPGA!R3700!1!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins956794@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F170!!!!!!!!!!
 S!SDA_PWR!R3700!2!@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins956794@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F170!!!!!!!!!!
 S!FMC.SCL_FPGA!R3694!1!@gps_interface_board.\00. gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins832431@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F173!!!!!!!!!!
 S!SCL_PLL!R3694!2!@gps_interface_board.\00. gib top\(sch_1):\clock generation\@gps_interface_board.\02. clock generation\(sch_1):ins832431@discrete.\r.normal\(chips)!R_RES0603_0 OHM!!!F173!!!!!!!!!!

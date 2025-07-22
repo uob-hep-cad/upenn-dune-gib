@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 24.1.0 d001Jul-14-2025 at 11:28:07 }
+{ Using PSTWRITER 24.1.0 d001Jul-22-2025 at 11:56:18 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -1280,7 +1280,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins707390@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(325,565)',
+ XY='(325,545)',
  SECTION='';
 
 PART_NAME
@@ -1293,7 +1293,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins708094@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(375,565)',
+ XY='(375,545)',
  SECTION='';
 
 PART_NAME
@@ -1306,7 +1306,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins707918@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(425,565)',
+ XY='(425,545)',
  SECTION='';
 
 PART_NAME
@@ -1319,7 +1319,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins701647@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(475,565)',
+ XY='(475,545)',
  SECTION='';
 
 PART_NAME
@@ -1332,7 +1332,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins707206@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(525,565)',
+ XY='(525,545)',
  SECTION='';
 
 PART_NAME
@@ -1345,7 +1345,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins706958@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(325,605)',
+ XY='(325,585)',
  SECTION='';
 
 PART_NAME
@@ -1358,7 +1358,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins707754@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(375,605)',
+ XY='(375,585)',
  SECTION='';
 
 PART_NAME
@@ -1371,7 +1371,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins708118@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(425,605)',
+ XY='(425,585)',
  SECTION='';
 
 PART_NAME
@@ -1384,7 +1384,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins707002@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(475,605)',
+ XY='(475,585)',
  SECTION='';
 
 PART_NAME
@@ -1397,7 +1397,7 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_sfp interface\@gps_interface_board.\03. sfp interface\(sch_1):\page5_aclk sfp\@gps_interface_board.\09. aclk sfp\(sch_1):page15_ins707274@ocad_parts_lib.\cap_np.normal\(chips)',
  ROOM='ACLK_SFP',
  PRIM_FILE='.\pstchip.dat',
- XY='(525,605)',
+ XY='(525,585)',
  SECTION='';
 
 PART_NAME
