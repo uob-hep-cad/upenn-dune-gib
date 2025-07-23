@@ -1,4 +1,59 @@
-INFO: Reading report definition file 'c:/cadence/spb_24.1/share/pcb/signal/reports.dat'.
-INFO: Finished reading report definition file successfully.
-INFO: Reading report definition file 'c:/cadence/spb_24.1/share/pcb/signal/custom_rep.dat'.
-INFO: Finished reading report definition file successfully.
+INFO: Loaded existing interconnect file 'C:\DUNE_GIB\UPENN-DUNE-GIB\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'c:\cadence\spb_24.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for MTL_1S_6R_155
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaaca25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_156
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacb25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_157
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacc25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_158
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacd25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_159
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaace25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_160
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacf25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_161
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacg25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_162
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaach25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_163
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaaci25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_164
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacj25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_165
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaack25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_166
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacl25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_167
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacm25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_168
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacn25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_169
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaaco25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_170
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacp25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_171
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacq25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_172
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacr25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_173
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacs25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_2S_6R_174
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaact25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_175
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacu25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_176
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacv25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_177
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacw25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_178
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacx25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_179
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacy25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_180
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaacz25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_181
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaada25168.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_182
+INFO: Executing command: bem2d 0 "C:/Users/ml0034/AppData/Local/Temp/#Taaaadb25168.i
