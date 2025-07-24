@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : gps_interface_board_ml_v79.brd                )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Thu Jul 24 17:08:27 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 67
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (3670.00 4650.00)  Net: Dummy Net
