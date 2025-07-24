@@ -1,1 +1,1 @@
-gps_interface_board_ml_v77.brd
+gps_interface_board_ml_v78.brd
