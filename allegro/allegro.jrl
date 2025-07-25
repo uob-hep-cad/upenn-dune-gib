@@ -17376,3 +17376,1911 @@
 \i (02:15:15) roam end
 \i (02:15:17) roam start
 \i (02:15:17) roam y -16
+\i (02:15:17) roam y -20
+\i (02:15:17) roam y -16
+\i (02:15:17) roam y -16
+\i (02:15:17) roam y -16
+\i (02:15:17) roam x 16
+\i (02:15:17) roam y -4
+\i (02:15:17) roam y 16
+\i (02:15:17) roam x 4
+\i (02:15:17) roam y 16
+\i (02:15:18) roam x 12
+\i (02:15:18) roam y 28
+\i (02:15:18) roam y 32
+\i (02:15:18) roam y 16
+\i (02:15:18) roam x 4
+\i (02:15:18) roam y 64
+\i (02:15:18) roam y 56
+\i (02:15:18) roam y 20
+\i (02:15:18) roam x 4
+\i (02:15:18) roam y 24
+\i (02:15:18) roam x 4
+\i (02:15:18) roam y 16
+\i (02:15:18) roam x 4
+\i (02:15:18) roam y 16
+\i (02:15:18) roam y 20
+\i (02:15:18) roam x 4
+\i (02:15:18) roam y 16
+\i (02:15:18) roam x 4
+\i (02:15:18) roam y 20
+\i (02:15:18) roam end
+\i (02:15:20) drag_start grid 2063.38 1710.19
+\i (02:15:20) drag shape main 
+\t (02:15:20) last pick:  2062.00 1710.19
+\i (02:15:20) drag_stop grid 2072.78 1712.55
+\i (02:15:21) shapeedit 
+\i (02:15:22) drag_start grid 2062.79 1606.18
+\i (02:15:22) drag shape main 
+\t (02:15:22) last pick:  2063.00 1606.18
+\i (02:15:22) drag_stop grid 2072.19 1612.06
+\i (02:15:23) shapeedit 
+\i (02:15:23) pick grid 2115.68 1602.65
+\t (02:15:23) last pick:  2111.00 1601.00
+\i (02:15:24) zoom out 1 
+\i (02:15:24) setwindow pcb
+\i (02:15:24) zoom out 2089.82 1751.92
+\i (02:15:24) trapsize 588
+\i (02:15:24) roam start
+\i (02:15:24) roam x -12
+\i (02:15:24) roam y -24
+\i (02:15:24) roam y -20
+\i (02:15:24) roam y -16
+\i (02:15:24) roam y -20
+\i (02:15:24) roam y -16
+\i (02:15:24) roam x 8
+\i (02:15:24) roam y -44
+\i (02:15:25) roam y -16
+\i (02:15:25) roam end
+\i (02:15:27) zoom in 1 
+\i (02:15:27) setwindow pcb
+\i (02:15:27) zoom in 2145.14 1717.34
+\i (02:15:27) trapsize 294
+\i (02:15:30) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (02:15:30) placementedit 
+\i (02:15:32) drag_start grid 2108.12 1767.88
+\i (02:15:32) move 
+\t (02:15:32) last pick:  2080.00 1770.00
+\t (02:15:32) Moving R2667 / R_RES0805_0.0055 / RES0805.
+\t (02:15:32) Pick new location for the element(s).
+\i (02:15:33) drag_stop grid 2087.55 1770.23
+\i (02:15:33) placementedit 
+\i (02:15:34) pick grid 2156.31 1622.14
+\t (02:15:34) last pick:  2160.00 1620.00
+\i (02:15:34) zoom out 1 
+\i (02:15:34) setwindow pcb
+\i (02:15:34) zoom out 2156.31 1640.36
+\i (02:15:34) trapsize 588
+\i (02:15:36) prepopup 2363.16 1670.92
+\i (02:15:37) pick grid 2392.54 1726.16
+\t (02:15:37) last pick:  2390.00 1730.00
+\i (02:15:41) save_as 
+\i (02:15:45) fillin "gps_interface_board_ml_v81.brd"
+\t (02:15:45) > Sending response DoneOpenBoard
+\i (02:15:45) placementedit 
+\i (02:15:56) roam start
+\i (02:15:56) roam x 16
+\i (02:15:56) roam y 16
+\i (02:15:56) roam y 16
+\i (02:15:56) roam y 16
+\i (02:15:57) roam x 4
+\i (02:15:57) roam y 16
+\i (02:15:57) roam end
+\i (02:16:02) drc update 
+\t (02:16:02) Performing DRC...
+\t (02:16:02) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (02:16:02) Multithreaded DRC update (16 threads).
+\t (02:16:02) No DRC errors detected.
+\i (02:16:02) placementedit 
+\i (02:16:03) status 
+\i (02:16:03) placementedit 
+\i (02:16:06) setwindow form.status
+\i (02:16:06) FORM status done  
+\i (02:16:09) setwindow pcb
+\i (02:16:09) zoom out 1 
+\i (02:16:09) setwindow pcb
+\i (02:16:09) zoom out 2381.39 1604.50
+\i (02:16:09) trapsize 1175
+\i (02:16:09) zoom out 1 
+\i (02:16:09) setwindow pcb
+\i (02:16:09) zoom out 2381.38 1604.50
+\i (02:16:09) trapsize 2351
+\i (02:16:10) roam start
+\i (02:16:10) roam y 16
+\i (02:16:10) roam x 16
+\i (02:16:10) roam y 24
+\i (02:16:10) roam x 16
+\i (02:16:10) roam y 12
+\i (02:16:10) roam x 16
+\i (02:16:10) roam y 20
+\i (02:16:10) roam x 104
+\i (02:16:10) roam y 80
+\i (02:16:10) roam x 20
+\i (02:16:10) roam y 12
+\i (02:16:10) roam x 20
+\i (02:16:10) roam y 8
+\i (02:16:10) roam x 44
+\i (02:16:10) roam y 12
+\i (02:16:10) roam x 48
+\i (02:16:10) roam y 16
+\i (02:16:10) roam x 20
+\i (02:16:10) roam y 4
+\i (02:16:10) roam x 16
+\i (02:16:10) roam end
+\i (02:16:15) zoom in 1 
+\i (02:16:15) setwindow pcb
+\i (02:16:15) zoom in 1907.75 2340.27
+\i (02:16:15) trapsize 1175
+\i (02:16:16) zoom in 1 
+\i (02:16:16) setwindow pcb
+\i (02:16:16) zoom in 2206.28 2587.09
+\i (02:16:16) trapsize 588
+\i (02:16:16) roam start
+\i (02:16:16) roam y -16
+\i (02:16:16) roam y -20
+\i (02:16:16) roam y -16
+\i (02:16:16) roam y -16
+\i (02:16:16) roam y -24
+\i (02:16:16) roam y -20
+\i (02:16:16) roam x 24
+\i (02:16:16) roam y -244
+\i (02:16:16) roam y -20
+\i (02:16:16) roam y -20
+\i (02:16:17) roam y -16
+\i (02:16:17) roam x 4
+\i (02:16:17) roam y -16
+\i (02:16:17) roam x 4
+\i (02:16:17) roam y -16
+\i (02:16:17) roam y -16
+\i (02:16:17) roam x 4
+\i (02:16:17) roam y -16
+\i (02:16:17) roam end
+\i (02:16:22) roam start
+\i (02:16:22) roam x -4
+\i (02:16:22) roam y -16
+\i (02:16:22) roam y -16
+\i (02:16:22) roam y -20
+\i (02:16:22) roam x 4
+\i (02:16:22) roam y -20
+\i (02:16:22) roam x 4
+\i (02:16:22) roam y -16
+\i (02:16:23) roam x 20
+\i (02:16:23) roam y -56
+\i (02:16:23) roam x 12
+\i (02:16:23) roam y -20
+\i (02:16:23) roam x 12
+\i (02:16:23) roam y -20
+\i (02:16:23) roam x 12
+\i (02:16:23) roam y -24
+\i (02:16:23) roam x 4
+\i (02:16:23) roam y -24
+\i (02:16:23) roam y -16
+\i (02:16:23) roam y -16
+\i (02:16:23) roam y -16
+\i (02:16:24) roam end
+\i (02:16:37) pick grid 2194.51 3477.94
+\t (02:16:37) last pick:  2190.00 3480.00
+\i (02:16:37) move 
+\t (02:16:37) last pick:  2217.00 3485.00
+\t (02:16:37) Moving R53 / R_RES0805_0.02 / RES0805.
+\t (02:16:37) Pick new location for the element(s).
+\i (02:16:38) prepopup 2243.87 3479.12
+\i (02:16:40) cancel 
+\i (02:16:40) placementedit 
+\i (02:16:41) pick grid 2578.83 3494.40
+\t (02:16:41) last pick:  2580.00 3490.00
+\i (02:16:41) zoom in 1 
+\i (02:16:41) setwindow pcb
+\i (02:16:41) zoom in 2523.59 3434.46
+\i (02:16:41) trapsize 294
+\i (02:16:42) roam start
+\i (02:16:42) roam x -4
+\i (02:16:42) roam y 24
+\i (02:16:42) roam y 20
+\i (02:16:42) roam y 16
+\i (02:16:42) roam y 16
+\i (02:16:42) roam x 4
+\i (02:16:42) roam y 16
+\i (02:16:42) roam x 4
+\i (02:16:42) roam y 16
+\i (02:16:42) roam x 32
+\i (02:16:42) roam y 88
+\i (02:16:42) roam end
+\i (02:16:50) prepopup 2554.06 3397.35
+\i (02:16:51) pick grid 2584.62 3429.67
+\t (02:16:51) last pick:  2580.00 3430.00
+\i (02:16:53) roam start
+\i (02:16:53) roam x -16
+\i (02:16:53) roam x -16
+\i (02:16:53) roam y -8
+\i (02:16:54) roam x -12
+\i (02:16:54) roam y -16
+\i (02:16:54) roam x -12
+\i (02:16:54) roam y -24
+\i (02:16:54) roam x -12
+\i (02:16:54) roam y -16
+\i (02:16:54) roam x -12
+\i (02:16:54) roam y -16
+\i (02:16:54) roam y -20
+\i (02:16:54) roam y -16
+\i (02:16:54) roam end
+\i (02:17:03) pick grid 2799.71 3611.84
+\t (02:17:03) last pick:  2800.00 3610.00
+\i (02:17:09) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (02:17:09) etchedit 
+\i (02:17:12) setwindow form.find
+\i (02:17:12) FORM find cline_segs YES 
+\i (02:17:14) setwindow pcb
+\i (02:17:14) prepopup 2440.65 3399.70
+\i (02:17:16) pop dyn_option_select @:@Delete 
+\i (02:17:16) delete 
+\i (02:17:16) etchedit 
+\i (02:17:19) prepopup 2468.27 3298.62
+\i (02:17:22) pop dyn_option_select @:@Delete 
+\i (02:17:22) delete 
+\i (02:17:22) etchedit 
+\i (02:17:25) prepopup 2169.74 3204.01
+\i (02:17:27) pick grid 2438.30 3294.51
+\t (02:17:27) last pick:  2440.00 3290.00
+\i (02:17:28) prepopup 2393.64 3206.36
+\i (02:17:29) pick grid 2464.16 3306.85
+\t (02:17:29) last pick:  2460.00 3310.00
+\i (02:17:29) zoom in 1 
+\i (02:17:29) setwindow pcb
+\i (02:17:29) zoom in 2434.19 3223.99
+\i (02:17:29) trapsize 147
+\i (02:17:30) roam start
+\i (02:17:30) roam x -4
+\i (02:17:30) roam y 20
+\i (02:17:30) roam x -12
+\i (02:17:30) roam y 28
+\i (02:17:30) roam x -24
+\i (02:17:30) roam y 28
+\i (02:17:30) roam x -92
+\i (02:17:30) roam y 132
+\i (02:17:30) roam end
+\i (02:17:31) prepopup 2174.74 3207.24
+\i (02:17:32) pop dyn_option_select @:@Delete 
+\i (02:17:32) delete 
+\i (02:17:32) etchedit 
+\i (02:17:33) prepopup 2208.24 3205.19
+\i (02:17:34) pop dyn_option_select @:@Delete 
+\i (02:17:34) delete 
+\i (02:17:34) etchedit 
+\i (02:17:37) roam start
+\i (02:17:37) roam x -16
+\i (02:17:37) roam y -16
+\i (02:17:37) roam y -16
+\i (02:17:37) roam y -16
+\i (02:17:37) roam x 4
+\i (02:17:37) roam y -16
+\i (02:17:37) roam x 12
+\i (02:17:37) roam y -16
+\i (02:17:37) roam x 8
+\i (02:17:37) roam y -20
+\i (02:17:37) roam x 16
+\i (02:17:37) roam y -28
+\i (02:17:37) roam x 4
+\i (02:17:37) roam y -16
+\i (02:17:37) roam y -16
+\i (02:17:37) roam x 8
+\i (02:17:37) roam y -16
+\i (02:17:37) roam x 4
+\i (02:17:37) roam y -16
+\i (02:17:37) roam y -16
+\i (02:17:37) roam y -24
+\i (02:17:37) roam y -16
+\i (02:17:37) roam x 8
+\i (02:17:37) roam y -16
+\i (02:17:38) roam end
+\i (02:17:38) zoom out 1 
+\i (02:17:38) setwindow pcb
+\i (02:17:38) zoom out 2449.17 3310.08
+\i (02:17:38) trapsize 294
+\i (02:17:40) prepopup 2423.31 3203.72
+\i (02:17:51) pick grid 2453.87 3278.94
+\t (02:17:51) last pick:  2450.00 3280.00
+\i (02:17:53) add connect 
+\t (02:17:53) Pick first element.
+\i (02:17:53) pick grid 2421.55 3203.72
+\t (02:17:53) last pick:  2421.00 3201.00
+\t (02:17:53) last pick:  2421.00 3206.00
+\t (02:17:53) Target Symbol Pin is defined on TOP.
+\t (02:17:53) last pick:  2421.00 3206.00
+\i (02:17:54) mouse_pos 2653.67 3445.83
+\i (02:17:54) mouse_pos 2680.12 3479.92
+\i (02:17:54) mouse_pos 2692.46 3494.02
+\i (02:17:58) setwindow form.mini
+\i (02:17:58) FORM mini active_subclass SIG 
+\i (02:18:02) setwindow pcb
+\i (02:18:02) pick grid 2195.89 3323.01
+\t (02:18:02) last pick:  2191.00 3321.00
+\t (02:18:02) No DRC errors detected.
+\i (02:18:03) zoom in 1 
+\t (02:18:03) [13:05:47.286000] Periodic Lic check successful
+[13:05:47.286000] Feature usage summary:
+[13:05:47.286000] Allegro_Venture_PCB_Designer2
+[13:05:47.286000] PCB_design_studio
+[13:05:47.286000] Allegro_Venture_PCB_Designer
+[13:05:47.286000] Venture_PCB_Schematic
+
+\i (02:18:03) setwindow pcb
+\i (02:18:03) zoom in 2188.84 3417.04
+\i (02:18:03) trapsize 147
+\i (02:18:03) zoom in 1 
+\i (02:18:03) setwindow pcb
+\i (02:18:03) zoom in 2188.84 3416.16
+\i (02:18:03) trapsize 73
+\i (02:18:04) roam start
+\i (02:18:04) roam y -16
+\i (02:18:04) roam x 4
+\i (02:18:04) roam y -16
+\i (02:18:04) roam x 8
+\i (02:18:04) roam y -28
+\i (02:18:04) roam x 12
+\i (02:18:04) roam y -32
+\i (02:18:04) roam x 32
+\i (02:18:04) roam y -136
+\i (02:18:04) roam x 8
+\i (02:18:04) roam y -28
+\i (02:18:04) roam end
+\i (02:18:06) pick grid 2195.74 3445.38
+\t (02:18:06) last pick:  2191.00 3441.00
+\t (02:18:06) No DRC errors detected.
+\i (02:18:06) pick grid dbl 2194.86 3442.74
+\t (02:18:06) last pick:  2191.00 3441.00
+\t (02:18:06) VIA36RD0_4D used for drill.
+\t (02:18:06) No DRC errors detected.
+\t (02:18:06) Pick first element.
+\i (02:18:06) prepopup 2210.73 3434.07
+\i (02:18:07) done 
+\i (02:18:07) etchedit 
+\i (02:18:07) zoom out 1 
+\i (02:18:07) setwindow pcb
+\i (02:18:07) zoom out 2242.02 3425.40
+\i (02:18:07) trapsize 147
+\i (02:18:08) roam start
+\i (02:18:08) roam x 28
+\i (02:18:08) roam y 16
+\i (02:18:08) roam x 12
+\i (02:18:08) roam y 28
+\i (02:18:08) roam x 8
+\i (02:18:08) roam y 24
+\i (02:18:08) roam x 4
+\i (02:18:08) roam y 20
+\i (02:18:08) roam x 64
+\i (02:18:08) roam y 136
+\i (02:18:08) roam x 12
+\i (02:18:08) roam y 20
+\i (02:18:08) roam x 12
+\i (02:18:08) roam y 16
+\i (02:18:08) roam x 4
+\i (02:18:08) roam y 16
+\i (02:18:08) roam x 16
+\i (02:18:08) roam y 16
+\i (02:18:08) roam x 24
+\i (02:18:08) roam y 12
+\i (02:18:08) roam x 24
+\i (02:18:08) roam y 12
+\i (02:18:08) roam x 28
+\i (02:18:08) roam y 20
+\i (02:18:08) roam x 36
+\i (02:18:08) roam y 20
+\i (02:18:08) roam x 44
+\i (02:18:08) roam y 28
+\i (02:18:08) roam x 104
+\i (02:18:08) roam y 36
+\i (02:18:08) roam x 84
+\i (02:18:08) roam y 40
+\i (02:18:08) roam x 48
+\i (02:18:08) roam y 8
+\i (02:18:08) roam x 28
+\i (02:18:08) roam y 12
+\i (02:18:08) roam x 20
+\i (02:18:08) roam y 4
+\i (02:18:09) roam x 16
+\i (02:18:09) roam end
+\i (02:18:10) zoom out 1 
+\i (02:18:10) setwindow pcb
+\i (02:18:10) zoom out 2452.10 3264.54
+\i (02:18:10) trapsize 294
+\i (02:18:11) roam start
+\i (02:18:11) roam x 16
+\i (02:18:11) roam y -8
+\i (02:18:11) roam x 24
+\i (02:18:11) roam y -12
+\i (02:18:11) roam x 28
+\i (02:18:11) roam y -24
+\i (02:18:11) roam x 20
+\i (02:18:11) roam y -16
+\i (02:18:11) roam x 24
+\i (02:18:11) roam y -16
+\i (02:18:12) roam end
+\i (02:18:16) prepopup 2279.04 3430.26
+\i (02:18:18) pop dyn_option_select @:@Delete 
+\i (02:18:18) delete 
+\i (02:18:18) etchedit 
+\i (02:18:26) roam start
+\i (02:18:26) roam x -4
+\i (02:18:26) roam y -16
+\i (02:18:26) roam y -20
+\i (02:18:27) roam x 4
+\i (02:18:27) roam y -20
+\i (02:18:27) roam x 8
+\i (02:18:27) roam y -20
+\i (02:18:27) roam x 4
+\i (02:18:27) roam y -24
+\i (02:18:27) roam x 4
+\i (02:18:27) roam y -28
+\i (02:18:27) roam end
+\i (02:18:43) pop dyn_option_select 'Application Mode@:@Shape Edit' 
+\i (02:18:43) shapeedit 
+\i (02:18:43) updateport CVPane
+\i (02:18:45) drag_start grid 2221.46 3370.32
+\i (02:18:45) drag shape main 
+\t (02:18:45) last pick:  2220.00 3370.32
+\i (02:18:46) drag_stop grid 2236.15 3369.73
+\i (02:18:47) shapeedit 
+\i (02:18:48) pick grid 2560.53 3367.38
+\t (02:18:48) last pick:  2560.00 3370.00
+\i (02:18:51) prepopup 2240.26 3436.72
+\i (02:18:52) pop dyn_option_select '@:@Add notch' 
+\i (02:18:52) notch shape segment 
+\i (02:18:56) pick grid 2240.85 3445.54
+\t (02:18:56) last pick:  2240.00 3450.00
+\i (02:18:58) pick grid 2243.20 3325.07
+\t (02:18:58) last pick:  2240.00 3330.00
+\i (02:19:03) pick grid 2264.94 3331.53
+\t (02:19:03) last pick:  2260.00 3330.00
+\i (02:19:03) shapeedit 
+\i (02:19:04) prepopup 2264.36 3308.03
+\i (02:19:05) pick grid 2535.26 3283.35
+\t (02:19:05) last pick:  2540.00 3280.00
+\i (02:19:06) zoom in 1 
+\i (02:19:06) setwindow pcb
+\i (02:19:06) zoom in 2286.10 3311.55
+\i (02:19:06) trapsize 147
+\i (02:19:07) drag_start grid 2240.86 3330.36
+\i (02:19:07) drag shape main 
+\i (02:19:08) drag_stop grid 2255.84 3329.48
+\i (02:19:08) shapeedit 
+\i (02:19:09) drag_start grid 2251.43 3320.37
+\i (02:19:09) drag shape main 
+\i (02:19:10) drag_stop grid 2268.48 3320.08
+\i (02:19:10) shapeedit 
+\i (02:19:10) pick grid 2270.24 3309.50
+\t (02:19:10) last pick:  2270.00 3310.00
+\i (02:19:11) zoom out 1 
+\i (02:19:11) setwindow pcb
+\i (02:19:11) zoom out 2415.39 3278.35
+\i (02:19:11) trapsize 294
+\i (02:19:12) roam start
+\i (02:19:12) roam y 16
+\i (02:19:12) roam x 12
+\i (02:19:12) roam y 16
+\i (02:19:12) roam x 16
+\i (02:19:12) roam y 16
+\i (02:19:12) roam x 16
+\i (02:19:12) roam y 8
+\i (02:19:12) roam x 28
+\i (02:19:12) roam y 12
+\i (02:19:12) roam x 140
+\i (02:19:12) roam y 28
+\i (02:19:12) roam x 16
+\i (02:19:12) roam end
+\i (02:19:13) zoom in 1 
+\i (02:19:13) setwindow pcb
+\i (02:19:13) zoom in 2454.75 3243.38
+\i (02:19:13) trapsize 147
+\i (02:19:14) add connect 
+\t (02:19:14) Pick first element.
+\i (02:19:15) pick grid 2462.39 3212.53
+\t (02:19:15) last pick:  2460.00 3210.00
+\t (02:19:15) last pick:  2464.88 3210.69
+\t (02:19:15) Target Via is defined from TOP to BOTTOM.
+\t (02:19:15) last pick:  2464.88 3210.69
+\i (02:19:20) setwindow form.mini
+\i (02:19:20) FORM mini acon_line_width 8.00 
+\i (02:19:22) setwindow pcb
+\i (02:19:22) pick grid 2425.08 3300.98
+\t (02:19:22) last pick:  2430.00 3300.00
+\t (02:19:22) No DRC errors detected.
+\i (02:19:24) pick grid 2231.15 3315.37
+\t (02:19:24) last pick:  2230.00 3320.00
+\t (02:19:24) No DRC errors detected.
+\i (02:19:24) roam start
+\i (02:19:24) roam x -12
+\i (02:19:24) roam y -16
+\i (02:19:24) roam y -16
+\i (02:19:24) roam y -24
+\i (02:19:24) roam y -16
+\i (02:19:24) roam y -20
+\i (02:19:24) roam x 36
+\i (02:19:24) roam y -156
+\i (02:19:24) roam x 12
+\i (02:19:24) roam y -16
+\i (02:19:25) roam end
+\i (02:19:26) pick grid 2240.26 3314.49
+\t (02:19:26) last pick:  2240.00 3310.00
+\t (02:19:26) No DRC errors detected.
+\i (02:19:27) mouse_pos 2250.83 3445.24
+\i (02:19:28) mouse_pos 2249.66 3465.22
+\i (02:19:29) pick grid 2249.66 3465.22
+\t (02:19:29) last pick:  2250.00 3470.00
+\t (02:19:29) No DRC errors detected.
+\t (02:19:29) Pick first element.
+\i (02:19:30) pick grid 2604.31 3427.62
+\t (02:19:30) last pick:  2600.00 3430.00
+\t (02:19:30) Pick first element.
+\t (02:19:30) last pick:  2600.00 3430.00
+\i (02:19:31) prepopup 2539.96 3395.59
+\i (02:19:32) done 
+\i (02:19:32) shapeedit 
+\i (02:19:33) zoom out 1 
+\i (02:19:33) setwindow pcb
+\i (02:19:33) zoom out 2527.03 3436.43
+\i (02:19:33) trapsize 294
+\i (02:19:34) roam start
+\i (02:19:34) roam y 16
+\i (02:19:34) roam y 20
+\i (02:19:34) roam y 20
+\i (02:19:34) roam x 4
+\i (02:19:34) roam y 16
+\i (02:19:34) roam y 20
+\i (02:19:34) roam x 4
+\i (02:19:34) roam y 16
+\i (02:19:34) roam end
+\i (02:19:46) roam start
+\i (02:19:46) roam y -16
+\i (02:19:46) roam x 4
+\i (02:19:46) roam y -16
+\i (02:19:46) roam x 4
+\i (02:19:46) roam y -16
+\i (02:19:46) roam x 12
+\i (02:19:46) roam y -16
+\i (02:19:46) roam x 8
+\i (02:19:46) roam y -20
+\i (02:19:46) roam x 16
+\i (02:19:46) roam y -24
+\i (02:19:46) roam x 12
+\i (02:19:46) roam y 16
+\i (02:19:46) roam end
+\i (02:19:46) zoom out 1 
+\i (02:19:46) setwindow pcb
+\i (02:19:46) zoom out 2510.00 3368.55
+\i (02:19:46) trapsize 588
+\i (02:19:53) roam start
+\i (02:19:53) roam y 16
+\i (02:19:53) roam y 20
+\i (02:19:53) roam y 16
+\i (02:19:53) roam y 16
+\i (02:19:53) roam x -12
+\i (02:19:53) roam y 40
+\i (02:19:53) roam end
+\i (02:19:59) zoom in 1 
+\i (02:19:59) setwindow pcb
+\i (02:19:59) zoom in 2388.43 3295.78
+\i (02:19:59) trapsize 294
+\i (02:20:00) pick grid 2508.31 3322.23
+\t (02:20:00) last pick:  2510.00 3320.00
+\i (02:20:05) drag_start grid 2362.57 3317.52
+\i (02:20:05) drag shape main 
+\t (02:20:05) last pick:  2362.56 3320.44
+\i (02:20:09) drag_stop grid 2434.27 3328.69
+\i (02:20:09) shapeedit 
+\i (02:20:09) pick grid 2530.64 3331.63
+\t (02:20:09) last pick:  2530.00 3330.00
+\i (02:20:10) roam start
+\i (02:20:10) roam x 4
+\i (02:20:10) roam y -20
+\i (02:20:10) roam x 4
+\i (02:20:10) roam y -16
+\i (02:20:10) roam x 4
+\i (02:20:10) roam y -20
+\i (02:20:10) roam x 12
+\i (02:20:10) roam y -16
+\i (02:20:10) roam x 8
+\i (02:20:10) roam y -16
+\i (02:20:10) roam x 12
+\i (02:20:10) roam y -32
+\i (02:20:10) roam x 12
+\i (02:20:10) roam y -16
+\i (02:20:10) roam y -16
+\i (02:20:11) roam y -16
+\i (02:20:11) roam y -24
+\i (02:20:11) roam y -16
+\i (02:20:11) roam y -16
+\i (02:20:11) roam y -20
+\i (02:20:11) roam y -16
+\i (02:20:11) roam y -16
+\i (02:20:11) roam end
+\i (02:20:11) zoom out 1 
+\i (02:20:11) setwindow pcb
+\i (02:20:11) zoom out 2518.22 3450.23
+\i (02:20:11) trapsize 588
+\i (02:20:12) roam start
+\i (02:20:12) roam x -4
+\i (02:20:12) roam y 16
+\i (02:20:12) roam y 16
+\i (02:20:12) roam y 16
+\i (02:20:12) roam x 8
+\i (02:20:12) roam y 16
+\i (02:20:12) roam y 20
+\i (02:20:13) roam end
+\i (02:20:16) zoom in 1 
+\i (02:20:16) setwindow pcb
+\i (02:20:16) zoom in 2411.94 3295.77
+\i (02:20:16) trapsize 294
+\i (02:20:18) pick grid 2466.59 3304.00
+\t (02:20:18) last pick:  2470.00 3300.00
+\i (02:20:18) drag_start grid 2377.27 3301.65
+\i (02:20:19) drag_stop 2384.91 3323.98
+\i (02:20:22) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (02:20:22) etchedit 
+\i (02:20:23) drag_start grid 2358.47 3297.54
+\i (02:20:23) slide 
+\t (02:20:23) last pick:  2360.00 3300.00
+\t (02:20:23) Waiting for the destination pick.
+\i (02:20:24) drag_stop grid 2346.71 3311.64
+\t (02:20:24) No DRC errors detected.
+\i (02:20:24) etchedit 
+\i (02:20:25) pick grid 2480.11 3316.93
+\t (02:20:25) last pick:  2480.00 3320.00
+\i (02:20:26) pick grid 2502.44 3322.22
+\t (02:20:26) last pick:  2500.00 3320.00
+\i (02:20:26) zoom out 1 
+\i (02:20:26) setwindow pcb
+\i (02:20:26) zoom out 2502.44 3341.02
+\i (02:20:26) trapsize 588
+\i (02:20:34) zoom in 1 
+\i (02:20:34) setwindow pcb
+\i (02:20:34) zoom in 2500.09 3285.79
+\i (02:20:34) trapsize 294
+\i (02:20:34) zoom in 1 
+\i (02:20:34) setwindow pcb
+\i (02:20:34) zoom in 2500.09 3285.79
+\i (02:20:34) trapsize 147
+\i (02:20:44) pop dyn_option_select 'Application Mode@:@Shape Edit' 
+\i (02:20:44) shapeedit 
+\i (02:20:44) updateport CVPane
+\i (02:20:46) drag_start grid 2290.30 3285.21
+\i (02:20:46) drag shape main 
+\t (02:20:46) last pick:  2290.30 3285.00
+\i (02:20:47) drag_stop grid 2289.42 3273.16
+\i (02:20:47) shapeedit 
+\i (02:20:49) drag_start grid 2357.88 3329.28
+\i (02:20:49) drag shape main 
+\t (02:20:49) last pick:  2357.88 3329.66
+\i (02:20:49) drag_stop grid 2355.82 3340.74
+\i (02:20:49) shapeedit 
+\i (02:20:51) pick grid 2380.51 3317.53
+\t (02:20:51) last pick:  2380.00 3320.00
+\i (02:20:51) roam start
+\i (02:20:51) roam x -12
+\i (02:20:51) roam y -20
+\i (02:20:51) roam y -16
+\i (02:20:51) roam x -8
+\i (02:20:51) roam y -24
+\i (02:20:52) roam x -12
+\i (02:20:52) roam y -16
+\i (02:20:52) roam x -44
+\i (02:20:52) roam y -40
+\i (02:20:52) roam x -20
+\i (02:20:52) roam y -16
+\i (02:20:52) roam x -12
+\i (02:20:52) roam y -16
+\i (02:20:52) roam end
+\i (02:20:53) zoom in 1 
+\i (02:20:53) setwindow pcb
+\i (02:20:53) zoom in 2281.99 3357.38
+\i (02:20:53) trapsize 73
+\i (02:20:56) drag_start grid 2270.09 3339.46
+\i (02:20:56) drag shape main 
+\i (02:20:57) drag_stop grid 2270.24 3341.96
+\i (02:20:57) shapeedit 
+\i (02:21:00) drag_start grid 2259.81 3348.72
+\i (02:21:00) drag shape main 
+\t (02:21:00) last pick:  2260.28 3349.22
+\i (02:21:02) drag_stop grid 2263.78 3348.28
+\i (02:21:02) shapeedit 
+\i (02:21:03) roam start
+\i (02:21:03) roam x 16
+\i (02:21:03) roam x 20
+\i (02:21:03) roam x 36
+\i (02:21:03) roam x 40
+\i (02:21:03) roam x 408
+\i (02:21:03) roam y 28
+\i (02:21:03) roam x 96
+\i (02:21:03) roam x 32
+\i (02:21:03) roam x 16
+\i (02:21:03) roam x 16
+\i (02:21:03) roam x 16
+\i (02:21:03) roam y -8
+\i (02:21:03) roam end
+\i (02:21:04) pick grid 2480.17 3340.64
+\t (02:21:04) last pick:  2480.00 3340.00
+\i (02:21:04) click shape main 
+\i (02:21:04) shapeedit 
+\i (02:21:05) drag_start grid 2482.67 3346.95
+\i (02:21:06) drag shape main 
+\t (02:21:06) last pick:  2482.65 3347.43
+\i (02:21:06) drag_stop grid 2480.90 3339.31
+\i (02:21:06) shapeedit 
+\i (02:21:08) pick grid 2271.26 3333.44
+\t (02:21:08) last pick:  2270.00 3330.00
+\i (02:21:08) click shape main 
+\i (02:21:08) pick grid 2271.55 3333.59
+\t (02:21:08) last pick:  2270.00 3330.00
+\i (02:21:18) pick grid 2494.42 3340.49
+\t (02:21:18) last pick:  2490.00 3340.00
+\i (02:21:20) pick grid 2490.45 3330.06
+\t (02:21:20) last pick:  2490.00 3330.00
+\i (02:21:20) shapeedit 
+\i (02:21:21) drag_start grid 2487.51 3330.06
+\i (02:21:21) drag shape main 
+\i (02:21:23) drag_stop grid 2481.05 3329.32
+\i (02:21:23) shapeedit 
+\i (02:21:25) drag_start grid 2487.51 3340.20
+\i (02:21:25) drag shape main 
+\i (02:21:25) drag_stop grid 2492.21 3339.61
+\i (02:21:25) shapeedit 
+\i (02:21:27) roam start
+\i (02:21:27) roam x -28
+\i (02:21:27) roam y -8
+\i (02:21:27) roam x -20
+\i (02:21:27) roam y -4
+\i (02:21:27) roam x -20
+\i (02:21:27) roam x -20
+\i (02:21:27) roam y -4
+\i (02:21:27) roam x -128
+\i (02:21:27) roam x -20
+\i (02:21:27) roam x -24
+\i (02:21:27) roam x -16
+\i (02:21:28) roam x -16
+\i (02:21:28) roam end
+\i (02:21:29) drag_start grid 2270.82 3323.01
+\i (02:21:29) drag shape main 
+\i (02:21:30) drag_stop grid 2274.63 3333.44
+\i (02:21:30) shapeedit 
+\i (02:21:32) drag_start grid 2267.73 3335.94
+\i (02:21:32) drag shape main 
+\t (02:21:32) last pick:  2267.55 3335.75
+\i (02:21:33) drag_stop grid 2263.76 3333.88
+\i (02:21:33) shapeedit 
+\i (02:21:34) drag_start grid 2263.32 3322.71
+\i (02:21:35) drag shape main 
+\i (02:21:37) drag_stop grid 2271.26 3322.27
+\i (02:21:37) shapeedit 
+\i (02:21:38) drag_start grid 2269.64 3320.07
+\i (02:21:38) drag shape main 
+\i (02:21:38) drag_stop grid 2269.64 3329.18
+\i (02:21:38) shapeedit 
+\i (02:21:40) drag_start grid 2264.06 3326.09
+\i (02:21:40) drag shape main 
+\i (02:21:40) drag_stop grid 2270.52 3330.35
+\i (02:21:40) shapeedit 
+\i (02:21:42) drag_start grid 2254.21 3335.64
+\i (02:21:42) drag shape main 
+\i (02:21:43) drag_stop grid 2263.32 3336.23
+\i (02:21:43) shapeedit 
+\i (02:21:44) drag_start grid 2254.51 3343.13
+\i (02:21:44) drag shape main 
+\t (02:21:44) last pick:  2254.33 3342.75
+\i (02:21:45) drag_stop grid 2261.12 3342.69
+\i (02:21:47) pick grid 2252.01 3334.76
+\t (02:21:47) last pick:  2250.00 3330.00
+\i (02:21:47) shapeedit 
+\i (02:21:54) pick grid 2264.50 3317.57
+\t (02:21:54) last pick:  2260.00 3320.00
+\i (02:21:54) click shape main 
+\i (02:21:54) shapeedit 
+\i (02:21:56) pick grid 2247.90 3330.79
+\t (02:21:56) last pick:  2250.00 3330.00
+\i (02:21:56) click shape main 
+\i (02:21:56) shapeedit 
+\i (02:21:57) pick grid 2254.21 3327.71
+\t (02:21:57) last pick:  2250.00 3330.00
+\i (02:21:57) click shape main 
+\i (02:21:57) shapeedit 
+\i (02:21:58) pick grid 2253.92 3337.70
+\t (02:21:58) last pick:  2250.00 3340.00
+\i (02:21:58) click shape main 
+\i (02:21:58) shapeedit 
+\i (02:22:08) drag_start grid 2270.08 3329.62
+\i (02:22:08) drag shape main 
+\i (02:22:09) drag_stop grid 2269.35 3337.84
+\i (02:22:09) shapeedit 
+\i (02:22:11) drag_start grid 2489.42 3339.61
+\i (02:22:11) drag shape main 
+\i (02:22:12) drag_stop grid 2489.72 3347.10
+\i (02:22:12) shapeedit 
+\i (02:22:13) drag_start grid 2479.73 3329.76
+\i (02:22:13) drag shape main 
+\i (02:22:14) drag_stop grid 2480.90 3336.82
+\i (02:22:14) shapeedit 
+\i (02:22:15) zoom out 1 
+\i (02:22:15) setwindow pcb
+\i (02:22:15) zoom out 2388.93 3320.51
+\i (02:22:15) trapsize 147
+\i (02:22:17) roam start
+\i (02:22:17) roam x -16
+\i (02:22:17) roam y -20
+\i (02:22:17) roam x -8
+\i (02:22:17) roam y -16
+\i (02:22:17) roam x -4
+\i (02:22:17) roam y -16
+\i (02:22:17) roam x -12
+\i (02:22:17) roam y -20
+\i (02:22:17) roam x -4
+\i (02:22:17) roam y -16
+\i (02:22:17) roam x -16
+\i (02:22:17) roam y -40
+\i (02:22:17) roam x -4
+\i (02:22:17) roam y -16
+\i (02:22:17) roam x -4
+\i (02:22:17) roam y -20
+\i (02:22:17) roam y -16
+\i (02:22:17) roam y -16
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 24
+\i (02:22:18) roam y 16
+\i (02:22:18) roam y 16
+\i (02:22:18) roam y 16
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 64
+\i (02:22:18) roam x 12
+\i (02:22:18) roam y 28
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 36
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 20
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 28
+\i (02:22:18) roam x 12
+\i (02:22:18) roam y 24
+\i (02:22:18) roam x 4
+\i (02:22:18) roam y 16
+\i (02:22:18) roam x 12
+\i (02:22:18) roam y 24
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 16
+\i (02:22:18) roam x 4
+\i (02:22:18) roam y 20
+\i (02:22:18) roam x 8
+\i (02:22:18) roam y 16
+\i (02:22:18) roam end
+\i (02:22:20) prepopup 2478.84 3318.89
+\i (02:22:21) pick grid 2463.27 3323.89
+\t (02:22:21) last pick:  2460.00 3320.00
+\i (02:22:22) zoom out 1 
+\i (02:22:22) setwindow pcb
+\i (02:22:22) zoom out 2461.51 3322.42
+\i (02:22:22) trapsize 294
+\i (02:22:24) zoom in 1 
+\i (02:22:24) setwindow pcb
+\i (02:22:24) zoom in 2388.64 3293.03
+\i (02:22:24) trapsize 147
+\i (02:22:25) roam start
+\i (02:22:25) roam y -20
+\i (02:22:25) roam x 4
+\i (02:22:25) roam y -20
+\i (02:22:25) roam x 8
+\i (02:22:25) roam y -20
+\i (02:22:25) roam x 4
+\i (02:22:25) roam y -16
+\i (02:22:25) roam x 4
+\i (02:22:25) roam y -16
+\i (02:22:25) roam x 4
+\i (02:22:25) roam y -28
+\i (02:22:25) roam y -16
+\i (02:22:25) roam end
+\i (02:22:28) zoom out 1 
+\i (02:22:28) setwindow pcb
+\i (02:22:28) zoom out 2219.11 3339.76
+\i (02:22:28) trapsize 294
+\i (02:22:29) roam start
+\i (02:22:29) roam y -16
+\i (02:22:29) roam y -20
+\i (02:22:29) roam y -16
+\i (02:22:29) roam y -20
+\i (02:22:29) roam y -24
+\i (02:22:29) roam x 4
+\i (02:22:29) roam y -32
+\i (02:22:29) roam end
+\i (02:22:32) drag_start grid 2208.53 3390.30
+\i (02:22:33) drag shape main 
+\t (02:22:33) last pick:  2208.00 3390.30
+\i (02:22:35) drag_stop grid 2192.66 3389.12
+\i (02:22:35) shapeedit 
+\i (02:22:36) pick grid 2212.06 3384.42
+\t (02:22:36) last pick:  2210.00 3380.00
+\i (02:22:37) prepopup 2223.81 3393.82
+\i (02:22:38) pick grid 2223.22 3436.13
+\t (02:22:38) last pick:  2220.00 3440.00
+\i (02:22:39) zoom out 1 
+\i (02:22:39) setwindow pcb
+\i (02:22:39) zoom out 2216.76 3423.79
+\i (02:22:39) trapsize 588
+\i (02:22:42) zoom in 1 
+\i (02:22:42) setwindow pcb
+\i (02:22:42) zoom in 2213.22 3381.48
+\i (02:22:42) trapsize 294
+\i (02:22:42) zoom in 1 
+\i (02:22:42) setwindow pcb
+\i (02:22:42) zoom in 2213.22 3381.49
+\i (02:22:42) trapsize 147
+\i (02:22:43) roam start
+\i (02:22:43) roam y -16
+\i (02:22:43) roam y -16
+\i (02:22:44) roam x 8
+\i (02:22:44) roam y -20
+\i (02:22:44) roam y -20
+\i (02:22:44) roam x 8
+\i (02:22:44) roam y -16
+\i (02:22:44) roam x 4
+\i (02:22:44) roam y -20
+\i (02:22:44) roam end
+\i (02:22:47) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (02:22:47) etchedit 
+\i (02:22:48) prepopup 2192.07 3440.25
+\i (02:22:50) pop dyn_option_select @:@Delete 
+\i (02:22:50) delete 
+\i (02:22:50) etchedit 
+\i (02:22:50) prepopup 2194.13 3420.27
+\i (02:22:52) pop dyn_option_select @:@Delete 
+\i (02:22:52) delete 
+\i (02:22:52) etchedit 
+\i (02:22:53) prepopup 2206.47 3308.32
+\i (02:22:54) pop dyn_option_select @:@Delete 
+\i (02:22:54) delete 
+\t (02:22:54) [13:10:38.397000] Periodic Lic check successful
+[13:10:38.397000] Feature usage summary:
+[13:10:38.397000] Allegro_Venture_PCB_Designer2
+[13:10:38.397000] PCB_design_studio
+[13:10:38.397000] Allegro_Venture_PCB_Designer
+[13:10:38.397000] Venture_PCB_Schematic
+
+\i (02:22:54) etchedit 
+\i (02:22:55) roam start
+\i (02:22:55) roam x 24
+\i (02:22:55) roam y 8
+\i (02:22:55) roam x 24
+\i (02:22:55) roam y 24
+\i (02:22:55) roam x 16
+\i (02:22:55) roam y 12
+\i (02:22:55) roam x 16
+\i (02:22:55) roam y 16
+\i (02:22:55) roam x 168
+\i (02:22:55) roam y 260
+\i (02:22:55) roam x 20
+\i (02:22:55) roam y 52
+\i (02:22:55) roam x 24
+\i (02:22:55) roam y 32
+\i (02:22:55) roam x 20
+\i (02:22:55) roam y 32
+\i (02:22:55) roam x 12
+\i (02:22:55) roam y 28
+\i (02:22:55) roam x 12
+\i (02:22:55) roam y 20
+\i (02:22:55) roam x 8
+\i (02:22:55) roam y 40
+\i (02:22:55) roam x 8
+\i (02:22:55) roam y 28
+\i (02:22:55) roam y 20
+\i (02:22:55) roam y 16
+\i (02:22:55) roam y 16
+\i (02:22:55) roam end
+\i (02:22:56) prepopup 2393.64 3204.89
+\i (02:22:58) pop dyn_option_select @:@Delete 
+\i (02:22:58) delete 
+\i (02:22:58) etchedit 
+\i (02:22:59) prepopup 2419.49 3207.53
+\i (02:23:00) pop dyn_option_select @:@Delete 
+\i (02:23:00) delete 
+\i (02:23:00) etchedit 
+\i (02:23:07) add connect 
+\t (02:23:07) Pick first element.
+\i (02:23:11) pick grid 2419.20 3208.71
+\t (02:23:11) last pick:  2420.00 3210.00
+\t (02:23:11) last pick:  2421.00 3206.00
+\t (02:23:11) Target Symbol Pin is defined on TOP.
+\t (02:23:11) last pick:  2421.00 3206.00
+\i (02:23:12) mouse_pos 2434.77 3194.90
+\i (02:23:13) mouse_pos 2432.72 3205.18
+\i (02:23:14) pick grid 2432.72 3205.18
+\t (02:23:14) last pick:  2430.00 3210.00
+\t (02:23:14) No DRC errors detected.
+\t (02:23:14) last pick:  2423.50 3203.50
+\i (02:23:18) pick grid 2416.85 3284.51
+\t (02:23:18) last pick:  2420.00 3280.00
+\t (02:23:18) No DRC errors detected.
+\i (02:23:19) pick grid 2405.10 3291.57
+\t (02:23:19) last pick:  2410.00 3290.00
+\t (02:23:19) No DRC errors detected.
+\i (02:23:23) pick grid 2215.28 3313.90
+\t (02:23:23) last pick:  2220.00 3310.00
+\t (02:23:23) No DRC errors detected.
+\i (02:23:23) roam start
+\i (02:23:23) roam y -20
+\i (02:23:23) roam y -20
+\i (02:23:24) roam y -20
+\i (02:23:24) roam y -24
+\i (02:23:24) roam y -24
+\i (02:23:24) roam x -4
+\i (02:23:24) roam y -324
+\i (02:23:24) roam x -8
+\i (02:23:24) roam y -16
+\i (02:23:24) roam x -4
+\i (02:23:24) roam y -16
+\i (02:23:24) roam x -4
+\i (02:23:24) roam y -20
+\i (02:23:24) roam x -8
+\i (02:23:24) roam y -16
+\i (02:23:24) roam x -4
+\i (02:23:24) roam y -20
+\i (02:23:24) roam y -24
+\i (02:23:24) roam y -16
+\i (02:23:24) roam end
+\i (02:23:27) mouse_pos 2194.72 3449.94
+\i (02:23:29) mouse_pos 2195.31 3458.47
+\i (02:23:31) pick grid 2195.31 3458.47
+\t (02:23:31) last pick:  2200.00 3460.00
+\t (02:23:31) No DRC errors detected.
+\t (02:23:31) Pick first element.
+\i (02:23:32) pick grid 2203.83 3406.75
+\t (02:23:32) last pick:  2200.00 3410.00
+\t (02:23:32) Pick first element.
+\t (02:23:32) last pick:  2200.00 3410.00
+\i (02:23:32) mouse_pos 2215.29 3398.82
+\i (02:23:34) cancel 
+\i (02:23:34) etchedit 
+\i (02:23:35) drag_start grid 2219.99 3391.47
+\i (02:23:35) slide 
+\t (02:23:35) last pick:  2220.00 3390.00
+\t (02:23:35) Waiting for the destination pick.
+\i (02:23:36) drag_stop grid 2211.17 3393.82
+\t (02:23:36) No DRC errors detected.
+\i (02:23:36) etchedit 
+\i (02:23:37) drag_start grid 2238.21 3396.17
+\i (02:23:37) slide 
+\t (02:23:37) last pick:  2240.00 3400.00
+\t (02:23:37) Waiting for the destination pick.
+\i (02:23:38) drag_stop grid 2227.33 3397.06
+\t (02:23:38) No DRC errors detected.
+\i (02:23:38) etchedit 
+\i (02:23:39) pick grid 2497.07 3307.15
+\t (02:23:39) last pick:  2500.00 3310.00
+\i (02:23:40) roam start
+\i (02:23:40) roam x 16
+\i (02:23:40) roam y 8
+\i (02:23:40) roam x 20
+\i (02:23:40) roam y 16
+\i (02:23:40) roam x 12
+\i (02:23:40) roam y 20
+\i (02:23:40) roam x 4
+\i (02:23:40) roam y 20
+\i (02:23:40) roam x 4
+\i (02:23:40) roam y 16
+\i (02:23:40) roam x 40
+\i (02:23:40) roam y 104
+\i (02:23:40) roam x 4
+\i (02:23:40) roam y 16
+\i (02:23:40) roam x 4
+\i (02:23:40) roam y 16
+\i (02:23:40) roam x 8
+\i (02:23:40) roam y 16
+\i (02:23:40) roam x 8
+\i (02:23:40) roam y 16
+\i (02:23:40) roam y 16
+\i (02:23:40) roam y 16
+\i (02:23:40) roam end
+\i (02:23:41) drag_start grid 2423.02 3253.08
+\i (02:23:41) slide 
+\t (02:23:41) last pick:  2420.00 3250.00
+\t (02:23:41) Waiting for the destination pick.
+\i (02:23:42) drag_stop grid 2433.89 3247.79
+\t (02:23:42) No DRC errors detected.
+\i (02:23:42) etchedit 
+\i (02:23:44) pick grid 2496.19 3307.44
+\t (02:23:44) last pick:  2500.00 3310.00
+\i (02:23:47) save 
+\i (02:23:48) fillin yes 
+\t (02:23:48) > Sending response DoneOpenBoard
+\i (02:23:48) etchedit 
+\i (02:23:49) pick grid 2490.31 3317.72
+\t (02:23:49) last pick:  2490.00 3320.00
+\i (02:23:49) zoom out 1 
+\i (02:23:49) setwindow pcb
+\i (02:23:49) zoom out 2493.25 3318.02
+\i (02:23:49) trapsize 294
+\i (02:23:49) zoom out 1 
+\i (02:23:49) setwindow pcb
+\i (02:23:49) zoom out 2493.24 3318.02
+\i (02:23:49) trapsize 588
+\i (02:23:54) zoom in 1 
+\i (02:23:54) setwindow pcb
+\i (02:23:54) zoom in 2521.45 3420.27
+\i (02:23:54) trapsize 294
+\i (02:23:54) zoom in 1 
+\i (02:23:54) setwindow pcb
+\i (02:23:54) zoom in 2504.41 3329.19
+\i (02:23:54) trapsize 147
+\i (02:23:55) roam start
+\i (02:23:55) roam x 4
+\i (02:23:55) roam y 28
+\i (02:23:55) roam y 20
+\i (02:23:55) roam x -8
+\i (02:23:55) roam y 32
+\i (02:23:55) roam x -8
+\i (02:23:55) roam y 16
+\i (02:23:55) roam x -24
+\i (02:23:55) roam y 124
+\i (02:23:55) roam x -4
+\i (02:23:55) roam y 16
+\i (02:23:55) roam x -4
+\i (02:23:55) roam y 20
+\i (02:23:55) roam y 16
+\i (02:23:55) roam x -8
+\i (02:23:55) roam y 20
+\i (02:23:55) roam x -4
+\i (02:23:55) roam y 24
+\i (02:23:55) roam end
+\i (02:23:56) drag_start grid 2463.27 3238.68
+\i (02:23:56) slide 
+\t (02:23:56) last pick:  2460.00 3240.00
+\t (02:23:56) Waiting for the destination pick.
+\i (02:23:57) drag_stop grid 2450.34 3238.68
+\t (02:23:57) No DRC errors detected.
+\i (02:23:57) etchedit 
+\i (02:23:58) drag_start grid 2459.16 3217.23
+\i (02:23:58) slide 
+\t (02:23:58) last pick:  2460.00 3220.00
+\t (02:23:58) Waiting for the destination pick.
+\i (02:23:59) drag_stop grid 2451.81 3208.71
+\t (02:23:59) No DRC errors detected.
+\i (02:23:59) etchedit 
+\i (02:24:00) pick grid 2468.85 3237.21
+\t (02:24:00) last pick:  2470.00 3240.00
+\i (02:24:01) drag_start grid 2432.12 3238.38
+\i (02:24:01) slide 
+\t (02:24:01) last pick:  2430.00 3240.00
+\t (02:24:01) Waiting for the destination pick.
+\i (02:24:02) drag_stop grid 2422.13 3238.09
+\t (02:24:02) No DRC errors detected.
+\i (02:24:02) etchedit 
+\i (02:24:03) drag_start grid 2445.64 3243.67
+\i (02:24:03) slide 
+\t (02:24:03) last pick:  2450.00 3240.00
+\t (02:24:03) Waiting for the destination pick.
+\i (02:24:04) drag_stop grid 2437.41 3239.27
+\t (02:24:04) No DRC errors detected.
+\i (02:24:04) etchedit 
+\i (02:24:04) drag_start grid 2450.05 3217.23
+\i (02:24:04) slide 
+\t (02:24:04) last pick:  2450.00 3220.00
+\t (02:24:04) Waiting for the destination pick.
+\i (02:24:05) drag_stop grid 2443.00 3212.53
+\t (02:24:05) No DRC errors detected.
+\i (02:24:05) etchedit 
+\i (02:24:05) pick grid 2457.39 3241.03
+\t (02:24:05) last pick:  2460.00 3240.00
+\i (02:24:08) drag_start grid 2311.66 3308.02
+\i (02:24:08) slide 
+\t (02:24:08) last pick:  2310.00 3310.00
+\t (02:24:08) Waiting for the destination pick.
+\i (02:24:10) drag_stop grid 2306.95 3305.67
+\t (02:24:10) No DRC errors detected.
+\i (02:24:10) etchedit 
+\i (02:24:12) pick grid 2453.57 3307.14
+\t (02:24:12) last pick:  2450.00 3310.00
+\i (02:24:14) save 
+\i (02:24:15) fillin yes 
+\t (02:24:16) > Sending response DoneOpenBoard
+\i (02:24:16) etchedit 
+\i (02:24:16) pick grid 2471.50 3289.51
+\t (02:24:16) last pick:  2470.00 3290.00
+\i (02:24:17) zoom out 1 
+\i (02:24:17) setwindow pcb
+\i (02:24:17) zoom out 2476.20 3296.56
+\i (02:24:17) trapsize 294
+\i (02:24:18) roam start
+\i (02:24:18) roam x -16
+\i (02:24:18) roam y -8
+\i (02:24:18) roam x -4
+\i (02:24:18) roam y -16
+\i (02:24:18) roam y -16
+\i (02:24:18) roam y -20
+\i (02:24:18) roam y -32
+\i (02:24:18) roam y -80
+\i (02:24:18) roam end
+\i (02:24:20) zoom in 1 
+\i (02:24:20) setwindow pcb
+\i (02:24:20) zoom in 2220.87 3427.90
+\i (02:24:20) trapsize 147
+\i (02:24:20) zoom in 1 
+\i (02:24:20) setwindow pcb
+\i (02:24:20) zoom in 2220.87 3427.90
+\i (02:24:20) trapsize 73
+\i (02:24:20) roam start
+\i (02:24:20) roam y -20
+\i (02:24:20) roam y -16
+\i (02:24:20) roam x 4
+\i (02:24:20) roam y -24
+\i (02:24:20) roam x 4
+\i (02:24:20) roam y -28
+\i (02:24:20) roam x 4
+\i (02:24:20) roam y -16
+\i (02:24:20) roam x 36
+\i (02:24:20) roam y -124
+\i (02:24:21) roam x 12
+\i (02:24:21) roam y -20
+\i (02:24:21) roam x 4
+\i (02:24:21) roam y -20
+\i (02:24:21) roam x 4
+\i (02:24:21) roam y -16
+\i (02:24:21) roam x 12
+\i (02:24:21) roam y -16
+\i (02:24:21) roam x 4
+\i (02:24:21) roam y -16
+\i (02:24:21) roam end
+\i (02:24:22) drag_start grid 2240.41 3469.33
+\i (02:24:22) slide 
+\t (02:24:22) last pick:  2240.00 3470.00
+\t (02:24:22) Waiting for the destination pick.
+\i (02:24:23) drag_stop grid 2237.17 3462.43
+\t (02:24:23) No DRC errors detected.
+\i (02:24:23) etchedit 
+\i (02:24:24) drag_start grid 2247.16 3478.73
+\i (02:24:24) slide 
+\t (02:24:24) last pick:  2250.00 3480.00
+\t (02:24:24) Waiting for the destination pick.
+\i (02:24:25) drag_stop grid 2245.84 3477.71
+\t (02:24:25) No DRC errors detected.
+\i (02:24:25) etchedit 
+\i (02:24:26) drag_start grid 2241.29 3465.95
+\i (02:24:26) slide 
+\t (02:24:26) last pick:  2240.00 3470.00
+\t (02:24:26) Waiting for the destination pick.
+\i (02:24:27) drag_stop grid 2254.36 3474.18
+\t (02:24:27) No DRC errors detected.
+\i (02:24:27) etchedit 
+\i (02:24:29) drag_start grid 2240.41 3471.39
+\i (02:24:29) slide 
+\t (02:24:29) last pick:  2240.00 3470.00
+\t (02:24:29) Waiting for the destination pick.
+\i (02:24:29) drag_stop grid 2253.48 3481.53
+\t (02:24:29) No DRC errors detected.
+\i (02:24:29) etchedit 
+\i (02:24:32) drag_start grid 2206.18 3459.64
+\i (02:24:32) slide 
+\t (02:24:32) last pick:  2210.00 3460.00
+\t (02:24:32) Waiting for the destination pick.
+\i (02:24:33) drag_stop grid 2202.06 3455.67
+\t (02:24:33) No DRC errors detected.
+\i (02:24:33) etchedit 
+\i (02:24:34) pick grid 2248.34 3436.13
+\t (02:24:34) last pick:  2250.00 3440.00
+\i (02:24:34) zoom out 1 
+\i (02:24:34) setwindow pcb
+\i (02:24:34) zoom out 2249.07 3435.54
+\i (02:24:34) trapsize 147
+\i (02:24:35) zoom out 1 
+\i (02:24:35) setwindow pcb
+\i (02:24:35) zoom out 2249.08 3435.54
+\i (02:24:35) trapsize 294
+\i (02:24:37) save 
+\i (02:24:38) fillin yes 
+\t (02:24:38) > Sending response DoneOpenBoard
+\i (02:24:38) etchedit 
+\i (02:24:42) zoom in 1 
+\i (02:24:42) setwindow pcb
+\i (02:24:42) zoom in 2263.18 3409.69
+\i (02:24:42) trapsize 147
+\i (02:24:42) zoom in 1 
+\i (02:24:42) setwindow pcb
+\i (02:24:42) zoom in 2262.30 3409.70
+\i (02:24:42) trapsize 73
+\i (02:24:43) roam start
+\i (02:24:43) roam y -16
+\i (02:24:43) roam x -4
+\i (02:24:43) roam y -24
+\i (02:24:43) roam x -4
+\i (02:24:43) roam y -24
+\i (02:24:43) roam x -4
+\i (02:24:43) roam y -16
+\i (02:24:43) roam x -8
+\i (02:24:43) roam y -16
+\i (02:24:43) roam x -8
+\i (02:24:43) roam y -40
+\i (02:24:43) roam end
+\i (02:24:47) pop dyn_option_select 'Application Mode@:@Shape Edit' 
+\i (02:24:47) shapeedit 
+\i (02:24:47) updateport CVPane
+\i (02:24:49) drag_start grid 2246.57 3449.94
+\i (02:24:49) drag shape main 
+\t (02:24:49) last pick:  2246.57 3450.00
+\i (02:24:49) drag_stop grid 2246.28 3456.99
+\i (02:24:49) shapeedit 
+\i (02:24:50) pick grid 2245.99 3447.59
+\t (02:24:50) last pick:  2250.00 3450.00
+\i (02:24:51) zoom out 1 
+\i (02:24:51) setwindow pcb
+\i (02:24:51) zoom out 2247.90 3443.04
+\i (02:24:51) trapsize 147
+\i (02:24:52) zoom out 1 
+\i (02:24:52) setwindow pcb
+\i (02:24:52) zoom out 2242.60 3432.46
+\i (02:24:52) trapsize 294
+\i (02:24:54) save 
+\i (02:24:55) fillin yes 
+\t (02:24:55) > Sending response DoneOpenBoard
+\i (02:24:55) shapeedit 
+\i (02:24:59) QtSignal CVPLayerGrid CVPLayerColorBoard_Geometry/Silkscreen_Bottom clicked
+\i (02:24:59) updateport CVPane
+\i (02:24:59) QtSignal CVPLayerGrid CVPLayerColorBoard_Geometry/Silkscreen_Bottom clicked
+\i (02:24:59) updateport CVPane
+\i (02:25:00) QtSignal CVPLayerGrid CVPLayerColorBoard_Geometry/Silkscreen_Top clicked
+\i (02:25:00) updateport CVPane
+\i (02:25:04) roam start
+\i (02:25:04) roam x -20
+\i (02:25:04) roam y -8
+\i (02:25:04) roam x -16
+\i (02:25:04) roam y -12
+\i (02:25:04) roam x -4
+\i (02:25:04) roam y -16
+\i (02:25:04) roam x -8
+\i (02:25:04) roam y -20
+\i (02:25:04) roam x -8
+\i (02:25:04) roam y -16
+\i (02:25:04) roam x -12
+\i (02:25:04) roam y -92
+\i (02:25:04) roam x -4
+\i (02:25:04) roam y -20
+\i (02:25:04) roam x -4
+\i (02:25:04) roam y -16
+\i (02:25:05) roam x -4
+\i (02:25:05) roam y -20
+\i (02:25:05) roam y -16
+\i (02:25:05) roam y -16
+\i (02:25:05) roam y -16
+\i (02:25:05) roam end
+\i (02:25:05) zoom out 1 
+\i (02:25:05) setwindow pcb
+\i (02:25:05) zoom out 2484.14 3542.49
+\i (02:25:05) trapsize 588
+\i (02:25:07) roam start
+\i (02:25:07) roam x -16
+\i (02:25:07) roam y -4
+\i (02:25:07) roam x -16
+\i (02:25:07) roam y 4
+\i (02:25:07) roam x -16
+\i (02:25:07) roam y 4
+\i (02:25:07) roam x -16
+\i (02:25:07) roam y 12
+\i (02:25:07) roam x -12
+\i (02:25:07) roam y 16
+\i (02:25:07) roam y 20
+\i (02:25:07) roam y 20
+\i (02:25:07) roam x 88
+\i (02:25:07) roam y 228
+\i (02:25:08) roam x 16
+\i (02:25:08) roam y 4
+\i (02:25:08) roam x 20
+\i (02:25:08) roam x 16
+\i (02:25:08) roam x 16
+\i (02:25:08) roam x 16
+\i (02:25:08) roam x 16
+\i (02:25:08) roam x 4
+\i (02:25:08) roam y -16
+\i (02:25:08) roam y -16
+\i (02:25:08) roam y -16
+\i (02:25:08) roam end
+\i (02:25:14) xrefdes Tp17 
+\i (02:25:14) xname_flush 
+\i (02:25:14) trapsize 135
+\i (02:25:15) zoom out 1 
+\i (02:25:15) setwindow pcb
+\i (02:25:15) zoom out 1997.98 3121.88
+\i (02:25:15) trapsize 270
+\i (02:25:15) zoom out 1 
+\i (02:25:15) setwindow pcb
+\i (02:25:15) zoom out 1997.98 3121.87
+\i (02:25:15) trapsize 540
+\i (02:25:26) zoom out 1 
+\i (02:25:26) setwindow pcb
+\i (02:25:26) zoom out 2104.92 3085.15
+\i (02:25:26) trapsize 1080
+\i (02:25:33) zoom in 1 
+\i (02:25:33) setwindow pcb
+\i (02:25:33) zoom in 2560.79 3493.49
+\i (02:25:33) trapsize 540
+\i (02:25:34) zoom in 1 
+\i (02:25:34) setwindow pcb
+\i (02:25:34) zoom in 2553.23 3475.13
+\i (02:25:34) trapsize 270
+\i (02:25:42) zoom out 1 
+\i (02:25:42) setwindow pcb
+\i (02:25:42) zoom out 2550.53 3450.29
+\i (02:25:42) trapsize 540
+\i (02:25:42) zoom out 1 
+\i (02:25:42) setwindow pcb
+\i (02:25:42) zoom out 2551.60 3448.12
+\i (02:25:42) trapsize 1080
+\i (02:25:42) zoom in 1 
+\i (02:25:42) setwindow pcb
+\i (02:25:42) zoom in 2551.60 3536.71
+\i (02:25:42) trapsize 540
+\i (02:25:43) zoom in 1 
+\i (02:25:43) setwindow pcb
+\i (02:25:43) zoom in 2549.44 3539.96
+\i (02:25:43) trapsize 270
+\i (02:25:47) pop dyn_option_select 'Application Mode@:@Shape Edit' 
+\i (02:25:47) shapeedit 
+\i (02:25:49) drag_start grid 2488.40 3462.72
+\i (02:25:49) drag shape main 
+\t (02:25:49) last pick:  2488.85 3462.72
+\i (02:25:50) drag_stop grid 2606.15 3447.06
+\i (02:25:50) shapeedit 
+\i (02:25:51) zoom in 1 
+\i (02:25:51) setwindow pcb
+\i (02:25:51) zoom in 2546.20 3499.99
+\i (02:25:51) trapsize 135
+\i (02:25:51) zoom in 1 
+\i (02:25:51) setwindow pcb
+\i (02:25:51) zoom in 2546.20 3499.72
+\i (02:25:51) trapsize 68
+\i (02:25:51) zoom out 1 
+\i (02:25:51) setwindow pcb
+\i (02:25:51) zoom out 2567.80 3503.10
+\i (02:25:51) trapsize 135
+\i (02:25:52) roam start
+\i (02:25:52) roam x -12
+\i (02:25:52) roam y -16
+\i (02:25:52) roam y -16
+\i (02:25:52) roam y -20
+\i (02:25:52) roam y -16
+\i (02:25:52) roam y -20
+\i (02:25:52) roam y -20
+\i (02:25:52) roam x 56
+\i (02:25:52) roam y -256
+\i (02:25:52) roam y -16
+\i (02:25:52) roam x 16
+\i (02:25:52) roam y -28
+\i (02:25:52) roam x 4
+\i (02:25:52) roam y -20
+\i (02:25:52) roam x 4
+\i (02:25:52) roam y -20
+\i (02:25:52) roam x 8
+\i (02:25:52) roam y -20
+\i (02:25:52) roam x 4
+\i (02:25:52) roam y -16
+\i (02:25:52) roam end
+\i (02:25:58) drag_start grid 2609.21 3627.89
+\i (02:25:58) drag_stop grid 2631.36 3641.93
+\i (02:25:58) drag shape main 
+\i (02:25:58) zoom out 1 
+\i (02:25:58) setwindow pcb
+\i (02:25:58) zoom out 2618.12 3649.50
+\i (02:25:58) trapsize 270
+\i (02:25:58) zoom out 1 
+\i (02:25:58) setwindow pcb
+\i (02:25:58) zoom out 2615.97 3648.95
+\i (02:25:58) trapsize 540
+\i (02:25:58) shapeedit 
+\i (02:25:59) zoom in 1 
+\i (02:25:59) setwindow pcb
+\i (02:25:59) zoom in 2590.04 3625.19
+\i (02:25:59) trapsize 270
+\i (02:25:59) zoom in 1 
+\i (02:25:59) setwindow pcb
+\i (02:25:59) zoom in 2590.04 3625.19
+\i (02:25:59) trapsize 135
+\i (02:25:59) zoom in 1 
+\i (02:25:59) setwindow pcb
+\i (02:25:59) zoom in 2590.04 3625.19
+\i (02:25:59) trapsize 68
+\i (02:25:59) zoom out 1 
+\i (02:25:59) setwindow pcb
+\i (02:25:59) zoom out 2614.34 3630.86
+\i (02:25:59) trapsize 135
+\i (02:26:04) drag_start grid 2485.53 3627.63
+\i (02:26:04) drag shape main 
+\t (02:26:04) last pick:  2485.95 3628.05
+\i (02:26:07) drag_stop grid 2497.42 3623.04
+\i (02:26:07) shapeedit 
+\i (02:26:09) undo 
+\i (02:26:09) trapsize 135
+\i (02:26:09) shapeedit 
+\i (02:26:17) drag_start grid 2608.68 3628.71
+\i (02:26:17) drag shape main 
+\i (02:26:17) drag_stop grid 2612.19 3631.95
+\i (02:26:17) shapeedit 
+\i (02:26:19) drag_start grid 2607.87 3621.69
+\i (02:26:19) drag shape main 
+\i (02:26:19) drag_stop grid 2612.19 3629.25
+\i (02:26:19) shapeedit 
+\i (02:26:21) drag_start grid 2486.88 3627.36
+\i (02:26:21) drag shape main 
+\i (02:26:23) drag_stop grid 2601.93 3637.08
+\i (02:26:23) shapeedit 
+\i (02:26:25) pick grid 2478.51 3636.00
+\t (02:26:25) last pick:  2480.00 3640.00
+\i (02:26:25) click shape main 
+\i (02:26:25) shapeedit 
+\i (02:26:27) drag_start grid 2243.02 3636.27
+\i (02:26:27) drag shape main 
+\i (02:26:28) drag_stop grid 2250.31 3639.51
+\i (02:26:28) shapeedit 
+\i (02:26:30) drag_start grid 2241.13 3633.03
+\i (02:26:30) drag shape main 
+\i (02:26:30) drag_stop grid 2240.59 3628.98
+\i (02:26:30) shapeedit 
+\i (02:26:32) pick grid 2624.62 3613.31
+\t (02:26:32) last pick:  2620.00 3610.00
+\i (02:26:33) roam start
+\i (02:26:33) roam y 16
+\i (02:26:33) roam y 24
+\i (02:26:33) roam y 16
+\i (02:26:33) roam y 16
+\i (02:26:34) roam x 4
+\i (02:26:34) roam y 16
+\i (02:26:34) roam x 8
+\i (02:26:34) roam y 116
+\i (02:26:34) roam x 8
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 16
+\i (02:26:34) roam x 4
+\i (02:26:34) roam y 20
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 24
+\i (02:26:34) roam x 4
+\i (02:26:34) roam y 20
+\i (02:26:34) roam x 4
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 20
+\i (02:26:34) roam y 24
+\i (02:26:34) roam y 16
+\i (02:26:34) roam x -8
+\i (02:26:34) roam y 16
+\i (02:26:34) roam x -8
+\i (02:26:34) roam y 20
+\i (02:26:34) roam y 20
+\i (02:26:34) roam x -8
+\i (02:26:34) roam y 24
+\i (02:26:34) roam y 24
+\i (02:26:34) roam x -4
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 16
+\i (02:26:34) roam x -4
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 20
+\i (02:26:34) roam x -4
+\i (02:26:34) roam y 20
+\i (02:26:34) roam x -8
+\i (02:26:34) roam y 20
+\i (02:26:34) roam x -4
+\i (02:26:34) roam y 20
+\i (02:26:34) roam y 16
+\i (02:26:34) roam x -4
+\i (02:26:34) roam y 16
+\i (02:26:34) roam y 28
+\i (02:26:34) roam y 20
+\i (02:26:34) roam y 16
+\i (02:26:34) roam end
+\i (02:26:40) drag_start grid 2269.47 3340.00
+\i (02:26:40) drag shape main 
+\i (02:26:42) drag_stop grid 2272.71 3343.51
+\i (02:26:42) shapeedit 
+\i (02:26:43) zoom in 1 
+\i (02:26:43) setwindow pcb
+\i (02:26:43) zoom in 2332.39 3326.76
+\i (02:26:43) trapsize 68
+\i (02:26:45) roam start
+\i (02:26:45) roam x 20
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 24
+\i (02:26:45) roam x 36
+\i (02:26:45) roam x 196
+\i (02:26:45) roam x 36
+\i (02:26:45) roam x 20
+\i (02:26:45) roam x 20
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 40
+\i (02:26:45) roam x 64
+\i (02:26:45) roam x 72
+\i (02:26:45) roam x 68
+\i (02:26:45) roam x 52
+\i (02:26:45) roam x 44
+\i (02:26:45) roam x 40
+\i (02:26:45) roam x 48
+\i (02:26:45) roam x 80
+\i (02:26:45) roam x 36
+\i (02:26:45) roam x 28
+\i (02:26:45) roam x 20
+\i (02:26:45) roam x 16
+\i (02:26:45) roam x 16
+\i (02:26:46) roam x 16
+\i (02:26:46) roam x 20
+\i (02:26:46) roam x 16
+\i (02:26:46) roam x 16
+\i (02:26:46) roam end
+\i (02:26:47) drag_start grid 2601.14 3341.34
+\i (02:26:47) drag shape main 
+\i (02:26:47) drag_stop grid 2600.33 3339.99
+\i (02:26:47) shapeedit 
+\i (02:26:48) pick grid 2612.49 3345.94
+\t (02:26:48) last pick:  2610.00 3350.00
+\i (02:26:51) drag_start grid 2610.86 3351.07
+\i (02:26:51) drag shape main 
+\i (02:26:51) drag_stop grid 2608.16 3348.10
+\i (02:26:51) shapeedit 
+\i (02:26:52) pick grid 2619.10 3343.91
+\t (02:26:52) last pick:  2620.00 3340.00
+\i (02:26:52) zoom out 1 
+\i (02:26:52) setwindow pcb
+\i (02:26:52) zoom out 2599.66 3333.51
+\i (02:26:52) trapsize 135
+\i (02:26:53) roam start
+\i (02:26:53) roam x -16
+\i (02:26:53) roam x -24
+\i (02:26:53) roam y 4
+\i (02:26:53) roam x -16
+\i (02:26:53) roam y 8
+\i (02:26:53) roam x -20
+\i (02:26:53) roam y 4
+\i (02:26:53) roam x -24
+\i (02:26:53) roam y 8
+\i (02:26:53) roam x -208
+\i (02:26:53) roam y 12
+\i (02:26:53) roam x -36
+\i (02:26:53) roam x -20
+\i (02:26:53) roam x -16
+\i (02:26:53) roam end
+\i (02:26:55) zoom out 1 
+\i (02:26:55) setwindow pcb
+\i (02:26:55) zoom out 2400.18 3322.45
+\i (02:26:55) trapsize 270
+\i (02:26:55) zoom out 1 
+\i (02:26:55) setwindow pcb
+\i (02:26:55) zoom out 2400.18 3322.44
+\i (02:26:55) trapsize 540
+\i (02:26:56) zoom in 1 
+\i (02:26:56) setwindow pcb
+\i (02:26:56) zoom in 2429.34 3671.37
+\i (02:26:56) trapsize 270
+\i (02:26:56) zoom in 1 
+\i (02:26:56) setwindow pcb
+\i (02:26:56) zoom in 2429.34 3671.37
+\i (02:26:56) trapsize 135
+\i (02:26:57) zoom in 1 
+\i (02:26:57) setwindow pcb
+\i (02:26:57) zoom in 2491.73 3662.20
+\i (02:26:57) trapsize 68
+\i (02:26:57) zoom in 1 
+\i (02:26:57) setwindow pcb
+\i (02:26:57) zoom in 2491.72 3662.20
+\i (02:26:57) trapsize 34
+\i (02:26:58) zoom out 1 
+\i (02:26:58) setwindow pcb
+\i (02:26:58) zoom out 2489.90 3666.93
+\i (02:26:58) trapsize 68
+\i (02:26:58) zoom out 1 
+\i (02:26:58) setwindow pcb
+\i (02:26:58) zoom out 2489.37 3666.52
+\i (02:26:58) trapsize 135
+\i (02:27:00) zoom out 1 
+\i (02:27:00) setwindow pcb
+\i (02:27:00) zoom out 2488.28 3665.97
+\i (02:27:00) trapsize 270
+\i (02:27:00) zoom out 1 
+\i (02:27:00) setwindow pcb
+\i (02:27:00) zoom out 2488.27 3665.98
+\i (02:27:00) trapsize 540
+\i (02:27:01) roam start
+\i (02:27:01) roam x 12
+\i (02:27:01) roam y 16
+\i (02:27:01) roam x 16
+\i (02:27:01) roam y 16
+\i (02:27:02) roam x 8
+\i (02:27:02) roam y 20
+\i (02:27:02) roam x 16
+\i (02:27:02) roam y 32
+\i (02:27:02) roam end
+\i (02:27:09) save 
+\i (02:27:10) fillin yes 
+\t (02:27:11) > Sending response DoneOpenBoard
+\i (02:27:11) shapeedit 
+\i (02:27:13) drc update 
+\t (02:27:13) Performing DRC...
+\t (02:27:13) The number of threads for DRC checking is reduced from 24 to the maximum supported (16).
+\t (02:27:13) Multithreaded DRC update (16 threads).
+\t (02:27:13) No DRC errors detected.
+\i (02:27:13) shapeedit 
+\i (02:27:17) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (02:27:22) QtSignal CVPLayerGrid CVPLayerColorRef_Des/Silkscreen_Top clicked
+\i (02:27:23) updateport CVPane
+\i (02:27:25) QtSignal CVPLayerGrid CVPLayerColorRef_Des/Assembly_Top clicked
+\i (02:27:25) updateport CVPane
+\i (02:27:27) QtSignal CVPLayerGrid CVPLayerColorRef_Des/Assembly_Top clicked
+\i (02:27:27) updateport CVPane
+\i (02:27:28) QtSignal CVPLayerGrid CVPLayerColorPackage_Geometry/Silkscreen_Bottom clicked
+\i (02:27:28) updateport CVPane
+\i (02:27:29) QtSignal CVPLayerGrid CVPLayerColorPackage_Geometry/Silkscreen_Bottom clicked
+\i (02:27:29) updateport CVPane
+\i (02:27:29) QtSignal CVPLayerGrid CVPLayerColorPackage_Geometry/Silkscreen_Top clicked
+\i (02:27:29) updateport CVPane
+\i (02:27:35) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (02:28:00) roam start
+\i (02:28:00) roam x 12
+\i (02:28:00) roam y 16
+\i (02:28:00) roam x 16
+\i (02:28:00) roam y 8
+\i (02:28:00) roam x 64
+\i (02:28:00) roam y 20
+\i (02:28:01) roam x 32
+\i (02:28:01) roam y 8
+\i (02:28:01) roam x 16
+\i (02:28:01) roam y 8
+\i (02:28:01) roam x 16
+\i (02:28:01) roam x 16
+\i (02:28:01) roam y -4
+\i (02:28:01) roam x 4
+\i (02:28:01) roam y -16
+\i (02:28:01) roam x 12
+\i (02:28:01) roam y -24
+\i (02:28:01) roam x 8
+\i (02:28:01) roam y -28
+\i (02:28:01) roam x 16
+\i (02:28:01) roam y -20
+\i (02:28:01) roam end
+\i (02:28:06) roam start
+\i (02:28:06) roam y 16
+\i (02:28:06) roam x 8
+\i (02:28:06) roam y 16
+\i (02:28:06) roam x 8
+\i (02:28:06) roam y 20
+\i (02:28:06) roam x 4
+\i (02:28:06) roam y 16
+\i (02:28:06) roam x 4
+\i (02:28:06) roam y 16
+\i (02:28:06) roam end
+\i (02:28:11) roam start
+\i (02:28:11) roam y -16
+\i (02:28:11) roam x -4
+\i (02:28:11) roam y -24
+\i (02:28:11) roam x -8
+\i (02:28:11) roam y -16
+\i (02:28:11) roam y -20
+\i (02:28:11) roam y -16
+\i (02:28:11) roam y -24
+\i (02:28:11) roam x -8
+\i (02:28:11) roam y -16
+\i (02:28:12) roam x -8
+\i (02:28:12) roam y -16
+\i (02:28:12) roam x -4
+\i (02:28:12) roam y -16
+\i (02:28:12) roam end
+\i (02:28:12) zoom out 1 
+\i (02:28:12) setwindow pcb
+\i (02:28:12) zoom out 2760.11 3664.31
+\t (02:28:12) [13:15:56.131712] Periodic Lic check successful
+[13:15:56.656000] Feature usage summary:
+[13:15:56.656000] Allegro_Venture_PCB_Designer2
+[13:15:56.656000] PCB_design_studio
+[13:15:56.656000] Allegro_Venture_PCB_Designer
+[13:15:56.656000] Venture_PCB_Schematic
+
+\i (02:28:12) trapsize 1080
+\i (02:28:13) roam start
+\i (02:28:13) roam x 16
+\i (02:28:13) roam y 12
+\i (02:28:13) roam x 8
+\i (02:28:13) roam y 16
+\i (02:28:13) roam x 20
+\i (02:28:13) roam y 32
+\i (02:28:14) roam x 8
+\i (02:28:14) roam y 16
+\i (02:28:14) roam x 8
+\i (02:28:14) roam y 16
+\i (02:28:14) roam x -4
+\i (02:28:14) roam y 20
+\i (02:28:14) roam x -8
+\i (02:28:14) roam y 16
+\i (02:28:14) roam x -8
+\i (02:28:14) roam y 16
+\i (02:28:14) roam x -4
+\i (02:28:14) roam y 20
+\i (02:28:14) roam y 16
+\i (02:28:14) roam y 16
+\i (02:28:14) roam y 16
+\i (02:28:14) roam y 16
+\i (02:28:14) roam y 16
+\i (02:28:14) roam y 16
+\i (02:28:15) roam y 16
+\i (02:28:15) roam y 16
+\i (02:28:15) roam x -8
+\i (02:28:15) roam y 24
+\i (02:28:15) roam x -4
+\i (02:28:15) roam y 16
+\i (02:28:15) roam x -4
+\i (02:28:15) roam y 20
+\i (02:28:15) roam x -8
+\i (02:28:15) roam y 16
+\i (02:28:15) roam x -4
+\i (02:28:15) roam y 16
+\i (02:28:16) roam end
+\i (02:28:18) roam start
+\i (02:28:18) roam x -12
+\i (02:28:18) roam y -20
+\i (02:28:18) roam x -8
+\i (02:28:18) roam y -16
+\i (02:28:18) roam x -8
+\i (02:28:18) roam y -20
+\i (02:28:18) roam y -16
+\i (02:28:18) roam y -16
+\i (02:28:18) roam x 4
+\i (02:28:18) roam y -16
+\i (02:28:18) roam y -16
+\i (02:28:18) roam y -16
+\i (02:28:18) roam y -16
+\i (02:28:18) roam y -16
+\i (02:28:19) roam y -16
+\i (02:28:19) roam end
+\i (02:28:20) zoom in 1 
+\i (02:28:20) setwindow pcb
+\i (02:28:20) zoom in 2694.21 3271.09
+\i (02:28:20) trapsize 540
+\i (02:28:20) zoom in 1 
+\i (02:28:20) setwindow pcb
+\i (02:28:20) zoom in 2746.06 3379.13
+\i (02:28:20) trapsize 270
+\i (02:28:21) roam start
+\i (02:28:21) roam x -16
+\i (02:28:21) roam x -8
+\i (02:28:21) roam y -16
+\i (02:28:21) roam y -20
+\i (02:28:21) roam y -16
+\i (02:28:21) roam y -20
+\i (02:28:21) roam y -16
+\i (02:28:21) roam x -12
+\i (02:28:21) roam y -100
+\i (02:28:21) roam x -16
+\i (02:28:21) roam y -8
+\i (02:28:21) roam x -12
+\i (02:28:21) roam y -16
+\i (02:28:21) roam x -4
+\i (02:28:21) roam y -16
+\i (02:28:21) roam y -16
+\i (02:28:21) roam y -20
+\i (02:28:21) roam y -16
+\i (02:28:21) roam end
+\i (02:28:25) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (02:28:25) etchedit 
+\i (02:28:26) drag_start grid 2458.17 3395.33
+\i (02:28:27) drag_stop 2305.85 3561.15
+\i (02:28:29) prepopup 2369.05 3528.74
+\i (02:28:30) pop dyn_option_select @:@Copy 
+\i (02:28:30) copy 
+\t (02:28:30) last pick:  2370.00 3530.00
+\i (02:28:30) paste 
+\t (02:28:30) last pick:  2370.00 3530.00
+\i (02:28:32) pick grid 2514.35 3531.44
+\t (02:28:32) last pick:  2510.00 3530.00
+\i (02:28:32) prepopup 2616.97 3537.38
+\i (02:28:33) done 
+\i (02:28:33) etchedit 
+\i (02:28:37) save 
+\i (02:28:39) fillin yes 
+\t (02:28:40) > Sending response DoneOpenBoard
+\i (02:28:40) etchedit 
+\i (02:28:40) zoom out 1 
+\i (02:28:40) setwindow pcb
+\i (02:28:40) zoom out 2506.24 3337.53
+\i (02:28:40) t
