@@ -672,7 +672,8 @@
       (Path "Design Resources" ".\gps_interface_board.dsn" "05. FMC Connector")
       (Path "Design Resources" ".\gps_interface_board.dsn" "06. Utilities")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" ".\gps_interface_board.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -683,7 +684,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 71")
+        (Scroll "26 59")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -703,7 +704,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 36")
+        (Scroll "26 179")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -713,7 +714,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 0")
+        (Scroll "26 11")
         (Zoom "100")
         (Occurrence "/Utilities"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -723,7 +724,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 0")
+        (Scroll "3 0")
         (Zoom "100")
         (Occurrence "/Utilities"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -743,7 +744,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 179")
+        (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/Clock Generation"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -753,7 +754,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 59")
+        (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -793,7 +794,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "0 0")
+        (Scroll "0 31")
         (Zoom "100")
         (Occurrence "/SFP Interface/Fanout"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -813,7 +814,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 84")
+        (Scroll "26 179")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -823,7 +824,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 66")
+        (Scroll "26 114")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -848,7 +849,7 @@
         (Occurrence "/SFP Interface/SFP2"))
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "0 179")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP1"))
       (Frame
@@ -868,12 +869,23 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "0 1050")
+        (Scroll "292 0")
         (Zoom "200")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "09. ACLK SFP")
-      (Page "ACLK SFP"))) >>>>>>> a7cbe7d5b9b1580fdaae237299643f2a3d455517
+      (Page "ACLK SFP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/Utilities"))
+      (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "16. Spare I/O RJ45"))) >>>>>>>
+   a7cbe7d5b9b1580fdaae237299643f2a3d455517
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
