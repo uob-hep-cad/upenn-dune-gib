@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : gps_interface_board_ml_v81.brd                )
+(    Drawing          : gps_interface_board_ml_v82.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Fri Jul 25 13:39:04 2025                      )
+(    Date/Time        : Fri Jul 25 15:00:45 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,6 +22,6 @@
 
  ..... Total number of DRC errors  0
 
- ..... DRC update completed, total CPU time   0:00:00
+ ..... DRC update completed, total CPU time   0:00:01
  *************************************************************************
 
