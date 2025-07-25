@@ -1,0 +1,131 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : gps_interface_board_ml_v86.brd                )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Jul 25 16:37:16 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 110
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (4617.18 5078.08)  Net: GND_POWER
+	Point on shape: (11094.42 4912.56)  Net: GND_POWER
+	Point on shape: (10225.46 4912.56)  Net: GND_POWER
+	Point on shape: (9347.46 4912.56)  Net: GND_POWER
+	Point on shape: (8196.46 4912.56)  Net: GND_POWER
+	Point on shape: (7318.46 4912.56)  Net: GND_POWER
+	Point on shape: (6447.46 4912.56)  Net: GND_POWER
+	Point on shape: (5296.46 4912.56)  Net: GND_POWER
+	Point on shape: (9697.07 3225.62)  Net: GND_POWER
+	Point on shape: (7718.44 2565.02)  Net: GND_POWER
+	Point on shape: (6671.67 1918.62)  Net: GND_POWER
+	Point on shape: (7734.88 1470.12)  Net: GND_POWER
+	Point on shape: (5789.60 375.78)  Net: GND_POWER
+	Point on shape: (5729.90 4302.32)  Net: GND_POWER
+	Point on shape: (4704.76 4667.24)  Net: GND_POWER
+	Point on shape: (3708.95 4457.12)  Net: GND_POWER
+	Point on shape: (10327.26 4302.32)  Net: GND_POWER
+	Point on shape: (9449.26 4302.32)  Net: GND_POWER
+	Point on shape: (7420.26 4302.32)  Net: GND_POWER
+	Point on shape: (5398.26 4302.32)  Net: GND_POWER
+	Point on shape: (7730.47 4157.12)  Net: GND_POWER
+	Point on shape: (7154.94 4131.00)  Net: GND_POWER
+	Point on shape: (5842.74 4114.88)  Net: GND_POWER
+	Point on shape: (8600.14 4112.12)  Net: GND_POWER
+	Point on shape: (6854.92 4112.12)  Net: GND_POWER
+	Point on shape: (11715.64 3898.33)  Net: GND_POWER
+	Point on shape: (10603.51 3912.16)  Net: GND_POWER
+	Point on shape: (11529.02 3801.73)  Net: GND_POWER
+	Point on shape: (6266.89 3487.84)  Net: GND_POWER
+	Point on shape: (3906.32 3344.21)  Net: GND_POWER
+	Point on shape: (4715.36 2891.37)  Net: GND_POWER
+	Point on shape: (7197.07 2241.50)  Net: GND_POWER
+	Point on shape: (9435.80 1788.62)  Net: GND_POWER
+	Point on shape: (6274.38 1296.63)  Net: GND_POWER
+	Point on shape: (11043.38 1134.93)  Net: GND_POWER
+	Point on shape: (11043.38 959.98)  Net: GND_POWER
+	Point on shape: (4293.88 943.93)  Net: GND_POWER
+	Point on shape: (7202.42 720.60)  Net: GND_POWER
+	Point on shape: (7011.38 625.68)  Net: GND_POWER
+	Point on shape: (3435.36 537.12)  Net: GND_POWER
+	Point on shape: (7618.38 334.35)  Net: GND_POWER
+	Point on shape: (4458.38 356.07)  Net: GND_POWER
+	Point on shape: (754.82 350.14)  Net: GND_POWER
+	Point on shape: (3535.00 281.84)  Net: GND_POWER
+
+    Layer = SIG
+	Point on shape: (5143.63 4554.12)  Net: GND_POWER
+	Point on shape: (3814.28 4873.87)  Net: GND_POWER
+	Point on shape: (4524.00 4894.12)  Net: GND_POWER
+	Point on shape: (3703.46 4763.05)  Net: GND_POWER
+	Point on shape: (10308.88 4778.86)  Net: GND_POWER
+	Point on shape: (5239.43 4406.12)  Net: GND_POWER
+	Point on shape: (5293.00 4229.77)  Net: GND_POWER
+	Point on shape: (7103.63 4197.12)  Net: GND_POWER
+	Point on shape: (11778.88 3824.93)  Net: GND_POWER
+	Point on shape: (2960.06 3169.12)  Net: GND_POWER
+	Point on shape: (3305.63 3008.12)  Net: GND_POWER
+	Point on shape: (2837.88 2951.00)  Net: GND_POWER
+	Point on shape: (7721.09 2534.04)  Net: GND_POWER
+	Point on shape: (3812.88 2172.33)  Net: GND_POWER
+	Point on shape: (7247.48 1965.77)  Net: GND_POWER
+	Point on shape: (4798.25 1263.68)  Net: GND_POWER
+	Point on shape: (9209.11 1177.60)  Net: GND_POWER
+	Point on shape: (4519.68 1083.12)  Net: GND_POWER
+	Point on shape: (5621.79 995.12)  Net: GND_POWER
+	Point on shape: (3995.88 910.37)  Net: GND_POWER
+	Point on shape: (4140.10 909.02)  Net: GND_POWER
+	Point on shape: (5029.06 834.12)  Net: GND_POWER
+	Point on shape: (5635.88 603.57)  Net: GND_POWER
+	Point on shape: (4999.07 629.12)  Net: GND_POWER
+	Point on shape: (8028.29 496.12)  Net: GND_POWER
+	Point on shape: (11130.57 481.60)  Net: GND_POWER
+	Point on shape: (6141.23 127.71)  Net: GND_POWER
+
+    Layer = BOTTOM
+	Point on shape: (9484.52 4703.12)  Net: GND_POWER
+	Point on shape: (5437.10 4693.12)  Net: GND_POWER
+	Point on shape: (4705.76 4275.24)  Net: GND_POWER
+	Point on shape: (541.38 979.35)  Net: GND_POWER
+	Point on shape: (491.38 979.35)  Net: GND_POWER
+	Point on shape: (210.86 992.45)  Net: GND_POWER
+	Point on shape: (541.38 929.35)  Net: GND_POWER
+	Point on shape: (491.38 929.35)  Net: GND_POWER
+	Point on shape: (11527.90 4869.24)  Net: GND_POWER
+	Point on shape: (11368.73 4912.56)  Net: GND_POWER
+	Point on shape: (10498.90 4912.56)  Net: GND_POWER
+	Point on shape: (9621.74 4912.56)  Net: GND_POWER
+	Point on shape: (8470.74 4912.56)  Net: GND_POWER
+	Point on shape: (7592.74 4912.56)  Net: GND_POWER
+	Point on shape: (7190.88 4912.56)  Net: GND_POWER
+	Point on shape: (6721.74 4912.56)  Net: GND_POWER
+	Point on shape: (5570.74 4912.56)  Net: GND_POWER
+	Point on shape: (6738.88 4399.95)  Net: GND_POWER
+	Point on shape: (7190.88 4341.74)  Net: GND_POWER
+	Point on shape: (7403.88 4424.62)  Net: GND_POWER
+	Point on shape: (7587.05 4393.12)  Net: GND_POWER
+	Point on shape: (4205.85 4295.64)  Net: GND_POWER
+	Point on shape: (7403.88 4302.32)  Net: GND_POWER
+	Point on shape: (3660.10 4002.58)  Net: GND_POWER
+	Point on shape: (7782.37 3616.62)  Net: GND_POWER
+	Point on shape: (4699.72 3036.74)  Net: GND_POWER
+	Point on shape: (649.60 2717.14)  Net: GND_POWER
+	Point on shape: (10062.67 2678.62)  Net: GND_POWER
+	Point on shape: (7399.97 2443.21)  Net: GND_POWER
+	Point on shape: (5212.88 2600.00)  Net: GND_POWER
+	Point on shape: (4264.42 2507.60)  Net: GND_POWER
+	Point on shape: (6789.38 462.24)  Net: GND_POWER
+	Point on shape: (6687.87 375.40)  Net: GND_POWER
+	Point on shape: (6888.60 371.55)  Net: GND_POWER
+	Point on shape: (6389.38 238.49)  Net: GND_POWER
+	Point on shape: (6189.38 262.24)  Net: GND_POWER
+	Point on shape: (5789.38 238.49)  Net: GND_POWER
+	Point on shape: (6589.38 262.24)  Net: GND_POWER
+	Point on shape: (5988.88 262.11)  Net: GND_POWER
