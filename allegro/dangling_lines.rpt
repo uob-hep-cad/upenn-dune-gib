@@ -2,9 +2,9 @@
 (                                                                     )
 (    Dangling Line, Via and Antenna Report                            )
 (                                                                     )
-(    Drawing          : gps_interface_board_ml_v86.brd                )
+(    Drawing          : gps_interface_board_ml_v88.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Fri Jul 25 16:42:39 2025                      )
+(    Date/Time        : Mon Jul 28 11:44:21 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -35,6 +35,7 @@ Report methodology:
   N576735              TOP                     0.58     *(4536.36 1366.58) to  (4536.77 1366.17)
   VCC3V3               BOTTOM                  0.01     *(1091.80 2852.58) to  (1091.81 2852.59)
   N224400              TOP                    28.37     *(8529.23 700.57) to  (8500.86 700.57)
+  GND_POWER            SIG                    19.41     *(5681.00 2891.00) to  (5680.00 2910.00)
   GND_POWER            TOP                     1.96     *(5318.54 2797.53) to  (5320.50 2797.53)
   GND_POWER            TOP                     1.96     *(5318.54 2758.16) to  (5320.50 2758.16)
 
@@ -255,13 +256,11 @@ Report methodology:
   GND_POWER            VIA36RD0_4D          (3961.00 3370.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (3964.47 2771.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (3971.00 541.00) TOP/BOTTOM 
-  GND_POWER            VIA36RD0_4D          (3979.00 471.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4043.00 1654.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4079.00 475.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4120.00 2968.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4161.00 1615.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4288.00 3781.00) TOP/BOTTOM 
-  GND_POWER            VIA36RD0_4D          (4349.00 441.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4400.00 2100.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4432.00 364.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (4517.00 2114.00) TOP/BOTTOM 
@@ -353,7 +352,6 @@ Report methodology:
   GND_POWER            VIA36RD0_4D          (7162.00 3809.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7199.06 3905.06) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7253.00 4735.42) TOP/BOTTOM 
-  GND_POWER            VIA36RD0_4D          (7261.00 3117.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7267.00 4412.58) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7279.00 3805.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7298.00 4667.00) TOP/BOTTOM 
@@ -371,7 +369,6 @@ Report methodology:
   GND_POWER            VIA36RD0_4D          (7611.00 4412.58) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7614.00 2479.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7621.00 1531.00) TOP/BOTTOM 
-  GND_POWER            VIA36RD0_4D          (7631.00 2201.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7645.00 2655.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7673.00 2403.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (7693.94 3922.00) TOP/BOTTOM 
@@ -432,6 +429,7 @@ Report methodology:
   GND_POWER            VIA36RD0_4D          (9865.00 1010.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (10033.63 4132.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (10099.00 3482.00) TOP/BOTTOM 
+  GND_POWER            VIA36RD0_4D          (10110.00 2910.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (10175.00 3111.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (10217.00 3873.00) TOP/BOTTOM 
   GND_POWER            VIA36RD0_4D          (10269.50 4488.00) TOP/BOTTOM 
@@ -891,6 +889,6 @@ Report methodology:
   VP5V5                VIA36RD0_4D          (582.65 1000.65) TOP/BOTTOM 
 
 << Summary >>
-  Total dangling lines:      12
+  Total dangling lines:      13
   Total dangling vias:        4
-  Total antenna vias:       838
+  Total antenna vias:       835
