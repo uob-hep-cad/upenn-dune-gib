@@ -684,7 +684,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 59")
+        (Scroll "0 74")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -704,8 +704,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 179")
-        (Zoom "100")
+        (Scroll "-141 -7")
+        (Zoom "79")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "04. Power")
@@ -714,7 +714,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 11")
+        (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/Utilities"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -753,8 +753,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "0 179")
+        (Placement "44 0 1 -1 -1 5 24 5 1521 24 837")
+        (Scroll "26 0")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -804,7 +804,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 139")
+        (Scroll "15 0")
         (Zoom "100")
         (Occurrence "/Utilities"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -814,7 +814,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 179")
+        (Scroll "26 0")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -824,7 +824,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "26 114")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -869,7 +869,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "292 0")
+        (Scroll "0 790")
         (Zoom "200")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -879,7 +879,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
-        (Scroll "0 0")
+        (Scroll "26 0")
         (Zoom "100")
         (Occurrence "/Utilities"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
