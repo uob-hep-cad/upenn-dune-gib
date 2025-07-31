@@ -1,7 +1,104 @@
 {
 	"Gate Swap" : [],
 	"Ref Des" : [],
-	"Pin Swap" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "D17.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D17.2",
+			"Physical" : "D17.1"
+		},
+		{
+			"Name" : "D17.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D17.1",
+			"Physical" : "D17.2"
+		},
+		{
+			"Name" : "D21.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D21.2",
+			"Physical" : "D21.1"
+		},
+		{
+			"Name" : "D21.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D21.1",
+			"Physical" : "D21.2"
+		},
+		{
+			"Name" : "D25.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D25.2",
+			"Physical" : "D25.1"
+		},
+		{
+			"Name" : "D25.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D25.1",
+			"Physical" : "D25.2"
+		},
+		{
+			"Name" : "D29.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp4@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D29.2",
+			"Physical" : "D29.1"
+		},
+		{
+			"Name" : "D29.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp4@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D29.1",
+			"Physical" : "D29.2"
+		},
+		{
+			"Name" : "D33.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp5@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D33.2",
+			"Physical" : "D33.1"
+		},
+		{
+			"Name" : "D33.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp5@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D33.1",
+			"Physical" : "D33.2"
+		},
+		{
+			"Name" : "D37.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp6@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D37.2",
+			"Physical" : "D37.1"
+		},
+		{
+			"Name" : "D37.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp6@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D37.1",
+			"Physical" : "D37.2"
+		},
+		{
+			"Name" : "D41.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins707854@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D41.2",
+			"Physical" : "D41.1"
+		},
+		{
+			"Name" : "D41.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins707854@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D41.1",
+			"Physical" : "D41.2"
+		},
+		{
+			"Name" : "D43.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins706982@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "D43.1",
+			"Physical" : "D43.2"
+		},
+		{
+			"Name" : "D43.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins706982@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "D43.2",
+			"Physical" : "D43.1"
+		}
+	],
 	"Component Property" : [
 		{
 			"Name" : "C109",
@@ -2183,20 +2280,6 @@
 			"Physical" : "6.5 MIL"
 		},
 		{
-			"Name" : "N91101",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91101",
-			"PropName" : "MIN_NECK_WIDTH",
-			"Logical" : null,
-			"Physical" : "7 MIL"
-		},
-		{
-			"Name" : "N91101",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91101",
-			"PropName" : "MIN_LINE_WIDTH",
-			"Logical" : null,
-			"Physical" : "6.5 MIL"
-		},
-		{
 			"Name" : "SYNC_OUT_P",
 			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sync_out_p",
 			"PropName" : "MIN_NECK_WIDTH",
@@ -2211,15 +2294,15 @@
 			"Physical" : "6.5 MIL"
 		},
 		{
-			"Name" : "N91105",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91105",
+			"Name" : "N91101",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91101",
 			"PropName" : "MIN_NECK_WIDTH",
 			"Logical" : null,
 			"Physical" : "7 MIL"
 		},
 		{
-			"Name" : "N91105",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91105",
+			"Name" : "N91101",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91101",
 			"PropName" : "MIN_LINE_WIDTH",
 			"Logical" : null,
 			"Physical" : "6.5 MIL"
@@ -2234,6 +2317,20 @@
 		{
 			"Name" : "SYNC_OUT_N",
 			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sync_out_n",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N91105",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91105",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N91105",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91105",
 			"PropName" : "MIN_LINE_WIDTH",
 			"Logical" : null,
 			"Physical" : "6.5 MIL"
@@ -2351,20 +2448,6 @@
 			"Physical" : "6.5 MIL"
 		},
 		{
-			"Name" : "N180901",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180901",
-			"PropName" : "MIN_NECK_WIDTH",
-			"Logical" : null,
-			"Physical" : "7 MIL"
-		},
-		{
-			"Name" : "N180901",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180901",
-			"PropName" : "MIN_LINE_WIDTH",
-			"Logical" : null,
-			"Physical" : "6.5 MIL"
-		},
-		{
 			"Name" : "VCC3V3_LFILT",
 			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc3v3_lfilt",
 			"PropName" : "MIN_NECK_WIDTH",
@@ -2379,15 +2462,15 @@
 			"Physical" : "6.5 MIL"
 		},
 		{
-			"Name" : "GND_POWER",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_power",
+			"Name" : "N180901",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180901",
 			"PropName" : "MIN_NECK_WIDTH",
 			"Logical" : null,
 			"Physical" : "7 MIL"
 		},
 		{
-			"Name" : "GND_POWER",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_power",
+			"Name" : "N180901",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180901",
 			"PropName" : "MIN_LINE_WIDTH",
 			"Logical" : null,
 			"Physical" : "6.5 MIL"
@@ -2402,6 +2485,20 @@
 		{
 			"Name" : "RS_SFP INTERFACE_SFP1",
 			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "GND_POWER",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_power",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GND_POWER",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_power",
 			"PropName" : "MIN_LINE_WIDTH",
 			"Logical" : null,
 			"Physical" : "6.5 MIL"
@@ -3441,20 +3538,116 @@
 	],
 	"Connection" : [
 		{
+			"Name" : "D17.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N736077_SFP INTERFACE_SFP1",
+			"Physical" : "N736084_SFP INTERFACE_SFP1"
+		},
+		{
+			"Name" : "D17.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N736084_SFP INTERFACE_SFP1",
+			"Physical" : "N736077_SFP INTERFACE_SFP1"
+		},
+		{
+			"Name" : "D21.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N736077_SFP INTERFACE_SFP2",
+			"Physical" : "N736084_SFP INTERFACE_SFP2"
+		},
+		{
+			"Name" : "D21.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N736084_SFP INTERFACE_SFP2",
+			"Physical" : "N736077_SFP INTERFACE_SFP2"
+		},
+		{
+			"Name" : "D25.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N736077_SFP INTERFACE_SFP3",
+			"Physical" : "N736084_SFP INTERFACE_SFP3"
+		},
+		{
+			"Name" : "D25.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N736084_SFP INTERFACE_SFP3",
+			"Physical" : "N736077_SFP INTERFACE_SFP3"
+		},
+		{
+			"Name" : "D29.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp4@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N736077_SFP INTERFACE_SFP4",
+			"Physical" : "N736084_SFP INTERFACE_SFP4"
+		},
+		{
+			"Name" : "D29.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp4@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N736084_SFP INTERFACE_SFP4",
+			"Physical" : "N736077_SFP INTERFACE_SFP4"
+		},
+		{
+			"Name" : "D33.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp5@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N736077_SFP INTERFACE_SFP5",
+			"Physical" : "N736084_SFP INTERFACE_SFP5"
+		},
+		{
+			"Name" : "D33.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp5@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N736084_SFP INTERFACE_SFP5",
+			"Physical" : "N736077_SFP INTERFACE_SFP5"
+		},
+		{
+			"Name" : "D37.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp6@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N736077_SFP INTERFACE_SFP6",
+			"Physical" : "N736084_SFP INTERFACE_SFP6"
+		},
+		{
+			"Name" : "D37.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp6@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N736084_SFP INTERFACE_SFP6",
+			"Physical" : "N736077_SFP INTERFACE_SFP6"
+		},
+		{
+			"Name" : "D41.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins707854@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N801750",
+			"Physical" : "N801806"
+		},
+		{
+			"Name" : "D41.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins707854@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N801806",
+			"Physical" : "N801750"
+		},
+		{
+			"Name" : "D43.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins706982@discrete.\\led.normal\\(chips):ANODE",
+			"Logical" : "N808223",
+			"Physical" : "N808151"
+		},
+		{
+			"Name" : "D43.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins706982@discrete.\\led.normal\\(chips):CATHODE",
+			"Logical" : "N808151",
+			"Physical" : "N808223"
+		},
+		{
 			"Name" : "U110.2",
 			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins791571@\\adn2817acpz-rl7tr-nd\\.\\adn2817acpz-rl7.normal\\(sch_1):VCC",
 			"Logical" : "VCC3V3",
 			"Physical" : "N791731"
 		},
 		{
-			"Name" : "U110.12",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins791571@\\adn2817acpz-rl7tr-nd\\.\\adn2817acpz-rl7.normal\\(sch_1):VCC_2",
+			"Name" : "U110.10",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins791571@\\adn2817acpz-rl7tr-nd\\.\\adn2817acpz-rl7.normal\\(sch_1):REFCLKP",
 			"Logical" : "VCC3V3",
 			"Physical" : "N791731"
 		},
 		{
-			"Name" : "U110.10",
-			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins791571@\\adn2817acpz-rl7tr-nd\\.\\adn2817acpz-rl7.normal\\(sch_1):REFCLKP",
+			"Name" : "U110.12",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):\\aclk sfp\\@gps_interface_board.\\09. aclk sfp\\(sch_1):ins791571@\\adn2817acpz-rl7tr-nd\\.\\adn2817acpz-rl7.normal\\(sch_1):VCC_2",
 			"Logical" : "VCC3V3",
 			"Physical" : "N791731"
 		}
