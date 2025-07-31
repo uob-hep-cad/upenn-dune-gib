@@ -1,0 +1,123 @@
+\t (00:00:00) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Jul 31 13:41:10 2025
+\t (00:00:00)         Host=IT092061 User=ml0034 Pid=14444 CPUs=24
+\t (00:00:00) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe -mpssession ml0034 -proj C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.opj C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd
+\t (00:00:00) 
+\t (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "gps_interface_board_ml_v89"
+\d (00:00:03) Design opened: C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd
+\i (00:00:04) trapsize 1184
+\i (00:00:04) trapsize 1217
+\i (00:00:04) trapsize 1227
+\i (00:00:04) trapsize 971
+\i (00:00:04) trapsize 1021
+\t (00:00:04) > Sending response DoneOpenBoard
+\i (00:00:04) trapsize 727
+\i (00:00:04) generaledit 
+\t (00:00:05) > DoPullSchematic message received
+\t (00:00:05) > Pulling schematic...
+\t (00:00:05) Starting Cadence Logic Import...
+\t (00:00:06) Opening existing design...
+\t (00:00:06) Grids are drawn 5120.00, 5120.00 apart for enhanced viewing.
+\i (00:00:06) trapsize 727
+\t (00:00:06) > Sending response DonePullSchematic
+\t (00:00:06) > Schematic pulled successfully
+\i (00:00:06) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 5352.16 3967.64
+\t (00:00:09) Grids are drawn 20.00, 20.00 apart for enhanced viewing.
+\i (00:00:09) trapsize 1453
+\i (00:00:10) roam start
+\i (00:00:10) roam x -24
+\i (00:00:10) roam y 16
+\i (00:00:10) roam x -20
+\i (00:00:10) roam y 32
+\i (00:00:10) roam x -16
+\i (00:00:10) roam y 28
+\i (00:00:10) roam x -232
+\i (00:00:10) roam y 504
+\i (00:00:10) roam x -80
+\i (00:00:10) roam y 204
+\i (00:00:11) roam x -64
+\i (00:00:11) roam y 168
+\i (00:00:11) roam x -40
+\i (00:00:11) roam y 156
+\i (00:00:11) roam x -24
+\i (00:00:11) roam y 100
+\i (00:00:11) roam x -12
+\i (00:00:11) roam y 44
+\i (00:00:11) roam x -8
+\i (00:00:11) roam y 52
+\i (00:00:11) roam x -4
+\i (00:00:11) roam y 44
+\i (00:00:11) roam end
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 4718.49 777.18
+\t (00:00:11) Grids are drawn 40.00, 40.00 apart for enhanced viewing.
+\i (00:00:11) trapsize 2907
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 4730.11 771.37
+\t (00:00:11) Grids are drawn 80.00, 80.00 apart for enhanced viewing.
+\i (00:00:11) trapsize 5813
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 2381.60 85.42
+\t (00:00:12) Grids are drawn 40.00, 40.00 apart for enhanced viewing.
+\i (00:00:12) trapsize 2907
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 2445.54 155.18
+\t (00:00:12) Grids are drawn 20.00, 20.00 apart for enhanced viewing.
+\i (00:00:12) trapsize 1453
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 2768.17 227.85
+\i (00:00:12) trapsize 727
+\i (00:00:13) roam start
+\i (00:00:13) roam x -8
+\i (00:00:13) roam y -20
+\i (00:00:13) roam x 4
+\i (00:00:13) roam y -16
+\i (00:00:13) roam x 8
+\i (00:00:13) roam y -28
+\i (00:00:13) roam x 8
+\i (00:00:13) roam y -20
+\i (00:00:13) roam x 24
+\i (00:00:13) roam y -40
+\i (00:00:13) roam y -16
+\i (00:00:14) roam end
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 2864.06 367.32
+\i (00:00:14) trapsize 363
+\i (00:00:15) roam start
+\i (00:00:15) roam y -16
+\i (00:00:15) roam y -16
+\i (00:00:15) roam x 16
+\i (00:00:15) roam y -16
+\i (00:00:15) roam x 16
+\i (00:00:15) roam y -12
+\i (00:00:15) roam x 20
+\i (00:00:15) roam y -12
+\i (00:00:15) roam x 16
+\i (00:00:15) roam y -8
+\i (00:00:15) roam end
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 2772.44 547.47
+\i (00:00:16) trapsize 182
+\i (00:00:19) roam start
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y 4
+\i (00:00:19) roam x -8
+\i (00:00:19) roam y 16
+\i (00:00:19) roam x -12
+\i (00:00:19) roam y 16
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y 16
+\i (00:00:19) roam x -8
+\i (00:00:19)

@@ -2,89 +2,30 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v88.brd           |
-|                                                    Thu Jul 31 12:51:10 2025  |
+|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
+|                                                    Thu Jul 31 13:41:15 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N736077_SFP INTERFACE_SFP1 pins MOVED FROM this net (to net name listed on right)
-                                 D17.2           11019.0 4244.41
-                                                     N736084_SFP INTERFACE_SFP1
+  GND_POWER    pins MOVED FROM this net (to net name listed on right)
+                                 R71.1           2639.47  354.00
+                                                                         VCC3V3
+                                 R72.1           2639.47  496.00
+                                                                         VCC3V3
+                                 R73.1           2638.47  627.00
+                                                                         VCC3V3
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736077_SFP INTERFACE_SFP2 pins MOVED FROM this net (to net name listed on right)
-                                 D21.2           10150.0 4244.41
-                                                     N736084_SFP INTERFACE_SFP2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736077_SFP INTERFACE_SFP3 pins MOVED FROM this net (to net name listed on right)
-                                 D25.2           9272.02 4244.41
-                                                     N736084_SFP INTERFACE_SFP3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736077_SFP INTERFACE_SFP4 pins MOVED FROM this net (to net name listed on right)
-                                 D29.2           8121.02 4244.41
-                                                     N736084_SFP INTERFACE_SFP4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736077_SFP INTERFACE_SFP5 pins MOVED FROM this net (to net name listed on right)
-                                 D33.2           7243.02 4244.41
-                                                     N736084_SFP INTERFACE_SFP5
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736077_SFP INTERFACE_SFP6 pins MOVED FROM this net (to net name listed on right)
-                                 D37.2           6372.02 4244.41
-                                                     N736084_SFP INTERFACE_SFP6
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736084_SFP INTERFACE_SFP1 pins MOVED FROM this net (to net name listed on right)
-                                 D17.1           11019.0 4181.41
-                                                     N736077_SFP INTERFACE_SFP1
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736084_SFP INTERFACE_SFP2 pins MOVED FROM this net (to net name listed on right)
-                                 D21.1           10150.0 4181.41
-                                                     N736077_SFP INTERFACE_SFP2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736084_SFP INTERFACE_SFP3 pins MOVED FROM this net (to net name listed on right)
-                                 D25.1           9272.02 4181.41
-                                                     N736077_SFP INTERFACE_SFP3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736084_SFP INTERFACE_SFP4 pins MOVED FROM this net (to net name listed on right)
-                                 D29.1           8121.02 4181.41
-                                                     N736077_SFP INTERFACE_SFP4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736084_SFP INTERFACE_SFP5 pins MOVED FROM this net (to net name listed on right)
-                                 D33.1           7243.02 4181.41
-                                                     N736077_SFP INTERFACE_SFP5
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N736084_SFP INTERFACE_SFP6 pins MOVED FROM this net (to net name listed on right)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
+  VCC3V3       pins MOVED FROM this net (to net name listed on right)
+                                 R75.2           2639.47  299.00
+                                                                      GND_POWER
+                                 R76.2           2639.47  440.00
+                                                                      GND_POWER
+                                 R77.2           2638.47  571.00
+                                                                      GND_POWER
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v88.brd           |
-|                                                    Thu Jul 31 12:51:10 2025  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 D37.1           6372.02 4181.41
-                                                     N736077_SFP INTERFACE_SFP6
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N801750      pins MOVED FROM this net (to net name listed on right)
-                                 D41.2           5221.02 4244.41
-                                                                        N801806
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N801806      pins MOVED FROM this net (to net name listed on right)
-                                 D41.1           5221.02 4181.41
-                                                                        N801750
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N808151      pins MOVED FROM this net (to net name listed on right)
-                                 D43.2           4424.50 4837.00
-                                                                        N808223
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N808223      pins MOVED FROM this net (to net name listed on right)
-                                 D43.1           4487.50 4837.00
-                                                                        N808151
-|------------------------------------------------------------------------------|
-|       Nets changed          :      16                                        |
+|       Nets changed          :       6                                        |
 |                                                                              |
-|   Total ECO changes reported:      16                                        |
+|   Total ECO changes reported:       6                                        |
 |------------------------------------------------------------------------------|
