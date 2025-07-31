@@ -3,29 +3,59 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
-|                                                    Thu Jul 31 13:41:15 2025  |
+|                                                    Thu Jul 31 14:44:53 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND_POWER    pins MOVED FROM this net (to net name listed on right)
-                                 R71.1           2639.47  354.00
-                                                                         VCC3V3
-                                 R72.1           2639.47  496.00
-                                                                         VCC3V3
-                                 R73.1           2638.47  627.00
-                                                                         VCC3V3
+  VCC5V        pins ADDED TO this existing net (pins not previously on any net)
+                                 R2671.2                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC3V3       pins MOVED FROM this net (to net name listed on right)
-                                 R75.2           2639.47  299.00
-                                                                      GND_POWER
-                                 R76.2           2639.47  440.00
-                                                                      GND_POWER
-                                 R77.2           2638.47  571.00
-                                                                      GND_POWER
+  VP5V         pins ADDED TO this existing net (pins not previously on any net)
+                                 R2671.1                        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       6                                        |
+|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
+|                                                    Thu Jul 31 14:44:53 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R45                 R_RES0805_0.005        827.00 2747.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
+|                                                    Thu Jul 31 14:44:53 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2671               R_RES0805_0.02        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
+|                                                    Thu Jul 31 14:44:53 2025  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2671.2                        PRIM_FILE      .\pstchip.dat
+ R2671.2                        XY             (1160,350)
+|------------------------------------------------------------------------------|
+|       Nets changed          :       2                                        |
+|       Components added      :       1                                        |
+|       Components deleted    :       1                                        |
+|       Slot property added   :       2                                        |
 |                                                                              |
 |   Total ECO changes reported:       6                                        |
 |------------------------------------------------------------------------------|

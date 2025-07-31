@@ -38,7 +38,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       ".\allegro\gps_interface_board_ml_v88.brd")
+       ".\allegro\gps_interface_board_ml_v89.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "NEVER_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -534,6 +534,11 @@
       (Type "Board File")
       (OutputBoard ".\allegro\gps_interface_board_ml_v88.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v89.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v89.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
@@ -672,6 +677,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\gps_interface_board.dsn")
+      (Path "Design Resources" ".\gps_interface_board.dsn" "04. Power")
       (Path "Design Resources" ".\gps_interface_board.dsn" "09. ACLK SFP")
       (Path "Design Resources" ".\gps_interface_board.dsn" "10. SFP Block")
       (Path "Design Resources" ".\gps_interface_board.dsn" "11. SFP Fan-in")
@@ -679,23 +685,19 @@
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\gps_interface_board.dsn" "09. ACLK SFP"
-         "ACLK SFP"))
-    (HierarchyView
-      (Path "00. GIB Top")
-      (Path "00. GIB Top" "SFP INTERFACE (03. SFP INTERFACE)")
-      (Select "00. GIB Top" "SFP INTERFACE (03. SFP INTERFACE)"
-         "ACLK SFP (09. ACLK SFP)"))
+      (Select "Design Resources" ".\gps_interface_board.dsn" "04. Power"
+         "07. Power VCC5V"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 374 0 819"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 819"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
-        (Scroll "26 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1521 24 837")
+        (Scroll "16 0")
         (Zoom "100")
         (Occurrence "/Power"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -704,7 +706,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 120")
         (Zoom "100")
         (Occurrence "/SFP Interface"))
@@ -714,32 +716,32 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP1"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP2"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP3"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP4"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP5"))
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
         (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/SFP6"))
@@ -749,13 +751,44 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 24 837")
-        (Scroll "200 179")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
+        (Scroll "0 179")
         (Zoom "100")
         (Occurrence "/SFP Interface/ACLK SFP"))
       (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
       (Schematic "09. ACLK SFP")
-      (Page "ACLK SFP"))) >>>>>>> a7cbe7d5b9b1580fdaae237299643f2a3d455517
+      (Page "ACLK SFP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
+        (Scroll "0 1108")
+        (Zoom "200")
+        (Occurrence "/Utilities"))
+      (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "13. Utilities"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
+        (Scroll "3980 1052")
+        (Zoom "400")
+        (Occurrence "/Power"))
+      (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "07. Power VCC5V"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1521 24 837")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/Power"))
+      (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "09. Power VCC2V5"))) >>>>>>>
+   a7cbe7d5b9b1580fdaae237299643f2a3d455517
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")

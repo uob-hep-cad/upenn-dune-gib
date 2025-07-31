@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 24.1.0 d001Jul-31-2025 at 13:41:14 }
+{ Using PSTWRITER 24.1.0 d001Jul-31-2025 at 14:44:52 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -5081,6 +5081,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R2671 'R_RES0805_0.02':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS926585@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins926585@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page7_ins926585@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,350)',
+ SECTION='';
+
+PART_NAME
  R2676 'R_RES0402_4.7K':
  ROOM='ACLK_SFP';
 
@@ -5503,17 +5514,6 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page6_ins245877@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1380,635)',
- SECTION='';
-
-PART_NAME
- R45 'R_RES0805_0.005':;
-
-SECTION_NUMBER 1
- '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):POWER@GPS_INTERFACE_BOARD.04. POWER(SCH_1):INS71706@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@gps_interface_board.\00. gib top\(sch_1):power@gps_interface_board.\04. power\(sch_1):ins71706@discrete.\r.normal\(chips)',
- P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_power@gps_interface_board.\04. power\(sch_1):page7_ins71706@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1170,350)',
  SECTION='';
 
 PART_NAME

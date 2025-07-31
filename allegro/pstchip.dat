@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 24.1.0 d001Jul-31-2025 at 13:41:14}
+{ Using PSTWRITER 24.1.0 d001Jul-31-2025 at 14:44:52}
 primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
   pin
     '1':
@@ -1995,6 +1995,21 @@ primitive 'R_RES0402_49.9';
     VALUE='49.9';
   end_body;
 end_primitive;
+primitive 'R_RES0805_0.02';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='res0805';
+    VALUE='0.02';
+  end_body;
+end_primitive;
 primitive 'R_RES0603_75 OHM';
   pin
     '1':
@@ -2085,21 +2100,6 @@ primitive 'R_RES0603_17.8K';
     VALUE='17.8k';
   end_body;
 end_primitive;
-primitive 'R_RES0805_0.005';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0805';
-    VALUE='0.005';
-  end_body;
-end_primitive;
 primitive 'R_RES0603_12.1K';
   pin
     '1':
@@ -2128,21 +2128,6 @@ primitive 'R_RES0603_2.32K';
     PART_NAME='R';
     JEDEC_TYPE='res0603';
     VALUE='2.32k';
-  end_body;
-end_primitive;
-primitive 'R_RES0805_0.02';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0805';
-    VALUE='0.02';
   end_body;
 end_primitive;
 primitive 'R_RES0603_DNP';
