@@ -2,19 +2,40 @@
 (                                                                     )
 (    Shape Without Nets Report                                        )
 (                                                                     )
-(    Drawing          : gps_interface_board_ml_v79.brd                )
+(    Drawing          : gps_interface_board_ml_v93.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Fri Jul 25 11:01:38 2025                      )
+(    Date/Time        : Fri Aug  1 15:57:41 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Total shapes not on a net: 1
+  Total shapes not on a net: 8
 
 
   <<<  ETCH  >>>
 
     Layer = TOP
-	Point on shape: (3670.00 4650.00)  Net: Dummy Net
+	Point on shape: (0.00 4700.00)  Net: Dummy Net
+
+    Layer = GND1
+	Point on shape: (0.00 4680.00)  Net: Dummy Net
+
+    Layer = SIG
+	Point on shape: (0.00 4610.00)  Net: Dummy Net
+
+    Layer = GND2
+	Point on shape: (0.00 4540.00)  Net: Dummy Net
+
+    Layer = PWR1
+	Point on shape: (0.00 4470.00)  Net: Dummy Net
+
+    Layer = PWR2
+	Point on shape: (0.00 4400.00)  Net: Dummy Net
+
+    Layer = GND3
+	Point on shape: (0.00 4330.00)  Net: Dummy Net
+
+    Layer = BOTTOM
+	Point on shape: (0.00 4260.00)  Net: Dummy Net
 
     To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.
