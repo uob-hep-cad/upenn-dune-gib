@@ -1,0 +1,17 @@
+SFPs are defined as a single component symbol.
+
+Symbol gives a TE part number on hover-over text (TE_2227023) which is an SFP cage only.
+
+Symbol has Device Type defined as "CON20P_SFP-1367073-1_TE_2227023" which is a mash-up of a Molex part number for electrical connector and TE part number for cage.
+
+Symbol has footprint of te_2227023-1.psm which seems to include electrical pads which aren't really part of TE_2227023 which is just a cage.
+
+Symbol has a Value defined as 0744410010 which is a part number for a Molex SFP electrical connector
+
+This all means that somehow the Molex electrical connector has propagated through to to BoM, but no cages are on the BoM. Even though the symbol gives the cage part number in Allegro (but no electrical connector)
+
+Centroid for symbol appears to be centroid of electrical pads. So that probably woks fine for P&Ping the connector but not the cage.
+
+Probably wants redoing as two separate symbols which can be placed on PCB and locked together. Then parts and P&P info will cascade through to BoM and P&P file properly.
+
+Is it necessary/sensible to have two different manufacturer's parts like this? Can we get both parts from TE or Molex?

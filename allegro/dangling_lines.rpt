@@ -2,9 +2,9 @@
 (                                                                     )
 (    Dangling Line, Via and Antenna Report                            )
 (                                                                     )
-(    Drawing          : gps_interface_board_ml_v88.brd                )
+(    Drawing          : gps_interface_board_ml_v93.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Mon Jul 28 11:44:21 2025                      )
+(    Date/Time        : Tue Aug 12 15:24:20 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -585,9 +585,9 @@ Report methodology:
   VCC3V3               VIA36RD0_4D          (2550.00 3535.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (2552.00 3428.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (2552.00 3485.00) TOP/BOTTOM 
-  VCC3V3               VIA36RD0_4D          (2565.00 556.00) TOP/BOTTOM 
-  VCC3V3               VIA36RD0_4D          (2573.00 440.00) TOP/BOTTOM 
-  VCC3V3               VIA36RD0_4D          (2592.00 299.00) TOP/BOTTOM 
+  VCC3V3               VIA36RD0_4D          (2580.00 350.00) TOP/BOTTOM 
+  VCC3V3               VIA36RD0_4D          (2580.00 500.00) TOP/BOTTOM 
+  VCC3V3               VIA36RD0_4D          (2583.00 627.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (2727.72 5253.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (2894.00 4839.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (2954.00 4839.00) TOP/BOTTOM 
@@ -613,9 +613,9 @@ Report methodology:
   VCC3V3               VIA36RD0_4D          (4201.00 4471.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4341.00 4268.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4343.00 4337.00) TOP/BOTTOM 
-  VCC3V3               VIA36RD0_4D          (4360.00 4755.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4383.23 1313.23) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4535.00 5160.00) TOP/BOTTOM 
+  VCC3V3               VIA36RD0_4D          (4540.00 4790.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4611.47 4881.00) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4829.61 4889.62) TOP/BOTTOM 
   VCC3V3               VIA36RD0_4D          (4830.50 3099.50) TOP/BOTTOM 
