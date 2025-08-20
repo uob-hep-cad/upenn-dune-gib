@@ -1,21 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 24.1.0 d001Jul-31-2025 at 14:44:52}
-primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP_NP';
-    JEDEC_TYPE='cap0402';
-    CLASS='DISCRETE';
-    VALUE='0.01UF';
-  end_body;
-end_primitive;
+{ Using PSTWRITER 24.1.0 d001Aug-20-2025 at 19:08:44}
 primitive 'CAP_NP_CAP0603_DISCRETE_10UF_';
   pin
     '1':
@@ -1532,21 +1516,6 @@ primitive 'CON160P_11_SAMTEC_ASP-134606-01';
     VALUE='ASP-134606-01';
   end_body;
 end_primitive;
-primitive 'IND_CAP0805_120 OHM@100MHZ';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='IND';
-    JEDEC_TYPE='cap0805';
-    VALUE='120 Ohm@100MHz';
-  end_body;
-end_primitive;
 primitive 'IND_CAP1210_4.7 UH';
   pin
     '1':
@@ -1560,6 +1529,21 @@ primitive 'IND_CAP1210_4.7 UH';
     PART_NAME='IND';
     JEDEC_TYPE='cap1210';
     VALUE='4.7 uH';
+  end_body;
+end_primitive;
+primitive 'IND_CAP0805_120 OHM@100MHZ';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IND';
+    JEDEC_TYPE='cap0805';
+    VALUE='120 Ohm@100MHz';
   end_body;
 end_primitive;
 primitive 'IND_WE-LHMI_8040_3.3 UH';
@@ -1890,21 +1874,6 @@ primitive 'R_RES0402_100';
     VALUE='100';
   end_body;
 end_primitive;
-primitive 'R_RES0603_24.9 OHM';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0603';
-    VALUE='24.9 Ohm';
-  end_body;
-end_primitive;
 primitive 'R_RES0603_0 OHM';
   pin
     '1':
@@ -1978,21 +1947,6 @@ primitive 'R_RES0805_0.0055';
     PART_NAME='R';
     JEDEC_TYPE='res0805';
     VALUE='0.0055';
-  end_body;
-end_primitive;
-primitive 'R_RES0402_49.9';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0402';
-    VALUE='49.9';
   end_body;
 end_primitive;
 primitive 'R_RES0805_0.02';
@@ -2070,6 +2024,21 @@ primitive 'R_RES0805_75 OHM';
     VALUE='75 Ohm';
   end_body;
 end_primitive;
+primitive 'R_RES0603_DNP';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='res0603';
+    VALUE='DNP';
+  end_body;
+end_primitive;
 primitive 'R_RES0603_1M';
   pin
     '1':
@@ -2130,21 +2099,6 @@ primitive 'R_RES0603_2.32K';
     VALUE='2.32k';
   end_body;
 end_primitive;
-primitive 'R_RES0603_DNP';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='res0603';
-    VALUE='DNP';
-  end_body;
-end_primitive;
 primitive 'R_RES0402_97.6K';
   pin
     '1':
@@ -2202,54 +2156,6 @@ primitive 'TESTPOINT_TP_KEYSTONE_5000A_500';
     PART_NAME='TESTPOINT';
     JEDEC_TYPE='TP_KEYSTONE_5000A';
     VALUE='5002 White';
-  end_body;
-end_primitive;
-primitive 'LTC6957-2_3_DFN_12_LTC6957IDD-2';
-  pin
-    'FILTA':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-    'VCC':
-      PIN_NUMBER='(2)';
-      PINUSE='POWER';
-    'IN+':
-      PIN_NUMBER='(3)';
-      INPUT_LOAD='(*)';
-    'IN-':
-      PIN_NUMBER='(4)';
-      INPUT_LOAD='(*)';
-    'GND1':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'FILTB':
-      PIN_NUMBER='(6)';
-      INPUT_LOAD='(*)';
-    'SD2':
-      PIN_NUMBER='(7)';
-      INPUT_LOAD='(*)';
-    'OUT2+':
-      PIN_NUMBER='(8)';
-      OUTPUT_LOAD='(*)';
-    'OUT2-':
-      PIN_NUMBER='(9)';
-      OUTPUT_LOAD='(*)';
-    'OUT1-':
-      PIN_NUMBER='(10)';
-      OUTPUT_LOAD='(*)';
-    'OUT1+':
-      PIN_NUMBER='(11)';
-      OUTPUT_LOAD='(*)';
-    'SD1':
-      PIN_NUMBER='(12)';
-      INPUT_LOAD='(*)';
-    'GND2':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='LTC6957-2_3';
-    JEDEC_TYPE='DFN_12';
-    VALUE='LTC6957IDD-2#PBF';
   end_body;
 end_primitive;
 primitive 'LTC2945CUD_QFN12_LTC2945CUD';
@@ -2580,6 +2486,33 @@ primitive 'SY58608UMG_QFN50P300X300X90-17N';
     PART_NAME='SY58608UMG';
     JEDEC_TYPE='QFN50P300X300X90-17N';
     VALUE='SY58608UMG';
+  end_body;
+end_primitive;
+primitive 'LTC6754ISC6TRMPBF_SC_6_ADI_LTC6';
+  pin
+    'Q':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VEE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '+IN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '-IN':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'VCCI/VCCO':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    '*Q':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LTC6754ISC6TRMPBF';
+    JEDEC_TYPE='SC_6_ADI';
+    VALUE='LTC6754ISC6TRMPBF';
   end_body;
 end_primitive;
 primitive 'ADN2817ACPZ-RL7_CP_32_11_ADI_AD';

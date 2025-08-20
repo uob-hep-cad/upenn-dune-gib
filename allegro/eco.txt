@@ -2,60 +2,84 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
-|                                                    Thu Jul 31 14:44:53 2025  |
+|  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
+|                                                    Wed Aug 20 18:07:30 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  VCC5V        pins ADDED TO this existing net (pins not previously on any net)
-                                 R2671.2                        
+  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
+                                 R3704.2                        
+                                 R3705.2                        
+                                 R3706.2                        
+                                 R3707.2                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VP5V         pins ADDED TO this existing net (pins not previously on any net)
-                                 R2671.1                        
+  GPS_CLK_IN   pins ADDED TO this existing net (pins not previously on any net)
+                                 R3704.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPS_IRIGB_IN pins ADDED TO this existing net (pins not previously on any net)
+                                 R3705.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPS_PPS_IN   pins ADDED TO this existing net (pins not previously on any net)
+                                 R3706.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPS_SYNC_IN  pins ADDED TO this existing net (pins not previously on any net)
+                                 R3707.1                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
-|                                                    Thu Jul 31 14:44:53 2025  |
+|  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
+|                                                    Wed Aug 20 18:07:30 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R45                 R_RES0805_0.005        827.00 2747.00
+ R264                R_RES0402_DNP         2667.72 5396.00
+ R267                R_RES0402_49.9         632.28 5355.00
+ R268                R_RES0402_49.9        1632.28 5355.00
+ R269                R_RES0402_49.9        3980.00 5450.00
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
-|                                                    Thu Jul 31 14:44:53 2025  |
+|  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
+|                                                    Wed Aug 20 18:07:30 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2671               R_RES0805_0.02        
+ R3704               R_RES0603_49.9 OHM    
+ R3705               R_RES0603_49.9 OHM    
+ R3706               R_RES0603_49.9 OHM    
+ R3707               R_RES0603_49.9 OHM    
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd           |
-|                                                    Thu Jul 31 14:44:53 2025  |
+|  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
+|                                                    Wed Aug 20 18:07:30 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2671.2                        PRIM_FILE      .\pstchip.dat
- R2671.2                        XY             (1160,350)
+ R3704.2                        PRIM_FILE      .\pstchip.dat
+ R3704.2                        XY             (270,220)
+ R3705.2                        PRIM_FILE      .\pstchip.dat
+ R3705.2                        XY             (280,505)
+ R3706.2                        PRIM_FILE      .\pstchip.dat
+ R3706.2                        XY             (280,625)
+ R3707.2                        PRIM_FILE      .\pstchip.dat
+ R3707.2                        XY             (275,820)
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
-|       Components added      :       1                                        |
-|       Components deleted    :       1                                        |
-|       Slot property added   :       2                                        |
+|       Nets changed          :       8                                        |
+|       Components added      :       4                                        |
+|       Components deleted    :       4                                        |
+|       Slot property added   :       8                                        |
 |                                                                              |
-|   Total ECO changes reported:       6                                        |
+|   Total ECO changes reported:      24                                        |
 |------------------------------------------------------------------------------|

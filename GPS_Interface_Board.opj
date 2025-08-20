@@ -707,10 +707,7 @@
       (Path "Design Resources" "Library"
          "c:\users\phdgc\downloads\upenn-dune-gib\local_library.olb")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"
-         "c:\users\phdgc\downloads\upenn-dune-gib\gps_interface_board.dsn"
-         "05. FMC Connector" "10. FMC Connector"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -741,7 +738,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 2913 24 1047")
-        (Scroll "-647 0")
+        (Scroll "-647 8")
         (Zoom "104")
         (Occurrence "/PM3_FMC"))
       (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
@@ -767,10 +764,10 @@
   (Folder "Logs"
     (File ".\allegro\netlist.log"
       (Type "Log File")
-      (LogFile "c:\dune_gib\upenn-dune-gib\allegro\netlist.log"))
+      (LogFile "c:\users\phdgc\downloads\upenn-dune-gib\allegro\netlist.log"))
     (File ".\allegro\genfeed.log"
       (Type "Log File")
-      (LogFile "c:\dune_gib\upenn-dune-gib\allegro\genfeed.log"))
+      (LogFile "c:\users\phdgc\downloads\upenn-dune-gib\allegro\genfeed.log"))
     (File ".\allegro\netrev.lst"
       (Type "Log File")
       (LogFile "c:\dune_gib\upenn-dune-gib\allegro\netrev.lst"))
