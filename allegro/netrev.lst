@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : gps_interface_board_ml_v89.brd                )
+(    Drawing          : gps_interface_board_ml_v93.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Thu Aug 21 13:43:07 2025                      )
+(    Date/Time        : Thu Aug 21 16:08:10 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,97 +17,90 @@ Ripup retain bondwire:       No
 Ripup symbols:               Never
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'c:\users\phdgc\downloads\upenn-dune-gib\allegro'
-Design Directory:            'c:/users/phdgc/downloads/upenn-dune-gib/allegro'
-Old design name:             'c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd'
-New design name:             'c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd'
+Schematic directory:         'c:\dune_gib\upenn-dune-gib\allegro'
+Design Directory:            'C:/Dune_GIB/upenn-dune-gib/allegro'
+Old design name:             'C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd'
+New design name:             'C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd'
 
-CmdLine: netrev -y 3 -i c:\users\phdgc\downloads\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml c:/users/phdgc/downloads/upenn-dune-gib/allegro/#Taaaaak11700.tmp
+CmdLine: netrev -y 3 -i c:\dune_gib\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml C:/Dune_GIB/upenn-dune-gib/allegro/#Taaaaak20604.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstchip.dat (00:00:00.05)
-Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.02)
-Starting to read c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat 
-   Finished reading c:/users/phdgc/downloads/upenn-dune-gib/allegro/pstxnet.dat (00:00:00.02)
+Starting to read c:/dune_gib/upenn-dune-gib/allegro/pstchip.dat 
+   Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstchip.dat (00:00:00.02)
+Starting to read c:/dune_gib/upenn-dune-gib/allegro/pstxprt.dat 
+   Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.00)
+Starting to read c:/dune_gib/upenn-dune-gib/allegro/pstxnet.dat 
+   Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SC_6_ADI' used by RefDes U108 for device 'LTC6754ISC6TRMPBF_SC_6_ADI_LTC6' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old sy
+
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/cadence/spb_23.1/share/local/pcb/modules 
-           ../../aidainnova_dut_interface/physical 
-           ../../fmc_tlu_threshold_discriminator_dual/physical 
-           ../../fmc_tlu_clock_gen/physical 
-           ../../aidainnova_tlu_pwr_supplies/physical 
-           C:/Users/phdgc/Downloads/aidainnova_tlu-hw/hardware/Cadence/aidainnova_tlu_baseboard_v1a/worklib/fmc_tlu_threshold_discriminator_dual/physical 
+           C:/Users/ml0034/OneDrive - University of Bristol/PP/CadenceSandpit/SystemCapture/AllSysCapBas_23_1/AllSysCapBas_23_1/syscap_basic/SITE/pcb/modules 
 
 PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Users/ml0034/OneDrive 
+           - 
+           University 
+           of 
+           Bristol/PP/CadenceSandpit/SystemCapture/AllSysCapBas_23_1/AllSysCapBas_23_1/syscap_basic/SITE/pcb/symbols 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
+           C:/Users/ml0034/OneDrive 
+           - 
+           University 
+           of 
+           Bristol/PP/CadenceSandpit/SystemCapture/AllSysCapBas_23_1/AllSysCapBas_23_1/syscap_basic/SITE/pcb/symbols 
            F:/cad/bris_cdslib/lib_psd14.x/symbols 
+           Y:/CAD/Cadence_Libs/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/qfp 
            F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/qfp 
+           Y:/CAD/Cadence_Libs/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
            F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
-           z:/cad/bris_cdslib/lib_psd14.x/symbols 
-           z:/cad/bris_cdslib/lib_psd14.x/formats 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/soic 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/discrete 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/dip 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/so 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/bga 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/qfp 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/passif 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/cap 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/led 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/rel 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/sw 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/mec 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/pwr 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/res 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/connector 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/soic 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/discrete 
-           z:/cad/ral_cdslib/lib_psd15.x/symbols 
-           C:/Users/phdgc/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/24.1.0/downloaded_parts/allegropcb 
+           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/cap 
+           F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/symbols/res 
+           C:/Users/ml0034/AppData/Roaming/SPB_Data/downloaded_parts/allegropcb 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           /software/CAD/Cadence/SPB17.40.034/share/local/pcb/padstacks 
-           /software/CAD/Cadence/SPB17.40.034/share/pcb/pcb_lib/symbols 
-           /software/CAD/Cadence/SPB17.40.034/share/pcb/allegrolib/symbols 
-           z:/cad/bris_cdslib/lib_psd14.x/pads 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
-           z:/cad/ral_cdslib/lib_psd15.x/pads 
-           ./symbols 
-           z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           ../../../../cis_hep_partslib/cis_hep_partslib/Allegro_Library/pads/ 
+           C:/Users/ml0034/OneDrive 
+           - 
+           University 
+           of 
+           Bristol/PP/CadenceSandpit/SystemCapture/AllSysCapBas_23_1/AllSysCapBas_23_1/syscap_basic/SITE/pcb/padstacks 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
+           C:/Users/ml0034/OneDrive 
+           - 
+           University 
+           of 
+           Bristol/PP/CadenceSandpit/SystemCapture/AllSysCapBas_23_1/AllSysCapBas_23_1/syscap_basic/SITE/pcb/symbols 
            F:/cad/bris_cdslib/lib_psd14.x/pads 
+           Y:/CAD/Cadence_Libs/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
            F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
            F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
            F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
            F:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack_smd 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstack3 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/padstackm 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           Z:/cad/bris_cdslib/lib_psd14.x/pads 
-           C:/SPB_Data/cis_hep_partslib/Allegro_Library/pads 
-           C:/Users/phdgc/AppData/Roaming/SPB_Data/downloaded_parts/allegropcb 
-           Z:/cad/cern_cdslib/lib_psd17.x/pe_allegro_lib/padstacks/mechanical 
-           C:/Users/phdgc/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/24.1.0/downloaded_parts/allegropcb 
+           C:/Users/ml0034/AppData/Roaming/SPB_Data/downloaded_parts/allegropcb 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Aug 21 13:43:07 2025
+netrev run on Aug 21 16:08:10 2025
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
    PACKAGING ON Sep  4 2024 20:54:11
 
@@ -130,8 +123,8 @@ netrev run on Aug 21 13:43:07 2025
 
  No error detected
  No oversight detected
- No warning detected
+  1 warnings detected
 
-cpu time      0:02:29
-elapsed time  0:00:01
+cpu time      0:04:11
+elapsed time  0:00:02
 

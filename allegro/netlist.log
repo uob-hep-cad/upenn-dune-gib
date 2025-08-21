@@ -1,12 +1,12 @@
-{ Using PSTWRITER 24.1.0 d001Aug-21-2025 at 13:43:05 }
+{ Using PSTWRITER 24.1.0 d001Aug-21-2025 at 16:08:09 }
 
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... c:\users\phdgc\downloads\upenn-dune-gib\allegro\pstchip.dat
+Loading... c:\dune_gib\upenn-dune-gib\allegro\pstchip.dat
 
-Loading... c:\users\phdgc\downloads\upenn-dune-gib\allegro\pstchip.dat
+Loading... c:\dune_gib\upenn-dune-gib\allegro\pstchip.dat
 
-Loading... c:\users\phdgc\downloads\upenn-dune-gib\allegro\pstxprt.dat
+Loading... c:\dune_gib\upenn-dune-gib\allegro\pstxprt.dat
 
-Loading... c:\users\phdgc\downloads\upenn-dune-gib\allegro\pstxnet.dat
+Loading... c:\dune_gib\upenn-dune-gib\allegro\pstxnet.dat
 packaging the design view...

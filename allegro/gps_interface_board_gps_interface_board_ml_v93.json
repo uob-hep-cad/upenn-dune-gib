@@ -1,0 +1,4118 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [
+		{
+			"Name" : "C109",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576517@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "C110",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576543@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C111",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576613@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C112",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576643@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C115",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins351986@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "18"
+		},
+		{
+			"Name" : "C119",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins349203@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C123",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins665557@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "25"
+		},
+		{
+			"Name" : "C127",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins437832@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C128",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins437852@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "15"
+		},
+		{
+			"Name" : "C129",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins437888@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "D14",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins638695@ocad_parts_lib.\\led green 0603_0.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "D15",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins638832@discrete.\\led.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "J11",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins352112@ocad_parts_lib.\\hdr1x2.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "J12",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins352136@ocad_parts_lib.\\hdr1x2.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "10"
+		},
+		{
+			"Name" : "J15",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins349953@ocad_parts_lib.\\hdr1x2.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "17"
+		},
+		{
+			"Name" : "J16",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins349977@ocad_parts_lib.\\hdr1x2.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "20"
+		},
+		{
+			"Name" : "J17",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins437184@ocad_parts_lib.\\6-2301994-2.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "14"
+		},
+		{
+			"Name" : "P1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins353579@ocad_parts_lib.\\recpt 6x2 100mil.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "Q10",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins732468@ocad_parts_lib.\\bss138.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "29"
+		},
+		{
+			"Name" : "Q11",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins638673@ocad_parts_lib.\\bss138.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "Q12",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins637970@ocad_parts_lib.\\bss138.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "Q14",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins732725@ocad_parts_lib.\\bss138.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "30"
+		},
+		{
+			"Name" : "R104",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins352164@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "14"
+		},
+		{
+			"Name" : "R105",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins352180@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "R106",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins352216@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "R107",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins352232@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "11"
+		},
+		{
+			"Name" : "R108",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins350829@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "21"
+		},
+		{
+			"Name" : "R109",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins350729@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "13"
+		},
+		{
+			"Name" : "R110",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins350547@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "16"
+		},
+		{
+			"Name" : "R111",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins350573@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "19"
+		},
+		{
+			"Name" : "R116",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins437716@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R117",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins437872@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "R254",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins665648@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "28"
+		},
+		{
+			"Name" : "R39",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins733150@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "31"
+		},
+		{
+			"Name" : "R43",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins732516@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "R74",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins638711@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "R78",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins637835@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "R79",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins637810@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R80",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins638012@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "R81",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576693@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "R82",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576713@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "TP27",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins664158@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "27"
+		},
+		{
+			"Name" : "TP28",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins664180@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "26"
+		},
+		{
+			"Name" : "U17",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576765@ocad_parts_lib.\\txb0104qpwrq1.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "U18",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins721109@ocad_parts_lib.\\drtr5v0u4s.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C13",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins116781@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C14",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins374890@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "12"
+		},
+		{
+			"Name" : "C15",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins375140@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C16",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins116921@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C18",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins383710@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "26"
+		},
+		{
+			"Name" : "C19",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins383728@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "29"
+		},
+		{
+			"Name" : "C20",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins383746@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "20"
+		},
+		{
+			"Name" : "C21",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins383764@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "44"
+		},
+		{
+			"Name" : "C22",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins115065@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "45"
+		},
+		{
+			"Name" : "C23",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins376040@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C24",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins376384@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "27"
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins376720@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "30"
+		},
+		{
+			"Name" : "C26",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins377058@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "31"
+		},
+		{
+			"Name" : "C27",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins377390@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "33"
+		},
+		{
+			"Name" : "C274",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins382549@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "49"
+		},
+		{
+			"Name" : "C275",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins382569@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "51"
+		},
+		{
+			"Name" : "C28",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins377724@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "21"
+		},
+		{
+			"Name" : "C29",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins115461@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "43"
+		},
+		{
+			"Name" : "C34",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins380474@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "34"
+		},
+		{
+			"Name" : "C35",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins380510@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "35"
+		},
+		{
+			"Name" : "C36",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins323106@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C37",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins323210@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C38",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins109888@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "18"
+		},
+		{
+			"Name" : "C39",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins109932@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "19"
+		},
+		{
+			"Name" : "L3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins116705@ind.\\ind.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "L5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins115037@ind.\\ind.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "47"
+		},
+		{
+			"Name" : "R19",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins89825@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "36"
+		},
+		{
+			"Name" : "R20",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins89851@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "13"
+		},
+		{
+			"Name" : "R21",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins89773@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "28"
+		},
+		{
+			"Name" : "R22",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins89799@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "14"
+		},
+		{
+			"Name" : "R23",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins90513@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "15"
+		},
+		{
+			"Name" : "R24",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins107858@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "32"
+		},
+		{
+			"Name" : "R25",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins90093@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "R26",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins90057@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "R31",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins323932@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "22"
+		},
+		{
+			"Name" : "R35",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins109908@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "23"
+		},
+		{
+			"Name" : "TP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins183177@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "25"
+		},
+		{
+			"Name" : "TP7",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins183199@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "42"
+		},
+		{
+			"Name" : "U48",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\clock generation\\@gps_interface_board.\\02. clock generation\\(sch_1):ins71426@gps_interface_board.\\si5395_qfn_1.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C135",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins105856@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C136",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins105498@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "R124",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins109881@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "R125",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins109907@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R127",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins84347@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "R129",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp1@gps_interface_board.\\10. sfp block\\(sch_1):ins82934@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C158",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins105856@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C159",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins105498@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "R145",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins109881@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "R146",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins109907@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R148",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins84347@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "R150",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp2@gps_interface_board.\\10. sfp block\\(sch_1):ins82934@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C178",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins104432@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "11"
+		},
+		{
+			"Name" : "C179",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins83979@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "52"
+		},
+		{
+			"Name" : "C180",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins109256@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "12"
+		},
+		{
+			"Name" : "C181",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins105856@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "32"
+		},
+		{
+			"Name" : "C182",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins105498@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "33"
+		},
+		{
+			"Name" : "C183",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins109065@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "53"
+		},
+		{
+			"Name" : "C184",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins130112@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "22"
+		},
+		{
+			"Name" : "C185",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins130144@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "23"
+		},
+		{
+			"Name" : "D24",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins209685@ocad_parts_lib.\\led green 0603_0.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "16"
+		},
+		{
+			"Name" : "D25",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins136715@discrete.\\led.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "J18",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins706658@ocad_parts_lib.\\con20p_sfp-1367073-1.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "L11",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins81679@ind.\\ind.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "13"
+		},
+		{
+			"Name" : "L12",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins81695@ind.\\ind.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "54"
+		},
+		{
+			"Name" : "R161",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins219446@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "25"
+		},
+		{
+			"Name" : "R162",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins219462@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "17"
+		},
+		{
+			"Name" : "R166",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins109881@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "55"
+		},
+		{
+			"Name" : "R167",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins109907@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "34"
+		},
+		{
+			"Name" : "R169",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins84347@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "35"
+		},
+		{
+			"Name" : "R170",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins142976@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "26"
+		},
+		{
+			"Name" : "R171",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins82934@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "36"
+		},
+		{
+			"Name" : "R172",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins143006@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "R174",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins209660@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "R175",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins211483@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "18"
+		},
+		{
+			"Name" : "U30",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp3@gps_interface_board.\\10. sfp block\\(sch_1):ins249@gps_interface_board.\\nb7v52m_2.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "21"
+		},
+		{
+			"Name" : "J19",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp4@gps_interface_board.\\10. sfp block\\(sch_1):ins706658@ocad_parts_lib.\\con20p_sfp-1367073-1.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "J20",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\sfp interface\\@gps_interface_board.\\03. sfp interface\\(sch_1):sfp5@gps_interface_board.\\10. sfp block\\(sch_1):ins706658@ocad_parts_lib.\\con20p_sfp-1367073-1.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "14"
+		},
+		{
+			"Name" : "C40",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins309076@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C43",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins309096@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C44",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins309116@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C49",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins143143@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "C50",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins143231@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C51",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins141526@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C52",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins150003@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C53",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins150023@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C54",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins150043@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C55",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins150063@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C56",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins150119@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "C57",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins150163@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C58",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins71294@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "12"
+		},
+		{
+			"Name" : "C59",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins71202@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "13"
+		},
+		{
+			"Name" : "C60",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins147029@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C61",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins146987@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C64",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins146278@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C65",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins146191@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C77",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280068@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C78",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280172@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C79",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280284@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C80",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280380@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C83",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280120@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "C85",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280354@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "L6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins144047@ind.\\ind.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R112",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins322323@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "12"
+		},
+		{
+			"Name" : "R113",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins322349@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "24"
+		},
+		{
+			"Name" : "R114",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins323596@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "13"
+		},
+		{
+			"Name" : "R115",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins323612@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "18"
+		},
+		{
+			"Name" : "R118",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins323628@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "R36",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins789081@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "R41",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins141174@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "R42",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins142185@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "11"
+		},
+		{
+			"Name" : "R48",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins71606@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "14"
+		},
+		{
+			"Name" : "R49",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins71498@discrete.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "11"
+		},
+		{
+			"Name" : "TP15",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins184034@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "TP16",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins184092@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "TP20",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280592@testpoint.\\testpoint.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "U12",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins280494@ocad_parts_lib.\\tps7a8500rgrt.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "U6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins233645@ocad_parts_lib.\\lt8645.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "U7",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins250210@ocad_parts_lib.\\tps7a8500rgrt.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U8",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins71362@ocad_parts_lib.\\ltc2945cud.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "15"
+		},
+		{
+			"Name" : "U9",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):power@gps_interface_board.\\04. power\\(sch_1):ins252117@ocad_parts_lib.\\tps7a8500rgrt.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		}
+	],
+	"Net Property" : [
+		{
+			"Name" : "N350589",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n350589",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N350589",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n350589",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N350593",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n350593",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N350593",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n350593",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FB_3V3_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_3v3_1",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "FB_3V3_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_3v3_1",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FB_3V3_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_3v3_2",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "FB_3V3_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_3v3_2",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SS_3V3_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):ss_3v3_1",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SS_3V3_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):ss_3v3_1",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SS_3V3_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):ss_3v3_2",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SS_3V3_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):ss_3v3_2",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VP5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VP5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "INTVCC_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):intvcc_5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "INTVCC_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):intvcc_5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A0_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A0_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A1_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A1_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N339674",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n339674",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N339674",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n339674",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N339693",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n339693",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N339693",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n339693",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VP3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp3v3",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VP3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp3v3",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "INTVCC_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):intvcc_3v3",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "INTVCC_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):intvcc_3v3",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A0_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_3v3",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A0_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_3v3",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RECOV_ACLK_CLK_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):recov_aclk_clk_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "RECOV_ACLK_CLK"
+		},
+		{
+			"Name" : "VP12V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp12v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VP12V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp12v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RECOV_ACLK_CLK_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):recov_aclk_clk_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "RECOV_ACLK_CLK"
+		},
+		{
+			"Name" : "N280018",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n280018",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N280018",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n280018",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N280022",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n280022",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N280022",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n280022",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VP5V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp5v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VP5V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp5v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.ACLK_REFCLK_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.aclk_refclk_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.ACLK_REFCLK"
+		},
+		{
+			"Name" : "12V_FUSE",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\12v_fuse\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "12V_FUSE",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\12v_fuse\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.ACLK_REFCLK_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.aclk_refclk_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.ACLK_REFCLK"
+		},
+		{
+			"Name" : "PG_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_2v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "PG_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_2v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "INTVCC_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):intvcc_2v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "INTVCC_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):intvcc_2v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RT_5V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):rt_5v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RT_5V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):rt_5v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A0_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_2v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A0_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_2v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FB_5V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_5v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "FB_5V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_5v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A1_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_2v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A1_2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_2v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "ACLK_TO_CDR_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):aclk_to_cdr_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "ACLK_TO_CDR"
+		},
+		{
+			"Name" : "ACLK_TO_CDR_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):aclk_to_cdr_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "ACLK_TO_CDR"
+		},
+		{
+			"Name" : "SFP_RD_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sfp_rd_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "SFP_RD"
+		},
+		{
+			"Name" : "SFP_RD_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sfp_rd_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "SFP_RD"
+		},
+		{
+			"Name" : "N717829",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n717829",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "SFP_RD_OP"
+		},
+		{
+			"Name" : "N717833",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n717833",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "SFP_RD_OP"
+		},
+		{
+			"Name" : "VDDO_FILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vddo_filt",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VDDO_FILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vddo_filt",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.CLK_FROM_FPGA_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.clk_from_fpga_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.CLK_FROM_FPGA"
+		},
+		{
+			"Name" : "FMC.CLK_FROM_FPGA_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.clk_from_fpga_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.CLK_FROM_FPGA"
+		},
+		{
+			"Name" : "N352210",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n352210",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N352210",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n352210",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N352214",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n352214",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N352214",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n352214",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp1\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SPARE_BNC_CONN_0",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_bnc_conn_0",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SPARE_BNC_CONN_0",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_bnc_conn_0",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SPARE_BNC_CONN_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_bnc_conn_1",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SPARE_BNC_CONN_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_bnc_conn_1",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SPARE_LEMO_CONN_0",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_lemo_conn_0",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SPARE_LEMO_CONN_0",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_lemo_conn_0",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SPARE_LEMO_CONN_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_lemo_conn_1",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SPARE_LEMO_CONN_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_lemo_conn_1",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FPGA_12V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fpga_12v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "FPGA_12V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fpga_12v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VDDA_FILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vdda_filt",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VDDA_FILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vdda_filt",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FPGA_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fpga_3v3",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "FPGA_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fpga_3v3",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VDD_FILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vdd_filt",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VDD_FILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vdd_filt",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N89867",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89867",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N89867",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89867",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N266416",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n266416",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N266416",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n266416",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N89871",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89871",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N89871",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89871",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp1\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N266420",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n266420",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N266420",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n266420",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N89889",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89889",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N89889",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89889",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "CLK_FROM_FPGA_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):clk_from_fpga_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "CLK_FROM_FPGA"
+		},
+		{
+			"Name" : "N89893",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89893",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N89893",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n89893",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "CLK_FROM_FPGA_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):clk_from_fpga_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "CLK_FROM_FPGA"
+		},
+		{
+			"Name" : "N107878",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n107878",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N107878",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n107878",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.AUXOUT1_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout1_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT1"
+		},
+		{
+			"Name" : "FMC.AUXOUT0_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout0_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT0"
+		},
+		{
+			"Name" : "FMC.AUXOUT2_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout2_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT2"
+		},
+		{
+			"Name" : "FMC.AUXOUT2_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout2_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT2"
+		},
+		{
+			"Name" : "FMC.AUXOUT0_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout0_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT0"
+		},
+		{
+			"Name" : "FMC.AUXOUT3_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout3_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT3"
+		},
+		{
+			"Name" : "FMC.AUXOUT1_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout1_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT1"
+		},
+		{
+			"Name" : "N90109",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n90109",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N90109",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n90109",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N179430",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n179430",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N179430",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n179430",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N90113",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n90113",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N90113",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n90113",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.AUXOUT3_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.auxout3_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.AUXOUT3"
+		},
+		{
+			"Name" : "N179442",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n179442",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N179442",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n179442",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SPARE_RJ45_CM",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_rj45_cm",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SPARE_RJ45_CM",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):spare_rj45_cm",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N140138",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n140138",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N140138",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n140138",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N90529",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n90529",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N90529",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n90529",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "GPS_CLK_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_clk_in",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GPS_CLK_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_clk_in",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "GPS_PPS_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_pps_in",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GPS_PPS_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_pps_in",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "CLK_FDBACK_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):clk_fdback_p",
+			"PropName" : "ELECTRICAL_CONSTRAINT_SET",
+			"Logical" : null,
+			"Physical" : "100R_DIFF"
+		},
+		{
+			"Name" : "CLK_FDBACK_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):clk_fdback_n",
+			"PropName" : "ELECTRICAL_CONSTRAINT_SET",
+			"Logical" : null,
+			"Physical" : "100R_DIFF"
+		},
+		{
+			"Name" : "PPS_OUT_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pps_out_p",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "PPS_OUT_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pps_out_p",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "PPS_OUT_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pps_out_n",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "PPS_OUT_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pps_out_n",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N91101",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91101",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N91101",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91101",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SYNC_OUT_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sync_out_p",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SYNC_OUT_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sync_out_p",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N91105",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91105",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N91105",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n91105",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SYNC_OUT_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sync_out_n",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SYNC_OUT_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):sync_out_n",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp6\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp6\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp5\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp5\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N180853",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180853",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N180853",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180853",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp6\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp6\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp3\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp3\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp4\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp4\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp5\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp5\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp6\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp6\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N180901",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180901",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N180901",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n180901",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp1\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "GND_POWER",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_power",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GND_POWER",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_power",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp2\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp2\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp4\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "RS_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\rs_sfp interface_sfp4\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp5\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp5\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp3\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp3\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "GPS_SYNC_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_sync_in",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GPS_SYNC_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_sync_in",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "GPS_IRIGB_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_irigb_in",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GPS_IRIGB_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_irigb_in",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A1_BID",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_bid",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A1_BID",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_bid",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A0_BID",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_bid",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A0_BID",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_bid",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp4\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp4\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp2\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04977_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04977_sfp interface_sfp2\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A2_BID",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a2_bid",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A2_BID",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a2_bid",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp3\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp3\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N224400",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224400",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224400",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224400",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.GPS_CLK_COPY_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.gps_clk_copy_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.GPS_CLK_COPY"
+		},
+		{
+			"Name" : "N224404",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224404",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224404",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224404",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.ACLK_TO_SFP_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.aclk_to_sfp_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.ACLK_TO_SFP"
+		},
+		{
+			"Name" : "VCC5V_LFILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc5v_lfilt",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCC5V_LFILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc5v_lfilt",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.GPS_CLK_COPY_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.gps_clk_copy_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.GPS_CLK_COPY"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp2\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N04910_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\n04910_sfp interface_sfp2\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.ACLK_TO_SFP_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.aclk_to_sfp_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.ACLK_TO_SFP"
+		},
+		{
+			"Name" : "N224432",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224432",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224432",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224432",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N224436",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224436",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224436",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224436",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N245271",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245271",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N245271",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245271",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N245311",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245311",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N245311",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245311",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "PG_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "PG_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N224464",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224464",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224464",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224464",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N224468",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224468",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224468",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224468",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp6\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp6\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N224492",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224492",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224492",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224492",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp3\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp3\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N224496",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224496",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N224496",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n224496",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp5\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp5\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp1\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp2\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp2\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N245859",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245859",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N245859",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245859",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp4\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "MOD_ABS_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\mod_abs_sfp interface_sfp4\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N245899",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245899",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N245899",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n245899",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.SPARE_RJ45_1_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.spare_rj45_1_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.SPARE_RJ45_1"
+		},
+		{
+			"Name" : "FMC.SPARE_RJ45_0_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.spare_rj45_0_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.SPARE_RJ45_0"
+		},
+		{
+			"Name" : "FMC.SPARE_RJ45_1_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.spare_rj45_1_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.SPARE_RJ45_1"
+		},
+		{
+			"Name" : "FMC.ACLK_FROM_SFP_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.aclk_from_sfp_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.ACLK_FROM_SFP"
+		},
+		{
+			"Name" : "FMC.SPARE_RJ45_0_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.spare_rj45_0_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.SPARE_RJ45_0"
+		},
+		{
+			"Name" : "GND_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_in",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "GND_IN",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gnd_in",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.RECOV_ACLK_CLK_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.recov_aclk_clk_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.RECOV_ACLK_CLK"
+		},
+		{
+			"Name" : "FMC.RECOV_ACLK_CLK_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.recov_aclk_clk_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.RECOV_ACLK_CLK"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp6\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp6\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.RECOV_ACLK_DATA_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.recov_aclk_data_n\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.RECOV_ACLK_DATA"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp3\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp3\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.RECOV_ACLK_DATA_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.recov_aclk_data_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.RECOV_ACLK_DATA"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp5\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp5\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FMC.ACLK_FROM_SFP_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.aclk_from_sfp_p\\",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "FMC.ACLK_FROM_SFP"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp1\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N246142",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n246142",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N246142",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n246142",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp2\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp2\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N246182",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n246182",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N246182",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n246182",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp4\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCT_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vcct_sfp interface_sfp4\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "PG_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_3v3",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "PG_3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_3v3",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N146225",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n146225",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N146225",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n146225",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N185241",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n185241",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N185241",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n185241",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp6\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp6\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCC5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCC5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp3\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp3\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp5\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp5\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp1\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp1\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp2\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp2\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N351209",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n351209",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N351209",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n351209",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp4\\",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCCR_SFP INTERFACE_SFP4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\vccr_sfp interface_sfp4\\",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N351234",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n351234",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N351234",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n351234",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VP2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp2v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VP2V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vp2v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "VCC3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc3v3",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "VCC3V3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc3v3",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "BNC_DIR",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):bnc_dir",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "BNC_DIR",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):bnc_dir",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A0_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_2",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A0_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_2",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "PG_3V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_3v5",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "PG_3V5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pg_3v5",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A1_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_2",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A1_2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_2",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A1_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_1",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A1_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a1_1",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "A0_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_1",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "A0_1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):a0_1",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "FB_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "FB_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):fb_5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "SS_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):ss_5v",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "SS_5V",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):ss_5v",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		},
+		{
+			"Name" : "N339027",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n339027",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "7 MIL"
+		},
+		{
+			"Name" : "N339027",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n339027",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "6.5 MIL"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "R264",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins480140@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R264"
+		},
+		{
+			"Name" : "R267",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins480156@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R267"
+		},
+		{
+			"Name" : "R268",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins480172@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R268"
+		},
+		{
+			"Name" : "C1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins127388@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C1"
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins975@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C3"
+		},
+		{
+			"Name" : "C9",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins302850@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C9"
+		},
+		{
+			"Name" : "C7",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins302810@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C7"
+		},
+		{
+			"Name" : "C8",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins302830@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C8"
+		},
+		{
+			"Name" : "L1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins302770@ind.\\ind.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "L1"
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins126704@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R2"
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins126720@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R4"
+		},
+		{
+			"Name" : "R1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins323447@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R1"
+		},
+		{
+			"Name" : "R9",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins339746@discrete.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R9"
+		},
+		{
+			"Name" : "U1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins758@gps_interface_board.\\ltc6957-2_3.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U1"
+		},
+		{
+			"Name" : "C3719",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789310@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3719",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3720",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins787505@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3720",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3721",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins788722@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3721",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3722",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776585@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3722",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3723",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776605@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3723",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3724",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776721@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3724",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3725",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776741@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3725",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3726",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789342@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3726",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3727",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins787558@ocad_parts_lib.\\cap_np.normal\\(chips)",
+			"Logical" : "C3727",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3701",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781271@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3701",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3702",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789372@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3702",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3703",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins788757@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3703",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3704",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins797654@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3704",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3705",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins798926@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3705",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3706",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins799219@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3706",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3707",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins799374@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3707",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1)",
+			"Logical" : "U108",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips)",
+			"Logical" : "U1107",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3708",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974466@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3708",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3709",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974492@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3709",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3710",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974518@discrete.\\r.normal\\(chips)",
+			"Logical" : "R3710",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "FMC.FPGA_GPS_CLK_EN*",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.fpga_gps_clk_en*\\",
+			"Logical" : null,
+			"Physical" : "FMC.FPGA_GPS_CLK_EN*"
+		},
+		{
+			"Name" : "FMC.FPGA_CLK_FILTER_B",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.fpga_clk_filter_b\\",
+			"Logical" : null,
+			"Physical" : "FMC.FPGA_CLK_FILTER_B"
+		},
+		{
+			"Name" : "FMC.FPGA_CLK_FILTER_A",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.fpga_clk_filter_a\\",
+			"Logical" : null,
+			"Physical" : "FMC.FPGA_CLK_FILTER_A"
+		},
+		{
+			"Name" : "N01590",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n01590",
+			"Logical" : null,
+			"Physical" : "N01590"
+		},
+		{
+			"Name" : "VCC3V3_LFILT",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):vcc3v3_lfilt",
+			"Logical" : null,
+			"Physical" : "VCC3V3_LFILT"
+		},
+		{
+			"Name" : "FMC.CLK_FILTER_B",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.clk_filter_b\\",
+			"Logical" : null,
+			"Physical" : "FMC.CLK_FILTER_B"
+		},
+		{
+			"Name" : "FMC.CLK_FILTER_A",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.clk_filter_a\\",
+			"Logical" : null,
+			"Physical" : "FMC.CLK_FILTER_A"
+		},
+		{
+			"Name" : "FMC.GPS_CLK_EN*",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\fmc.gps_clk_en*\\",
+			"Logical" : null,
+			"Physical" : "FMC.GPS_CLK_EN*"
+		},
+		{
+			"Name" : "N127138",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n127138",
+			"Logical" : null,
+			"Physical" : "N127138"
+		},
+		{
+			"Name" : "N00534",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n00534",
+			"Logical" : null,
+			"Physical" : "N00534"
+		},
+		{
+			"Name" : "N00638",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n00638",
+			"Logical" : null,
+			"Physical" : "N00638"
+		},
+		{
+			"Name" : "N786726",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n786726",
+			"Logical" : "N786726",
+			"Physical" : null
+		},
+		{
+			"Name" : "N786735",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n786735",
+			"Logical" : "N786735",
+			"Physical" : null
+		},
+		{
+			"Name" : "N788798",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n788798",
+			"Logical" : "N788798",
+			"Physical" : null
+		},
+		{
+			"Name" : "N789400",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n789400",
+			"Logical" : "N789400",
+			"Physical" : null
+		},
+		{
+			"Name" : "N974534",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n974534",
+			"Logical" : "N974534",
+			"Physical" : null
+		},
+		{
+			"Name" : "N974543",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n974543",
+			"Logical" : "N974543",
+			"Physical" : null
+		},
+		{
+			"Name" : "N974552",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n974552",
+			"Logical" : "N974552",
+			"Physical" : null
+		},
+		{
+			"Name" : "GPS_CLK_LVDS_N",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_clk_lvds_n",
+			"Logical" : "GPS_CLK_LVDS_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "GPS_CLK_LVDS_P",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):gps_clk_lvds_p",
+			"Logical" : "GPS_CLK_LVDS_P",
+			"Physical" : null
+		},
+		{
+			"Name" : "N776929",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):n776929",
+			"Logical" : "N776929",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C3719.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789310@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3719.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789310@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V_LFILT",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3720.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins787505@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "N786726",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3720.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins787505@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "GPS_CLK_LVDS_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3721.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins788722@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "N788798",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3721.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins788722@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "GPS_CLK_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3722.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776585@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3722.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776585@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3723.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776605@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3723.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776605@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3724.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776721@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3724.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776721@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3725.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776741@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3725.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776741@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3726.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789342@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "N789400",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3726.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789342@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3727.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins787558@ocad_parts_lib.\\cap_np.normal\\(chips):\\1\\",
+			"Logical" : "N786735",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3727.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins787558@ocad_parts_lib.\\cap_np.normal\\(chips):\\2\\",
+			"Logical" : "GPS_CLK_LVDS_P",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3701.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781271@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N788798",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3701.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781271@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "VCC5V_LFILT",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3702.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789372@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "N788798",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3702.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins789372@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N789400",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3703.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins788757@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "N788798",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3703.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins788757@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3704.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins797654@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GPS_CLK_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3704.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins797654@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3705.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins798926@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3705.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins798926@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GPS_IRIGB_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3706.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins799219@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GPS_PPS_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3706.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins799219@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3707.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins799374@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3707.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins799374@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GPS_SYNC_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108.6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1):\\*q\\",
+			"Logical" : "N786726",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1):Q",
+			"Logical" : "N786735",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108.3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1):\\+in\\",
+			"Logical" : "N788798",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108.4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1):\\-in\\",
+			"Logical" : "N789400",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1):VEE",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U108.5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins781227@\\505-ltc6754isc6#trmpbftr-nd\\.\\ltc6754isc6trmpbf.normal\\(sch_1):\\vcci\/vcco\\",
+			"Logical" : "VCC5V_LFILT",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):",
+			"Logical" : "GPS_CLK_LVDS_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):\\in\\",
+			"Logical" : "GPS_CLK_LVDS_P",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.17",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):EP",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.6",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):GND_1",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.7",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):GND_2",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.14",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):GND_3",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.15",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):GND_4",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.12",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):Q0",
+			"Logical" : "GPS_GROUP.GPS_CLK_P",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.11",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):",
+			"Logical" : "GPS_GROUP.GPS_CLK_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.9",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):",
+			"Logical" : "FMC.GPS_CLK_COPY_N",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.10",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):Q1",
+			"Logical" : "FMC.GPS_CLK_COPY_P",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):VT",
+			"Logical" : "N776929",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):\\vref-ac\\",
+			"Logical" : "N776929",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.13",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):VCC_3",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.16",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):VCC_4",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.8",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):VCC_2",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1107.5",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):\\gps interface\\@gps_interface_board.\\01. gps interface\\(sch_1):ins776847@ocad_parts_lib.\\sy58608umg.normal\\(chips):VCC_1",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "J8.C11",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pm3_fmc@gps_interface_board.\\05. fmc connector\\(sch_1):ins205253@gps_interface_board.\\con160p_11a.normal\\(chips):FMC_LA06_N",
+			"Logical" : "NC",
+			"Physical" : "FMC.FPGA_GPS_CLK_EN*"
+		},
+		{
+			"Name" : "J8.C15",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pm3_fmc@gps_interface_board.\\05. fmc connector\\(sch_1):ins205253@gps_interface_board.\\con160p_11a.normal\\(chips):FMC_LA10_N",
+			"Logical" : "NC",
+			"Physical" : "FMC.FPGA_CLK_FILTER_B"
+		},
+		{
+			"Name" : "J8.C14",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):pm3_fmc@gps_interface_board.\\05. fmc connector\\(sch_1):ins205253@gps_interface_board.\\con160p_11a.normal\\(chips):FMC_LA10P",
+			"Logical" : "NC",
+			"Physical" : "FMC.FPGA_CLK_FILTER_A"
+		},
+		{
+			"Name" : "R3708.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974466@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "N974534",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3708.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974466@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3709.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974492@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "N974543",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3709.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974492@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3710.2",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974518@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "N974552",
+			"Physical" : null
+		},
+		{
+			"Name" : "R3710.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins974518@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GND_POWER",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.1",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips):A1",
+			"Logical" : "N974534",
+			"Physical" : "FMC.FPGA_CLK_FILTER_A"
+		},
+		{
+			"Name" : "U18.3",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips):A2",
+			"Logical" : "N974543",
+			"Physical" : "FMC.FPGA_CLK_FILTER_B"
+		},
+		{
+			"Name" : "U18.4",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips):A3",
+			"Logical" : "N974552",
+			"Physical" : "FMC.FPGA_GPS_CLK_EN*"
+		},
+		{
+			"Name" : "U18.14",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips):B2",
+			"Logical" : "NC",
+			"Physical" : "FMC.CLK_FILTER_B"
+		},
+		{
+			"Name" : "U18.13",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips):B3",
+			"Logical" : "NC",
+			"Physical" : "FMC.GPS_CLK_EN*"
+		},
+		{
+			"Name" : "U18.16",
+			"C_PATH" : "@gps_interface_board.\\00. gib top\\(sch_1):utilities@gps_interface_board.\\06. utilities\\(sch_1):ins576805@ocad_parts_lib.\\txb0106ipwrq1.normal\\(chips):B1",
+			"Logical" : "NC",
+			"Physical" : "FMC.CLK_FILTER_A"
+		}
+	]
+}
