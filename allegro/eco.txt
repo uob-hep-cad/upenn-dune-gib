@@ -3,45 +3,67 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
-|                                                    Wed Aug 20 19:16:16 2025  |
+|                                                    Thu Aug 21 13:43:07 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C7                  CAP_NP_CAP0603_DISCRETE_10UF_ 3496.00 5112.00
- C8                  CAP_NP_CAP0603_DISCRETE_0.1UF_ 3310.00 5270.00
- C9                  CAP_NP_CAP0603_DISCRETE_10UF_ 3428.00 5249.00
- L1                  IND_CAP0805_120 OHM@100MHZ 3394.00 5100.00
+  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
+                                 R3708.1                        
+                                 R3709.1                        
+                                 R3710.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N786748      net RENAMED (to net name listed on right)           GPS_CLK_LVDS_N 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N787023      net RENAMED (to net name listed on right)           GPS_CLK_LVDS_P 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N974534      pins ADDED TO this new net
+                                 R3708.2                        
+                                 U18.1           4062.43 1124.86
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N974543      pins ADDED TO this new net
+                                 R3709.2                        
+                                 U18.3           4113.61 1124.86
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N974552      pins ADDED TO this new net
+                                 R3710.2                        
+                                 U18.4           4139.20 1124.86
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
-|                                                    Wed Aug 20 19:16:16 2025  |
+|                                                    Thu Aug 21 13:43:07 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R3705               R_RES0603_DNP         2680.00 5400.00 R_RES0603_49.9 OHM
+ R3708               R_RES0402_100         
+ R3709               R_RES0402_100         
+ R3710               R_RES0402_100         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  c:.../downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd       |
-|                                                    Wed Aug 20 19:16:16 2025  |
+|                                                    Thu Aug 21 13:43:07 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R3705.2                        PRIM_FILE      .\pstchip.dat
- R3705.2                        XY             (280,505)
+ R3708.2                        PRIM_FILE      .\pstchip.dat
+ R3708.2                        XY             (480,150)
+ R3709.2                        PRIM_FILE      .\pstchip.dat
+ R3709.2                        XY             (480,170)
+ R3710.2                        PRIM_FILE      .\pstchip.dat
+ R3710.2                        XY             (480,190)
 |------------------------------------------------------------------------------|
-|       Components deleted    :       4                                        |
-|       Components changed    :       1                                        |
-|       Slot property added   :       2                                        |
+|       Nets changed          :      11                                        |
+|       Components added      :       3                                        |
+|       Slot property added   :       6                                        |
 |                                                                              |
-|   Total ECO changes reported:       7                                        |
+|   Total ECO changes reported:      20                                        |
 |------------------------------------------------------------------------------|

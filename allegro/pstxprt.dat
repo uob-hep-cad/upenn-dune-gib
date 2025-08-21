@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 24.1.0 d001Aug-20-2025 at 19:16:14 }
+{ Using PSTWRITER 24.1.0 d001Aug-21-2025 at 13:43:06 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='GPS_INTERFACE_BOARD';
@@ -5481,6 +5481,39 @@ SECTION_NUMBER 1
  P_PATH='@gps_interface_board.\00. gib top\(sch_1):\page2_gps interface\@gps_interface_board.\01. gps interface\(sch_1):page3_ins799374@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(275,820)',
+ SECTION='';
+
+PART_NAME
+ R3708 'R_RES0402_100':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS974466@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins974466@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins974466@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,150)',
+ SECTION='';
+
+PART_NAME
+ R3709 'R_RES0402_100':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS974492@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins974492@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins974492@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,170)',
+ SECTION='';
+
+PART_NAME
+ R3710 'R_RES0402_100':;
+
+SECTION_NUMBER 1
+ '@GPS_INTERFACE_BOARD.00. GIB TOP(SCH_1):UTILITIES@GPS_INTERFACE_BOARD.06. UTILITIES(SCH_1):INS974518@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@gps_interface_board.\00. gib top\(sch_1):utilities@gps_interface_board.\06. utilities\(sch_1):ins974518@discrete.\r.normal\(chips)',
+ P_PATH='@gps_interface_board.\00. gib top\(sch_1):page2_utilities@gps_interface_board.\06. utilities\(sch_1):page12_ins974518@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,190)',
  SECTION='';
 
 PART_NAME

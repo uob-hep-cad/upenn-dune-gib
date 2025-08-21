@@ -1,5 +1,5 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd!Wed Aug 20 19:15:40 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!UP TO DATE!
+J!c:/users/phdgc/downloads/upenn-dune-gib/allegro/gps_interface_board_ml_v89.brd!Thu Aug 21 13:42:18 2025!-19685.04!-19685.04!19685.04!19685.04!0.01!mils!GPS_INTERFACE_BOARD!100.200000 mil!23!UP TO DATE!
 S!N776929!@gps_interface_board.\00. gib top\(sch_1):n776929!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N789400!@gps_interface_board.\00. gib top\(sch_1):n789400!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N788798!@gps_interface_board.\00. gib top\(sch_1):n788798!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -330,7 +330,6 @@ S!MOD_ABS_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\mod_abs_
 S!N04910_SFP INTERFACE_SFP2!@gps_interface_board.\00. gib top\(sch_1):\n04910_sfp interface_sfp2\!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!VCC5V_LFILT!@gps_interface_board.\00. gib top\(sch_1):vcc5v_lfilt!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!R_N_SFP INTERFACE_SFP3!@gps_interface_board.\00. gib top\(sch_1):\r_n_sfp interface_sfp3\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP3!!!!!!!!!!!!!!!!!!!!!!!!!
-S!VCC3V3_LFILT!@gps_interface_board.\00. gib top\(sch_1):vcc3v3_lfilt!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!N224404!@gps_interface_board.\00. gib top\(sch_1):n224404!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
 S!R_P_SFP INTERFACE_SFP3!@gps_interface_board.\00. gib top\(sch_1):\r_p_sfp interface_sfp3\!!!!!!!!!!!!!!!!!!!!!!R_SFP INTERFACE_SFP3!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N224400!@gps_interface_board.\00. gib top\(sch_1):n224400!!!!!!!!!!!!!!!!!!!!!!!!7 MIL!!!!!!!!!!!!!!!!!6.5 MIL!!!!!!
