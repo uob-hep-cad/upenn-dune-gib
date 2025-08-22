@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : gps_interface_board_ml_v93.brd                )
+(    Drawing          : gps_interface_board_ml_v96.brd                )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Thu Aug 21 16:08:10 2025                      )
+(    Date/Time        : Fri Aug 22 10:16:42 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,30 +18,23 @@ Ripup symbols:               Never
 Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'c:\dune_gib\upenn-dune-gib\allegro'
-Design Directory:            'C:/Dune_GIB/upenn-dune-gib/allegro'
-Old design name:             'C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd'
-New design name:             'C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd'
+Design Directory:            'C:/Dune_GIB/UPENN-DUNE-GIB/allegro'
+Old design name:             'C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v96.brd'
+New design name:             'C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v96.brd'
 
-CmdLine: netrev -y 3 -i c:\dune_gib\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml C:/Dune_GIB/upenn-dune-gib/allegro/#Taaaaak20604.tmp
+CmdLine: netrev -y 3 -i c:\dune_gib\upenn-dune-gib\allegro -h -q netrev_constraint_report.xml C:/Dune_GIB/UPENN-DUNE-GIB/allegro/#Taaaaeg16504.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/dune_gib/upenn-dune-gib/allegro/pstchip.dat 
    Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstchip.dat (00:00:00.02)
 Starting to read c:/dune_gib/upenn-dune-gib/allegro/pstxprt.dat 
-   Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.00)
+   Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstxprt.dat (00:00:00.01)
 Starting to read c:/dune_gib/upenn-dune-gib/allegro/pstxnet.dat 
    Finished reading c:/dune_gib/upenn-dune-gib/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SC_6_ADI' used by RefDes U108 for device 'LTC6754ISC6TRMPBF_SC_6_ADI_LTC6' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old sy
 
 ------ Library Paths ------
 MODULEPATH =  . 
@@ -100,7 +93,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Aug 21 16:08:10 2025
+netrev run on Aug 22 10:16:42 2025
    DESIGN NAME : 'GPS_INTERFACE_BOARD'
    PACKAGING ON Sep  4 2024 20:54:11
 
@@ -123,8 +116,8 @@ netrev run on Aug 21 16:08:10 2025
 
  No error detected
  No oversight detected
-  1 warnings detected
+ No warning detected
 
-cpu time      0:04:11
-elapsed time  0:00:02
+cpu time      0:01:38
+elapsed time  0:00:01
 

@@ -2,345 +2,64 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
+|  C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v96.brd           |
+|                                                    Fri Aug 22 10:16:42 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  FMC.CLK_FILTER_A pins DELETED FROM this net (all pins deleted)
-                                 U18.16          4062.43 1357.14
+  GND_POWER    pins MOVED FROM this net (to net name listed on right)
+                                 R3704.2         3791.47 5391.00
+                                                                        N788288
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R3712.2                        
+                                 R3713.2                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.CLK_FILTER_B pins DELETED FROM this net (all pins deleted)
-                                 U18.14          4113.61 1357.14
+  GPS_CLK_IN   pins ADDED TO this existing net (pins not previously on any net)
+                                 R3711.1                        
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.FPGA_CLK_FILTER_A pins DELETED FROM this net (all pins deleted)
-                                 J8.C14          6325.00  275.00
-               pins MOVED FROM this net (to net name listed on right)
-                                 U18.1           4062.43 1124.86
-                                                                        N974534
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.FPGA_CLK_FILTER_B pins DELETED FROM this net (all pins deleted)
-                                 J8.C15          6275.00  275.00
-               pins MOVED FROM this net (to net name listed on right)
-                                 U18.3           4113.61 1124.86
-                                                                        N974543
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.FPGA_GPS_CLK_EN* pins DELETED FROM this net (all pins deleted)
-                                 J8.C11          6475.00  275.00
-               pins MOVED FROM this net (to net name listed on right)
-                                 U18.4           4139.20 1124.86
-                                                                        N974552
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.GPS_CLK_COPY_N pins ADDED TO this existing net (pins not previously on any net)
-                                 U1107.9                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.GPS_CLK_COPY_P pins ADDED TO this existing net (pins not previously on any net)
-                                 U1107.10                       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FMC.GPS_CLK_EN* pins DELETED FROM this net (all pins deleted)
-                                 U18.13          4139.20 1357.14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND_POWER    pins ADDED TO this existing net (pins not previously on any net)
-                                 C3719.2                        
-                                 C3722.1                        
-                                 C3723.1                        
-                                 C3724.2                        
-                                 C3725.2                        
-                                 C3726.2                        
-                                 R3703.1                        
-                                 R3704.2                        
-                                 R3705.2                        
-                                 R3706.2                        
-                                 R3707.2                        
+  N788288      pins ADDED TO this new net
+                                 R3711.2                        
+                                 R3712.1                        
+                                 R3713.1                        
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 R3708.1                        
-                                 R3709.1                        
-                                 R3710.1                        
-                                 U108.2                         
-                                 U1107.6                        
-                                 U1107.7                        
-                                 U1107.14                       
-                                 U1107.15                       
-                                 U1107.17                       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_CLK_IN   pins ADDED TO this existing net (pins not previously on any net)
-                                 C3721.1                        
-                                 R3704.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_CLK_LVDS_N pins ADDED TO this new net
-                                 C3720.2                        
-                                 U1107.4                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_CLK_LVDS_P pins ADDED TO this new net
-                                 C3727.2                        
-                                 U1107.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_GROUP.GPS_CLK_N pins ADDED TO this existing net (pins not previously on any net)
-                                 U1107.11                       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_GROUP.GPS_CLK_P pins ADDED TO this existing net (pins not previously on any net)
-                                 U1107.12                       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_IRIGB_IN pins ADDED TO this existing net (pins not previously on any net)
-                                 R3705.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_PPS_IN   pins ADDED TO this existing net (pins not previously on any net)
-                                 R3706.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GPS_SYNC_IN  pins ADDED TO this existing net (pins not previously on any net)
-                                 R3707.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N776929      pins ADDED TO this new net
-                                 U1107.2                        
-                                 U1107.3                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N786726      pins ADDED TO this new net
-                                 C3720.1                        
-                                 U108.6                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N786735      pins ADDED TO this new net
-                                 C3727.1                        
-                                 U108.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N788798      pins ADDED TO this new net
-                                 C3721.2                        
-                                 R3701.1                        
-                                 R3702.2                        
-                                 R3703.2                        
-                                 U108.3                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N789400      pins ADDED TO this new net
-                                 C3726.1                        
-                                 R3702.1                        
-                                 U108.4                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N974534      pins ADDED TO this new net
-                                 R3708.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N974543      pins ADDED TO this new net
-                                 R3709.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N974552      pins ADDED TO this new net
-                                 R3710.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC3V3       pins ADDED TO this existing net (pins not previously on any net)
-                                 C3722.2                        
-                                 C3723.2                        
-                                 C3724.1                        
-                                 C3725.1                        
-                                 U1107.5                        
-                                 U1107.8                        
-                                 U1107.13                       
-                                 U1107.16                       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC5V_LFILT  pins ADDED TO this existing net (pins not previously on any net)
-                                 C3719.1                        
-                                 R3701.2                        
-                                 U108.5                         
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
-|------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- LTC6754ISC6TRMPBF_SC_6_ADI_LTC6
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1                  CAP_NP_CAP0402_DISCRETE_0.01UF_ 3405.00 5340.00
- C3                  CAP_NP_CAP0402_DISCRETE_0.01UF_ 3124.00 5401.00
- C7                  CAP_NP_CAP0603_DISCRETE_10UF_ 3496.00 5112.00
- C8                  CAP_NP_CAP0603_DISCRETE_0.1UF_ 3277.00 5237.00
- C9                  CAP_NP_CAP0603_DISCRETE_10UF_ 3428.00 5249.00
- L1                  IND_CAP0805_120 OHM@100MHZ 3394.00 5100.00
- R1                  R_RES0402_1K          3259.00 5107.00
- R2                  R_RES0603_24.9 OHM    3580.00 5417.00
- R4                  R_RES0603_24.9 OHM    3395.00 5417.00
- R9                  R_RES0603_0 OHM       2999.00 5191.00
- R264                R_RES0402_DNP         2667.72 5396.00
- R267                R_RES0402_49.9         632.28 5355.00
- R268                R_RES0402_49.9        1632.28 5355.00
- U1                  LTC6957-2_3_DFN_12_LTC6957IDD-2 3153.00 5218.00
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
-|------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
+|  C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v96.brd           |
+|                                                    Fri Aug 22 10:16:42 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3719               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C3720               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C3721               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C3722               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C3723               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C3724               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C3725               CAP_NP_CAP0603_DISCRETE_1000PF_ 
- C3726               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- C3727               CAP_NP_CAP0603_DISCRETE_0.1UF_ 
- R3701               R_RES0402_1K          
- R3702               R_RES0402_1K          
- R3703               R_RES0402_1K          
- R3704               R_RES0603_49.9 OHM    
- R3705               R_RES0603_DNP         
- R3706               R_RES0603_49.9 OHM    
- R3707               R_RES0603_49.9 OHM    
- R3708               R_RES0402_100         
- R3709               R_RES0402_100         
- R3710               R_RES0402_100         
- U108                LTC6754ISC6TRMPBF_SC_6_ADI_LTC6 
- U1107               SY58608UMG_QFN50P300X300X90-17N 
+ R3711               R_RES0603_49.9 OHM    
+ R3712               R_RES0603_49.9 OHM    
+ R3713               R_RES0603_49.9 OHM    
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   7  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
+|  C:/Dune_GIB/UPENN-DUNE-GIB/allegro/gps_interface_board_ml_v96.brd           |
+|                                                    Fri Aug 22 10:16:42 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3719.2                        PRIM_FILE      .\pstchip.dat
- C3719.2                        XY             (280,80)
- C3720.2                        PRIM_FILE      .\pstchip.dat
- C3720.2                        XY             (570,80)
- C3721.2                        PRIM_FILE      .\pstchip.dat
- C3721.2                        XY             (290,180)
- C3722.2                        PRIM_FILE      .\pstchip.dat
- C3722.2                        XY             (1300,180)
- C3723.2                        PRIM_FILE      .\pstchip.dat
- C3723.2                        XY             (1364,182)
- C3724.2                        PRIM_FILE      .\pstchip.dat
- C3724.2                        XY             (1300,230)
- C3725.2                        PRIM_FILE      .\pstchip.dat
- C3725.2                        XY             (1360,230)
- C3726.2                        PRIM_FILE      .\pstchip.dat
- C3726.2                        XY             (390,260)
- C3727.2                        PRIM_FILE      .\pstchip.dat
- C3727.2                        XY             (560,300)
- R3701.2                        PRIM_FILE      .\pstchip.dat
- R3701.2                        XY             (320,110)
- R3702.2                        PRIM_FILE      .\pstchip.dat
- R3702.2                        XY             (360,160)
- R3703.2                        PRIM_FILE      .\pstchip.dat
- R3703.2                        XY             (320,210)
- R3704.2                        PRIM_FILE      .\pstchip.dat
- R3704.2                        XY             (270,220)
- R3705.2                        PRIM_FILE      .\pstchip.dat
- R3705.2                        XY             (280,505)
- R3706.2                        PRIM_FILE      .\pstchip.dat
- R3706.2                        XY             (280,625)
- R3707.2                        PRIM_FILE      .\pstchip.dat
- R3707.2                        XY             (275,820)
- R3708.2                        PRIM_FILE      .\pstchip.dat
- R3708.2                        XY             (480,150)
- R3709.2                        PRIM_FILE      .\pstchip.dat
- R3709.2                        XY             (480,170)
- R3710.2                        PRIM_FILE      .\pstchip.dat
- R3710.2                        XY             (480,190)
- U108.2                         PRIM_FILE      .\pstchip.dat
- U108.2                         XY             (500,130)
- U1107.2                        PRIM_FILE      .\pstchip.dat
- U1107.2                        XY             (670,140)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   8  |
+ J1.1           3650.00 5513.00 XY             (90,170)
+ R3711.2                        PRIM_FILE      .\pstchip.dat
+ R3711.2                        XY             (210,220)
+ R3712.2                        PRIM_FILE      .\pstchip.dat
+ R3712.2                        XY             (210,280)
+ R3713.2                        PRIM_FILE      .\pstchip.dat
+ R3713.2                        XY             (270,280)
 |------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
-|------------------------------------------------------------------------------|
-| SHAPE MOVED TO DUMMY NET                                                    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|     net  name                  |   layer      |    first point on shape      |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- FMC.CLK_FILTER_A                 BOTTOM         (3686.83 4732.37)
- FMC.CLK_FILTER_A                 BOTTOM         (3978.37 1662.17)
- FMC.CLK_FILTER_A                 TOP            (3681.17 4777.63)
- FMC.CLK_FILTER_A                 TOP            (4003.83 1642.37)
- FMC.CLK_FILTER_A                 TOP            (4037.58 1354.86)
- FMC.CLK_FILTER_B                 BOTTOM         (3654.83 4681.37)
- FMC.CLK_FILTER_B                 BOTTOM         (4090.98 1613.56)
- FMC.CLK_FILTER_B                 TOP            (3675.63 4705.83)
- FMC.CLK_FILTER_B                 TOP            (4099.61 1598.39)
- FMC.CLK_FILTER_B                 TOP            (4111.69 1394.05)
- FMC.FPGA_CLK_FILTER_A            BOTTOM         (6320.40 259.35)
- FMC.FPGA_CLK_FILTER_A            BOTTOM         (6329.60 261.77)
- FMC.FPGA_CLK_FILTER_A            SIG            (3963.00 961.00)
- FMC.FPGA_CLK_FILTER_A            SIG            (6343.26 222.75)
- FMC.FPGA_CLK_FILTER_A            TOP            (3972.17 999.63)
- FMC.FPGA_CLK_FILTER_B            BOTTOM         (6270.40 259.35)
- FMC.FPGA_CLK_FILTER_B            BOTTOM         (6279.60 261.77)
- FMC.FPGA_CLK_FILTER_B            SIG            (4081.05 916.20)
- FMC.FPGA_CLK_FILTER_B            SIG            (6280.40 217.41)
- FMC.FPGA_CLK_FILTER_B            TOP            (4092.22 954.00)
- FMC.FPGA_GPS_CLK_EN*             BOTTOM         (6470.40 259.35)
- FMC.FPGA_GPS_CLK_EN*             BOTTOM         (6479.60 261.77)
- FMC.FPGA_GPS_CLK_EN*             SIG            (4142.03 777.20)
- FMC.FPGA_GPS_CLK_EN*             SIG            (6459.00 250.49)
- FMC.FPGA_GPS_CLK_EN*             TOP            (4136.37 819.63)
- FMC.GPS_CLK_EN*                  BOTTOM         (3243.83 5040.37)
- FMC.GPS_CLK_EN*                  BOTTOM         (4116.37 1565.17)
- FMC.GPS_CLK_EN*                  TOP            (3238.17 5085.63)
- FMC.GPS_CLK_EN*                  TOP            (4137.28 1394.05)
- FMC.GPS_CLK_EN*                  TOP            (4142.08 1545.23)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   9  |
-|------------------------------------------------------------------------------|
-|  C:/Dune_GIB/upenn-dune-gib/allegro/gps_interface_board_ml_v93.brd           |
-|                                                    Thu Aug 21 16:08:10 2025  |
-|------------------------------------------------------------------------------|
-| SHAPE MOVED TO DUMMY NET                                                    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|     net  name                  |   layer      |    first point on shape      |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|------------------------------------------------------------------------------|
-|       Nets changed          :      70                                        |
-|       Shapes to dummy net   :      30                                        |
-|       Comp definitions added:       1                                        |
-|       Components added      :      21                                        |
-|       Components deleted    :      14                                        |
-|       Slot property added   :      42                                        |
+|       Nets changed          :       7                                        |
+|       Components added      :       3                                        |
+|       Slot property added   :       7                                        |
 |                                                                              |
-|   Total ECO changes reported:     178                                        |
+|   Total ECO changes reported:      17                                        |
 |------------------------------------------------------------------------------|
