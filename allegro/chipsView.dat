@@ -1,4 +1,65 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive 'LTC6754ISC6TRMPBF_SC_6_ADI_LTC6';
+  pin
+	 'VEE':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'VCCI/VCCO':
+	   PIN_NUMBER='(5)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'Q':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '-IN':
+	   PIN_NUMBER='(4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '+IN':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '*Q':
+	   PIN_NUMBER='(6)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='LTC6754ISC6TRMPBF';
+	 VALUE='LTC6754ISC6TRMPBF';
+	 BODY_NAME='LTC6754ISC6TRMPBF_SC_6_ADI_LTC6';
+	 JEDEC_TYPE='SC_6_ADI';
+	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive '74LVC2G04W6-7_SOT26_DIO_74LVC2G';
   pin
 	 'VCC':
@@ -2309,35 +2370,6 @@ primitive 'R_RES0603_390 KOHM';
   end_body;
 end_primitive;
 
-primitive 'R_RES0402_49.9';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='49.9';
-	 BODY_NAME='R_RES0402_49.9';
-	 JEDEC_TYPE='RES0402';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'R_RES0402_ZERO';
   pin
 	 '2':
@@ -4231,35 +4263,6 @@ primitive 'TPS7A8500RGRT_QFN20_3P65MMSQ_TP';
   end_body;
 end_primitive;
 
-primitive 'CAP_NP_CAP0402_DISCRETE_0.01UF_';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='CAP_NP';
-	 VALUE='0.01UF';
-	 BODY_NAME='CAP_NP_CAP0402_DISCRETE_0.01UF_';
-	 JEDEC_TYPE='CAP0402';
-	 PHYS_DES_PREFIX='C';
-	 CLASS='DISCRETE';
-  end_body;
-end_primitive;
-
 primitive 'CAP_NP_CAP0603_DISCRETE_10UF_';
   pin
 	 '2':
@@ -5081,35 +5084,6 @@ primitive 'IND_WE-LHMI_8040_3.3 UH';
   end_body;
 end_primitive;
 
-primitive 'R_RES0603_24.9 OHM';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='24.9 Ohm';
-	 BODY_NAME='R_RES0603_24.9 OHM';
-	 JEDEC_TYPE='RES0603';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'R_RES0603_68';
   pin
 	 '2':
@@ -5646,73 +5620,6 @@ primitive 'TESTPOINT_TP_KEYSTONE_5000A_500';
 	 BODY_NAME='TESTPOINT_TP_KEYSTONE_5000A_500';
 	 JEDEC_TYPE='TP_KEYSTONE_5000A';
 	 PHYS_DES_PREFIX='TP';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'LTC6957-2_3_DFN_12_LTC6957IDD-2';
-  pin
-	 'VCC':
-	   PIN_NUMBER='(2)';
-	   PINUSE='POWER';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'SD2':
-	   PIN_NUMBER='(7)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'SD1':
-	   PIN_NUMBER='(12)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'OUT2-':
-	   PIN_NUMBER='(9)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'OUT2+':
-	   PIN_NUMBER='(8)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'OUT1-':
-	   PIN_NUMBER='(10)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'OUT1+':
-	   PIN_NUMBER='(11)';
-	   OUTPUT_LOAD='(1.0,-1.0)';
-	 'IN-':
-	   PIN_NUMBER='(4)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'IN+':
-	   PIN_NUMBER='(3)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'GND2':
-	   PIN_NUMBER='(13)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND1':
-	   PIN_NUMBER='(5)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'FILTB':
-	   PIN_NUMBER='(6)';
-	   INPUT_LOAD='(-0.01,0.01)';
-	 'FILTA':
-	   PIN_NUMBER='(1)';
-	   INPUT_LOAD='(-0.01,0.01)';
-  end_pin;
-  body
-	 PART_NAME='LTC6957-2_3';
-	 VALUE='LTC6957IDD-2#PBF';
-	 BODY_NAME='LTC6957-2_3_DFN_12_LTC6957IDD-2';
-	 JEDEC_TYPE='DFN_12';
-	 PHYS_DES_PREFIX='U';
 	 CLASS='IC';
   end_body;
 end_primitive;
