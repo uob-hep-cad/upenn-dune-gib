@@ -1,0 +1,31 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Description,Datasheet
+A1,1,ESP32_POE,,,,ESP32:ESP32-POE-ISO-WROVER,ESP32-POE-ISO-WROVER,https://cdn-learn.adafruit.com/downloads/pdf/adafruit-huzzah32-esp32-feather.pdf
+C1,1,100n,,,,Capacitor_THT:C_Disc_D9.0mm_W5.0mm_P5.00mm,Capacitor THT : C Disc D9.0mm W5.0mm P5.00mm 100n,
+C2,1,1u,,,,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,Capacitor THT : CP Radial D8.0mm P5.00mm 1u,
+"C3,C4,C5,C6,C7,C8",6,100n,,,,Capacitor_SMD:C_1210_3225Metric,Capacitor SMD : C 1210 3225Metric 100n,
+"C9,C10",2,10n,,,,Capacitor_SMD:C_1210_3225Metric,Capacitor SMD : C 1210 3225Metric 10n,
+"D1,D2",2,1N4001,,,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,Diode THT : D DO-41 SOD81 P10.16mm Horizontal 1N4001,http://www.vishay.com/docs/88503/1n4001.pdf
+D3,1,1N4148,,,,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,Diode THT : D DO-35 SOD27 P7.62mm Horizontal 1N4148,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+"D4,D5,D6",3,LED,,,,Library:FLPR60SG, FLPR60SG,
+F1,1,500mA,,,,"Library:Littelfuse 100 Spring Brass, PCB Fuse Clip for 5 x 20 mm Cartridge Fuse"," Littelfuse 100 Spring Brass, PCB Fuse Clip for 5 x 20 mm Cartridge Fuse 500mA",
+F2,1,2A,,,,"Library:Littelfuse 100 Spring Brass, PCB Fuse Clip for 5 x 20 mm Cartridge Fuse"," Littelfuse 100 Spring Brass, PCB Fuse Clip for 5 x 20 mm Cartridge Fuse 2A",
+"F3,F4",2,100mA,,,,"Library:Littelfuse 100 Spring Brass, PCB Fuse Clip for 5 x 20 mm Cartridge Fuse"," Littelfuse 100 Spring Brass, PCB Fuse Clip for 5 x 20 mm Cartridge Fuse 100mA",
+"H1,H2,H4,H5",4,MountingHole,,,,MountingHole:MountingHole_3.2mm_M3,MountingHole : MountingHole 3.2mm M3,
+HS1,1,Heatsink,,,,Heatsink:Heatsink_AAVID_TV5G_TO220_Horizontal,Heatsink : Heatsink AAVID TV5G TO220 Horizontal,
+J1,1,Conn_01x03_Socket,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,Connector PinHeader 2.54mm : PinHeader 1x03 P2.54mm Vertical,
+"J2,J3,J4",3,Conn_01x02_Socket,,,,TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm,TerminalBlock : TerminalBlock Altech AK300-2 P5.00mm,
+J5,1,Conn_01x04_Socket,,,,Library:Mole_KK_1x04__Vertical, Molex KK 1x04  Vertical,
+J6,1,Conn_01x04_Socket,,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,Connector PinHeader 2.54mm : PinHeader 1x04 P2.54mm Vertical,
+JP1,1,Jumper_2_Open,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,Connector PinHeader 2.54mm : PinHeader 1x02 P2.54mm Vertical,
+K1,1,RT424012,,,,Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm,Relay THT : Relay DPDT Schrack-RT2-FormC RM 5mm,http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2_bistable%7F1116%7Fpdf%7FEnglish%7FENG_DS_RT2_bistable_1116.pdf%7F1-1415537-8
+Q1,1,BC337,,,,Package_TO_SOT_THT:TO-92_Inline_Wide,Package TO SOT THT : TO-92 Inline Wide BC337,https://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337.pdf
+"R1,R4,R13,R15",4,10k,,,,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal, R Axial DIN0207 L6.3mm D2.5mm P10.16mm Horizontal 10k,
+R2,1,220,,,,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal, R Axial DIN0207 L6.3mm D2.5mm P10.16mm Horizontal,
+R3,1,680,,,,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal, R Axial DIN0207 L6.3mm D2.5mm P10.16mm Horizontal,
+"R5,R7,R11,R12",4,270,,,,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal, R Axial DIN0207 L6.3mm D2.5mm P10.16mm Horizontal,
+"R6,R9,R10,R14,R16",5,470,,,,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal, R Axial DIN0207 L6.3mm D2.5mm P10.16mm Horizontal,
+R8,1,620,,,,Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal, R Axial DIN0207 L6.3mm D2.5mm P10.16mm Horizontal,
+"TC1,TC2",2,Thermocouple_Alt,,,,Connector Thermo:Thermocouple Connector,Connector Thermo : Thermocouple Connector,
+U1,1,LM317_TO-220,,,,Package_TO_SOT_THT:TO-220-3_Vertical,Package TO SOT THT : TO-220-3 Vertical,http://www.ti.com/lit/ds/symlink/lm317.pdf
+"U2,U3,U4,U5",4,H11L1,,,,Library:DIP-6_W7.62mm, DIP-6 W7.62mm,https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF
+"U6,U7",2,MAX6675ISA_,,,,MAX6675ISA_:SOIC127P600X175-8N,MAX6675ISA  : SOIC127P600X175-8N,
