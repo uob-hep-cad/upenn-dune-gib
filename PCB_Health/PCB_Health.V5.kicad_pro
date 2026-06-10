@@ -131,7 +131,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.381,
+        "min_clearance": 0.35,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_groove_width": 0.0,
@@ -144,8 +144,8 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 1.25,
-        "min_via_annular_width": 0.04826,
+        "min_track_width": 0.55,
+        "min_via_annular_width": 0.15,
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -527,7 +527,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber.D001-25.DGA.V5/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
