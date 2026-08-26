@@ -1,6 +1,6 @@
 (ExpressProject "GPS_Interface_Board"
   (ProjectVersion "19981106") <<<<<<< HEAD
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[08/21/25]") =======
+  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[08/22/25]") =======
   (SoftwareVersion "17.4-2019 S011 (3890763)  [9/18/2020]-[09/02/24]") >>>>>>>
    a7cbe7d5b9b1580fdaae237299643f2a3d455517
   (ProjectType "PCB")
@@ -38,7 +38,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       ".\allegro\gps_interface_board_ml_v93.brd")
+       ".\allegro\gps_interface_board_ml_v101.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "NEVER_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -543,7 +543,237 @@
       (Type "Board File")
       (OutputBoard ".\allegro\gps_interface_board_ml_v93.brd")
       (NetListPath ".\allegro")
-      (ActiveBoard "1")))
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_boardv53ph.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_boardv53ph.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_boardv55dc.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_boardv55dc.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v100.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v100.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v101.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v101.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\gps_interface_board_ml_v55.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v55.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v56.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v56.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v57.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v57.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v58.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v58.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v59.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v59.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v60.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v60.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v61.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v61.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v62.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v62.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v63.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v63.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v64.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v64.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v65.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v65.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v66.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v66.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v67.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v67.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v68.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v68.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v69.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v69.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v70.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v70.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v71.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v71.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v72.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v72.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v73.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v73.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v74.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v74.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v75.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v75.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v76.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v76.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v77.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v77.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v78.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v78.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v79.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v79.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v80.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v80.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v81.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v81.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v82.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v82.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v83.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v83.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v84.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v84.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v85.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v85.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v86.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v86.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v87.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v87.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v90.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v90.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v91.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v91.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v92.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v92.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v94.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v94.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v95.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v95.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v96.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v96.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v97.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v97.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v98.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v98.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps_interface_board_ml_v99.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps_interface_board_ml_v99.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -678,33 +908,43 @@
       (LibraryName
          "C:\SPB_DATA\CIS_HEP_PARTSLIB\SCHEMATIC_SYMBOLS\OCAD_PARTS_LIB.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "ml0034")
+  (MPSSessionName "phdgc")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\gps_interface_board.dsn")
+      (Path "Design Resources" ".\gps_interface_board.dsn" "04. Power")
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\gps_interface_board.dsn"))
+      (Select "Layout" ".\allegro\gps_interface_board_ml_v101.brd"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 310 0 819"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 460 0 874"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1411 24 837")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1085 24 915")
+        (Scroll "-7 -100")
+        (Zoom "68")
+        (Occurrence "/Power"))
+      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "04. Power")
+      (Page "06. Power 12V Main"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1085 24 915")
+        (Scroll "306 0")
         (Zoom "100")
-        (Occurrence "/GPS Interface"))
-      (Path "C:\DUNE_GIB\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
-      (Schematic "01. GPS Interface")
-      (Page "03. GPS Interface"))) >>>>>>>
-   a7cbe7d5b9b1580fdaae237299643f2a3d455517
+        (Occurrence "/Utilities"))
+      (Path "C:\USERS\PHDGC\DOWNLOADS\UPENN-DUNE-GIB\GPS_INTERFACE_BOARD.DSN")
+      (Schematic "06. Utilities")
+      (Page "13. Utilities"))) >>>>>>> a7cbe7d5b9b1580fdaae237299643f2a3d455517
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
